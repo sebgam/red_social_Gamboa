@@ -53,7 +53,7 @@
   array (
     'type_id' => 'string',
     'var_name' => 'session_prefix',
-    'value_actual' => 'core694d',
+    'value_actual' => 'core4d2b',
     'module_name' => 'core',
   ),
   8 => 

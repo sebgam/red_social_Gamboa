@@ -13,5 +13,5 @@
   'site' => '',
   'is_default' => '1',
   'is_master' => '1',
-  'image' => 'http://localhost/Todakar.PHPFox3.5/script/file/pic/flag\\en.png',
+  'image' => 'http://localhost/red_social_Gamboa/file/pic/flag\\en.png',
 ); ?>

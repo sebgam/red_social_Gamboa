@@ -1,5 +1,5 @@
 <?php defined('PHPFOX') or exit('NO DICE!'); ?>
-<?php /* Cached: January 26, 2017, 8:16 pm */ ?>
+<?php /* Cached: January 26, 2017, 9:35 pm */ ?>
 <?php 
 /**
  * [PHPFOX_HEADER]
@@ -12,7 +12,7 @@
  
  
 
- /* Cached: January 26, 2017, 8:16 pm */ 
+ /* Cached: January 26, 2017, 9:35 pm */ 
 /**
  * [PHPFOX_HEADER]
  *
@@ -130,7 +130,7 @@ $Behavior.termsAndPrivacy = function()
 					<div id="js_signup_block">
 <?php if (isset ( $this->_aVars['bIsPosted'] ) || ! Phpfox ::getParam('user.multi_step_registration_form')): ?>
 						<div>
-<?php /* Cached: January 26, 2017, 8:16 pm */ ?>
+<?php /* Cached: January 26, 2017, 9:35 pm */ ?>
 	<div id="js_register_step1">
 <?php (($sPlugin = Phpfox_Plugin::get('user.template_default_block_register_step1_3')) ? eval($sPlugin) : false); ?>
 <?php if (Phpfox ::getParam('user.split_full_name')): ?>
@@ -229,7 +229,7 @@ $Behavior.termsAndPrivacy = function()
 		</div>
 <?php (($sPlugin = Phpfox_Plugin::get('user.template_default_block_register_step1_4')) ? eval($sPlugin) : false); ?>
 	</div>
-<?php /* Cached: January 26, 2017, 8:16 pm */ ?>
+<?php /* Cached: January 26, 2017, 9:35 pm */ ?>
 	<div id="js_register_step2">
 <?php (($sPlugin = Phpfox_Plugin::get('user.template_default_block_register_step2_6')) ? eval($sPlugin) : false); ?>
 <?php if (! isset ( $this->_aVars['bIsPosted'] ) && Phpfox ::getParam('user.multi_step_registration_form')): ?>
@@ -12145,7 +12145,7 @@ if (isset($this->_aVars['aForms'])
 		</div>		
 <?php endif; ?>
 <?php (($sPlugin = Phpfox_Plugin::get('user.template_default_block_register_step2_7')) ? eval($sPlugin) : false); ?>
-		<?php /* Cached: January 26, 2017, 8:16 pm */  
+		<?php /* Cached: January 26, 2017, 9:35 pm */  
 /**
  * [PHPFOX_HEADER]
  * 
@@ -12164,7 +12164,7 @@ if (isset($this->_aVars['aForms'])
 <?php if ($this->_aVars['aSetting']['is_required'] && ! Phpfox ::isAdminPanel()):  if (Phpfox::getParam('core.display_required')): ?><span class="required"><?php echo Phpfox::getParam('core.required_symbol'); ?></span><?php endif;  endif;  echo Phpfox::getPhrase($this->_aVars['aSetting']['phrase_var_name']); ?>:
 			</div>
 			<div class="table_right">
-				<?php /* Cached: January 26, 2017, 8:16 pm */  
+				<?php /* Cached: January 26, 2017, 9:35 pm */  
 /**
  * [PHPFOX_HEADER]
  * 
@@ -12402,7 +12402,7 @@ if (isset($this->_aVars['aForms'])
 	
 						</div>
 <?php else: ?>
-<?php /* Cached: January 26, 2017, 8:16 pm */ ?>
+<?php /* Cached: January 26, 2017, 9:35 pm */ ?>
 	<div id="js_register_step1">
 <?php (($sPlugin = Phpfox_Plugin::get('user.template_default_block_register_step1_3')) ? eval($sPlugin) : false); ?>
 <?php if (Phpfox ::getParam('user.split_full_name')): ?>

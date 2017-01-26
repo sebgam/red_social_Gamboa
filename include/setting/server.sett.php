@@ -21,7 +21,7 @@ $_CONF['db']['host'] = 'localhost';
 $_CONF['db']['user'] = 'root';
 $_CONF['db']['pass'] = 'clave.123';
 $_CONF['db']['name'] = 'red_social';
-$_CONF['db']['prefix'] = 'redSocial_';
+$_CONF['db']['prefix'] = 'gam_';
 $_CONF['db']['port'] = '';
 
 $_CONF['db']['slave'] = false;
@@ -32,11 +32,11 @@ $_CONF['balancer']['servers'] = array();
 
 $_CONF['core.host'] = 'localhost';
 
-$_CONF['core.folder'] = '/Todakar.PHPFox3.5/script/';
+$_CONF['core.folder'] = '/red_social_Gamboa/';
 
 $_CONF['core.url_rewrite'] = '2';
 
-$_CONF['core.salt'] = '69ab92e733a2ed94fd6f6f0bb11f094d';
+$_CONF['core.salt'] = '4d61f6471561c774cdd95a80ba0ac42b';
 
 // Storage Engine (file, memcache)
 $_CONF['core.cache_storage'] = 'file';

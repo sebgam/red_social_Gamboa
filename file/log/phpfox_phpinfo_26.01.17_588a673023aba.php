@@ -99,10 +99,10 @@ This program makes use of the Zend Scripting Language Engine:<br />Zend&nbsp;Eng
 <tr><td class="e">HTTP_USER_AGENT </td><td class="v">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36 </td></tr>
 <tr><td class="e">CONTENT_TYPE </td><td class="v">application/x-www-form-urlencoded </td></tr>
 <tr><td class="e">HTTP_ACCEPT </td><td class="v">text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 </td></tr>
-<tr><td class="e">HTTP_REFERER </td><td class="v">http://localhost/Todakar.PHPFox3.5/script/install/index.php?do=/install/requirement/sessionid_588a40194dfde/ </td></tr>
+<tr><td class="e">HTTP_REFERER </td><td class="v">http://localhost/red_social_Gamboa/install/index.php?do=/install/requirement/sessionid_588a66664938b/ </td></tr>
 <tr><td class="e">HTTP_ACCEPT_ENCODING </td><td class="v">gzip, deflate, br </td></tr>
 <tr><td class="e">HTTP_ACCEPT_LANGUAGE </td><td class="v">es-ES,es;q=0.8 </td></tr>
-<tr><td class="e">HTTP_COOKIE </td><td class="v">XSRF-TOKEN=eyJpdiI6IktGOVV4SmJLOXB5VUNKVVFyWFJNK1E9PSIsInZhbHVlIjoicDA2UkpRVWpjaVpSQnd3RW5RSmxPTHc5R3A3MUFOeDRNbGJEU3lsajY1a1ljNzJ3K1Y5dTNpbTZzdkZyZWFDVjZEdDRjUU9yaGlkeEpoMGhKVHJDdEE9PSIsIm1hYyI6Ijk5MmQxZmY5MzgzNDNjM2RkNWIxNzE3ODc2NzY1MDEwZGUwMmMxZWI3OTkwMzkxMTRlNWY0MWE2ZmJjZDY5NWUifQ%3D%3D; laravel_session=eyJpdiI6ImNwMVA1b2pFbFNFbXNrR3cyUUM1Q0E9PSIsInZhbHVlIjoiaCtZYkNocTZYTHlWbHJZV042ZDh1UmdCd1ZUdlpxSk5KRGpmblYxbWJzb0hmWWUrejduajlmOUxwN1hQQzdWMkVaRDhqU2gzUzJTcWNaSWI2VGU2bGc9PSIsIm1hYyI6ImIyMjYzNDdhZjliODMyNmZhYmZjN2Y5MjZjM2Q4YjgyNGRiNjdjNTE2YjBmYWIzOTAwNzgyOWZjMzlkN2I1Y2QifQ%3D%3D; PHPSESSID=sf8fqr4d5ck08uddcr0l1mim92 </td></tr>
+<tr><td class="e">HTTP_COOKIE </td><td class="v">PHPSESSID=sfqcf3ko0vpt92kemc4e2cmoi3; core694dvisit=1485464976 </td></tr>
 <tr><td class="e">PATH </td><td class="v">C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\WINDOWS\system32\config\systemprofile\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files (x86)\Microsoft Emulator Manager\1.0\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Skype\Phone\;C:\xampp\php;C:\ProgramData\ComposerSetup\bin;C:\Program Files (x86)\Brackets\command;C:\Program Files\Git\cmd;C:\Program Files (x86)\Cracklock\Bin;C:\Ruby23-x64\bin;C:\Users\user\AppData\Local\Microsoft\WindowsApps;C:\Users\user\AppData\Roaming\Composer\vendor\bin </td></tr>
 <tr><td class="e">SystemRoot </td><td class="v">C:\WINDOWS </td></tr>
 <tr><td class="e">COMSPEC </td><td class="v">C:\WINDOWS\system32\cmd.exe </td></tr>
@@ -120,19 +120,19 @@ This program makes use of the Zend Scripting Language Engine:<br />Zend&nbsp;Eng
 <tr><td class="e">CONTEXT_PREFIX </td><td class="v"><i>no value</i> </td></tr>
 <tr><td class="e">CONTEXT_DOCUMENT_ROOT </td><td class="v">C:/xampp/htdocs </td></tr>
 <tr><td class="e">SERVER_ADMIN </td><td class="v">postmaster@localhost </td></tr>
-<tr><td class="e">SCRIPT_FILENAME </td><td class="v">C:/xampp/htdocs/Todakar.PHPFox3.5/Script/install/index.php </td></tr>
-<tr><td class="e">REMOTE_PORT </td><td class="v">62718 </td></tr>
+<tr><td class="e">SCRIPT_FILENAME </td><td class="v">C:/xampp/htdocs/red_social_Gamboa/install/index.php </td></tr>
+<tr><td class="e">REMOTE_PORT </td><td class="v">51853 </td></tr>
 <tr><td class="e">GATEWAY_INTERFACE </td><td class="v">CGI/1.1 </td></tr>
 <tr><td class="e">SERVER_PROTOCOL </td><td class="v">HTTP/1.1 </td></tr>
 <tr><td class="e">REQUEST_METHOD </td><td class="v">POST </td></tr>
-<tr><td class="e">QUERY_STRING </td><td class="v">do=/install/requirement/sessionid_588a40194dfde/ </td></tr>
-<tr><td class="e">REQUEST_URI </td><td class="v">/Todakar.PHPFox3.5/script/install/index.php?do=/install/requirement/sessionid_588a40194dfde/ </td></tr>
-<tr><td class="e">SCRIPT_NAME </td><td class="v">/Todakar.PHPFox3.5/script/install/index.php </td></tr>
+<tr><td class="e">QUERY_STRING </td><td class="v">do=/install/requirement/sessionid_588a66664938b/ </td></tr>
+<tr><td class="e">REQUEST_URI </td><td class="v">/red_social_Gamboa/install/index.php?do=/install/requirement/sessionid_588a66664938b/ </td></tr>
+<tr><td class="e">SCRIPT_NAME </td><td class="v">/red_social_Gamboa/install/index.php </td></tr>
 </table>
 <h2>HTTP Headers Information</h2>
 <table>
 <tr class="h"><th colspan="2">HTTP Request Headers</th></tr>
-<tr><td class="e">HTTP Request </td><td class="v">POST /Todakar.PHPFox3.5/script/install/index.php?do=/install/requirement/sessionid_588a40194dfde/ HTTP/1.1 </td></tr>
+<tr><td class="e">HTTP Request </td><td class="v">POST /red_social_Gamboa/install/index.php?do=/install/requirement/sessionid_588a66664938b/ HTTP/1.1 </td></tr>
 <tr><td class="e">Host </td><td class="v">localhost </td></tr>
 <tr><td class="e">Connection </td><td class="v">keep-alive </td></tr>
 <tr><td class="e">Content-Length </td><td class="v">43 </td></tr>
@@ -142,10 +142,10 @@ This program makes use of the Zend Scripting Language Engine:<br />Zend&nbsp;Eng
 <tr><td class="e">User-Agent </td><td class="v">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36 </td></tr>
 <tr><td class="e">Content-Type </td><td class="v">application/x-www-form-urlencoded </td></tr>
 <tr><td class="e">Accept </td><td class="v">text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 </td></tr>
-<tr><td class="e">Referer </td><td class="v">http://localhost/Todakar.PHPFox3.5/script/install/index.php?do=/install/requirement/sessionid_588a40194dfde/ </td></tr>
+<tr><td class="e">Referer </td><td class="v">http://localhost/red_social_Gamboa/install/index.php?do=/install/requirement/sessionid_588a66664938b/ </td></tr>
 <tr><td class="e">Accept-Encoding </td><td class="v">gzip, deflate, br </td></tr>
 <tr><td class="e">Accept-Language </td><td class="v">es-ES,es;q=0.8 </td></tr>
-<tr><td class="e">Cookie </td><td class="v">XSRF-TOKEN=eyJpdiI6IktGOVV4SmJLOXB5VUNKVVFyWFJNK1E9PSIsInZhbHVlIjoicDA2UkpRVWpjaVpSQnd3RW5RSmxPTHc5R3A3MUFOeDRNbGJEU3lsajY1a1ljNzJ3K1Y5dTNpbTZzdkZyZWFDVjZEdDRjUU9yaGlkeEpoMGhKVHJDdEE9PSIsIm1hYyI6Ijk5MmQxZmY5MzgzNDNjM2RkNWIxNzE3ODc2NzY1MDEwZGUwMmMxZWI3OTkwMzkxMTRlNWY0MWE2ZmJjZDY5NWUifQ%3D%3D; laravel_session=eyJpdiI6ImNwMVA1b2pFbFNFbXNrR3cyUUM1Q0E9PSIsInZhbHVlIjoiaCtZYkNocTZYTHlWbHJZV042ZDh1UmdCd1ZUdlpxSk5KRGpmblYxbWJzb0hmWWUrejduajlmOUxwN1hQQzdWMkVaRDhqU2gzUzJTcWNaSWI2VGU2bGc9PSIsIm1hYyI6ImIyMjYzNDdhZjliODMyNmZhYmZjN2Y5MjZjM2Q4YjgyNGRiNjdjNTE2YjBmYWIzOTAwNzgyOWZjMzlkN2I1Y2QifQ%3D%3D; PHPSESSID=sf8fqr4d5ck08uddcr0l1mim92 </td></tr>
+<tr><td class="e">Cookie </td><td class="v">PHPSESSID=sfqcf3ko0vpt92kemc4e2cmoi3; core694dvisit=1485464976 </td></tr>
 <tr class="h"><th colspan="2">HTTP Response Headers</th></tr>
 <tr><td class="e">X-Powered-By </td><td class="v">PHP/5.6.23 </td></tr>
 <tr><td class="e">Expires </td><td class="v">Thu, 19 Nov 1981 08:52:00 GMT </td></tr>
@@ -526,33 +526,33 @@ This program makes use of the Zend Scripting Language Engine:<br />Zend&nbsp;Eng
 </table>
 <table>
 <tr class="h"><th>mysqlnd statistics</th><th> </th></tr>
-<tr><td class="e">bytes_sent </td><td class="v">57693 </td></tr>
-<tr><td class="e">bytes_received </td><td class="v">334974 </td></tr>
-<tr><td class="e">packets_sent </td><td class="v">556 </td></tr>
-<tr><td class="e">packets_received </td><td class="v">6692 </td></tr>
-<tr><td class="e">protocol_overhead_in </td><td class="v">26768 </td></tr>
-<tr><td class="e">protocol_overhead_out </td><td class="v">2224 </td></tr>
+<tr><td class="e">bytes_sent </td><td class="v">7017707 </td></tr>
+<tr><td class="e">bytes_received </td><td class="v">17865142 </td></tr>
+<tr><td class="e">packets_sent </td><td class="v">48516 </td></tr>
+<tr><td class="e">packets_received </td><td class="v">260760 </td></tr>
+<tr><td class="e">protocol_overhead_in </td><td class="v">1043040 </td></tr>
+<tr><td class="e">protocol_overhead_out </td><td class="v">194064 </td></tr>
 <tr><td class="e">bytes_received_ok_packet </td><td class="v">0 </td></tr>
 <tr><td class="e">bytes_received_eof_packet </td><td class="v">0 </td></tr>
-<tr><td class="e">bytes_received_rset_header_packet </td><td class="v">1800 </td></tr>
+<tr><td class="e">bytes_received_rset_header_packet </td><td class="v">29448 </td></tr>
 <tr><td class="e">bytes_received_rset_field_meta_packet </td><td class="v">0 </td></tr>
-<tr><td class="e">bytes_received_rset_row_packet </td><td class="v">1777 </td></tr>
-<tr><td class="e">bytes_received_prepare_response_packet </td><td class="v">108496 </td></tr>
-<tr><td class="e">bytes_received_change_user_packet </td><td class="v">220724 </td></tr>
-<tr><td class="e">packets_sent_command </td><td class="v">267 </td></tr>
+<tr><td class="e">bytes_received_rset_row_packet </td><td class="v">287993 </td></tr>
+<tr><td class="e">bytes_received_prepare_response_packet </td><td class="v">1687988 </td></tr>
+<tr><td class="e">bytes_received_change_user_packet </td><td class="v">15814059 </td></tr>
+<tr><td class="e">packets_sent_command </td><td class="v">23905 </td></tr>
 <tr><td class="e">packets_received_ok </td><td class="v">0 </td></tr>
 <tr><td class="e">packets_received_eof </td><td class="v">0 </td></tr>
-<tr><td class="e">packets_received_rset_header </td><td class="v">200 </td></tr>
+<tr><td class="e">packets_received_rset_header </td><td class="v">3272 </td></tr>
 <tr><td class="e">packets_received_rset_field_meta </td><td class="v">0 </td></tr>
-<tr><td class="e">packets_received_rset_row </td><td class="v">253 </td></tr>
-<tr><td class="e">packets_received_prepare_response </td><td class="v">1494 </td></tr>
-<tr><td class="e">packets_received_change_user </td><td class="v">4720 </td></tr>
-<tr><td class="e">result_set_queries </td><td class="v">200 </td></tr>
-<tr><td class="e">non_result_set_queries </td><td class="v">52 </td></tr>
-<tr><td class="e">no_index_used </td><td class="v">61 </td></tr>
+<tr><td class="e">packets_received_rset_row </td><td class="v">23389 </td></tr>
+<tr><td class="e">packets_received_prepare_response </td><td class="v">22866 </td></tr>
+<tr><td class="e">packets_received_change_user </td><td class="v">210515 </td></tr>
+<tr><td class="e">result_set_queries </td><td class="v">3121 </td></tr>
+<tr><td class="e">non_result_set_queries </td><td class="v">20265 </td></tr>
+<tr><td class="e">no_index_used </td><td class="v">1023 </td></tr>
 <tr><td class="e">bad_index_used </td><td class="v">0 </td></tr>
 <tr><td class="e">slow_queries </td><td class="v">0 </td></tr>
-<tr><td class="e">buffered_sets </td><td class="v">200 </td></tr>
+<tr><td class="e">buffered_sets </td><td class="v">3121 </td></tr>
 <tr><td class="e">unbuffered_sets </td><td class="v">0 </td></tr>
 <tr><td class="e">ps_buffered_sets </td><td class="v">0 </td></tr>
 <tr><td class="e">ps_unbuffered_sets </td><td class="v">0 </td></tr>
@@ -560,75 +560,75 @@ This program makes use of the Zend Scripting Language Engine:<br />Zend&nbsp;Eng
 <tr><td class="e">flushed_ps_sets </td><td class="v">0 </td></tr>
 <tr><td class="e">ps_prepared_never_executed </td><td class="v">0 </td></tr>
 <tr><td class="e">ps_prepared_once_executed </td><td class="v">0 </td></tr>
-<tr><td class="e">rows_fetched_from_server_normal </td><td class="v">4520 </td></tr>
+<tr><td class="e">rows_fetched_from_server_normal </td><td class="v">207394 </td></tr>
 <tr><td class="e">rows_fetched_from_server_ps </td><td class="v">0 </td></tr>
-<tr><td class="e">rows_buffered_from_client_normal </td><td class="v">4520 </td></tr>
+<tr><td class="e">rows_buffered_from_client_normal </td><td class="v">207394 </td></tr>
 <tr><td class="e">rows_buffered_from_client_ps </td><td class="v">0 </td></tr>
-<tr><td class="e">rows_fetched_from_client_normal_buffered </td><td class="v">4514 </td></tr>
+<tr><td class="e">rows_fetched_from_client_normal_buffered </td><td class="v">207375 </td></tr>
 <tr><td class="e">rows_fetched_from_client_normal_unbuffered </td><td class="v">0 </td></tr>
 <tr><td class="e">rows_fetched_from_client_ps_buffered </td><td class="v">0 </td></tr>
 <tr><td class="e">rows_fetched_from_client_ps_unbuffered </td><td class="v">0 </td></tr>
 <tr><td class="e">rows_fetched_from_client_ps_cursor </td><td class="v">0 </td></tr>
-<tr><td class="e">rows_affected_normal </td><td class="v">14 </td></tr>
+<tr><td class="e">rows_affected_normal </td><td class="v">20370 </td></tr>
 <tr><td class="e">rows_affected_ps </td><td class="v">0 </td></tr>
-<tr><td class="e">rows_skipped_normal </td><td class="v">4520 </td></tr>
+<tr><td class="e">rows_skipped_normal </td><td class="v">207394 </td></tr>
 <tr><td class="e">rows_skipped_ps </td><td class="v">0 </td></tr>
-<tr><td class="e">copy_on_write_saved </td><td class="v">28590 </td></tr>
-<tr><td class="e">copy_on_write_performed </td><td class="v">423 </td></tr>
-<tr><td class="e">command_buffer_too_small </td><td class="v">0 </td></tr>
-<tr><td class="e">connect_success </td><td class="v">11 </td></tr>
+<tr><td class="e">copy_on_write_saved </td><td class="v">484937 </td></tr>
+<tr><td class="e">copy_on_write_performed </td><td class="v">223393 </td></tr>
+<tr><td class="e">command_buffer_too_small </td><td class="v">2 </td></tr>
+<tr><td class="e">connect_success </td><td class="v">202 </td></tr>
 <tr><td class="e">connect_failure </td><td class="v">0 </td></tr>
 <tr><td class="e">connection_reused </td><td class="v">0 </td></tr>
 <tr><td class="e">reconnect </td><td class="v">0 </td></tr>
-<tr><td class="e">pconnect_success </td><td class="v">8 </td></tr>
-<tr><td class="e">active_connections </td><td class="v">18446744073709551605 </td></tr>
-<tr><td class="e">active_persistent_connections </td><td class="v">18446744073709551608 </td></tr>
-<tr><td class="e">explicit_close </td><td class="v">11 </td></tr>
+<tr><td class="e">pconnect_success </td><td class="v">46 </td></tr>
+<tr><td class="e">active_connections </td><td class="v">18446744073709551414 </td></tr>
+<tr><td class="e">active_persistent_connections </td><td class="v">18446744073709551570 </td></tr>
+<tr><td class="e">explicit_close </td><td class="v">202 </td></tr>
 <tr><td class="e">implicit_close </td><td class="v">0 </td></tr>
 <tr><td class="e">disconnect_close </td><td class="v">0 </td></tr>
 <tr><td class="e">in_middle_of_command_close </td><td class="v">0 </td></tr>
-<tr><td class="e">explicit_free_result </td><td class="v">200 </td></tr>
+<tr><td class="e">explicit_free_result </td><td class="v">3121 </td></tr>
 <tr><td class="e">implicit_free_result </td><td class="v">0 </td></tr>
 <tr><td class="e">explicit_stmt_close </td><td class="v">0 </td></tr>
 <tr><td class="e">implicit_stmt_close </td><td class="v">0 </td></tr>
-<tr><td class="e">mem_emalloc_count </td><td class="v">1785 </td></tr>
-<tr><td class="e">mem_emalloc_amount </td><td class="v">208861 </td></tr>
-<tr><td class="e">mem_ecalloc_count </td><td class="v">2199 </td></tr>
-<tr><td class="e">mem_ecalloc_amount </td><td class="v">666260 </td></tr>
-<tr><td class="e">mem_erealloc_count </td><td class="v">2235 </td></tr>
-<tr><td class="e">mem_erealloc_amount </td><td class="v">1240908 </td></tr>
-<tr><td class="e">mem_efree_count </td><td class="v">4026 </td></tr>
-<tr><td class="e">mem_efree_amount </td><td class="v">893186 </td></tr>
-<tr><td class="e">mem_malloc_count </td><td class="v">9481 </td></tr>
-<tr><td class="e">mem_malloc_amount </td><td class="v">3495251 </td></tr>
-<tr><td class="e">mem_calloc_count </td><td class="v">434 </td></tr>
-<tr><td class="e">mem_calloc_amount </td><td class="v">43212 </td></tr>
+<tr><td class="e">mem_emalloc_count </td><td class="v">28357 </td></tr>
+<tr><td class="e">mem_emalloc_amount </td><td class="v">4859168 </td></tr>
+<tr><td class="e">mem_ecalloc_count </td><td class="v">76585 </td></tr>
+<tr><td class="e">mem_ecalloc_amount </td><td class="v">22756708 </td></tr>
+<tr><td class="e">mem_erealloc_count </td><td class="v">104631 </td></tr>
+<tr><td class="e">mem_erealloc_amount </td><td class="v">1395650480 </td></tr>
+<tr><td class="e">mem_efree_count </td><td class="v">107369 </td></tr>
+<tr><td class="e">mem_efree_amount </td><td class="v">28478406 </td></tr>
+<tr><td class="e">mem_malloc_count </td><td class="v">397503 </td></tr>
+<tr><td class="e">mem_malloc_amount </td><td class="v">69873293 </td></tr>
+<tr><td class="e">mem_calloc_count </td><td class="v">4555 </td></tr>
+<tr><td class="e">mem_calloc_amount </td><td class="v">301872 </td></tr>
 <tr><td class="e">mem_realloc_count </td><td class="v">0 </td></tr>
 <tr><td class="e">mem_realloc_amount </td><td class="v">0 </td></tr>
-<tr><td class="e">mem_free_count </td><td class="v">9991 </td></tr>
-<tr><td class="e">mem_free_amount </td><td class="v">3539452 </td></tr>
-<tr><td class="e">mem_estrndup_count </td><td class="v">13 </td></tr>
-<tr><td class="e">mem_strndup_count </td><td class="v">27 </td></tr>
-<tr><td class="e">mem_estndup_count </td><td class="v">29 </td></tr>
-<tr><td class="e">mem_strdup_count </td><td class="v">49 </td></tr>
+<tr><td class="e">mem_free_count </td><td class="v">402487 </td></tr>
+<tr><td class="e">mem_free_amount </td><td class="v">70180798 </td></tr>
+<tr><td class="e">mem_estrndup_count </td><td class="v">1138 </td></tr>
+<tr><td class="e">mem_strndup_count </td><td class="v">150 </td></tr>
+<tr><td class="e">mem_estndup_count </td><td class="v">1289 </td></tr>
+<tr><td class="e">mem_strdup_count </td><td class="v">279 </td></tr>
 <tr><td class="e">proto_text_fetched_null </td><td class="v">0 </td></tr>
 <tr><td class="e">proto_text_fetched_bit </td><td class="v">0 </td></tr>
-<tr><td class="e">proto_text_fetched_tinyint </td><td class="v">5061 </td></tr>
-<tr><td class="e">proto_text_fetched_short </td><td class="v">690 </td></tr>
-<tr><td class="e">proto_text_fetched_int24 </td><td class="v">0 </td></tr>
-<tr><td class="e">proto_text_fetched_int </td><td class="v">7938 </td></tr>
-<tr><td class="e">proto_text_fetched_bigint </td><td class="v">547 </td></tr>
-<tr><td class="e">proto_text_fetched_decimal </td><td class="v">187 </td></tr>
+<tr><td class="e">proto_text_fetched_tinyint </td><td class="v">14763 </td></tr>
+<tr><td class="e">proto_text_fetched_short </td><td class="v">2184 </td></tr>
+<tr><td class="e">proto_text_fetched_int24 </td><td class="v">5267 </td></tr>
+<tr><td class="e">proto_text_fetched_int </td><td class="v">15599 </td></tr>
+<tr><td class="e">proto_text_fetched_bigint </td><td class="v">2236 </td></tr>
+<tr><td class="e">proto_text_fetched_decimal </td><td class="v">192 </td></tr>
 <tr><td class="e">proto_text_fetched_float </td><td class="v">0 </td></tr>
 <tr><td class="e">proto_text_fetched_double </td><td class="v">0 </td></tr>
 <tr><td class="e">proto_text_fetched_date </td><td class="v">16 </td></tr>
 <tr><td class="e">proto_text_fetched_year </td><td class="v">0 </td></tr>
 <tr><td class="e">proto_text_fetched_time </td><td class="v">0 </td></tr>
-<tr><td class="e">proto_text_fetched_datetime </td><td class="v">36 </td></tr>
+<tr><td class="e">proto_text_fetched_datetime </td><td class="v">38 </td></tr>
 <tr><td class="e">proto_text_fetched_timestamp </td><td class="v">0 </td></tr>
-<tr><td class="e">proto_text_fetched_string </td><td class="v">9411 </td></tr>
+<tr><td class="e">proto_text_fetched_string </td><td class="v">431961 </td></tr>
 <tr><td class="e">proto_text_fetched_blob </td><td class="v">0 </td></tr>
-<tr><td class="e">proto_text_fetched_enum </td><td class="v">1447 </td></tr>
+<tr><td class="e">proto_text_fetched_enum </td><td class="v">215129 </td></tr>
 <tr><td class="e">proto_text_fetched_set </td><td class="v">0 </td></tr>
 <tr><td class="e">proto_text_fetched_geometry </td><td class="v">0 </td></tr>
 <tr><td class="e">proto_text_fetched_other </td><td class="v">0 </td></tr>
@@ -656,9 +656,9 @@ This program makes use of the Zend Scripting Language Engine:<br />Zend&nbsp;Eng
 <tr><td class="e">proto_binary_fetched_other </td><td class="v">0 </td></tr>
 <tr><td class="e">init_command_executed_count </td><td class="v">0 </td></tr>
 <tr><td class="e">init_command_failed_count </td><td class="v">0 </td></tr>
-<tr><td class="e">com_quit </td><td class="v">11 </td></tr>
-<tr><td class="e">com_init_db </td><td class="v">3 </td></tr>
-<tr><td class="e">com_query </td><td class="v">253 </td></tr>
+<tr><td class="e">com_quit </td><td class="v">202 </td></tr>
+<tr><td class="e">com_init_db </td><td class="v">163 </td></tr>
+<tr><td class="e">com_query </td><td class="v">23389 </td></tr>
 <tr><td class="e">com_field_list </td><td class="v">0 </td></tr>
 <tr><td class="e">com_create_db </td><td class="v">0 </td></tr>
 <tr><td class="e">com_drop_db </td><td class="v">0 </td></tr>
@@ -682,10 +682,10 @@ This program makes use of the Zend Scripting Language Engine:<br />Zend&nbsp;Eng
 <tr><td class="e">com_stmt_send_long_data </td><td class="v">0 </td></tr>
 <tr><td class="e">com_stmt_close </td><td class="v">0 </td></tr>
 <tr><td class="e">com_stmt_reset </td><td class="v">0 </td></tr>
-<tr><td class="e">com_stmt_set_option </td><td class="v">0 </td></tr>
+<tr><td class="e">com_stmt_set_option </td><td class="v">151 </td></tr>
 <tr><td class="e">com_stmt_fetch </td><td class="v">0 </td></tr>
 <tr><td class="e">com_deamon </td><td class="v">0 </td></tr>
-<tr><td class="e">bytes_received_real_data_normal </td><td class="v">172633 </td></tr>
+<tr><td class="e">bytes_received_real_data_normal </td><td class="v">14254369 </td></tr>
 <tr><td class="e">bytes_received_real_data_ps </td><td class="v">0 </td></tr>
 </table>
 <h2><a name="module_odbc">odbc</a></h2>
@@ -938,7 +938,7 @@ Phar based on pear/PHP_Archive, original concept by Davey Shafik.<br />Phar full
 <h2>PHP Variables</h2>
 <table>
 <tr class="h"><th>Variable</th><th>Value</th></tr>
-<tr><td class="e">_REQUEST["do"]</td><td class="v">/install/requirement/sessionid_588a40194dfde/</td></tr>
+<tr><td class="e">_REQUEST["do"]</td><td class="v">/install/requirement/sessionid_588a66664938b/</td></tr>
 <tr><td class="e">_REQUEST["core"]</td><td class="v"><pre>Array
 (
     [security_token] =&gt; 
@@ -949,7 +949,7 @@ Phar based on pear/PHP_Archive, original concept by Davey Shafik.<br />Phar full
     [passed] =&gt; 1
 )
 </pre></td></tr>
-<tr><td class="e">_GET["do"]</td><td class="v">/install/requirement/sessionid_588a40194dfde/</td></tr>
+<tr><td class="e">_GET["do"]</td><td class="v">/install/requirement/sessionid_588a66664938b/</td></tr>
 <tr><td class="e">_POST["core"]</td><td class="v"><pre>Array
 (
     [security_token] =&gt; 
@@ -960,9 +960,8 @@ Phar based on pear/PHP_Archive, original concept by Davey Shafik.<br />Phar full
     [passed] =&gt; 1
 )
 </pre></td></tr>
-<tr><td class="e">_COOKIE["XSRF-TOKEN"]</td><td class="v">eyJpdiI6IktGOVV4SmJLOXB5VUNKVVFyWFJNK1E9PSIsInZhbHVlIjoicDA2UkpRVWpjaVpSQnd3RW5RSmxPTHc5R3A3MUFOeDRNbGJEU3lsajY1a1ljNzJ3K1Y5dTNpbTZzdkZyZWFDVjZEdDRjUU9yaGlkeEpoMGhKVHJDdEE9PSIsIm1hYyI6Ijk5MmQxZmY5MzgzNDNjM2RkNWIxNzE3ODc2NzY1MDEwZGUwMmMxZWI3OTkwMzkxMTRlNWY0MWE2ZmJjZDY5NWUifQ==</td></tr>
-<tr><td class="e">_COOKIE["laravel_session"]</td><td class="v">eyJpdiI6ImNwMVA1b2pFbFNFbXNrR3cyUUM1Q0E9PSIsInZhbHVlIjoiaCtZYkNocTZYTHlWbHJZV042ZDh1UmdCd1ZUdlpxSk5KRGpmblYxbWJzb0hmWWUrejduajlmOUxwN1hQQzdWMkVaRDhqU2gzUzJTcWNaSWI2VGU2bGc9PSIsIm1hYyI6ImIyMjYzNDdhZjliODMyNmZhYmZjN2Y5MjZjM2Q4YjgyNGRiNjdjNTE2YjBmYWIzOTAwNzgyOWZjMzlkN2I1Y2QifQ==</td></tr>
-<tr><td class="e">_COOKIE["PHPSESSID"]</td><td class="v">sf8fqr4d5ck08uddcr0l1mim92</td></tr>
+<tr><td class="e">_COOKIE["PHPSESSID"]</td><td class="v">sfqcf3ko0vpt92kemc4e2cmoi3</td></tr>
+<tr><td class="e">_COOKIE["core694dvisit"]</td><td class="v">1485464976</td></tr>
 <tr><td class="e">_SERVER["MIBDIRS"]</td><td class="v">C:/xampp/php/extras/mibs</td></tr>
 <tr><td class="e">_SERVER["MYSQL_HOME"]</td><td class="v">\xampp\mysql\bin</td></tr>
 <tr><td class="e">_SERVER["OPENSSL_CONF"]</td><td class="v">C:/xampp/apache/bin/openssl.cnf</td></tr>
@@ -978,10 +977,10 @@ Phar based on pear/PHP_Archive, original concept by Davey Shafik.<br />Phar full
 <tr><td class="e">_SERVER["HTTP_USER_AGENT"]</td><td class="v">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36</td></tr>
 <tr><td class="e">_SERVER["CONTENT_TYPE"]</td><td class="v">application/x-www-form-urlencoded</td></tr>
 <tr><td class="e">_SERVER["HTTP_ACCEPT"]</td><td class="v">text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</td></tr>
-<tr><td class="e">_SERVER["HTTP_REFERER"]</td><td class="v">http://localhost/Todakar.PHPFox3.5/script/install/index.php?do=/install/requirement/sessionid_588a40194dfde/</td></tr>
+<tr><td class="e">_SERVER["HTTP_REFERER"]</td><td class="v">http://localhost/red_social_Gamboa/install/index.php?do=/install/requirement/sessionid_588a66664938b/</td></tr>
 <tr><td class="e">_SERVER["HTTP_ACCEPT_ENCODING"]</td><td class="v">gzip, deflate, br</td></tr>
 <tr><td class="e">_SERVER["HTTP_ACCEPT_LANGUAGE"]</td><td class="v">es-ES,es;q=0.8</td></tr>
-<tr><td class="e">_SERVER["HTTP_COOKIE"]</td><td class="v">XSRF-TOKEN=eyJpdiI6IktGOVV4SmJLOXB5VUNKVVFyWFJNK1E9PSIsInZhbHVlIjoicDA2UkpRVWpjaVpSQnd3RW5RSmxPTHc5R3A3MUFOeDRNbGJEU3lsajY1a1ljNzJ3K1Y5dTNpbTZzdkZyZWFDVjZEdDRjUU9yaGlkeEpoMGhKVHJDdEE9PSIsIm1hYyI6Ijk5MmQxZmY5MzgzNDNjM2RkNWIxNzE3ODc2NzY1MDEwZGUwMmMxZWI3OTkwMzkxMTRlNWY0MWE2ZmJjZDY5NWUifQ%3D%3D; laravel_session=eyJpdiI6ImNwMVA1b2pFbFNFbXNrR3cyUUM1Q0E9PSIsInZhbHVlIjoiaCtZYkNocTZYTHlWbHJZV042ZDh1UmdCd1ZUdlpxSk5KRGpmblYxbWJzb0hmWWUrejduajlmOUxwN1hQQzdWMkVaRDhqU2gzUzJTcWNaSWI2VGU2bGc9PSIsIm1hYyI6ImIyMjYzNDdhZjliODMyNmZhYmZjN2Y5MjZjM2Q4YjgyNGRiNjdjNTE2YjBmYWIzOTAwNzgyOWZjMzlkN2I1Y2QifQ%3D%3D; PHPSESSID=sf8fqr4d5ck08uddcr0l1mim92</td></tr>
+<tr><td class="e">_SERVER["HTTP_COOKIE"]</td><td class="v">PHPSESSID=sfqcf3ko0vpt92kemc4e2cmoi3; core694dvisit=1485464976</td></tr>
 <tr><td class="e">_SERVER["PATH"]</td><td class="v">C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\WINDOWS\system32\config\systemprofile\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files (x86)\Microsoft Emulator Manager\1.0\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Skype\Phone\;C:\xampp\php;C:\ProgramData\ComposerSetup\bin;C:\Program Files (x86)\Brackets\command;C:\Program Files\Git\cmd;C:\Program Files (x86)\Cracklock\Bin;C:\Ruby23-x64\bin;C:\Users\user\AppData\Local\Microsoft\WindowsApps;C:\Users\user\AppData\Roaming\Composer\vendor\bin</td></tr>
 <tr><td class="e">_SERVER["SystemRoot"]</td><td class="v">C:\WINDOWS</td></tr>
 <tr><td class="e">_SERVER["COMSPEC"]</td><td class="v">C:\WINDOWS\system32\cmd.exe</td></tr>
@@ -999,17 +998,17 @@ Phar based on pear/PHP_Archive, original concept by Davey Shafik.<br />Phar full
 <tr><td class="e">_SERVER["CONTEXT_PREFIX"]</td><td class="v"><i>no value</i></td></tr>
 <tr><td class="e">_SERVER["CONTEXT_DOCUMENT_ROOT"]</td><td class="v">C:/xampp/htdocs</td></tr>
 <tr><td class="e">_SERVER["SERVER_ADMIN"]</td><td class="v">postmaster@localhost</td></tr>
-<tr><td class="e">_SERVER["SCRIPT_FILENAME"]</td><td class="v">C:/xampp/htdocs/Todakar.PHPFox3.5/Script/install/index.php</td></tr>
-<tr><td class="e">_SERVER["REMOTE_PORT"]</td><td class="v">62718</td></tr>
+<tr><td class="e">_SERVER["SCRIPT_FILENAME"]</td><td class="v">C:/xampp/htdocs/red_social_Gamboa/install/index.php</td></tr>
+<tr><td class="e">_SERVER["REMOTE_PORT"]</td><td class="v">51853</td></tr>
 <tr><td class="e">_SERVER["GATEWAY_INTERFACE"]</td><td class="v">CGI/1.1</td></tr>
 <tr><td class="e">_SERVER["SERVER_PROTOCOL"]</td><td class="v">HTTP/1.1</td></tr>
 <tr><td class="e">_SERVER["REQUEST_METHOD"]</td><td class="v">POST</td></tr>
-<tr><td class="e">_SERVER["QUERY_STRING"]</td><td class="v">do=/install/requirement/sessionid_588a40194dfde/</td></tr>
-<tr><td class="e">_SERVER["REQUEST_URI"]</td><td class="v">/Todakar.PHPFox3.5/script/install/index.php?do=/install/requirement/sessionid_588a40194dfde/</td></tr>
-<tr><td class="e">_SERVER["SCRIPT_NAME"]</td><td class="v">/Todakar.PHPFox3.5/script/install/index.php</td></tr>
-<tr><td class="e">_SERVER["PHP_SELF"]</td><td class="v">/Todakar.PHPFox3.5/script/install/index.php</td></tr>
-<tr><td class="e">_SERVER["REQUEST_TIME_FLOAT"]</td><td class="v">1485455521.545</td></tr>
-<tr><td class="e">_SERVER["REQUEST_TIME"]</td><td class="v">1485455521</td></tr>
+<tr><td class="e">_SERVER["QUERY_STRING"]</td><td class="v">do=/install/requirement/sessionid_588a66664938b/</td></tr>
+<tr><td class="e">_SERVER["REQUEST_URI"]</td><td class="v">/red_social_Gamboa/install/index.php?do=/install/requirement/sessionid_588a66664938b/</td></tr>
+<tr><td class="e">_SERVER["SCRIPT_NAME"]</td><td class="v">/red_social_Gamboa/install/index.php</td></tr>
+<tr><td class="e">_SERVER["PHP_SELF"]</td><td class="v">/red_social_Gamboa/install/index.php</td></tr>
+<tr><td class="e">_SERVER["REQUEST_TIME_FLOAT"]</td><td class="v">1485465392.003</td></tr>
+<tr><td class="e">_SERVER["REQUEST_TIME"]</td><td class="v">1485465392</td></tr>
 </table>
 <hr />
 <h1>PHP Credits</h1>

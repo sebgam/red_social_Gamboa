@@ -15,7 +15,7 @@
     'site' => '',
     'is_default' => '1',
     'is_master' => '1',
-    'image' => 'http://localhost/Todakar.PHPFox3.5/script/file/pic/flag/en.png',
+    'image' => 'http://localhost/red_social_Gamboa/file/pic/flag/en.png',
   ),
   1 => 
   array (
@@ -27,11 +27,11 @@
     'charset' => 'UTF-8',
     'direction' => 'ltr',
     'flag_id' => 'png',
-    'time_stamp' => '1485462070',
+    'time_stamp' => '1485466757',
     'created' => 'Tomás Ponce Dominguez',
     'site' => 'https://www.facebook.com/TodakarhdGames?ref=hl',
     'is_default' => '0',
     'is_master' => '0',
-    'image' => 'http://localhost/Todakar.PHPFox3.5/script/file/pic/flag/es-2.png',
+    'image' => 'http://localhost/red_social_Gamboa/file/pic/flag/es-2.png',
   ),
 ); ?>
