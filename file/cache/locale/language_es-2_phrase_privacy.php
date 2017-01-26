@@ -1,0 +1,31 @@
+<?php defined('PHPFOX') or exit('NO DICE!'); ?>
+<?php $aContent = array (
+  'user_setting_can_set_allow_list_on_blogs' => 'Se puede establecer una "lista de admitidos" al agregar un nuevo blog?
+
+Nota: Esta opci&#243;n le dar&#225; al usuario la funci&#243;n de a&#241;adir una lista de usuarios que pueden ver su blog.',
+  'module_privacy' => 'Privacidad',
+  'update_preferred_list' => 'Actualizar la Lista de Preferidos',
+  'insufficient_permissions' => 'Permisos Insuficientes',
+  'user_setting_can_view_all_items' => 'Puede ver todos los elementos, independientemente de la configuraci&#243;n de privacidad?',
+  'user_setting_can_comment_on_all_items' => 'Puede comentar sobre todos los temas, independientemente de la configuraci&#243;n de privacidad?',
+  'everyone' => 'Cualquiera',
+  'friends' => 'Amigos',
+  'friends_of_friends' => 'Amigos de amigos',
+  'only_me' => 'Solo yo',
+  'custom_span_click_to_edit_span' => 'Personalizar<span>(Click para Editar)</span>',
+  'custom_privacy' => 'Privacidad personalizada',
+  'you_have_not_created_a_custom_friends_list_yet' => 'No ha creado una lista personalizada de amigos todav&#237;a. Crear una para controlar la configuraci&#243;n de privacidad personalizada.',
+  'create_a_new_friends_list_to_fully_control_your_contents_privacy' => 'Crear una nueva lista de amigos para controlar totalmente la privacidad de su contenido.',
+  'add_friends_to_your_custom_list_below' => 'A&#241;adir amigos a tu lista.',
+  'save' => 'Guardar',
+  'search_friends_by_their_name' => 'Buscar amigos por su nombre...',
+  'custom' => 'Personalizado',
+  'select_a_custom_friends_list_if_you_want_to_add_privacy_to_your_item' => 'Selecciona una lista de amigos si quieres a&#241;adir privacidad a tu articulo.',
+  'custom_friends_list_successfully_created' => 'Se ha creado tu lista de amigos.',
+  'select_from_your_custom_friends_list' => 'Selecciona desde tu lista de amigos.',
+  'or_create_a_new_list' => 'o cree una nueva lista',
+  'item_section_privacy' => 'Elemento/Secci&#243;n Privacidad',
+  'the_item_or_section_you_are_trying_to_view_has_specific_privacy_settings_enabled_and_cannot_be_viewed_at_this_time' => 'El elemento o secci&#243;n que intentas ver tiene privacidad espec&#237;fica activada y no se puede ver en este momento.',
+  'go_back' => 'Ir atras',
+  'go_to_our_homepage' => 'Ir al inicio',
+); ?>

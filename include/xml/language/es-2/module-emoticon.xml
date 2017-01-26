@@ -1,0 +1,62 @@
+<phrases>
+	<phrase module_id="emoticon" version_id="2.0.0alpha1" var_name="module_emoticon" added="1218117503"><![CDATA[Iconos de Emoci&#243;n]]></phrase>
+	<phrase module_id="emoticon" version_id="2.0.0alpha1" var_name="emoticons" added="1218117524"><![CDATA[Iconos de Emoci&#243;n]]></phrase>
+	<phrase module_id="emoticon" version_id="2.0.0rc1" var_name="import_export_emoticon" added="1248619759">Importar Emoticonos</phrase>
+	<phrase module_id="emoticon" version_id="2.0.0rc3" var_name="package_successfully_updated" added="1254388768">Paquete actualizado correctamente.</phrase>
+	<phrase module_id="emoticon" version_id="2.0.0rc3" var_name="package_successfully_added" added="1254388782"><![CDATA[Paquete a&#241;adido correctamente.]]></phrase>
+	<phrase module_id="emoticon" version_id="2.0.0rc3" var_name="edit_package" added="1254388798">Editar Paquete</phrase>
+	<phrase module_id="emoticon" version_id="2.0.0rc3" var_name="add_package" added="1254388814"><![CDATA[A&#241;adir Paquete]]></phrase>
+	<phrase module_id="emoticon" version_id="2.0.0rc3" var_name="package_successfully_deleted" added="1254388860">Paquete borrado correctamente.</phrase>
+	<phrase module_id="emoticon" version_id="2.0.0rc3" var_name="emoticon_successfully_deleted" added="1254388893">Emoticono borrado correctamente.</phrase>
+	<phrase module_id="emoticon" version_id="2.0.0rc3" var_name="emoticon_successfully_updated" added="1254388906">Emoticono actualizado correctamente.</phrase>
+	<phrase module_id="emoticon" version_id="2.0.0rc3" var_name="emoticon_successfully_added" added="1254388920"><![CDATA[Emoticono a&#241;adido correctamente.]]></phrase>
+	<phrase module_id="emoticon" version_id="2.0.0rc3" var_name="edit_emoticon" added="1254388930">Editar Emoticono</phrase>
+	<phrase module_id="emoticon" version_id="2.0.0rc3" var_name="add_emoticon" added="1254388967"><![CDATA[A&#241;adir Emoticono]]></phrase>
+	<phrase module_id="emoticon" version_id="2.0.0rc3" var_name="emoticon_package_successfully_created" added="1254389056"><![CDATA[Paquete de emoticones creado con &#233;xito. Importado: {success} - Fallo: {failed}]]></phrase>
+	<phrase module_id="emoticon" version_id="2.0.0rc3" var_name="import_emoticons" added="1254389088">Importar Emoticonos</phrase>
+	<phrase module_id="emoticon" version_id="2.0.0rc3" var_name="package_does_not_exist" added="1254389236">El paquete no existe.</phrase>
+	<phrase module_id="emoticon" version_id="2.0.0rc3" var_name="emoticons_successfully_updated" added="1254389246">Emoticonos actualizados correctamente.</phrase>
+	<phrase module_id="emoticon" version_id="2.0.0rc3" var_name="view_emoticon_package" added="1254389255">Ver Paquete de Emoticono</phrase>
+	<phrase module_id="emoticon" version_id="2.0.0rc3" var_name="view_package" added="1254389277">Ver Paquete</phrase>
+	<phrase module_id="emoticon" version_id="2.0.0rc3" var_name="emoticon_package_not_found" added="1254389313">Paquete de Emoticono no encontrado.</phrase>
+	<phrase module_id="emoticon" version_id="2.0.0rc3" var_name="select_a_module" added="1254389331">Seleccionar un modulo.</phrase>
+	<phrase module_id="emoticon" version_id="2.0.0rc3" var_name="provide_a_emoticon_symbol" added="1254389381"><![CDATA[Proporciona un s&#237;mbolo de emoticono.]]></phrase>
+	<phrase module_id="emoticon" version_id="2.0.0rc3" var_name="define_a_path_for_the_package" added="1254389405">Definir una ruta para el paquete.</phrase>
+	<phrase module_id="emoticon" version_id="2.0.0rc3" var_name="symbol_already_exists" added="1254389419"><![CDATA[El s&#237;mbolo ya existe.]]></phrase>
+	<phrase module_id="emoticon" version_id="2.0.0rc3" var_name="image_could_not_be_uploaded" added="1254389432">La imagen no se pudo cargar.</phrase>
+	<phrase module_id="emoticon" version_id="2.0.0rc3" var_name="please_fill_in_the_package_name_field" added="1254389445">Por favor, rellena el campo de nombre del paquete.</phrase>
+	<phrase module_id="emoticon" version_id="2.0.0rc3" var_name="path_is_not_writable_and_the_folder_could_not_be_created" added="1254389476">{path} no es modificable y la carpeta no se pudo crear.</phrase>
+	<phrase module_id="emoticon" version_id="2.0.0rc3" var_name="not_a_valid_emoticon_package" added="1254389502"><![CDATA[No es un paquete de emoticonos v&#225;lido.]]></phrase>
+	<phrase module_id="emoticon" version_id="2.0.0rc3" var_name="unable_to_import_emoticon_package" added="1254389512">No se puede importar el paquete emoticono.</phrase>
+	<phrase module_id="emoticon" version_id="2.0.0rc3" var_name="name" added="1254389561">Nombre</phrase>
+	<phrase module_id="emoticon" version_id="2.0.0rc3" var_name="mass_import" added="1254389571">Importacion masiva</phrase>
+	<phrase module_id="emoticon" version_id="2.0.0rc3" var_name="you_can_optionally_mass_import_emoticons_from_a_zip_package" added="1254389591">Puedes opcionalmente importar masivamente emoticones desde un paquete Zip. Todos los emoticones que se encuentran dentro del directorio de raiz del paquete zip se importaran correctamente.</phrase>
+	<phrase module_id="emoticon" version_id="2.0.0rc3" var_name="add" added="1254389619">Agregar</phrase>
+	<phrase module_id="emoticon" version_id="2.0.0rc3" var_name="package_details" added="1254389637">Detalles del paquete</phrase>
+	<phrase module_id="emoticon" version_id="2.0.0rc3" var_name="packages" added="1254389649">Paquetes</phrase>
+	<phrase module_id="emoticon" version_id="2.0.0rc3" var_name="active" added="1254389668">Activo</phrase>
+	<phrase module_id="emoticon" version_id="2.0.0rc3" var_name="view_emoticons" added="1254389677"><![CDATA[Ver Iconos de Emoci&#243;n]]></phrase>
+	<phrase module_id="emoticon" version_id="2.0.0rc3" var_name="export_package" added="1254389696">Exportar Paquete</phrase>
+	<phrase module_id="emoticon" version_id="2.0.0rc3" var_name="delete_package" added="1254389704">Borrar Paquete</phrase>
+	<phrase module_id="emoticon" version_id="2.0.0rc3" var_name="are_you_sure" added="1254389714"><![CDATA[&#191;Est&#225;s seguro?]]></phrase>
+	<phrase module_id="emoticon" version_id="2.0.0rc3" var_name="deactivate" added="1254389727">Deactivado</phrase>
+	<phrase module_id="emoticon" version_id="2.0.0rc3" var_name="activate" added="1254389733">Activado</phrase>
+	<phrase module_id="emoticon" version_id="2.0.0rc3" var_name="no_emoticons_in_this_package" added="1254389744">No emoticonos en este paquete.</phrase>
+	<phrase module_id="emoticon" version_id="2.0.0rc3" var_name="emoticon_details" added="1254389762">Detalles del Emoticon</phrase>
+	<phrase module_id="emoticon" version_id="2.0.0rc3" var_name="package" added="1254389776">Paquete</phrase>
+	<phrase module_id="emoticon" version_id="2.0.0rc3" var_name="image" added="1254389788">Imagen</phrase>
+	<phrase module_id="emoticon" version_id="2.0.0rc3" var_name="title" added="1254389795"><![CDATA[T&#237;tulo]]></phrase>
+	<phrase module_id="emoticon" version_id="2.0.0rc3" var_name="symbol" added="1254389802">Simbolo</phrase>
+	<phrase module_id="emoticon" version_id="2.0.0rc3" var_name="edit" added="1254389813">Editar</phrase>
+	<phrase module_id="emoticon" version_id="2.0.0rc3" var_name="import" added="1254389831">Importar</phrase>
+	<phrase module_id="emoticon" version_id="2.0.0rc3" var_name="file" added="1254389839">Archivo</phrase>
+	<phrase module_id="emoticon" version_id="2.0.0rc3" var_name="zip_package_only_and_must_have_a_similar_name_structure" added="1254389853"><![CDATA[Paquete ZIP y s&#243;lo debe tener una estructura de nombre similar: phpfox-emoticon-<i>packagename</i>.zip]]></phrase>
+	<phrase module_id="emoticon" version_id="2.0.0rc3" var_name="overwrite" added="1254389861">Sobreescribir</phrase>
+	<phrase module_id="emoticon" version_id="2.0.0rc3" var_name="yes" added="1254389868">Si</phrase>
+	<phrase module_id="emoticon" version_id="2.0.0rc3" var_name="no" added="1254389874">No</phrase>
+	<phrase module_id="emoticon" version_id="2.0.0rc3" var_name="delete_emoticon" added="1254389940">Borrar Emoticon</phrase>
+	<phrase module_id="emoticon" version_id="2.0.0rc3" var_name="this_package_contains_no_emoticons" added="1254389956">Este paquete no contiene emoticones.</phrase>
+	<phrase module_id="emoticon" version_id="2.0.0rc3" var_name="update" added="1254389964">Actualizar</phrase>
+	<phrase module_id="emoticon" version_id="2.0.5" var_name="not_a_valid_emoticon_package_to_import" added="1273153931"><![CDATA[No es un paquete de emoticonos v&#225;lido para importar.]]></phrase>
+	<phrase module_id="emoticon" version_id="2.0.5" var_name="xml_files_only_and_must" added="1273153948"><![CDATA[S&#243;lo los archivos XML y deben tener una estructura de nombre similar:productname-emoticon-packagename.xml]]></phrase>
+</phrases>

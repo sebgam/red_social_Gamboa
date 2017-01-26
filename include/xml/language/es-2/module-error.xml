@@ -1,0 +1,8 @@
+<phrases>
+	<phrase module_id="error" version_id="2.0.0alpha1" var_name="module_error" added="1214851398">controlador de errores</phrase>
+	<phrase module_id="error" version_id="2.0.0alpha1" var_name="csrf_token_set" added="1214851419"><![CDATA[No token de seguridad se ha establecido dentro de la forma de publicaci&#243;n. Todos los formularios deber&#225;n contener un token de seguridad para que nuestro sitio para manejar sus peticiones.]]></phrase>
+	<phrase module_id="error" version_id="2.0.0alpha1" var_name="csrf_session_token" added="1214851490"><![CDATA[No token de seguridad se establece en la sesi&#243;n. Por favor, aseg&#250;rese de que su navegador web permie todas las cookies de nuestro sitio.]]></phrase>
+	<phrase module_id="error" version_id="2.0.0alpha1" var_name="csrf_detected" added="1214851524"><![CDATA[Solicitud de la Cruz falsificaci&#243;n de sitio (RFCE) detectado. Por favor, tenga en cuenta todos los intentos se registran.]]></phrase>
+	<phrase module_id="error" version_id="2.0.0alpha1" var_name="site_email_not_set" added="1233753322"><![CDATA[El administrador no ha fijado ninguna direcci&#243;n de correo electr&#243;nico para contactarlo.]]></phrase>
+	<phrase module_id="error" version_id="2.0.0rc3" var_name="the_page_you_are_looking_for_cannot_be_found" added="1254390056"><![CDATA[La p&#225;gina que busca no se encuentra.]]></phrase>
+</phrases>

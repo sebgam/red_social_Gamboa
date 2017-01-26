@@ -1,0 +1,23 @@
+<?php defined('PHPFOX') or exit('NO DICE!'); ?>
+<?php $aContent = array (
+  'module_favorite' => 'Favoritos',
+  'menu_favorites' => 'Favoritos',
+  'full_name_has_closed_their_favorites_section' => '<a href="{user_link}">{full_name}</a> ha cerrado su secci&#243;n de favoritos.',
+  'full_name_s_favorites' => 'Favoritos de {full_name}',
+  'view_favorites' => 'Ver Favoritos',
+  'not_a_valid_module' => 'No es un m&#243;dulo v&#225;lido.',
+  'unable_to_add_this_item_as_a_favorite_due_to_privacy' => 'No se puede agregar este art&#237;culo como un "favorito" debido a la privacidad.',
+  'this_item_is_already_in_your_favorites_list' => 'Este art&#237;culo ya est&#225; en tu lista de favoritos.',
+  'successfully_added_to_your_favorites' => 'Agregado a tus favoritos.',
+  'view_your_favorites' => 'Ver tus Favoritos',
+  'close' => 'Cerrar',
+  'added_by_user_on_time_stamp_phrase' => 'Agregado por {user_link} en {time_stamp_phrase}',
+  'are_you_sure' => '&#191;Est&#225;s seguro?',
+  'delete' => 'Eliminar',
+  'recently_added' => 'Recientemente Agregado',
+  'you_do_not_have_any_items_or_users_listed_in_your_favorites_just_yet' => 'A&#250;n no tienes ning&#250;n art&#237;culo o usuario que figure en tus favoritos.',
+  'you_have_not_added_any_favorites_yet' => 'Todav&#237;a no has agregado nada a "Favoritos".',
+  'to_add_items_to_your_favorite_list_simply_view_public_items_on_the_site' => 'Para agregar art&#237;culos a su lista de favoritos, simplemente vea los art&#237;culos p&#250;blicos busque el enlace "Agregar a Favoritos".',
+  'user_link_has_not_added_any_favorites_yet' => '{user_link} todav&#237;a no ha agregado ninguno a "Favoritos".',
+  'favorites' => 'Favoritos',
+); ?>

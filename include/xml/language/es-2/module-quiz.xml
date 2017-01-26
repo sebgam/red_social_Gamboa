@@ -1,0 +1,214 @@
+<phrases>
+	<phrase module_id="quiz" version_id="2.0.0alpha1" var_name="module_quiz" added="1232964526">Cuestionarios</phrase>
+	<phrase module_id="quiz" version_id="2.0.0alpha1" var_name="menu_quiz" added="1232964544">Cuestionarios</phrase>
+	<phrase module_id="quiz" version_id="2.0.0alpha1" var_name="menu_add_new_quiz" added="1236280629">Agregar un nuevo Cuestionario</phrase>
+	<phrase module_id="quiz" version_id="2.0.0alpha1" var_name="menu_view_quizzes" added="1236283393">Ver mis Cuestionarios</phrase>
+	<phrase module_id="quiz" version_id="2.0.0alpha1" var_name="setting_quizzes_to_show" added="1236538181"><![CDATA[<title>Cuestionarios para mostrar</title><info>Cu&#225;ntas cuestionarios para mostrar en la p&#225;gina principal de la secci&#243;n de concursos</info>]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.0alpha1" var_name="setting_quiz_view_time_stamp" added="1236760605"><![CDATA[<title>Quiz Time Stamp</title><info>Este es el formato utilizado para mostrar las fechas, cumple con http://php.net/date</info>]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.0alpha1" var_name="setting_default_answers_count" added="1236763431"><![CDATA[<title>Cuantas respuestas por defecto</title><info>Al a&#241;adir una nueva pregunta en un cuestionario cu&#225;ntos campos de respuesta para mostrar</info>]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.0alpha1" var_name="user_setting_max_questions" added="1236783840"><![CDATA[Cu&#225;ntas preguntas es lo menos que un concurso (creado por los miembros de este grupo de usuarios) puede tener.]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.0alpha1" var_name="user_setting_min_questions" added="1236783905">How many questions is the least a Quiz (created by members of this user group) can have.</phrase>
+	<phrase module_id="quiz" version_id="2.0.0alpha1" var_name="user_setting_max_answers" added="1236785889">Cuantas respuestas maximo puede tener cada cuestion en un cuestionario</phrase>
+	<phrase module_id="quiz" version_id="2.0.0alpha1" var_name="user_setting_min_answers" added="1236785965">Cuantas respuestas(minimo) puede tener una pergunta en un cuestionario?</phrase>
+	<phrase module_id="quiz" version_id="2.0.0alpha1" var_name="user_setting_can_answer_own_quiz" added="1236943951">Pueden los usuarios responder a sus propios cuestionarios?</phrase>
+	<phrase module_id="quiz" version_id="2.0.0alpha1" var_name="user_setting_can_approve_quizzes" added="1237047092"><![CDATA[Est&#225;n los miembros de este grupo en condiciones de aprobar cuestionarios]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.0alpha1" var_name="user_setting_can_delete_others_quizzes" added="1237047540"><![CDATA[Pueden los miembros de este grupo de usuarios eliminar los dem&#225;s cuestionarios]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.0alpha1" var_name="user_setting_new_quizzes_need_moderation" added="1237048619">Ver cuestionarios de grupo de usuarios necesita ser moderado antes de ser mostrado?</phrase>
+	<phrase module_id="quiz" version_id="2.0.0alpha1" var_name="user_setting_can_delete_own_quiz" added="1237552548">Allow users from this user group to delete their own quizzes?</phrase>
+	<phrase module_id="quiz" version_id="2.0.0alpha3" var_name="setting_show_percentage_in_track" added="1238587346"><![CDATA[<title>Mostrar como porcentaje en Tracker </title><info>En el bloque 'Recientemente tomadas por' establecer este valor a "No" si desea que se muestra como un porcentaje:75% 
+
+Si se establece en "No", ver&#225; los resultados como total:3/4</info>]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.0alpha3" var_name="setting_show_percentage_in_results" added="1238587985"><![CDATA[<title>Mostrar como porcentaje los Resultados </title><info>Cuando est&#233; viendo los "Resultados" si lo ajusta a "Si" usted puede ver los resultados en forma de porcentaje: 75%
+
+Si se establece en "No", ver&#225; los resultados como total:3/4</info>]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.0alpha3" var_name="user_setting_can_post_comment_on_quiz" added="1238667312">Pueden los miembros de este grupo de usuarios publicar comentarios en cuestionarios?</phrase>
+	<phrase module_id="quiz" version_id="2.0.0alpha3" var_name="user_setting_can_edit_own_questions" added="1238755312">Este ajuste le indica si los miembros de este grupo de usuarios pueden editar las preguntas y respuestas en sus propios cuestionarios.</phrase>
+	<phrase module_id="quiz" version_id="2.0.0alpha3" var_name="user_setting_can_edit_others_questions" added="1238755426">Este ajuste le indica si los usuarios de este grupo de usuarios pueden editar las preguntas y respuestas en cuestionarios realizadas por otros usuarios.</phrase>
+	<phrase module_id="quiz" version_id="2.0.0alpha3" var_name="user_setting_can_edit_own_title" added="1238755519"><![CDATA[Este ajuste le indica si los miembros de este grupo de usuarios pueden editar las configuraciones de t&#237;tulo, descripci&#243;n y la privacidad en los diferentes cuestionarios que publicaban.]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.0alpha3" var_name="user_setting_can_edit_others_title" added="1238755589"><![CDATA[Este ajuste le indica si los miembros de este grupo de usuarios pueden editar las configuraciones de t&#237;tulo, descripci&#243;n y la privacidad en cuestionarios publicados por otros miembros.]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.0alpha3" var_name="user_setting_points_quiz" added="1239114765"><![CDATA[Cu&#225;ntos puntos de premio por nuevo cuestionario.]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.0beta2" var_name="setting_takers_to_show" added="1242300171"><![CDATA[<title>Takers recientes para mostrar</title><info>En  "Taken Reciente Por" caja de texto, al ver los resultados de un cuestionario espec&#237;fico, cu&#225;ntos resultados quiere mostrar?</info>]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.0beta2" var_name="user_setting_can_view_results_before_answering" added="1242303282"><![CDATA[Si se habilita esta opci&#243;n los miembros de este grupo de usuarios ser&#225;n capaces de ver lo que otros usuarios respondieron en un cuestionario antes de responder a los mismos cuestionarios.]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.0beta3" var_name="user_setting_can_upload_picture" added="1243866546">Pueden los miembros de este grupo de usuarios subir una foto junto con el cuestionario?</phrase>
+	<phrase module_id="quiz" version_id="2.0.0beta3" var_name="user_setting_is_picture_upload_required" added="1243866831"><![CDATA[Es un requisito para subir una foto con el cuestionario?
+
+Tenga cuidado ya que esta opci&#243;n junto con la "quiz.can_upload_picture" podr&#237;a mantener a los miembros de la carga de cualquier cuestionario(having is_picture_upload_required enabled but can_upload_picture desactivada har&#237;a una p&#225;gina de complemento cuestionario in&#250;tiles debido a la exclusi&#243;n mutua)]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.0beta3" var_name="setting_quiz_max_image_pic_size" added="1243867563"><![CDATA[<title>Tama&#241;o de la imagen subida</title><info>Cuando los usuarios sube una imagen con su pruebas que &#233;ste ser&#225; el tama&#241;o m&#225;ximo de esa imagen, algo m&#225;s grande ser&#225; redimensionada.</info>]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc1" var_name="setting_quiz_meta_keywords" added="1252130471"><![CDATA[<title>Palabra Clave de Cuestionarios</title><info>Meta palabras clave utilizadas en las secciones relacionadas con el cuestionario</info>]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc1" var_name="setting_quiz_meta_description" added="1252130542"><![CDATA[<title>Meta Descripcion de Cuestionarios</title><info>Meta descripci&#243;n utilizada para secciones relacionadas con cuestionarios.</info>]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc1" var_name="menu_profile_quiz" added="1252158191">Cuestionarios</phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="an_error_occured_and_your_image_could_not_be_deleted_please_try_again" added="1255179090"><![CDATA[Ha ocurrido un error y su imagen no pudo ser eliminada. Por favor, int&#233;ntelo de nuevo.]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="quiz_approved" added="1255179107">Cuestionario Aprobado</phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="an_error_kept_the_system_from_approving_the_quiz_please_try_again" added="1255179118"><![CDATA[Un error detenido el sistema de aprobar el cuestionario, por favor, int&#233;ntelo de nuevo.]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="your_membership_does_not_allow_you_to_delete_this_quiz" added="1255179144">Su rango no le permite eliminar este cuestionario.</phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="recently_taken_by" added="1255179158"><![CDATA[&#218;ltimos resultados]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="view_more" added="1255179167"><![CDATA[Ver m&#225;s]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="that_quiz_does_not_exist_or_its_awaiting_moderation" added="1255179184"><![CDATA[Esa prueba no existe o est&#225; en espera de su moderaci&#243;n.]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="your_quiz_has_been_edited" added="1255179193">Tu cuestionario ha sido editado.</phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="edit_quiz" added="1255179332">Editar Cuestionario</phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="add_new_quiz" added="1255179343">Agregar Nuevo Cuestionario</phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="you_need_to_write_a_title" added="1255179355"><![CDATA[Tienes que escribir un t&#237;tulo.]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="you_need_to_write_a_description" added="1255179363"><![CDATA[Tienes que escribir una descripci&#243;n.]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="do_you_want_to_allow_comments" added="1255179371">Deseas permitir comentarios?</phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="is_this_quiz_public_for_friends_only_or_a_specific_list_of_members" added="1255179383"><![CDATA[&#191;Es este un cuestionario p&#250;blico, s&#243;lo para amigos o una lista espec&#237;fica de los miembros?]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="your_quiz_has_been_added_it_needs_to_be_approved_by_our_staff_before_it_can_be_shown" added="1255179396"><![CDATA[Tu cuestionario ha sido a&#241;adido. Tiene que ser aprobado por nuestro equipo antes de que pueda ser mostrado.]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="your_quiz_has_been_added" added="1255179405"><![CDATA[Tu cuestionario ha sido a&#241;adido.]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="there_was_an_error_with_your_quiz_please_try_again" added="1255179415"><![CDATA[Hubo un error con tu cuestionario, por favor, int&#233;ntalo de nuevo.]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="you_are_not_allowed_to_edit_this_quiz" added="1255179426"><![CDATA[No est&#225;s autorizado a editar este cuestionario.]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="full_name_s_quizzes" added="1255179462">Cuestionarios de {full_name}</phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="quizzes" added="1255179484">Cuestionarios</phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="you_have_already_answered_this_quiz" added="1255179499">Ya has respondido a este cuestionario.</phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="you_have_to_answer_the_questions_if_you_want_to_do_that" added="1255179510">Tiene que responder a las preguntas si quieres hacerlo.</phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="you_are_not_allowed_to_answer_your_own_quiz" added="1255179519"><![CDATA[No est&#225;s autorizado a responder a tu propio cuestionario.]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="your_answers_have_been_submitted_and_your_score_is_score" added="1255179553"><![CDATA[Sus respuestas se han presentado y su puntuaci&#243;n es{score}%]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="you_need_to_answer_the_quiz_before_looking_at_the_results" added="1255179603">Es necesario responder a la prueba antes de ver los resultados.</phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="full_name_s_quiz_from_time_stamp_title" added="1255179676">Cuestionario de {full_name} desde {time_stamp}: {title}.</phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="a_href_user_link_full_name_a_added_a_new_quiz_a_href_question_url_question_a" added="1255179742"><![CDATA[<a href="{user_link}">{full_name}</a> agreg&#243; un nuevo cuestionario"<a href="{question_url}">{question}</a>".]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="a_href_user_link_full_name_a_added_a_new_comment_on_their_own_a_href_title_link_quiz_a" added="1255180630"><![CDATA[<a href="{user_link}">{full_name}</a> agreg&#243; un nuevo comentario en sus propio <a href="{title_link}">cuestionario</a>.]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="a_href_user_link_full_name_a_added_a_new_comment_on_your_a_href_title_link_quiz_a" added="1255180721"><![CDATA[<a href="{user_link}">{full_name}</a> agreg&#243; un nuevo comentario en tu <a href="{title_link}">concurso</a>.]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="a_href_user_link_full_name_a_added_a_new_comment_on_a_href_item_user_link_item_user_name_s_a_a_href_title_link_quiz_a" added="1255180745"><![CDATA[<a href="{user_link}">{full_name}</a> agreg&#243; un nuevo comentario en el <a href="{title_link}">cuestionario</a> de <a href="{item_user_link}">{item_user_name}</a>.]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="full_name_approved_your_comment_on_site_title" added="1255180828"><![CDATA[{full_name} aprob&#243; tu comentario en {site_title}.]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="full_name_approved_your_comment_on_site_title_message" added="1255180889"><![CDATA[{full_name} aprob&#243; tu comentario en {site_title}.
+
+Para ver este comentario, sigue el enlace de abajo:
+<a href="{link}">{link}</a>]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="user_name_left_you_a_comment_on_site_title" added="1255180942"><![CDATA[{user_name} te dej&#243; un comentario en {site_title}.]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="user_name_left_you_a_comment_on_site_title_message" added="1255180994"><![CDATA[{user_name} te dej&#243; un comentario en {site_title}.
+
+Para ver este comentario, sigue el enlace de abajo:
+<a href="{link}">{link}</a>]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="user_name_left_you_a_comment_on_site_title_however_before_it_can_be_displayed_it_needs_to_be_approved_by_you_you_can_approve_or_deny_this_comment_by_following_the_link_below_a_href_link_link_a" added="1255181069"><![CDATA[{user_name} te dej&#243; un comentario en {site_title}, sin embargo, antes de que se puede mostrar tiene que ser aprobado por t&#237;.
+
+Tu puede aprobar o rechazar este comentario siguiendo el enlace de abajo:
+<a href="{link}">{link}</a>]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="on_name_s_quiz" added="1255181115">En el cuestionario de {name}.</phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="create_a_quiz" added="1255181137">Crear Cuestionario</phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="manage_quizzes" added="1255181145">Administrar Cuestionarios</phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="you_cannot_answer_a_quiz_that_has_not_been_approved" added="1255181166"><![CDATA[T&#250; no puede responder a un cuestionario que no ha sido aprobado.]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="you_need_to_answer_every_question" added="1255181174"><![CDATA[Deber&#225;s responder a cada pregunta.]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="you_cannot_answer_your_own_quiz" added="1255181186">No puede responder a tu propia cuestionario.</phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="you_do_not_have_the_permission_to_edit_this_quiz" added="1255181213">Usted no tiene permiso para editar este cuestionario.</phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="answer" added="1255181259">Respuesta</phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="we_do_not_allow_empty_answers" added="1255181274"><![CDATA[No permitimos respuestas vac&#237;as.]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="we_do_not_allow_default_answers_answer" added="1255181295">No permitimos las respuestas por defecto ({answer}).</phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="the_question_field_cannot_be_empty" added="1255181314"><![CDATA[El campo de la pregunta no puede estar vac&#237;o.]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="you_need_to_set_at_least_one_correct_answer_per_question" added="1255181324">Tienes que establecer al menos una respuesta correcta por pregunta.</phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="you_need_to_add_a_minimum_of_min_and_a_maximum_of_max_questions_per_quiz_you_submitted_total" added="1255181354"><![CDATA[Es necesario a&#241;adir un m&#237;nimo de {min} y un m&#225;ximo de {max} preguntas por cuestionario. Sometiste un total de {total}.]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="you_need_to_add_a_minimum_of_2_answers_in_each_question" added="1255181393"><![CDATA[Tu necesitas agregar un m&#237;nimo de 2 respuestas en cada pregunta.]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="not_answered" added="1255181413">Sin respuesta</phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="you_have_reached_the_maximum_questions_allowed_per_quiz" added="1255181465"><![CDATA[Has llegado al m&#225;ximo permitido de preguntas por cuestionario]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="you_are_required_a_minimum_of_total_questions" added="1255181503"><![CDATA[Se te requiere un m&#237;nimo de {total} preguntas.]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="you_have_reached_the_maximum_answers_allowed_per_question" added="1255181539"><![CDATA[Has llegado al m&#225;ximo permitido de respuestas por pregunta.]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="you_are_required_a_minimum_of_total_answers_per_question" added="1255181567"><![CDATA[Se le requiere un m&#237;nimo de {total} respuestas por pregunta.]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="are_you_sure" added="1255181599"><![CDATA[&#191;Est&#225;s seguro?]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="delete" added="1255181638">Eliminar</phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="are_you_sure_you_want_to_delete_this_quiz" added="1255181693"><![CDATA[&#191;Est&#225;s seguro de que desea eliminar este cuestionario?]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="quiz_created_on_time_stamp_by_user_info" added="1255328471">Cuestionario creado en {time_stamp} por {user_info}.</phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="quiz_created_on_time_stamp" added="1255328503">Cuestionario creado en {time_stamp}.</phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="this_quiz_is_awaiting_moderation" added="1255328532"><![CDATA[Este cuestionario est&#225; en espera de moderaci&#243;n.]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="view" added="1255328556">Ver</phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="be_the_first_to_answer_this_quiz" added="1255328565">Sea el primero en contestar este cuestionario.</phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="submit_your_answers" added="1255328586">Enviar tus respuestas</phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="approve" added="1255328597">Aprobado</phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="results" added="1255328626">Resultados</phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="take" added="1255328638">Tomar</phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="edit" added="1255328646">Editar</phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="question" added="1255328675">Pregunta</phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="quiz_results_percentage_100" added="1255328797">Resultados del Cuestionario ({percentage}/100)</phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="quiz_results_for_full_name_percentage_100" added="1255328863">Resultados del cuestionario de {full_name} ({percentage}/100)</phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="full_name_s_answer" added="1255328904">respuesta de {full_name}</phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="correct_answer" added="1255328920">Respuesta correcta</phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="title" added="1255328972"><![CDATA[T&#237;tulo]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="description" added="1255328983"><![CDATA[Descripci&#243;n]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="255_character_limit" added="1255328992"><![CDATA[l&#237;mite de 255 caracteres.]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="quiz_questions" added="1255329004">Preguntas del Cuestionario</phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="submit" added="1255329019">Enviar</phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="add_another_question" added="1255329025">Agregar otra Pregunta</phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="additional_options" added="1255329033">Opciones Adicionales</phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="image" added="1255329040">Imagen</phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="click_here_to_delete_this_image_and_upload_a_new_one_in_its_place" added="1255329061"><![CDATA[Haga clic aqu&#237; para eliminar esta imagen y subir una nueva en su lugar.]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="you_can_upload_a_jpg_gif_or_png_file" added="1255329078">Solo puedes subir archivos JPG, GIF o PNG.</phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="comments" added="1255329084">Comentarios</phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="allow_comments" added="1255329093">Permitir Comentarios</phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="moderate_comments_first" added="1255329102">Comentarios Moderados</phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="no_comments" added="1255329109">No existen comentarios</phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="privacy" added="1255329116">Privacidad</phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="public_quiz_will_be_added_to_our_public_quiz_section" added="1255329126"><![CDATA[P&#250;blica (cuestionario ser&#225; a&#241;adido a nuestra secci&#243;n de concursos p&#250;blicos)]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="personal_quiz_will_only_be_displayed_on_your_profile" added="1255329135"><![CDATA[Personal (cuestionario s&#243;lo se mostrar&#225; en tu perfil)]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="friends_only_friends_can_view_this_quiz" added="1255329144"><![CDATA[Amigos (S&#243;lo amigos pueden ver este concuros)]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="preferred_list_only_the_people_you_select_will_be_able_to_see_the_quiz" added="1255329156"><![CDATA[Lista preferencial (s&#243;lo las personas que tu selecciones ser&#225; capaz de ver el cuestionario)]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="you_have_not_added_any_quizzes" added="1255329188"><![CDATA[No has agregado ning&#250;n cuestionario.]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="no_quizzes_have_been_added_yet" added="1255329194"><![CDATA[No se ha agregado ning&#250;n cuestionario todav&#237;a.]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="add_your_quizzes_here" added="1255329203">Agrega tu primer cuestionario</phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="be_the_first_to_add_a_quiz" added="1255329212"><![CDATA[S&#233; el primero en agregar un cuestionario]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="the_link_that_brought_you_here_is_wrong" added="1255329224"><![CDATA[El enlace que te ha tra&#237;do aqu&#237; es incorrecto.]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="click_here_to_get_the_quiz_from_the_real_owner" added="1255329232"><![CDATA[Haz clic aqu&#237; para obtener la prueba del verdadero propietario.]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="unable_to_load_rating_callback" added="1255329272"><![CDATA[No se puede cargar la devoluci&#243;n de llamada de calificaci&#243;n.]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc4" var_name="not_a_valid_post" added="1255329293"><![CDATA[No es una publicaci&#243;n v&#225;lida.]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc8" var_name="user_info_has_not_added_any_quizzes_yet" added="1258396653"><![CDATA[{user_info} no ha agregado cuestionarios a&#250;n.]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc8" var_name="quiz_successfully_deleted" added="1258492359">Curcurso fue eliminado.</phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc8" var_name="question_count" added="1258996653">Pregunta {count}</phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc8" var_name="answer_count" added="1258996761">Respuesta {count}...</phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc8" var_name="answers" added="1258997586">Respuestas</phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc8" var_name="taken_on_time_stamp" added="1259076940">Tomado en {time_stamp}.</phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc8" var_name="users_results" added="1259077018">Resultados del Usuario</phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc9" var_name="add" added="1259169302">Agregar</phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc9" var_name="accept" added="1259169333">Aceptar</phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc11" var_name="user_setting_can_access_quiz" added="1260286388">Puedes buscar y ver el modulo de cuestionarios?</phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc11" var_name="user_setting_can_create_quiz" added="1260329212">Puede crear un cuestionario?</phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc12" var_name="a_href_user_link_full_name_a_likes_your_a_href_link_quiz_a" added="1260461040"><![CDATA[a <a href="{user_link}">{full_name}</a> le gusta tu <a href="{link}">cuestionario</a>.]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc12" var_name="a_href_user_link_full_name_a_liked_their_own_a_href_link_quiz_a" added="1260461147"><![CDATA[a <a href="{user_link}">{full_name}</a> le gusta su propio <a href="{link}">cuestionario</a>.]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.0rc12" var_name="a_href_user_link_full_name_a_liked_a_href_view_user_link_view_full_name_a_s_a_href_link_quiz_a" added="1260461167"><![CDATA[a <a href="{user_link}">{full_name}</a> le gusta el <a href="{link}">cuestionario</a> de <a href="{view_user_link}">{view_full_name}</a>.]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.5dev2" var_name="user_setting_flood_control_quiz" added="1275108124"><![CDATA[Cu&#225;ntos minutos debe esperar un usuario antes de que se puede crear otro cuestionario?
+
+Nota: Si se establece en "0" (sin comillas) es por defecto y los usuarios no tendr&#225;n que esperar.]]></phrase>
+	<phrase module_id="quiz" version_id="2.0.5dev2" var_name="you_are_creating_a_quiz_a_little_too_soon" added="1275108149"><![CDATA[Est&#225;s creando un cuestionario demasiado pronto.]]></phrase>
+	<phrase module_id="quiz" version_id="3.0.0beta5" var_name="quiz_has_been_approved" added="1319184189">Cuestionario ha sido aprobado.</phrase>
+	<phrase module_id="quiz" version_id="3.0.0beta5" var_name="no_quizzes_found" added="1319199424">No se han encontrado cuestionarios.</phrase>
+	<phrase module_id="quiz" version_id="3.0.0beta5" var_name="search_quizzes" added="1319199443">Buscar cuestionarios...</phrase>
+	<phrase module_id="quiz" version_id="3.0.0beta5" var_name="latest" added="1319199453"><![CDATA[&#218;ltimo]]></phrase>
+	<phrase module_id="quiz" version_id="3.0.0beta5" var_name="most_viewed" added="1319199488">Mas visto</phrase>
+	<phrase module_id="quiz" version_id="3.0.0beta5" var_name="most_liked" added="1319199501">Mas gustado</phrase>
+	<phrase module_id="quiz" version_id="3.0.0beta5" var_name="most_discussed" added="1319199508">Mas discutido</phrase>
+	<phrase module_id="quiz" version_id="3.0.0beta5" var_name="all_quizzes" added="1319199526">Todos los Cuestionarios</phrase>
+	<phrase module_id="quiz" version_id="3.0.0beta5" var_name="my_quizzes" added="1319199544">Mis Cuestionarios</phrase>
+	<phrase module_id="quiz" version_id="3.0.0beta5" var_name="friends_quizzes" added="1319199594">Cuestionarios de amigos</phrase>
+	<phrase module_id="quiz" version_id="3.0.0beta5" var_name="pending_quizzes" added="1319199603">Cuestionarios pendientes</phrase>
+	<phrase module_id="quiz" version_id="3.0.0beta5" var_name="report_this_quiz" added="1319199750">Denunciar este cuestionario</phrase>
+	<phrase module_id="quiz" version_id="3.0.0beta5" var_name="view_quiz" added="1319199766">Ver cuestionario</phrase>
+	<phrase module_id="quiz" version_id="3.0.0beta5" var_name="control_who_can_see_this_quiz" added="1319199786">Controlar quien puede ver este cuestionario.</phrase>
+	<phrase module_id="quiz" version_id="3.0.0beta5" var_name="comment_privacy" added="1319199793">Privacidad de comentarios</phrase>
+	<phrase module_id="quiz" version_id="3.0.0beta5" var_name="control_who_can_comment_on_this_quiz" added="1319199801">Controlar quien puede comentar este cuestionario.</phrase>
+	<phrase module_id="quiz" version_id="3.0.0beta5" var_name="update" added="1319199810">Actualizar</phrase>
+	<phrase module_id="quiz" version_id="3.0.0beta5" var_name="by" added="1319199871">por</phrase>
+	<phrase module_id="quiz" version_id="3.0.0beta5" var_name="actions" added="1319199885">Acciones</phrase>
+	<phrase module_id="quiz" version_id="3.0.0beta5" var_name="moderate" added="1319199901">Moderar</phrase>
+	<phrase module_id="quiz" version_id="3.0.0beta5" var_name="view_results" added="1319199924">Ver Resultados</phrase>
+	<phrase module_id="quiz" version_id="3.0.0beta5" var_name="full_name_liked_your_quiz_title" added="1319535889"><![CDATA[a {full_name} le gusta tu cuestionario "{title}"]]></phrase>
+	<phrase module_id="quiz" version_id="3.0.0beta5" var_name="full_name_liked_your_quiz_message" added="1319536296"><![CDATA[{full_name} le gusta tu cuestionario "<a href="{link}">{title}</a>"
+
+Para verlo sige el siguiente enlace:
+
+<a href="{link}">{link}</a>]]></phrase>
+	<phrase module_id="quiz" version_id="3.0.0" var_name="full_name_commented_on_one_of_your_quiz_title" added="1322465785"><![CDATA[{full_name} coment&#243; en uno de tus cuestionarios "{title}".]]></phrase>
+	<phrase module_id="quiz" version_id="3.0.0" var_name="unable_to_post_a_comment_on_this_item_due_to_privacy_settings" added="1322656304"><![CDATA[No se puede escribir un comentario sobre este tema debido a la configuraci&#243;n de privacidad.]]></phrase>
+	<phrase module_id="quiz" version_id="3.0.0" var_name="posted_a_comment_on_gender_quiz_a_href_link_title_a" added="1322656428"><![CDATA[coment&#243; en su cuestionario "<a href="{link}">{title}</a>".]]></phrase>
+	<phrase module_id="quiz" version_id="3.0.0" var_name="user_name_liked_span_class_drop_data_user_full_name_s_span_quiz_title" added="1322729762"><![CDATA[a {user_name} le gusta el cuestionario de <span class="drop_data_user">{full_name}</span> "{title}"]]></phrase>
+	<phrase module_id="quiz" version_id="3.0.0" var_name="your_quiz_title_has_been_approved" added="1322729818"><![CDATA[Tu cuestionario "{title}" ha sido aprobado.]]></phrase>
+	<phrase module_id="quiz" version_id="3.0.0" var_name="quiz_zes_successfully_approved" added="1322740878">Cuestionario(s) aprobado.</phrase>
+	<phrase module_id="quiz" version_id="3.0.0" var_name="quiz_zes_successfully_deleted" added="1322740895">Cuestionario(s) eliminado.</phrase>
+	<phrase module_id="quiz" version_id="3.0.0" var_name="full_name_commented_on_gender_quiz" added="1323778225"><![CDATA[{full_name} coment&#243; en su cuestionario.]]></phrase>
+	<phrase module_id="quiz" version_id="3.0.0" var_name="full_name_commented_on_other" added="1323778315"><![CDATA[{full_name} coment&#243; en el cuestionario de {other_full_name}]]></phrase>
+	<phrase module_id="quiz" version_id="3.0.0" var_name="full_name_commented_on_other_full_name_s_quiz" added="1323778781"><![CDATA[{full_name} coment&#243; en {other_full_name}&#039;s cuestionario "<a href="{link}">{title}</a>".
+Para verlo siga el siguiente enlace:
+<a href="{link}">{link}</a>]]></phrase>
+	<phrase module_id="quiz" version_id="3.0.0" var_name="full_name_commented_on_your_quiz_a_href" added="1323779377"><![CDATA[{full_name} coment&#243; en tu cuestionario "<a href="{link}">{title}</a>".
+Para verlo siga el siguiente enlace:
+<a href="{link}">{link}</a>]]></phrase>
+	<phrase module_id="quiz" version_id="3.0.0" var_name="posted_a_comment_user_quiz" added="1323779646"><![CDATA[coment&#243; en el cuestionario de {user_name} "<a href="{link}">{title}</a>"]]></phrase>
+	<phrase module_id="quiz" version_id="3.0.0" var_name="user_names_commented_on_quiz" added="1323779858"><![CDATA[{user_names} coment&#243; en su cuestionario "{title}"]]></phrase>
+	<phrase module_id="quiz" version_id="3.0.0" var_name="user_names_commented_on_your" added="1323779956"><![CDATA[{user_names} coment&#243; en tu cuestionario "{title}"]]></phrase>
+	<phrase module_id="quiz" version_id="3.0.0" var_name="user_names_commented_full_name" added="1323780119"><![CDATA[{user_names} coment&#243; en el cuestionario de <span class="drop_data_user">{full_name}</span> "{title}"]]></phrase>
+	<phrase module_id="quiz" version_id="3.0.0" var_name="user_name_liked_gender_own_quiz_title" added="1323793215"><![CDATA[a {user_name} le gusta su cuestionario "{title}".]]></phrase>
+	<phrase module_id="quiz" version_id="3.0.0" var_name="user_name_liked_your_quiz_title" added="1323793258"><![CDATA[a {user_name} le gusta su cuestionario "{title}".]]></phrase>
+</phrases>

@@ -1,0 +1,214 @@
+<phrases>
+	<phrase module_id="ad" version_id="2.0.0beta3" var_name="admin_menu_create_new_campaign" added="1243091789"><![CDATA[Crear una nueva campa&#241;a]]></phrase>
+	<phrase module_id="ad" version_id="2.0.0beta3" var_name="admin_menu_manage_campaigns" added="1243091789"><![CDATA[Administrar Campa&#241;as]]></phrase>
+	<phrase module_id="ad" version_id="2.0.0beta3" var_name="module_ad" added="1243091789">Administracion de Anuncios</phrase>
+	<phrase module_id="ad" version_id="2.0.0beta3" var_name="setting_ad_cache_limit" added="1243185354"><![CDATA[<title>Cache Limite de los Anuncios (Minutos)</title><info>Definir en cuesti&#243;n de minutos el tiempo que se debe almacenar en cach&#233; los anuncios.</info>]]></phrase>
+	<phrase module_id="ad" version_id="2.0.0beta3" var_name="setting_ad_ajax_refresh" added="1243185608"><![CDATA[<title>Actualizar Anuncios (AJAX)</title><info>Active esta funci&#243;n para actualizar los anuncios a trav&#233;s de AJAX.</info>]]></phrase>
+	<phrase module_id="ad" version_id="2.0.0beta3" var_name="setting_ad_ajax_refresh_time" added="1243185732"><![CDATA[<title>Tiempo de Actualizacion del Anuncio (Minutos)</title><info>Definir el n&#250;mero de minutos mucho antes de volver a cargar los anuncios.</info>]]></phrase>
+	<phrase module_id="ad" version_id="2.0.0beta3" var_name="setting_enable_ads" added="1243241593"><![CDATA[<title>Activar anuncios</title><info>Seleccione esto a <b>Si</b> para activar los anuncios.</info>]]></phrase>
+	<phrase module_id="ad" version_id="30" var_name="user_setting_show_ads" added="1247583832"><![CDATA[Si los anuncios se mostrar&#225;n a los miembros de este grupo de usuarios?]]></phrase>
+	<phrase module_id="ad" version_id="2.0.0rc2" var_name="select_a_banner_type" added="1252753837">Selecciona tipo de banner.</phrase>
+	<phrase module_id="ad" version_id="2.0.0rc2" var_name="provide_a_name_for_this_campaign" added="1252753852"><![CDATA[Proporciona un nombre para esta campa&#241;a.]]></phrase>
+	<phrase module_id="ad" version_id="2.0.0rc2" var_name="provide_a_link_for_your_banner" added="1252753867">Proporciona un enlace para tu banner.</phrase>
+	<phrase module_id="ad" version_id="2.0.0rc2" var_name="provide_html_for_your_banner" added="1252753880">Proporciona HTML para tu banner.</phrase>
+	<phrase module_id="ad" version_id="2.0.0rc2" var_name="ad_successfully_updated" added="1252753898">Anuncio actualizado correctamente.</phrase>
+	<phrase module_id="ad" version_id="2.0.0rc2" var_name="ad_successfully_added" added="1252753912">El anuncio ha sido agregado.</phrase>
+	<phrase module_id="ad" version_id="2.0.0rc2" var_name="create_new_campaign" added="1252753952"><![CDATA[Crear Nueva campa&#241;a]]></phrase>
+	<phrase module_id="ad" version_id="2.0.0rc2" var_name="ad_successfully_deleted" added="1252753984">Anuncio borrado correctamente.</phrase>
+	<phrase module_id="ad" version_id="2.0.0rc2" var_name="ad_s_successfully_updated" added="1252753996">Anuncio(s) actualizado correctamente.</phrase>
+	<phrase module_id="ad" version_id="2.0.0rc2" var_name="manage_ad_campaigns" added="1252754009"><![CDATA[Administrar campa&#241;as de anuncios]]></phrase>
+	<phrase module_id="ad" version_id="2.0.0rc2" var_name="live" added="1252754044">Live</phrase>
+	<phrase module_id="ad" version_id="2.0.0rc2" var_name="inactive" added="1252754056">Inactivo</phrase>
+	<phrase module_id="ad" version_id="2.0.0rc2" var_name="pending" added="1252754087">Pendiente</phrase>
+	<phrase module_id="ad" version_id="2.0.0rc2" var_name="the_ad_you_are_looking_for_does_not_exist" added="1252754114"><![CDATA[El anuncio que est&#225;s buscando no existe.]]></phrase>
+	<phrase module_id="ad" version_id="2.0.0rc2" var_name="unable_to_find_this_ad" added="1252754128">No se puede encontrar este anuncio.</phrase>
+	<phrase module_id="ad" version_id="2.0.0rc2" var_name="unable_to_find_the_ad_you_want_to_delete" added="1252754169">No se puede encontrar el anuncio que desea eliminar.</phrase>
+	<phrase module_id="ad" version_id="2.0.0rc2" var_name="media" added="1252754277">Media</phrase>
+	<phrase module_id="ad" version_id="2.0.0rc2" var_name="banner_type" added="1252754868">Tipo de Banner</phrase>
+	<phrase module_id="ad" version_id="2.0.0rc2" var_name="image" added="1252755783">Imagen</phrase>
+	<phrase module_id="ad" version_id="2.0.0rc2" var_name="html" added="1252755791">HTML</phrase>
+	<phrase module_id="ad" version_id="2.0.0rc2" var_name="banner_image" added="1252755809">Imagen del Banner</phrase>
+	<phrase module_id="ad" version_id="2.0.0rc2" var_name="click_here_to_change_this_banner_image" added="1252755843"><![CDATA[Click <a href="#" onclick="$(&#039;#js_ad_upload_banner&#039;).show(); $(&#039;#js_ad_banner&#039;).hide(); return false;">aqui</a> para cambiar esta imagen.]]></phrase>
+	<phrase module_id="ad" version_id="2.0.0rc2" var_name="you_can_upload_a_jpg_gif_or_png_file" added="1252755856">Pudes subir archivos JPG, GIF o PNG.</phrase>
+	<phrase module_id="ad" version_id="2.0.0rc2" var_name="cancel" added="1252755868">Cancelar</phrase>
+	<phrase module_id="ad" version_id="2.0.0rc2" var_name="banner_link" added="1252755962">Enlace del Banner</phrase>
+	<phrase module_id="ad" version_id="2.0.0rc2" var_name="campaign_details" added="1252755974"><![CDATA[Detalles de la campa&#241;a]]></phrase>
+	<phrase module_id="ad" version_id="2.0.0rc2" var_name="campaign_name" added="1252755984"><![CDATA[Nombre de la campa&#241;a]]></phrase>
+	<phrase module_id="ad" version_id="2.0.0rc2" var_name="start_date" added="1252755996">Fecha de inicio</phrase>
+	<phrase module_id="ad" version_id="2.0.0rc2" var_name="end_date" added="1252756009"><![CDATA[Fecha de finalizaci&#243;n]]></phrase>
+	<phrase module_id="ad" version_id="2.0.0rc2" var_name="do_not_end_this_campaign" added="1252756023"><![CDATA[No terminar esta campa&#241;a.]]></phrase>
+	<phrase module_id="ad" version_id="2.0.0rc2" var_name="end_on_a_specific_date" added="1252756033"><![CDATA[Terminar en una fecha espec&#237;fica.]]></phrase>
+	<phrase module_id="ad" version_id="2.0.0rc2" var_name="total_views" added="1252756046">Visitas Totales</phrase>
+	<phrase module_id="ad" version_id="2.0.0rc2" var_name="unlimited" added="1252756064">Ilimitado</phrase>
+	<phrase module_id="ad" version_id="2.0.0rc2" var_name="total_clicks" added="1252756100">Total Clicks</phrase>
+	<phrase module_id="ad" version_id="2.0.0rc2" var_name="active" added="1252756118">Activo</phrase>
+	<phrase module_id="ad" version_id="2.0.0rc2" var_name="placement" added="1252756132">Colocacion</phrase>
+	<phrase module_id="ad" version_id="2.0.0rc2" var_name="block_placement" added="1252756143">Colocacion del bloque</phrase>
+	<phrase module_id="ad" version_id="2.0.0rc2" var_name="view_site_layout" added="1252756155"><![CDATA[Ver Dise&#241;o del sitio]]></phrase>
+	<phrase module_id="ad" version_id="2.0.0rc2" var_name="notice_the_ad_sizes_provided_is_a_recommendation" added="1252756164"><![CDATA[Aviso: Los tama&#241;os de anuncios siempre es una recomendaci&#243;n.]]></phrase>
+	<phrase module_id="ad" version_id="2.0.0rc2" var_name="audience" added="1252756171">Audiencia</phrase>
+	<phrase module_id="ad" version_id="2.0.0rc2" var_name="user_groups" added="1252756180">Grupos de Usuarios</phrase>
+	<phrase module_id="ad" version_id="2.0.0rc2" var_name="all_user_groups" added="1252756189">Todos los Grupos de Usuarios</phrase>
+	<phrase module_id="ad" version_id="2.0.0rc2" var_name="selected_user_groups" added="1252756197">Grupos de usuarios seleccionados</phrase>
+	<phrase module_id="ad" version_id="2.0.0rc2" var_name="location" added="1252756209"><![CDATA[Ubicaci&#243;n]]></phrase>
+	<phrase module_id="ad" version_id="2.0.0rc2" var_name="gender" added="1252756218"><![CDATA[G&#233;nero]]></phrase>
+	<phrase module_id="ad" version_id="2.0.0rc2" var_name="age_group_between" added="1252756226">Grupo de edad entre</phrase>
+	<phrase module_id="ad" version_id="2.0.0rc2" var_name="any" added="1252756234">cualquiera</phrase>
+	<phrase module_id="ad" version_id="2.0.0rc2" var_name="min_age_cannot_be_higher_than_max_age" added="1252756315"><![CDATA[Edad m&#237;nima no podr&#225; ser mayor que la edad m&#225;xima.]]></phrase>
+	<phrase module_id="ad" version_id="2.0.0rc2" var_name="max_age_cannot_be_lower_than_the_min_age" added="1252756568"><![CDATA[Edad m&#225;xima no puede ser inferior a la edad m&#237;nima.]]></phrase>
+	<phrase module_id="ad" version_id="2.0.0rc2" var_name="ads" added="1252756602">Ads</phrase>
+	<phrase module_id="ad" version_id="2.0.0rc2" var_name="id" added="1252756610">ID</phrase>
+	<phrase module_id="ad" version_id="2.0.0rc2" var_name="name" added="1252756618">Nombre</phrase>
+	<phrase module_id="ad" version_id="2.0.0rc2" var_name="status" added="1252756626">Estado</phrase>
+	<phrase module_id="ad" version_id="2.0.0rc2" var_name="views" added="1252756642">Visitas</phrase>
+	<phrase module_id="ad" version_id="2.0.0rc2" var_name="clicks" added="1252756682">Clicks</phrase>
+	<phrase module_id="ad" version_id="2.0.0rc2" var_name="edit" added="1252756691">Editar</phrase>
+	<phrase module_id="ad" version_id="2.0.0rc2" var_name="delete" added="1252756699">Eliminar</phrase>
+	<phrase module_id="ad" version_id="2.0.0rc2" var_name="no_ads_have_been_created" added="1252756733">No hay anuncios creados.</phrase>
+	<phrase module_id="ad" version_id="2.0.0rc2" var_name="add_a_new_add" added="1252756768"><![CDATA[A&#241;adir un nuevo complemento]]></phrase>
+	<phrase module_id="ad" version_id="2.0.0rc2" var_name="cache_manager" added="1252757546"><![CDATA[Administrador de cach&#233;]]></phrase>
+	<phrase module_id="ad" version_id="2.0.0rc2" var_name="note_the_time_is_set_to_your_registered_time_zone" added="1253448407">Tenga en cuenta el tiempo se ajusta a su zona horaria registrada.</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="advertise" added="1269358548">Publicidad</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="creating_an_ad" added="1269358674">Creando un anuncio</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="there_are_pending_ads_that_require_your_attention_view_all_pending_ads_a_href_link_here_a" added="1270622615"><![CDATA[No se encuentran pendientes los anuncios que requieren su atenci&#243;n. Ver todos los anuncios pendientes <a href="{link}">here</a>.]]></phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="approve" added="1270625082">Aprobar</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="deny" added="1270625107">Denegar</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="view_edit" added="1270625193">Ver/Editar</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="preview_this_ad" added="1270629557">Previsualizar este anuncio</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="no_search_results_were_found" added="1270632300">No se han encontrado resultados.</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="pending_approval" added="1270634365"><![CDATA[Pendiente de aprobaci&#243;n]]></phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="denied" added="1270638343">Denegado</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="ad_filter" added="1270638612">Filtro de anuncios</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="type" added="1270638651">Tipo</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="display" added="1270638660"><![CDATA[Visualizaci&#243;n]]></phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="sort_by" added="1270638669">Ordenado por</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="ad_successfully_approved" added="1270639259">Anuncio aprobado correctamente.</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="ad_successfully_denied" added="1270639290">Anuncio denegado correctamente.</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="manage" added="1270641630">Administrar</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="n_a" added="1270641646">N/A</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="recently_added" added="1270642427"><![CDATA[A&#241;adido recientemente]]></phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="pending_payment" added="1270642444">Pendiente de pago</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="unable_to_edit_purchase_this_ad" added="1270642518">No es posible editar/comprar este anuncio.</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="not_a_valid_ad_plan" added="1270642532">No es un plan de anuncio valido</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="your_ad_has_successfully_been_submitted_to_complete_the_process_continue_with_paying_below" added="1270646738"><![CDATA[Tu anuncio se haya enviado correctamente. Para completar el proceso contin&#250;e con el pago m&#225;s abajo.]]></phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="payment_methods" added="1270646751"><![CDATA[M&#233;todos de pago]]></phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="image_placement" added="1270646772"><![CDATA[[Colocaci&#243;n de la Imagen]]]></phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="example_ad" added="1270646787">Anuncio de ejemplo</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="this_is_a_sample_ad" added="1270646804">Este es un anuncio de muestra.</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="1_ad_design" added="1270646819"><![CDATA[1. Dise&#241;o del anuncio]]></phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="create_an_ad" added="1270646829">Crear un anuncio</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="upload_an_ad" added="1270646837">Subir un anuncio</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="ad_placement" added="1270646848">Ubicacion del anuncio</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="change" added="1270646872">Cambiar</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="select_a_position" added="1270646879">Seleccionar posicion</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="background_color" added="1270647281">Color de fondo</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="select" added="1270647289">Selecionar</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="border_color" added="1270647301">Color del borde</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="text_color" added="1270647308">Color del texto</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="title" added="1270647319">Titulo</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="25_character_limit" added="1270647330">25 limite de caracteres.</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="135_character_limit" added="1270647339">135 limite de caracteres.</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="body_text" added="1270647346">Cuerpo del texto</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="image_optional" added="1270647361">Imagen (opcional)</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="change_image" added="1270647371">Cambiar Imagen</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="we_only_accept_the_following_extensions_gif_jpg_and_png" added="1270647382"><![CDATA[Nosotros s&#243;lo aceptamos las siguientes extensiones: GIF, JPG and PNG]]></phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="supported_extensions_gif_jpg_and_png" added="1270647390">Extensiones soportadas: GIF, JPG y PNG</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="destination_url" added="1270647421">URL de destino</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="example_http_www_yourwebsite_com" added="1270647431">Ejemplo: http://www.tusitioweb.com/</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="2_targeting" added="1270647443"><![CDATA[2. Orientaci&#243;n]]></phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="continue" added="1270647453">Continua</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="3_campaigns_and_pricing" added="1270647483"><![CDATA[3. Campa&#241;as y precios]]></phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="impressions" added="1270647502">Impresiones</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="recalculate_costs" added="1270647518">Recalcular costes</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="submit" added="1270647538">Enviar</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="select_an_ad_placement" added="1270647720">Selecciona una ubicacion para el anuncio.</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="ad_management" added="1270726614">Administracion del Anuncio</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="management" added="1270726624"><![CDATA[Administraci&#243;n]]></phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="approved" added="1270727477">Aprobada</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="campaign" added="1270727516"><![CDATA[Campa&#241;a]]></phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="continue_this_campaign" added="1270727549"><![CDATA[Continuar esta campa&#241;a]]></phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="pause_this_campaign" added="1270727556"><![CDATA[Pausar esta campa&#241;a]]></phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="no_ads_found" added="1270727566">No se encuentran.</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="updating_an_ad" added="1270728858">Actualizar un anuncio</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="the_file_dimensions_are_too_big" added="1270730916">Las dimensiones de archivos son demasiado grandes.</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="provide_a_campaign_name" added="1270731048"><![CDATA[Proporcione un nombre a la campa&#241;a.]]></phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="admin_menu_manage_placements" added="1270807089">Administrar ubicaciones</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="admin_menu_ad_placement" added="1270807089"><![CDATA[Ubicaci&#243;n del anuncio]]></phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="ad_placement_successfully_deleted" added="1271066010"><![CDATA[Ubicaci&#243;n del anuncio se ha eliminado correctamente.]]></phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="manage_ad_placements" added="1271066020">Administrar ubicaciones de anuncios</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="ad_placements" added="1271066046">ubicaciones de anuncios</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="campaigns" added="1271066068"><![CDATA[Campa&#241;as]]></phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="ad_placement_successfully_updated" added="1271066099">Ubicacion del anuncio actualizada correctamente.</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="ad_placement_successfully_added" added="1271066107"><![CDATA[Ubicacion del anuncio a&#241;adida correctamente.]]></phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="add_ad_placement" added="1271066118"><![CDATA[A&#241;adir Ubicacion del anuncio]]></phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="manage_placements" added="1271066132">administrar ubicaciones</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="ad_placement_details" added="1271066207"><![CDATA[Detalles de la ubicacion del anunci&#243;]]></phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="price" added="1271066229">Precio</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="is_active" added="1271066237"><![CDATA[Est&#225; Activo]]></phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="yes" added="1271066249">Si</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="no" added="1271066255">No</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="provide_a_title" added="1271070431"><![CDATA[Proporcionar un t&#237;tulo]]></phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="select_a_placement" added="1271070598"><![CDATA[Seleccionar una ubicaci&#243;n.]]></phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="provide_a_cost" added="1271070607">Proporcionar un precio.</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="select_if_this_ad_placement_is_active_or_not" added="1271070619"><![CDATA[Selecciona si la colocaci&#243;n de anuncios est&#225; activa o no.]]></phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="ad_invoices" added="1271141914"><![CDATA[A&#241;adir Facturas]]></phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="invoices" added="1271141922">Facturas</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="paid" added="1271141986">Pagado</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="cancelled" added="1271141993">Cancelado</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="date" added="1271142436">Fecha</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="pay_now" added="1271142446">Pagar Ahora</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="you_do_not_have_any_invoices" added="1271142492">No tienes ninguna factura.</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="admin_menu_invoices" added="1271157077">Facturas</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="there_are_no_invoices" added="1271158304">TherNo hay facturas.</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="invoice_filter" added="1271158419">Filtro de facturas</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="menu_ad_create_an_ad_523af537946b79c4f8369ed39ba78605" added="1271158736">Crear un anuncio</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="reach_your_exact_audience_and_connect_real_customers_to_your_business" added="1271159708"><![CDATA[Llegue a su p&#250;blico exacto y conectar a los clientes reales a su negocio.]]></phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="create_your_ad" added="1271159717">Crea tu anuncio</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="menu_ad_advertise_251d164643533a527361dbe1a7b9235d" added="1271159780">Anunciate</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="click_on_the_ad_size_you_want_to_create_an_ad_for" added="1271160387"><![CDATA[Haz click en el tama&#241;o del anuncio si desas crear un anuncio.]]></phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="block_location_cost_cpm_1_000_views" added="1271160406">Bloque {location} - {cost} CPM (1.000 visitas)</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="1_confirm_your_item" added="1271321429"><![CDATA[1. Confirma tu art&#237;culo]]></phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="for_currency_total_cost" added="1271330091">para {currency} {total_cost}</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="impressions_cant_be_less_than_a_thousand" added="1271330965">Las impresiones no pueden ser inferior a mil</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="sponsor_error_owner" added="1272015812"><![CDATA[Este art&#237;culo s&#243;lo puede ser patrocinado por su propietario o administrador de un sitio.]]></phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="default_campaign_name" added="1272449447"><![CDATA[Campa&#241;a de administraci&#243;n Creada]]></phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="manage_sponsor_campaigns" added="1272465557"><![CDATA[Administar Campa&#241;as Patrocinadas]]></phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="admin_menu_manage_sponsorships" added="1272549823">Administrar Patrocinadores</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="the_currency_for_your_membership_has_no_price" added="1272971541"><![CDATA[La moneda de tu suscripci&#243;n no tiene precio]]></phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="the_default_currency_has_no_price" added="1272971574">La moneda predeterminada no tiene precio</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="no_placements_found" added="1273003077">No se encontraron ubicaciones.</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="add_a_placement" added="1273003196"><![CDATA[A&#241;adir una ubicaci&#243;n]]></phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="can_create_ad_campaigns" added="1273048621"><![CDATA[Puede crear campa&#241;as publicitarias?]]></phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="user_setting_can_create_ad_campaigns" added="1273048700"><![CDATA[Puede crear campa&#241;as publicitarias?]]></phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="there_is_minimum_of_1000_impressions" added="1271337234"><![CDATA[El m&#237;nimo es de 1.000 impresiones.]]></phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="define_how_many_impressions_for_this_ad" added="1271337402"><![CDATA[Definir cu&#225;ntas impresiones para este anuncio.]]></phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="provide_a_title_for_your_ad" added="1271403313">Proporcionar un titulo para tu anuncio.</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="provide_text_for_your_ad" added="1271403325">Proporcionar texto para tu anuncio.</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="provide_a_url_for_your_ad" added="1271403334">Proporcionar una URL para tu anuncio.</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="select_an_image_for_your_ad" added="1271942180">Selecciona una imagen para tu anuncio.</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="thank_you_for_your_purchase_your_ad_is_currently_pending_approval" added="1271942565"><![CDATA[Gracias por tu compra. Tu anuncio est&#225; pendiente de aprobaci&#243;n.]]></phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="no_ad_placements_have_been_created_check_back_here_shortly" added="1273050956">No ha creado ubicacione de anuncios.Comprobar aqui en breve.</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="ad_approved" added="1273065665">Anuncio aprobado</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="your_ad_on_site_name_has_been_approved" added="1273066852"><![CDATA[Tu anuncio en {site_name} ha sido aprobado:
+<a href="{link}">{link}</a>]]></phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="ad_denied" added="1273067107">Anuncio denegado</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="your_ad_on_site_name_has_been_denied" added="1273067141"><![CDATA[Su anuncio en {site_name} ha sido denegado:
+<a href="{link}">{link}</a>]]></phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="sponsor_ad_approved" added="1273150101">Sponsor aprobado</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="your_sponsor_ad_on_site_name_has_been_approved" added="1273150164"><![CDATA[Tu sponsored a&#241;adido en {site_name} ha sido aprobado:
+<a href="{link}">{link}</a>]]></phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="sponsor_ad_denied" added="1273150461">Sponsor denegado</phrase>
+	<phrase module_id="ad" version_id="2.0.5" var_name="your_sponsor_ad_on_site_name_has_been_denied" added="1273150501"><![CDATA[Tu sponsored a&#241;adido en {site_name} ha sido denegado:
+<a href="{link}">{link}</a>]]></phrase>
+	<phrase module_id="ad" version_id="2.0.5dev1" var_name="your_order_has_been_processed" added="1274289160">Tu pedido ha sido procesado.</phrase>
+	<phrase module_id="ad" version_id="2.0.6" var_name="and" added="1285598055">y</phrase>
+	<phrase module_id="ad" version_id="2.0.7" var_name="total_ad_views" added="1288277434">{total} visitas</phrase>
+	<phrase module_id="ad" version_id="2.0.7" var_name="invoice_successfully_deleted" added="1288620889">Factura eliminada correctamente</phrase>
+	<phrase module_id="ad" version_id="3.0.0beta5" var_name="enabled" added="1319184231">Activado</phrase>
+	<phrase module_id="ad" version_id="3.0.0beta5" var_name="disabled" added="1319184236">Desactivado</phrase>
+	<phrase module_id="ad" version_id="3.0.0rc2" var_name="blogs" added="1321448291">Blogs</phrase>
+	<phrase module_id="ad" version_id="3.0.0" var_name="manage_ads" added="1323261463">Administrar anuncios</phrase>
+	<phrase module_id="ad" version_id="3.0.0" var_name="manage_invoices" added="1323261476">Administrar facturas</phrase>
+	<phrase module_id="ad" version_id="3.0.0" var_name="manage_sponsorships" added="1323261491">Administrar Sponsors</phrase>
+	<phrase module_id="ad" version_id="3.0.0" var_name="choose_image" added="1323261560">Elegir imagen</phrase>
+</phrases>

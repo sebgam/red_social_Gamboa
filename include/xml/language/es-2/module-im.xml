@@ -1,0 +1,59 @@
+<phrases>
+	<phrase module_id="im" version_id="2.0.0beta5" var_name="module_im" added="1246347993">Chat</phrase>
+	<phrase module_id="im" version_id="2.0.0beta5" var_name="setting_im_time_stamp" added="1246864828"><![CDATA[<title>Messenger Fecha y Hora</title><info>Messenger Fecha y Hora</info>]]></phrase>
+	<phrase module_id="im" version_id="2.0.0beta5" var_name="setting_enable_im_in_footer_bar" added="1247130604"><![CDATA[<title>Activar IM (Footer Bar)</title><info>Seleccione esto a <b>Si</b> para habilitar que la mensajer&#237;a instant&#225;nea forme parte de la barra del pie de p&#225;gina del sitio.</info>]]></phrase>
+	<phrase module_id="im" version_id="2.0.0rc1" var_name="setting_group_total_friends_to_display_in_im" added="1250753660"><![CDATA[<title>Total de amigos para mostrar en im</title><info>Definir la cantidad de amigos que se debe mostrar en la lista de IM.</info>]]></phrase>
+	<phrase module_id="im" version_id="2.0.0rc1" var_name="setting_total_friends_to_display_in_im" added="1250753735"><![CDATA[<title>Total de amigos en lista IM </title><info>Definir la cantidad de amigos que se debe mostrar en la lista de IM.</info>]]></phrase>
+	<phrase module_id="im" version_id="2.0.0rc4" var_name="online" added="1254982727"><![CDATA[En L&#237;nea]]></phrase>
+	<phrase module_id="im" version_id="2.0.0rc4" var_name="away" added="1254982736">Ocupado</phrase>
+	<phrase module_id="im" version_id="2.0.0rc4" var_name="appear_offline" added="1254982746">Aparecer desconectado</phrase>
+	<phrase module_id="im" version_id="2.0.0rc4" var_name="not_a_valid_chat_room" added="1254982823"><![CDATA[No es una sala de chat v&#225;lida.]]></phrase>
+	<phrase module_id="im" version_id="2.0.0rc4" var_name="unable_to_send_this_user_an_offline_message" added="1254982832"><![CDATA[No se puede enviar a este usuario un mensaje fuera de l&#237;nea.]]></phrase>
+	<phrase module_id="im" version_id="2.0.0rc4" var_name="report" added="1254982972">Denunciar</phrase>
+	<phrase module_id="im" version_id="2.0.0rc4" var_name="report_this_user" added="1254983057">Denunciar este Usuario</phrase>
+	<phrase module_id="im" version_id="2.0.0rc4" var_name="instant_messenger" added="1254983096">Chat</phrase>
+	<phrase module_id="im" version_id="2.0.0rc4" var_name="chat" added="1254983153">Chat</phrase>
+	<phrase module_id="im" version_id="2.0.0rc4" var_name="offline" added="1254983161">Desconectado</phrase>
+	<phrase module_id="im" version_id="2.0.0rc4" var_name="close" added="1254983185">Cerrar</phrase>
+	<phrase module_id="im" version_id="2.0.0rc4" var_name="find_your_friends" added="1254983211">Encuentra a tus amigos...</phrase>
+	<phrase module_id="im" version_id="2.0.0rc4" var_name="no_friends_online" added="1254983488"><![CDATA[No tienes amigos en l&#237;nea.]]></phrase>
+	<phrase module_id="im" version_id="2.0.0rc4" var_name="member_is_offline" added="1254983914"><![CDATA[El usuario est&#225; desconectado.]]></phrase>
+	<phrase module_id="im" version_id="2.0.0rc5" var_name="go_offline" added="1256804861">Desconectarme</phrase>
+	<phrase module_id="im" version_id="2.0.0rc5" var_name="edit_block_list" added="1256804873">Editar bloqueados</phrase>
+	<phrase module_id="im" version_id="2.0.0rc5" var_name="status" added="1256804880">Estado</phrase>
+	<phrase module_id="im" version_id="2.0.0rc5" var_name="play_sound_on_new_message" added="1256804890">Reproducir sonido en mensaje nuevo</phrase>
+	<phrase module_id="im" version_id="2.0.0rc5" var_name="yes" added="1256804897">Si</phrase>
+	<phrase module_id="im" version_id="2.0.0rc5" var_name="no" added="1256804903">No</phrase>
+	<phrase module_id="im" version_id="2.0.0rc5" var_name="options" added="1256804920">Opciones</phrase>
+	<phrase module_id="im" version_id="2.0.0rc5" var_name="block" added="1256805201">Bloquear</phrase>
+	<phrase module_id="im" version_id="2.0.0rc5" var_name="more_conversations" added="1256805266"><![CDATA[M&#225;s Conversaciones...]]></phrase>
+	<phrase module_id="im" version_id="2.0.0rc5" var_name="conversations" added="1256805343">Conversaciones</phrase>
+	<phrase module_id="im" version_id="2.0.0rc11" var_name="setting_im_time_stamp_past" added="1259962435"><![CDATA[<title>IM Fecha y Hora (Pasada)</title><info>IM Fecha y Hora (Pasada)</info>]]></phrase>
+	<phrase module_id="im" version_id="2.0.6" var_name="are_you_sure" added="1284994281"><![CDATA[&#191;Est&#225;s seguro?]]></phrase>
+	<phrase module_id="im" version_id="3.0.0beta1" var_name="setting_im_php_sleep" added="1312373490"><![CDATA[<title>Tiempo de espera del Sevidor</title><info>Cuando la IM solicita una actualizaci&#243;n del servidor, el servidor comprobar&#225; si hay nuevos mensajes y otra informaci&#243;n, si nada nuevo se encuentra se va a esperar para comprobar una vez m&#225;s, este valor determina el tiempo (en segundos) debe esperar el servidor.
+
+Cuanto m&#225;s bajo sea el valor del tiempo m&#225;s real de la IM se ver&#225;, pero va a utilizar m&#225;s recursos del servidor.
+
+Un valor demasiado bajo y su servidor no puede ser capaz de manejar, usar con cuidado.</info>]]></phrase>
+	<phrase module_id="im" version_id="3.0.0beta1" var_name="setting_im_php_loops" added="1312373834"><![CDATA[<title>N&#250;mero de controles del servidor</title><info>Cuando las solicitudes de mensajer&#237;a instant&#225;nea una actualizaci&#243;n del servidor, el servidor comprobar&#225; si hay nuevos mensajes y otra informaci&#243;n, si nada nuevo se encuentra se va a esperar para comprobar una vez m&#225;s, esto ocurre en la misma llamada AJAX. Este valor indica cu&#225;ntas veces debe el mismo proceso de comprobar nuevas actualizaciones antes de cerrar la conexi&#243;n.
+
+Algunos servidores pueden limitar el tiempo de una carrera de proceso de PHP (por ejemplo 30 segundos), puede utilizar este valor y "El sue&#241;o del servidor de tiempo de espera" para programar las actualizaciones para la mensajer&#237;a instant&#225;nea.
+
+La combinaci&#243;n por defecto permite que los controles para funcionar durante 30 segundos antes de devolver el control al navegador web para otra carrera.</info>]]></phrase>
+	<phrase module_id="im" version_id="3.0.0beta1" var_name="setting_js_interval_value" added="1312374230"><![CDATA[<title>Comprobar intervalo de tiempo de espera JS Ajax </title><info>Esta configuraci&#243;n controla la frecuencia con que el IM comprobar el estado de una llamada Ajax. El valor es en milisegundos, por lo que el valor predeterminado es 3 segundos.
+
+Si el valor es demasiado baja, el navegador puede dejar de responder. Se aconseja mantenerlo en el rango de miles de personas.</info>]]></phrase>
+	<phrase module_id="im" version_id="3.0.0beta1" var_name="setting_server_for_ajax_calls" added="1312528680"><![CDATA[<title>Servidor para llamadas Ajax </title><info>Para mejorar el rendimiento se puede distribuir la carga de la mensajer&#237;a instant&#225;nea a un servidor diferente.
+Este ajuste le indica a qu&#233; servidor debe la consulta de mensajer&#237;a instant&#225;nea para las actualizaciones.
+
+Tenga en cuenta que el servidor todav&#237;a debe estar bajo el mismo dominio.
+
+Si lo deja en blanco el IM consultar el servidor principal.
+Los valores aceptables son en forma de un dominio o una direcci&#243;n IP, por ejemplo:
+http://im.domain.com/
+http://67.15.104.63/~~V
+
+son ejemplos v&#225;lidos. Tambi&#233;n no se olvide el http:// y el final /</info>]]></phrase>
+	<phrase module_id="im" version_id="3.0.0" var_name="block_this_user" added="1323086309">Bloquear este usuario</phrase>
+	<phrase module_id="im" version_id="3.0.0" var_name="unable_to_block_this_user" added="1323086356">No se puede bloquear a este usuario.</phrase>
+</phrases>

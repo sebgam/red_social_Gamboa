@@ -1,0 +1,219 @@
+<phrases>
+	<phrase module_id="custom" version_id="2.0.0alpha3" var_name="module_custom" added="1238394705">Campos Personalizados</phrase>
+	<phrase module_id="custom" version_id="2.0.0alpha3" var_name="user_setting_can_edit_own_custom_field" added="1238403255">Puede editar sus propios campos personalizados?</phrase>
+	<phrase module_id="custom" version_id="2.0.0alpha3" var_name="user_setting_can_edit_other_custom_fields" added="1238403455">Puede editar otros campos personalizados?</phrase>
+	<phrase module_id="custom" version_id="2.0.0alpha3" var_name="admin_menu_add_custom_field" added="1238430261"><![CDATA[A&#241;adir Campo Personalizado]]></phrase>
+	<phrase module_id="custom" version_id="2.0.0alpha3" var_name="admin_menu_manage_custom_fields" added="1238611269">Administrar Campos Personalizados</phrase>
+	<phrase module_id="custom" version_id="2.0.0alpha3" var_name="user_setting_can_add_custom_fields" added="1238611534"><![CDATA[Puede a&#241;adir nuevos campos personalizados?]]></phrase>
+	<phrase module_id="custom" version_id="2.0.0alpha3" var_name="setting_hide_custom_fields_when_empty" added="1238613571"><![CDATA[<title>Ocultar campos personalizados vac&#237;os (Perfil de los usuarios)</title><info>Definir si se debe ocultar los campos personalizados que est&#225;n vac&#237;os cuando un usuario est&#225; viendo su perfil sin tener que visitar la p&#225;gina de dise&#241;o.</info>]]></phrase>
+	<phrase module_id="custom" version_id="2.0.0alpha3" var_name="admin_menu_add_custom_group" added="1238665028"><![CDATA[A&#241;adir Grupo Personalizado]]></phrase>
+	<phrase module_id="custom" version_id="2.0.0alpha3" var_name="user_setting_can_add_custom_fields_group" added="1238665815">Puede agregar un grupo de campos personalizados?</phrase>
+	<phrase module_id="custom" version_id="2.0.0beta1" var_name="user_setting_has_special_custom_fields" added="1240596597">Puede tener campos personalizados especiales?</phrase>
+	<phrase module_id="custom" version_id="2.0.0beta1" var_name="user_setting_custom_table_name" added="1240597480">Base de datos personalizada campo de nombre de la tabla?</phrase>
+	<phrase module_id="custom" version_id="2.0.0beta1" var_name="admincp_custom_fields" added="1241342492">Campos Personalizados</phrase>
+	<phrase module_id="custom" version_id="2.0.0rc3" var_name="nothing_added_yet_click_to_edit" added="1254382815"><![CDATA[Nada a&#241;adido todav&#237;a. Click <a href="#" onclick="{link}">aqu&#237;</a> para editar.]]></phrase>
+	<phrase module_id="custom" version_id="2.0.0rc3" var_name="select_a_product_this_custom_field_will_belong_to" added="1254383181">Seleccionar un producto que pertene a este campo personalizado.</phrase>
+	<phrase module_id="custom" version_id="2.0.0rc3" var_name="select_a_module_this_custom_field_will_belong_to" added="1254383838">Seleccionar un modulo que pertene a este campo personalizado.</phrase>
+	<phrase module_id="custom" version_id="2.0.0rc3" var_name="select_where_this_custom_field_should_be_located" added="1254383854">Seleccionar donde debe ser localizado este campo personalizado.</phrase>
+	<phrase module_id="custom" version_id="2.0.0rc3" var_name="group_successfully_updated" added="1254383870">Grupo actualizado correctamente.</phrase>
+	<phrase module_id="custom" version_id="2.0.0rc3" var_name="group_successfully_added" added="1254383896"><![CDATA[Grupo de a&#241;adido correctamente.]]></phrase>
+	<phrase module_id="custom" version_id="2.0.0rc3" var_name="add_a_new_custom_group" added="1254383958"><![CDATA[A&#241;adir un nuevo grupo personalizado]]></phrase>
+	<phrase module_id="custom" version_id="2.0.0rc3" var_name="select_what_type_of_custom_field_this_is" added="1254384409">Selecciona que tipo de campo personalizado es este.</phrase>
+	<phrase module_id="custom" version_id="2.0.0rc3" var_name="field_successfully_updated" added="1254384441">Campo actualizado correctamente.</phrase>
+	<phrase module_id="custom" version_id="2.0.0rc3" var_name="field_successfully_added" added="1254384461">Campo agregado correctamente.</phrase>
+	<phrase module_id="custom" version_id="2.0.0rc3" var_name="add_a_new_custom_field" added="1254384520"><![CDATA[A&#241;adir un nuevo campo personalizado]]></phrase>
+	<phrase module_id="custom" version_id="2.0.0rc3" var_name="custom_group_successfully_deleted" added="1254384555">Grupo personalizado se ha eliminado correctamente.</phrase>
+	<phrase module_id="custom" version_id="2.0.0rc3" var_name="custom_fields_successfully_updated" added="1254384566">Los campos personalizados se han actualizado correctamente.</phrase>
+	<phrase module_id="custom" version_id="2.0.0rc3" var_name="manage_custom_fields" added="1254384579">Administrar campos personalizados</phrase>
+	<phrase module_id="custom" version_id="2.0.0rc3" var_name="provide_a_module_for_this_group_to_belong_to" added="1254384647"><![CDATA[Proporciona un m&#243;dulo para este grupo al cual pertenece.]]></phrase>
+	<phrase module_id="custom" version_id="2.0.0rc3" var_name="provide_a_name_for_this_group" added="1254384681">Proporcione un nombre para este grupo.</phrase>
+	<phrase module_id="custom" version_id="2.0.0rc3" var_name="there_is_already_a_group_with_the_same_name" added="1254384698">Ya existe un grupo con el mismo nombre.</phrase>
+	<phrase module_id="custom" version_id="2.0.0rc3" var_name="unable_to_find_the_custom_group" added="1254384946">No puede encontrar la grupo personalizado.</phrase>
+	<phrase module_id="custom" version_id="2.0.0rc3" var_name="unable_to_find_the_group_you_plan_on_deleting" added="1254384964">No se puede encontrar el grupo que planea eliminar.</phrase>
+	<phrase module_id="custom" version_id="2.0.0rc3" var_name="not_a_valid_custom_field_to_edit" added="1254385041"><![CDATA[No es un campo v&#225;lido personalizado para editar.]]></phrase>
+	<phrase module_id="custom" version_id="2.0.0rc3" var_name="you_do_not_have_permission_to_edit_this_field" added="1254385054">No tienes permiso para editar este campo.</phrase>
+	<phrase module_id="custom" version_id="2.0.0rc3" var_name="updating" added="1254385075">Actualizando</phrase>
+	<phrase module_id="custom" version_id="2.0.0rc3" var_name="cancel" added="1254385096">Cancelar</phrase>
+	<phrase module_id="custom" version_id="2.0.0rc3" var_name="provide_a_name_for_the_custom_field" added="1254385184">Proporciona un nombre para el campo personalizado.</phrase>
+	<phrase module_id="custom" version_id="2.0.0rc3" var_name="name_of_this_custom_field_is_already_in_use" added="1254385200"><![CDATA[Nombre del campo personalizado ya se est&#225; utilizando.]]></phrase>
+	<phrase module_id="custom" version_id="2.0.0rc3" var_name="not_a_valid_type_of_custom_field" added="1254385228"><![CDATA[No es un tipo v&#225;lido de campo personalizado.]]></phrase>
+	<phrase module_id="custom" version_id="2.0.0rc3" var_name="you_have_selected_that_this_field_is_a_select_custom_field_which_requires_at_least_one_option" added="1254385243"><![CDATA[Ha seleccionado que este campo es un "Seleccionar" de campo personalizado, que requiere al menos una opci&#243;n.]]></phrase>
+	<phrase module_id="custom" version_id="2.0.0rc3" var_name="unable_to_find_the_custom_field" added="1254385584">No se puede encontrar el campo personalizado.</phrase>
+	<phrase module_id="custom" version_id="2.0.0rc3" var_name="unable_to_find_the_custom_field_you_want_to_delete" added="1254385593">No se puede encontrar el campo personalizado que desee eliminar.</phrase>
+	<phrase module_id="custom" version_id="2.0.0rc3" var_name="unable_to_find_the_custom_option_you_plan_on_deleting" added="1254385607"><![CDATA[No se puede encontrar la opci&#243;n personalizada que planea eliminar.]]></phrase>
+	<phrase module_id="custom" version_id="2.0.0rc3" var_name="are_you_sure_you_want_to_delete_this_custom_option" added="1254385722"><![CDATA[Est&#225;s seguro que deseas eliminar esta opci&#243;n personalizada?
+
+Tenga en cuenta que cualquier persona que utilice esta opci&#243;n volver&#225; a utilizar el conjunto de opciones por defecto para este campo personalizado.]]></phrase>
+	<phrase module_id="custom" version_id="2.0.0rc3" var_name="select" added="1254387580">Seleccionar</phrase>
+	<phrase module_id="custom" version_id="2.0.0rc3" var_name="no_answer" added="1254387590">Sin respuesta</phrase>
+	<phrase module_id="custom" version_id="2.0.0rc3" var_name="group_details" added="1254387601">Detalles del grupo</phrase>
+	<phrase module_id="custom" version_id="2.0.0rc3" var_name="location" added="1254387608"><![CDATA[Ubicaci&#243;n]]></phrase>
+	<phrase module_id="custom" version_id="2.0.0rc3" var_name="user_group" added="1254387623">Grupo de Usuarios</phrase>
+	<phrase module_id="custom" version_id="2.0.0rc3" var_name="select_only_if_you_want_a_specific_user_group_to_have_special_custom_fields" added="1254387639">Seleccione si desea que un grupo de usuarios tenga campos personalizados especiales.</phrase>
+	<phrase module_id="custom" version_id="2.0.0rc3" var_name="group" added="1254387647">Grupo</phrase>
+	<phrase module_id="custom" version_id="2.0.0rc3" var_name="add_group" added="1254387667">Agregar Grupo</phrase>
+	<phrase module_id="custom" version_id="2.0.0rc3" var_name="cancel_uppercase" added="1254387686">Cancelar</phrase>
+	<phrase module_id="custom" version_id="2.0.0rc3" var_name="field_details" added="1254387694">Detalles del campo</phrase>
+	<phrase module_id="custom" version_id="2.0.0rc3" var_name="create_a_new_group" added="1254388379">Crear un Nuevo Grupo</phrase>
+	<phrase module_id="custom" version_id="2.0.0rc3" var_name="required" added="1254388430">Requerido</phrase>
+	<phrase module_id="custom" version_id="2.0.0rc3" var_name="yes" added="1254388436">Si</phrase>
+	<phrase module_id="custom" version_id="2.0.0rc3" var_name="no" added="1254388445">No</phrase>
+	<phrase module_id="custom" version_id="2.0.0rc3" var_name="type" added="1254388454">Tipo</phrase>
+	<phrase module_id="custom" version_id="2.0.0rc3" var_name="large_text_area" added="1254388469"><![CDATA[&#193;rea grande de texto]]></phrase>
+	<phrase module_id="custom" version_id="2.0.0rc3" var_name="small_text_area_255_characters_max" added="1254388477"><![CDATA[Area peque&#241;a del texto (255 Caracteres Maximo)]]></phrase>
+	<phrase module_id="custom" version_id="2.0.0rc3" var_name="selection" added="1254388483">Seleccion</phrase>
+	<phrase module_id="custom" version_id="2.0.0rc3" var_name="field_name_amp_values" added="1254388493"><![CDATA[Nombre de campo & Valores]]></phrase>
+	<phrase module_id="custom" version_id="2.0.0rc3" var_name="name" added="1254388502">Nombre</phrase>
+	<phrase module_id="custom" version_id="2.0.0rc3" var_name="current_values" added="1254388513">Valores Actuales</phrase>
+	<phrase module_id="custom" version_id="2.0.0rc3" var_name="option_count" added="1254388554">Opcion {count}</phrase>
+	<phrase module_id="custom" version_id="2.0.0rc3" var_name="values" added="1254388568">Valor</phrase>
+	<phrase module_id="custom" version_id="2.0.0rc3" var_name="option_html_count" added="1254388585"><![CDATA[Opcion <span class="js_option_count"></span>]]></phrase>
+	<phrase module_id="custom" version_id="2.0.0rc3" var_name="add_new_option" added="1254388596"><![CDATA[A&#241;adir nueva opcion]]></phrase>
+	<phrase module_id="custom" version_id="2.0.0rc3" var_name="update" added="1254388602">Actualizar</phrase>
+	<phrase module_id="custom" version_id="2.0.0rc3" var_name="add" added="1254388609">Agregar</phrase>
+	<phrase module_id="custom" version_id="2.0.0rc3" var_name="edit" added="1254388627">Editar</phrase>
+	<phrase module_id="custom" version_id="2.0.0rc3" var_name="set_to_inactive" added="1254388637">Establecido en inactivo</phrase>
+	<phrase module_id="custom" version_id="2.0.0rc3" var_name="delete" added="1254388643">Eliminar</phrase>
+	<phrase module_id="custom" version_id="2.0.0rc3" var_name="custom_fields" added="1254388653">Campos Personalizados</phrase>
+	<phrase module_id="custom" version_id="2.0.0rc3" var_name="general" added="1254388664">General</phrase>
+	<phrase module_id="custom" version_id="2.0.0rc3" var_name="update_order" added="1254388687"><![CDATA[Actualizaci&#243;n del Pedido]]></phrase>
+	<phrase module_id="custom" version_id="2.0.0rc3" var_name="no_custom_fields_have_been_added" added="1254388696"><![CDATA[No se han a&#241;adido campos personalizados.]]></phrase>
+	<phrase module_id="custom" version_id="2.0.0" var_name="include_on_registration" added="1261424334">Incluir en la Registracion</phrase>
+	<phrase module_id="custom" version_id="2.0.4" var_name="user_setting_can_manage_custom_fields" added="1267027044">Puedes gestionar los campos personalizados?</phrase>
+	<phrase module_id="custom" version_id="2.0.5" var_name="submit" added="1273137049">Enviando</phrase>
+	<phrase module_id="custom" version_id="2.0.7" var_name="table_does_not_exist" added="1288716106"><![CDATA[La tabla que est&#225;s intentando utilizar ({sTableName}) no existe. Por favor, ve a tu administrador de base de datos y crear una tabla.]]></phrase>
+	<phrase module_id="custom" version_id="3.0.0beta1" var_name="user_setting_can_have_relationship" added="1305879106">Pueden los miembros de este grupo de usuarios definir su estado civil?</phrase>
+	<phrase module_id="custom" version_id="3.0.0beta1" var_name="admin_menu_manage_relationships" added="1305879144"><![CDATA[Gestionar estados de Relaci&#243;n]]></phrase>
+	<phrase module_id="custom" version_id="3.0.0beta1" var_name="custom_relation_blank" added="1305882451"><![CDATA[No quiero dar informaci&#243;n]]></phrase>
+	<phrase module_id="custom" version_id="3.0.0beta1" var_name="custom_relation_single" added="1305882680">Soltero</phrase>
+	<phrase module_id="custom" version_id="3.0.0beta1" var_name="custom_relation_engaged" added="1305882691">Comprometido</phrase>
+	<phrase module_id="custom" version_id="3.0.0beta1" var_name="custom_relation_married" added="1305882698">Casado</phrase>
+	<phrase module_id="custom" version_id="3.0.0beta1" var_name="custom_relation_it_s_complicated" added="1305882857">Es complicado</phrase>
+	<phrase module_id="custom" version_id="3.0.0beta1" var_name="custom_relation_in_an_open_relationship" added="1305882905"><![CDATA[est&#225; en una relaci&#243;n abierta]]></phrase>
+	<phrase module_id="custom" version_id="3.0.0beta1" var_name="custom_relation_widowed" added="1305882984">Viudo</phrase>
+	<phrase module_id="custom" version_id="3.0.0beta1" var_name="custom_relation_separated" added="1305882992">Separatado</phrase>
+	<phrase module_id="custom" version_id="3.0.0beta1" var_name="custom_relation_divorced" added="1305883008">Divorciado</phrase>
+	<phrase module_id="custom" version_id="3.0.0beta1" var_name="relationship_status" added="1305884797"><![CDATA[Situaci&#243;n sentimental:]]></phrase>
+	<phrase module_id="custom" version_id="3.0.0beta1" var_name="custom_relation_single_new" added="1306403775">es soltero</phrase>
+	<phrase module_id="custom" version_id="3.0.0beta1" var_name="user_is_no_longer_listed_as" added="1306412736"><![CDATA[ya no aparece como "{previous}"]]></phrase>
+	<phrase module_id="custom" version_id="3.0.0beta1" var_name="custom_relation_engaged_new" added="1306413530"><![CDATA[est&#225; comprometido]]></phrase>
+	<phrase module_id="custom" version_id="3.0.0beta1" var_name="custom_relation_engaged_with" added="1306413743"><![CDATA[est&#225; comprometido con {with_full_name}]]></phrase>
+	<phrase module_id="custom" version_id="3.0.0beta1" var_name="custom_relation_married_with" added="1306415046"><![CDATA[est&#225; casado con {with_full_name}]]></phrase>
+	<phrase module_id="custom" version_id="3.0.0beta1" var_name="custom_relation_married_new" added="1306415429"><![CDATA[est&#225; casado]]></phrase>
+	<phrase module_id="custom" version_id="3.0.0beta1" var_name="custom_relation_it_s_complicated_new" added="1306417354"><![CDATA[est&#225; en una relacion y es complicada]]></phrase>
+	<phrase module_id="custom" version_id="3.0.0beta1" var_name="custom_relation_it_s_complicated_with" added="1306418181"><![CDATA[est&#225; en una relaci&#243;n complicada con {with_full_name}]]></phrase>
+	<phrase module_id="custom" version_id="3.0.0beta1" var_name="custom_relation_in_an_open_relationship_new" added="1306418345"><![CDATA[est&#225; en una relaci&#243;n abierta]]></phrase>
+	<phrase module_id="custom" version_id="3.0.0beta1" var_name="custom_relation_in_an_open_relationship_with" added="1306477750"><![CDATA[est&#225; en una relaci&#243;n abierta con {with_full_name}]]></phrase>
+	<phrase module_id="custom" version_id="3.0.0beta1" var_name="custom_relation_widowed_new" added="1306482879">has perdido {their} un ser querido</phrase>
+	<phrase module_id="custom" version_id="3.0.0beta1" var_name="custom_relation_custom_relation_separated_with" added="1306744450"><![CDATA[ya no est&#225; con {with_full_name}]]></phrase>
+	<phrase module_id="custom" version_id="3.0.0beta1" var_name="custom_relation_custom_relation_separated_new" added="1306744460"><![CDATA[ya no est&#225; con {with_full_name}]]></phrase>
+	<phrase module_id="custom" version_id="3.0.0beta1" var_name="custom_relation_separated_with" added="1306744557"><![CDATA[ya no est&#225; con {with_full_name}]]></phrase>
+	<phrase module_id="custom" version_id="3.0.0beta1" var_name="custom_relation_separated_new" added="1306744557"><![CDATA[ya no est&#225; con {with_full_name}]]></phrase>
+	<phrase module_id="custom" version_id="3.0.0beta1" var_name="custom_relation_divorced_with" added="1306744851">se ha divorciado</phrase>
+	<phrase module_id="custom" version_id="3.0.0beta1" var_name="custom_relation_divorced_new" added="1306744851">Nueva relacion personalizada de divorcio</phrase>
+	<phrase module_id="custom" version_id="3.0.0beta1" var_name="custom_relation_cheating_with" added="1306744882"><![CDATA[est&#225; enga&#241;ando a su relaci&#243;n con {with_full_name}]]></phrase>
+	<phrase module_id="custom" version_id="3.0.0beta1" var_name="custom_relation_cheating_new" added="1306744882"><![CDATA[est&#225; siendo infiel]]></phrase>
+	<phrase module_id="custom" version_id="3.0.0beta1" var_name="custom_relation_blank_with" added="1306744911">ya no aparece como {previous_status}</phrase>
+	<phrase module_id="custom" version_id="3.0.0beta1" var_name="custom_relation_blank_new" added="1306744911">no quiere dar datos de su vida sentimental</phrase>
+	<phrase module_id="custom" version_id="3.0.0beta1" var_name="custom_relation_in_a_relationship" added="1309168519">En una relacion</phrase>
+	<phrase module_id="custom" version_id="3.0.0beta1" var_name="custom_relation_in_a_relationship_with" added="1309168519"><![CDATA[est&#225; en una relaci&#243;n]]></phrase>
+	<phrase module_id="custom" version_id="3.0.0beta1" var_name="custom_relation_in_a_relationship_new" added="1309168519"><![CDATA[est&#225; en una relaci&#243;n]]></phrase>
+	<phrase module_id="custom" version_id="3.0.0beta1" var_name="relation_went_from_old_status_to_new_status" added="1309169257"><![CDATA[pas&#243; de ser "{sOldStatus}" a "{sNewStatus}"]]></phrase>
+	<phrase module_id="custom" version_id="" var_name="custom_relation_single_with" added="1309169257">es Soltero</phrase>
+	<phrase module_id="custom" version_id="3.0.0beta5" var_name="could_not_delete" added="1319184040">No se puede eliminar</phrase>
+	<phrase module_id="custom" version_id="3.0.0beta5" var_name="full_name_liked_your_change_on_phrase_var_name" added="1319533243"><![CDATA[a {full_name} le gusta tu cambio en "{phrase_var_name}"]]></phrase>
+	<phrase module_id="custom" version_id="3.0.0beta5" var_name="full_name_liked_your_change_on_message" added="1319533321"><![CDATA[{full_name} le gusta tu cambio en "<a href="{link}">{phrase_var_name}</a>"
+
+Para verlo sige el siguiente enlace:
+
+<a href="{link}">{link}</a>]]></phrase>
+	<phrase module_id="custom" version_id="3.0.0beta5" var_name="full_name_liked_your_change_in_relationship_title" added="1319533383"><![CDATA[a {full_name} le gusta tu cambio de estado de relaci&#243;n "{title}"]]></phrase>
+	<phrase module_id="custom" version_id="3.0.0beta5" var_name="full_name_liked_your_change_in_relationship_message" added="1319534017"><![CDATA[{full_name} le gusta tu cambio de estado de relaci&#243;n "<a href="{link}">{title}</a>"
+
+Para verlo sige el siguiente enlace:
+
+<a href="{link}">{link}</a>]]></phrase>
+	<phrase module_id="custom" version_id="3.0.0beta5" var_name="full_name_liked_your_photo_title" added="1319535072"><![CDATA[a {full_name} le gusta tu foto "{title}"]]></phrase>
+	<phrase module_id="custom" version_id="3.0.0beta5" var_name="full_name_liked_your_photo_message" added="1319535150"><![CDATA[{full_name} le gusta tu foto"<a href="{link}">{title}</a>"
+
+Para verlo sige el siguiente enlace:
+
+<a href="{link}">{link}</a>]]></phrase>
+	<phrase module_id="custom" version_id="3.0.0beta5" var_name="full_name_liked_your_photo_album_name" added="1319535205"><![CDATA[a {full_name} le gusta tu &#225;lbum de fotos "{name}"]]></phrase>
+	<phrase module_id="custom" version_id="3.0.0beta5" var_name="full_name_liked_your_photo_album_message" added="1319535835"><![CDATA[{full_name} le gusta tu album de fotos "<a href="{link}">{name}</a>"
+
+Para verlo sige el siguiente enlace:
+
+<a href="{link}">{link}</a>]]></phrase>
+	<phrase module_id="custom" version_id="3.0.0beta5" var_name="users_liked_gender_own_profile_update_title" added="1319542994"><![CDATA[a {users} le gusta su actualizaci&#243;n del perfil "{title}"]]></phrase>
+	<phrase module_id="custom" version_id="3.0.0beta5" var_name="users_liked_your_profile_update_title" added="1319543032"><![CDATA[a {users} le gusta tu actualizaci&#243;n del perfil "{title}"]]></phrase>
+	<phrase module_id="custom" version_id="3.0.0beta5" var_name="users_liked_span_class_drop_data_user_row_full_name" added="1319543079"><![CDATA[a {users} le gusta la actualizaci&#243;n de <span class="drop_data_user">{row_full_name}</span> "{title}"]]></phrase>
+	<phrase module_id="custom" version_id="3.0.0beta5" var_name="name_commented_on_your_profile_update_title" added="1319543288"><![CDATA[{name} coment&#243; en tu actualizaci&#243;n del perfil "{title}".]]></phrase>
+	<phrase module_id="custom" version_id="3.0.0beta5" var_name="name_commented_on_your_profile_update_a_href_link_content_a" added="1319543350"><![CDATA[{name} coment&#243; en su actualizaci&#243;n del perfil "<a href="{link}">{content}</a>".
+Para verlo sige el siguiente enlace:
+<a href="{link}">{link}</a>]]></phrase>
+	<phrase module_id="custom" version_id="3.0.0beta5" var_name="name_commented_on_gender_profile_update" added="1319543391"><![CDATA[{name} coment&#243; en su actualizaci&#243;n del perfil.]]></phrase>
+	<phrase module_id="custom" version_id="3.0.0beta5" var_name="name_commented_on_full_name_s_profile_update" added="1319543433"><![CDATA[{name} coment&#243; en la actualizaci&#243;n del perfil de {full_name}]]></phrase>
+	<phrase module_id="custom" version_id="3.0.0beta5" var_name="user_commented_on_gender_profile_update_message" added="1319543511"><![CDATA[{user} coment&#243; en {gender} actualizaci&#243;n del perfil "<a href="{link}">{content}</a>".
+Para verlo sige el siguiente enlace:
+<a href="{link}">{link}</a>]]></phrase>
+	<phrase module_id="custom" version_id="3.0.0beta5" var_name="name_commented_on_full_name_s_profile_update_message" added="1319543604"><![CDATA[{name} coment&#243; en {full_name}&#039;s actualizaci&#243;n del perfil "<a href="{link}">{content}</a>".
+Para verlo sige el siguiente enlace:
+<a href="{link}">{link}</a>]]></phrase>
+	<phrase module_id="custom" version_id="3.0.0beta5" var_name="unable_to_post_a_comment_on_this_item_due_to_privacy_settings" added="1319543675"><![CDATA[No se puede escribir un comentario sobre este tema debido a la configuraci&#243;n de privacidad.]]></phrase>
+	<phrase module_id="custom" version_id="3.0.0beta5" var_name="users_commented_on_gender_album_title" added="1319543768"><![CDATA[{users} coment&#243; en su album "{title}"]]></phrase>
+	<phrase module_id="custom" version_id="3.0.0beta5" var_name="users_commented_on_your_relationship_status_title" added="1319543805"><![CDATA[{users} coment&#243; en tu estado de relaci&#243;n "{title}"]]></phrase>
+	<phrase module_id="custom" version_id="3.0.0beta5" var_name="users_commented_on_span_class_drop_data_user_full_name_s_span_relationship_status_title" added="1319543843"><![CDATA[{users} coment&#243; en <span class="drop_data_user">{full_name}&#039;s</span> estado de relaci&#243;n "{title}"]]></phrase>
+	<phrase module_id="custom" version_id="3.0.0beta5" var_name="users_liked_gender_own_relationship_status_title" added="1319543942"><![CDATA[a {users} le gusta su estado de relaci&#243;n "{title}"]]></phrase>
+	<phrase module_id="custom" version_id="3.0.0beta5" var_name="users_liked_your_relationship_status_title" added="1319543985"><![CDATA[a {users} le gusta tu estado de relaci&#243;n "{title}"]]></phrase>
+	<phrase module_id="custom" version_id="3.0.0beta5" var_name="users_liked_span_class_drop_data_user_full_name_s_span_relationship_status_title" added="1319544025"><![CDATA[a {users} le gusta el estado de <span class="drop_data_user">{full_name}</span> "{title}"]]></phrase>
+	<phrase module_id="custom" version_id="3.0.0beta5" var_name="import_custom_fields" added="1319544058">Importar campos personalizados</phrase>
+	<phrase module_id="custom" version_id="3.0.0beta5" var_name="invalid_callback_on_comment" added="1319544079"><![CDATA[Rellamada inv&#225;lida en comentario.]]></phrase>
+	<phrase module_id="custom" version_id="3.0.0beta5" var_name="full_name_commented_on_your_profile_update_title" added="1319544106"><![CDATA[{full_name} coment&#243; en tu actualizaci&#243;n del perfil "{title}".]]></phrase>
+	<phrase module_id="custom" version_id="3.0.0beta5" var_name="full_name_commented_on_your_profile_update_message" added="1319544208"><![CDATA[{full_name} coment&#243; en tu actualizaci&#243;n del perfil "<a href="{link}">{title}</a>".
+Para verlo sige el siguiente enlace:
+<a href="{link}">{link}</a>]]></phrase>
+	<phrase module_id="custom" version_id="3.0.0beta5" var_name="full_name_commented_on_gender_profile_update" added="1319544257"><![CDATA[{full_name} coment&#243; en su actualizaci&#243;n del perfil.]]></phrase>
+	<phrase module_id="custom" version_id="3.0.0beta5" var_name="full_name_commented_on_row_full_name_s_video" added="1319544297"><![CDATA[{full_name} coment&#243; en el v&#237;deo de {row_full_name}]]></phrase>
+	<phrase module_id="custom" version_id="3.0.0beta5" var_name="full_name_commented_on_gender_profile_update_message" added="1319544379"><![CDATA[{full_name} coment&#243; en {gender} actualizaci&#243;n del perfil "<a href="{link}">{title}</a>".
+Para verlo sige el siguiente enlace:
+<a href="{link}">{link}</a>]]></phrase>
+	<phrase module_id="custom" version_id="3.0.0beta5" var_name="full_name_commented_on_row_full_name_s_profile_update" added="1319544494"><![CDATA[{full_name} coment&#243; en {row_full_name}&#039;s actualizaci&#243;n del perfil "<a href="{link}">{title}</a>".
+Para verlo sige el siguiente enlace:
+<a href="{link}">{link}</a>]]></phrase>
+	<phrase module_id="custom" version_id="3.0.0beta5" var_name="users_commented_on_gender_profile_update_title" added="1319545221"><![CDATA[{users} coment&#243; en su actualizaci&#243;n del perfil "{title}"]]></phrase>
+	<phrase module_id="custom" version_id="3.0.0beta5" var_name="users_commented_on_your_profile_update_title" added="1319545268"><![CDATA[{users} coment&#243; en tu actualizaci&#243;n del perfil "{title}"]]></phrase>
+	<phrase module_id="custom" version_id="3.0.0beta5" var_name="users_commented_on_span_class_drop_data_user_row_full_name_s_span_profile_update_title" added="1319545739"><![CDATA[{users} coment&#243; en una actualizaci&#243;n del perfil <span class="drop_data_user">{row_full_name}</span> "{title}"]]></phrase>
+	<phrase module_id="custom" version_id="3.0.0rc2" var_name="relationship_status_confirmed" added="1321349812"><![CDATA[Estado de relaci&#243;n confirmado]]></phrase>
+	<phrase module_id="custom" version_id="3.0.0rc2" var_name="full_name_and_full_name_with_are_now_phrase_var_name" added="1321349847">{full_name} y {full_name_with} son ahora {phrase_var_name}</phrase>
+	<phrase module_id="custom" version_id="3.0.0rc2" var_name="add_status" added="1321349975"><![CDATA[A&#241;adir estado]]></phrase>
+	<phrase module_id="custom" version_id="3.0.0rc2" var_name="you_can_add_a_language_phrase_if_you_enter_it_like_this" added="1321349987">Puede agregar una frase de idioma si se introduce como este</phrase>
+	<phrase module_id="custom" version_id="3.0.0rc2" var_name="otherwise_the_script_will_create_the_language_phrase_for_you" added="1321349995"><![CDATA[De lo contrario la secuencia de comandos crear&#225; la frase por usted]]></phrase>
+	<phrase module_id="custom" version_id="3.0.0rc2" var_name="feed_when_confirmed" added="1321350003">Actividad reciente cuando esta confirmado</phrase>
+	<phrase module_id="custom" version_id="3.0.0rc2" var_name="this_is_the_message_for_the_feed_when_the_relationship_has_been_confirmed" added="1321350014"><![CDATA[Este es el mensaje para la actividad reciente cuando la relaci&#243;n ha sido confirmada. En algunos casos, esta fuente no es necesaria y dejar este campo en blanco detiene la actividad que se muestra.
+Por ejemplo "usuario1 est&#225; casado con el usuario2".]]></phrase>
+	<phrase module_id="custom" version_id="3.0.0rc2" var_name="feed_before_confirming" added="1321350023">Actividad reciente antes de confirmar</phrase>
+	<phrase module_id="custom" version_id="3.0.0rc2" var_name="this_message_will_be_shown_in_the_feed_when_a_user_has_set_a_relationship" added="1321350037"><![CDATA[Este mensaje se mostrar&#225; en la actividad reciente cuando un usuario ha creado un estado de la relaci&#243;n con otro usuario, pero el otro usuario no lo ha confirmado. Tambi&#233;n se aplica cuando un usuario establece el estado sin definir con otro usuario.
+Por ejemplo "usuario1 est&#225; casado".]]></phrase>
+	<phrase module_id="custom" version_id="3.0.0rc2" var_name="requires_confirmation" added="1321350054"><![CDATA[Requiere Confirmaci&#243;n]]></phrase>
+	<phrase module_id="custom" version_id="3.0.0rc2" var_name="if_this_field_is_enabled_this_relationship_status_requires_that_both_users_agree_on_displaying_their_relationship" added="1321350066"><![CDATA[Si este campo es habilitado este estado de la relaci&#243;n requiere que ambos usuarios est&#225;n de acuerdo en mostrar su relaci&#243;n.]]></phrase>
+	<phrase module_id="custom" version_id="3.0.0rc2" var_name="for_all_these_phrases_the_following_transformations_apply" added="1321350079">Para todas estas frases las siguientes transformaciones aplicar</phrase>
+	<phrase module_id="custom" version_id="3.0.0rc2" var_name="user_name_of_the_receiving_party" added="1321350086">nombre de usuario de la parte receptora</phrase>
+	<phrase module_id="custom" version_id="3.0.0rc2" var_name="full_name_of_the_receiving_party" added="1321350093">nombre completo de la parte receptora</phrase>
+	<phrase module_id="custom" version_id="3.0.0rc2" var_name="sender_s_user_name" added="1321350101">nombre de usuario del remitente</phrase>
+	<phrase module_id="custom" version_id="3.0.0rc2" var_name="sender_s_full_name" added="1321350108">nombre completo del remitente</phrase>
+	<phrase module_id="custom" version_id="3.0.0rc2" var_name="sender_s_possessive_adjective_his_her" added="1321350117">adjetivo del remitente (el, ella)</phrase>
+	<phrase module_id="custom" version_id="3.0.0rc2" var_name="edit_status" added="1321350126">Editar estado</phrase>
+	<phrase module_id="custom" version_id="3.0.0rc2" var_name="manage_relationship_statuses" added="1321350143">Administrar estado de relaciones</phrase>
+	<phrase module_id="custom" version_id="3.0.0rc2" var_name="status_name" added="1321350152">Nombre de estado</phrase>
+	<phrase module_id="custom" version_id="3.0.0rc2" var_name="feed_when_new" added="1321350165">Suministrar cuando nuevo</phrase>
+	<phrase module_id="custom" version_id="3.0.0rc2" var_name="confirmation" added="1321350172"><![CDATA[Confirmaci&#243;n]]></phrase>
+	<phrase module_id="custom" version_id="3.0.0rc2" var_name="no_relationship_statuses_have_been_added" added="1321350187"><![CDATA[No se han a&#241;adido estados de relacionaes.]]></phrase>
+	<phrase module_id="custom" version_id="3.0.0rc2" var_name="status_added" added="1321350233"><![CDATA[Estado a&#241;adido]]></phrase>
+	<phrase module_id="custom" version_id="3.0.0rc2" var_name="status_deleted" added="1321350243">Estado eliminado</phrase>
+	<phrase module_id="custom" version_id="3.0.0rc2" var_name="not_found" added="1321350256">No encontrado</phrase>
+	<phrase module_id="custom" version_id="3.0.1" var_name="custom_profession" added="1331336378">Profesion</phrase>
+	<phrase module_id="custom" version_id="3.4.0" var_name="custom_aficiones" added="1355256311">Aficiones</phrase>
+	<phrase module_id="custom" version_id="3.4.0" var_name="custom_frases_famosas" added="1355256328">Frases famosas</phrase>
+	<phrase module_id="custom" version_id="3.4.0" var_name="with" added="1355256492"><![CDATA[est&#225; viudo]]></phrase>
+</phrases>

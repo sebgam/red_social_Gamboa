@@ -1,0 +1,100 @@
+<phrases>
+	<phrase module_id="rss" version_id="2.0.0alpha1" var_name="module_rss" added="1233130688">Rss Feeds</phrase>
+	<phrase module_id="rss" version_id="2.0.0beta5" var_name="admin_menu_manage_feeds" added="1245508823">Administrar Feeds</phrase>
+	<phrase module_id="rss" version_id="2.0.0beta5" var_name="admin_menu_add_new_feed" added="1245508823"><![CDATA[A&#241;adir nuevo Feed]]></phrase>
+	<phrase module_id="rss" version_id="2.0.0beta5" var_name="admin_menu_manage_groups" added="1245513778">Administrar Grupos</phrase>
+	<phrase module_id="rss" version_id="2.0.0beta5" var_name="admin_menu_add_new_group" added="1245513778">Agregar Nuevo Grupo</phrase>
+	<phrase module_id="rss" version_id="2.0.0beta5" var_name="setting_total_rss_display" added="1245534638"><![CDATA[<title>Total Items</title><info>Definir el n&#250;mero de elementos se pueden mostrar dentro de un RSS feed.</info>]]></phrase>
+	<phrase module_id="rss" version_id="2.0.0beta5" var_name="setting_display_rss_count_on_profile" added="1245591302"><![CDATA[<title>Recuento de suscriptores de RSS en el perfil</title><info>Seleccione esto a <b>Si</b> para mostrar el recuento de suscriptores de RSS en el perfil de los usuarios.
+
+<b>Nota:</b> Si esta activado el usuario tiene la posibilidad de desactivarlo mediante la configuraci&#243;n de privacidad.</info>]]></phrase>
+	<phrase module_id="rss" version_id="2.0.0rc2" var_name="rss_subscribers" added="1253083444">Suscriptores RSS</phrase>
+	<phrase module_id="rss" version_id="2.0.0rc2" var_name="rss_subscribers_log" added="1253083456">RSS Subscribers Log</phrase>
+	<phrase module_id="rss" version_id="2.0.0rc3" var_name="subscribe_to_my_feed" added="1254466507">Suscribirse a mi feed.</phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="subscribers" added="1255330863">Suscriptores</phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="other" added="1255330878">Otro</phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="group_successfully_updated" added="1255330910">Group actualizado correctamente.</phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="group_successfully_added" added="1255330918"><![CDATA[Groupo a&#241;adido correctamente.]]></phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="add_new_group" added="1255330926">Agregar Nuevo Grupo</phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="manage_groups" added="1255330935">Administrar Grupos</phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="group_successfully_deleted" added="1255330945">Groupo borrado correctamente.</phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="feed_successfully_updated" added="1255330969">Feed actualizado correctamente.</phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="feed_successfully_added" added="1255330977"><![CDATA[Feed a&#241;adido correctamente.]]></phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="editing_feed" added="1255331032">Editar Feed</phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="add_new_feed" added="1255331093"><![CDATA[A&#241;adir nuevo Feed]]></phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="manage_feeds" added="1255331206">Administrar Feeds</phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="feed_successfully_deleted" added="1255331223">Feed borrado correctamente.</phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="unable_to_find_rss_log" added="1255331249">No se pued encontrar el registro RSS.</phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="viewing_rss_feed_log" added="1255331261">Viendo registro RSS Feed</phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="rss_feed_log" added="1255331280">Registro RSS Feed</phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="rss_feeds" added="1255331339">RSS Feeds</phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="rss_logs" added="1255331387">Registros RSS</phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="log" added="1255331407">Registro</phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="user_has_disabled_rss_feeds" added="1255331450">El usuario ha desactivado RSS feeds.</phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="unable_to_find_the_group_you_are_planning_to_edit" added="1255331854">No se puede encontrar el grupo que tiene previsto editar.</phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="select_a_product" added="1255331873">Seleccionar un producto.</phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="select_a_module" added="1255331895"><![CDATA[Seleccionar un m&#243;dulo.]]></phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="at_least_one_name_for_the_group_is_required" added="1255331910">Al menos un nombre para el grupo es necesario.</phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="select_if_the_group_is_active_or_not" added="1255331919"><![CDATA[Seleccione si el grupo est&#225; activo o no.]]></phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="not_a_valid_request" added="1255331946"><![CDATA[No es una solicitud v&#225;lida.]]></phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="the_group_you_are_looking_for_cannot_be_found" added="1255331961"><![CDATA[No se puede encontrar el grupo que est&#225; buscando.]]></phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="unable_to_find_the_feed_you_are_looking_for" added="1255331975"><![CDATA[No se puede encontrar el feed que est&#225; buscando.]]></phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="display_rss_count" added="1255331994">Pantalla Contador de visitas RSS</phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="rss_subscribtion" added="1255332001">Subscribcion RSS</phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="select_a_group_for_this_feed" added="1255333371">Seleccione un grupo para este feed.</phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="at_least_one_title_for_the_feed_is_required" added="1255333379">Al menos un titulo del feed es necesario.</phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="at_least_one_description_for_the_feed_is_required" added="1255333387"><![CDATA[Al menos una descripci&#243;n del feed es necesaria.]]></phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="provide_a_link_for_the_feed" added="1255333396">Proporcionar un enlace para el feed.</phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="provide_proper_php_code" added="1255333407">Proporcionar un codigo PHP correcto.</phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="php_code_for_the_feed_is_required" added="1255333421"><![CDATA[C&#243;digo PHP para el feed es necesario.]]></phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="select_if_the_feed_can_be_seen_site_wide" added="1255333897">Seleccione si el feed se puede ver sitio de ancho.</phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="select_if_the_feed_is_active_or_not" added="1255333911"><![CDATA[Seleccione si el feed est&#225; activo o no.]]></phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="the_feed_you_are_looking_for_cannot_be_found" added="1255333928">El feed que estas buscando no se encuentra.</phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="unable_to_find_the_feed_you_are_planning_to_edit" added="1255333957">No se puede encontrar el feed que planea editar.</phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="latest_updates_from_full_name" added="1255333977"><![CDATA[&#218;ltimas actualizaciones de {full_name}]]></phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="unable_to_find_rss_feed" added="1255333997">No se puede encontrar RSS feed.</phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="not_a_valid_rss_feed_php_code_failed" added="1255334006">No es un RSS feed valido(PHP fallo codigo).</phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="rss_feed_url" added="1255334039">RSS Feed URL</phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="feed_readers_aggregators_and_web_browsers" added="1255334052">Lectores de feeds, agregadores y Navegadores web</phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="reader" added="1255334059">Lector</phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="ip_address" added="1255334092"><![CDATA[Direcci&#243;n del IP]]></phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="date" added="1255334104">Fecha</phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="no_subscribers_found" added="1255334163">No se encontraron Suscriptores.</phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="group_details" added="1255334178">Detalles del Grupo</phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="name" added="1255334185">Nombre</phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="is_active" added="1255334194"><![CDATA[Est&#225; activo]]></phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="yes" added="1255334200">Si</phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="no" added="1255334205">No</phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="submit" added="1255334212">Enviar</phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="groups" added="1255334235">Grupos</phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="title" added="1255334241"><![CDATA[T&#237;tulo]]></phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="active" added="1255334247">Activo</phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="edit_group" added="1255334257">Editar Grupo</phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="delete_group" added="1255334263">Eliminar Grupo</phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="are_you_sure" added="1255334269"><![CDATA[&#191;Est&#225;s seguro?]]></phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="deactivate" added="1255334278">Desactivar</phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="activate" added="1255334284">Activar</phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="feed_details" added="1255334332">Detalles del Feed</phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="group" added="1255334338">Grupo</phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="select" added="1255334346">Seleccionar</phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="description" added="1255334359"><![CDATA[Descripci&#243;n]]></phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="link" added="1255334365">Enlace</phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="php_group_code" added="1255334373"><![CDATA[C&#243;digo del Grupo PHP]]></phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="php_view_code" added="1255334383">Ver codigo PHP</phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="site_wide" added="1255334390">Sitio Amplio</phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="feeds" added="1255334425">Feeds</phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="edit_feed" added="1255334461">Editar Feed</phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="delete_feed" added="1255334468">Eliminar Feed</phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="disable" added="1255334483">No Permitir</phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="enable" added="1255334488">Permitir</phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="no_rss_feeds_are_available" added="1255334514">No hay RSS feeds disponibles.</phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="results_for" added="1255334544">Resultados de</phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="search_results" added="1255334594">Buscar Resultados</phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="search" added="1255334601">Buscar</phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="showing_1_result" added="1255334626">Mostrando 1 resultado.</phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="showing_total_results" added="1255334634">Mostrando {total} resultados.</phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="showing_count_results_out_of_over_result" added="1255334656"><![CDATA[Mostrando {count} resultados de m&#225;s de {result}.]]></phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="all_results_total" added="1255334685">Todos los Resultados ({total})</phrase>
+	<phrase module_id="rss" version_id="2.0.0rc4" var_name="no_search_results_found" added="1255334708">No se encontraron resultados</phrase>
+	<phrase module_id="rss" version_id="3.0.0" var_name="subscribe_via_rss" added="1323692157">Suscribirse via RSS</phrase>
+</phrases>

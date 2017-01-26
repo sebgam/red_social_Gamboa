@@ -1,0 +1,28 @@
+<phrases>
+	<phrase module_id="notification" version_id="2.0.0alpha2" var_name="module_notification" added="1237801970">Notificaciones</phrase>
+	<phrase module_id="notification" version_id="2.0.0alpha3" var_name="setting_always_display_notification_box" added="1239097725"><![CDATA[<title>Mostrar cuadro de notificaci&#243;n</title><info>Seleccione esto a <b>Si</b> si usted desea mostrar el bloque de las notificaciones (por ejemplo, los nuevos mensajes) en la p&#225;gina de &#237;ndice del sitio, incluso cuando un usuario no tiene notificaciones.</info>]]></phrase>
+	<phrase module_id="notification" version_id="2.0.0alpha4" var_name="setting_notify_on_new_request" added="1240226075"><![CDATA[<title>Sitio Wide notificaci&#243;n</title><info>Si los usuarios habilitados ser&#225;n notificados cuando una nueva solicitud o notificaci&#243;n est&#225; disponible.
+
+<b>Aviso:</b> Esta funci&#243;n contar&#225; con dos (2) consultas adicionales de SQL en todas las p&#225;ginas que el usuario visita.</info>]]></phrase>
+	<phrase module_id="notification" version_id="2.0.0alpha4" var_name="setting_notify_ajax_refresh" added="1240226972"><![CDATA[<title> todo el sitio de notificaci&#243;n de actualizaci&#243;n AJAX (minutos) </ title> <info> Si se activa esta se actualizar&#225; la petici&#243;n AJAX para comprobar si un usuario tiene ninguna notificaci&#243;n de nuevos cada X minutos, donde X es el valor num&#233;rico de esta configuraci&#243;n.
+
+<b>Noticia:</b> Este ajuste solo puede activado si el parent setting "<setting>notification.notify_on_new_request</setting>" est&#225; activado.</info>]]></phrase>
+	<phrase module_id="notification" version_id="2.0.0rc4" var_name="notifications" added="1255093133">Notificaciones</phrase>
+	<phrase module_id="notification" version_id="2.0.0rc4" var_name="view" added="1255093204">Ver</phrase>
+	<phrase module_id="notification" version_id="2.0.0rc4" var_name="hide" added="1255093211">Ocultar</phrase>
+	<phrase module_id="notification" version_id="2.0.0rc4" var_name="no_new_notifications" added="1255093253">No hay notificaciones nuevas.</phrase>
+	<phrase module_id="notification" version_id="2.0.0rc4" var_name="unable_to_find_the_page_you_are_looking_for" added="1255093295"><![CDATA[No se puede encontrar la p&#225;gina que est&#225; buscando.]]></phrase>
+	<phrase module_id="notification" version_id="3.0.0Beta1" var_name="setting_total_notification_title_length" added="1296210370"><![CDATA[<title>Duracion del Titulo de la Notificacion</title><info>Cuando los usuarios reciben una notificaci&#243;n de ciertos art&#237;culos incluyen un t&#237;tulo. Este ajuste controla la longitud del t&#237;tulo.</info>]]></phrase>
+	<phrase module_id="notification" version_id="3.0.0beta5" var_name="see_all_notifications" added="1319116590">Ver todas las Notificaciones</phrase>
+	<phrase module_id="notification" version_id="3.0.0rc1" var_name="delete_all_notifications" added="1321287473">Eliminar todas las Notificaciones</phrase>
+	<phrase module_id="notification" version_id="3.0.0rc1" var_name="delete_this_notification" added="1321287483"><![CDATA[Eliminar esta notificaci&#243;n]]></phrase>
+	<phrase module_id="notification" version_id="3.0.0rc1" var_name="reset_notification_count" added="1321288351">Reiniciar recuento de notificaciones</phrase>
+	<phrase module_id="notification" version_id="3.0.0rc1" var_name="today" added="1321288827">Hoy</phrase>
+	<phrase module_id="notification" version_id="3.0.0rc1" var_name="yesterday" added="1321288834">Ayer</phrase>
+	<phrase module_id="notification" version_id="3.0.0rc1" var_name="you" added="1321288853">Tu</phrase>
+	<phrase module_id="notification" version_id="3.0.0rc1" var_name="and" added="1321288864">y</phrase>
+	<phrase module_id="notification" version_id="3.0.0rc1" var_name="other" added="1321288891">otro</phrase>
+	<phrase module_id="notification" version_id="3.0.0rc1" var_name="others" added="1321288918">otros</phrase>
+	<phrase module_id="notification" version_id="3.0.0" var_name="get_the_total_number_of_unseen_notifications_if_you_do_not_pass_the_user_id_we_will_return_information_about_the_user_that_is_currently_logged_in" added="1323335575"><![CDATA[Obtener el n&#250;mero total de notificaciones no vistas. Si no pasan de #{USER_ID} nos devolver&#225; la informaci&#243;n sobre el usuario que est&#233; conectado.]]></phrase>
+	<phrase module_id="notification" version_id="3.0.0" var_name="get_all_of_the_users_notifications_if_you_do_not_pass_the_user_id_we_will_return_information_about_the_user_that_is_currently_logged_in" added="1323335594"><![CDATA[Obtenga todas las notificaciones de los usuarios. Si no pasan de #{USER_ID} nos devolver&#225; la informaci&#243;n sobre el usuario que est&#233; conectado.]]></phrase>
+</phrases>

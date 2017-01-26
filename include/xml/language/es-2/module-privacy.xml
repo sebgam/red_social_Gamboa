@@ -1,0 +1,30 @@
+<phrases>
+	<phrase module_id="privacy" version_id="2.0.0alpha1" var_name="user_setting_can_set_allow_list_on_blogs" added="1214436510"><![CDATA[Se puede establecer una "lista de admitidos" al agregar un nuevo blog?
+
+Nota: Esta opci&#243;n le dar&#225; al usuario la funci&#243;n de a&#241;adir una lista de usuarios que pueden ver su blog.]]></phrase>
+	<phrase module_id="privacy" version_id="2.0.0alpha1" var_name="module_privacy" added="1222250493">Privacidad</phrase>
+	<phrase module_id="privacy" version_id="2.0.0rc4" var_name="update_preferred_list" added="1255177946">Actualizar la Lista de Preferidos</phrase>
+	<phrase module_id="privacy" version_id="2.0.0rc4" var_name="insufficient_permissions" added="1255177963">Permisos Insuficientes</phrase>
+	<phrase module_id="privacy" version_id="2.1.0Beta1" var_name="user_setting_can_view_all_items" added="1293441281"><![CDATA[Puede ver todos los elementos, independientemente de la configuraci&#243;n de privacidad?]]></phrase>
+	<phrase module_id="privacy" version_id="2.1.0Beta1" var_name="user_setting_can_comment_on_all_items" added="1293441385"><![CDATA[Puede comentar sobre todos los temas, independientemente de la configuraci&#243;n de privacidad?]]></phrase>
+	<phrase module_id="privacy" version_id="3.0.0beta5" var_name="everyone" added="1319114129">Cualquiera</phrase>
+	<phrase module_id="privacy" version_id="3.0.0beta5" var_name="friends" added="1319114135">Amigos</phrase>
+	<phrase module_id="privacy" version_id="3.0.0beta5" var_name="friends_of_friends" added="1319114142">Amigos de amigos</phrase>
+	<phrase module_id="privacy" version_id="3.0.0beta5" var_name="only_me" added="1319114152">Solo yo</phrase>
+	<phrase module_id="privacy" version_id="3.0.0beta5" var_name="custom_span_click_to_edit_span" added="1319114162"><![CDATA[Personalizar<span>(Click para Editar)</span>]]></phrase>
+	<phrase module_id="privacy" version_id="3.0.0beta5" var_name="custom_privacy" added="1319122188">Privacidad personalizada</phrase>
+	<phrase module_id="privacy" version_id="3.0.0rc2" var_name="you_have_not_created_a_custom_friends_list_yet" added="1321349481"><![CDATA[No ha creado una lista personalizada de amigos todav&#237;a. Crear una para controlar la configuraci&#243;n de privacidad personalizada.]]></phrase>
+	<phrase module_id="privacy" version_id="3.0.0rc2" var_name="create_a_new_friends_list_to_fully_control_your_contents_privacy" added="1321349489">Crear una nueva lista de amigos para controlar totalmente la privacidad de su contenido.</phrase>
+	<phrase module_id="privacy" version_id="3.0.0rc2" var_name="add_friends_to_your_custom_list_below" added="1321349504"><![CDATA[A&#241;adir amigos a tu lista.]]></phrase>
+	<phrase module_id="privacy" version_id="3.0.0rc2" var_name="save" added="1321349515">Guardar</phrase>
+	<phrase module_id="privacy" version_id="3.0.0rc2" var_name="search_friends_by_their_name" added="1321365293">Buscar amigos por su nombre...</phrase>
+	<phrase module_id="privacy" version_id="3.0.0" var_name="custom" added="1322467095">Personalizado</phrase>
+	<phrase module_id="privacy" version_id="3.0.0" var_name="select_a_custom_friends_list_if_you_want_to_add_privacy_to_your_item" added="1322737764"><![CDATA[Selecciona una lista de amigos si quieres a&#241;adir privacidad a tu articulo.]]></phrase>
+	<phrase module_id="privacy" version_id="3.0.0" var_name="custom_friends_list_successfully_created" added="1322737780">Se ha creado tu lista de amigos.</phrase>
+	<phrase module_id="privacy" version_id="3.0.0" var_name="select_from_your_custom_friends_list" added="1322737789">Selecciona desde tu lista de amigos.</phrase>
+	<phrase module_id="privacy" version_id="3.0.0" var_name="or_create_a_new_list" added="1322737805">o cree una nueva lista</phrase>
+	<phrase module_id="privacy" version_id="3.0.0" var_name="item_section_privacy" added="1323088013"><![CDATA[Elemento/Secci&#243;n Privacidad]]></phrase>
+	<phrase module_id="privacy" version_id="3.0.0" var_name="the_item_or_section_you_are_trying_to_view_has_specific_privacy_settings_enabled_and_cannot_be_viewed_at_this_time" added="1323088056"><![CDATA[El elemento o secci&#243;n que intentas ver tiene privacidad espec&#237;fica activada y no se puede ver en este momento.]]></phrase>
+	<phrase module_id="privacy" version_id="3.0.0" var_name="go_back" added="1323088065">Ir atras</phrase>
+	<phrase module_id="privacy" version_id="3.0.0" var_name="go_to_our_homepage" added="1323088074">Ir al inicio</phrase>
+</phrases>

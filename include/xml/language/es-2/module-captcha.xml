@@ -1,0 +1,24 @@
+<phrases>
+	<phrase module_id="captcha" version_id="2.0.0alpha1" var_name="user_setting_captcha_on_blog_add" added="1214436352"><![CDATA[Habilitar el c&#243;digo CAPTCHA cuando se a&#241;ade un nuevo blog.]]></phrase>
+	<phrase module_id="captcha" version_id="2.0.0alpha1" var_name="user_setting_captcha_on_comment" added="1214975404"><![CDATA[&#191;Habilitar el c&#243;digo CAPTHCA cuando un usuario a&#241;ade un comentario?]]></phrase>
+	<phrase module_id="captcha" version_id="2.0.0alpha1" var_name="module_captcha" added="1214232551">Prueba de Control CAPTCHA (Turing Publica Totalmente Automatizada).</phrase>
+	<phrase module_id="captcha" version_id="2.0.0alpha1" var_name="complete_captcha_challenge" added="1214797483"><![CDATA[Completa el c&#243;digo CAPTCHA.]]></phrase>
+	<phrase module_id="captcha" version_id="2.0.0alpha1" var_name="image_verification" added="1219059191"><![CDATA[Verificaci&#243;n de Imagen]]></phrase>
+	<phrase module_id="captcha" version_id="2.0.0alpha1" var_name="captcha_failed_please_try_again" added="1219059511"><![CDATA[El c&#243;digo Captcha ha fracasado. Por favor, int&#233;ntalo de nuevo.]]></phrase>
+	<phrase module_id="captcha" version_id="2.0.0alpha1" var_name="refreshing_image" added="1219059568">Refrescando la imagen</phrase>
+	<phrase module_id="captcha" version_id="2.0.0alpha1" var_name="reload_image" added="1219059610">Imagen de la recarga</phrase>
+	<phrase module_id="captcha" version_id="2.0.0alpha1" var_name="click_refresh_image" added="1219059622">Haz clic para refrescar la imagen</phrase>
+	<phrase module_id="captcha" version_id="2.0.0alpha1" var_name="type_verification_code_above" added="1219059639"><![CDATA[Escriba el c&#243;digo de verificaci&#243;n de arriba]]></phrase>
+	<phrase module_id="captcha" version_id="2.0.0rc12" var_name="setting_group_recaptcha" added="1260884786"><![CDATA[<title>reCAPTCHA</title><info>reCAPTCHA</info>]]></phrase>
+	<phrase module_id="captcha" version_id="2.0.0rc12" var_name="setting_recaptcha" added="1260884933"><![CDATA[<title>Activar reCAPTCHA</title><info>Al activar <a href="http://recaptcha.net/" target="_blank">reCAPTCHA</a>, donde quiera que utilizar una rutina de c&#243;digo de la imagen para evitar el spam ser&#225; reemplazado con reCAPTCHA.
+
+Se puede inscribir en una cuenta gratuita en <a href="http://recaptcha.net/" target="_blank">reCAPTCHA</a>.
+
+<b>Noticia:</b> Esta caracter&#237;stica es experimental y no es estable.</info>]]></phrase>
+	<phrase module_id="captcha" version_id="2.0.0rc12" var_name="setting_recaptcha_public_key" added="1260885294"><![CDATA[<title>Clave publica reCAPTCHA</title><info>Ingresa tu clave prublica reCAPTCHA aqu&#237;.</info>]]></phrase>
+	<phrase module_id="captcha" version_id="2.0.0rc12" var_name="setting_recaptcha_private_key" added="1260885341"><![CDATA[<title>Clave privada reCAPTCHA</title><info>Ingresa tu clave privada reCAPTCHA aqu&#237;.</info>]]></phrase>
+	<phrase module_id="captcha" version_id="2.0.0rc12" var_name="setting_recaptcha_header" added="1260886253"><![CDATA[<title>Cabecera reCAPTCHA </title><info>Puede modificar el estilo de reCAPTCHA mediante la adici&#243;n de JavaScript para la cabecera de la plantilla y mediante la adici&#243;n de CSS para la misma cabecera y para cada tema.
+
+M&#225;s informaci&#243;n se puede encontrar <a href="http://wiki.recaptcha.net/index.php/How_to_change_reCAPTCHA_colors" target="_blank">aqu&#237;</a>.</info>]]></phrase>
+	<phrase module_id="captcha" version_id="3.0.0rc2" var_name="captcha_challenge" added="1321363974"><![CDATA[Desaf&#237;o de CAPTCHA]]></phrase>
+</phrases>

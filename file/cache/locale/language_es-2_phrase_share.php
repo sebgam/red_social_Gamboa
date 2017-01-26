@@ -1,0 +1,95 @@
+<?php defined('PHPFOX') or exit('NO DICE!'); ?>
+<?php $aContent = array (
+  'module_share' => 'Compartir',
+  'user_setting_can_send_emails' => 'Puede enviar emails cuando comparten?',
+  'user_setting_total_emails_per_round' => 'Cu&#225;ntos e-mails por ronda pueden ser enviados al compartir?
+
+<b>Aviso:</b> El valor "0" (sin comillas) le da al grupo de usuarios un n&#250;mero ilimitado de emails por todo el a&#241;o.',
+  'user_setting_emails_per_hour' => 'Definir cu&#225;ntos email se pueden enviar al compartir elementos cada hora.
+
+<b>Aviso:</b> El valor "0" (sin comillas) permite una cantidad ilimitada de mensajes de correo electr&#243;nico que se envi&#243; a cada hora.',
+  'admin_menu_manage_social_sites' => 'Administrar sitio Social',
+  'admin_menu_add_social_site' => 'A&#241;adir sitio Social',
+  'setting_enable_social_bookmarking' => '<title>Habilitar marcadores sociales</title><info>Habilitar marcadores sociales</info>',
+  'message_successfully_sent' => 'Mensaje ha sido enviado.',
+  'hi_check_this_out_url' => 'Hola,
+
+Disfr&#250;tate &#233;sto...
+
+{url}',
+  'site_successfully_updated' => 'Sitio ha sido actualizado.',
+  'site_successfully_added' => 'Sitio ha sido agregado.',
+  'add_a_social_bookmarking_site' => 'Agregar un Marcador Social a este Sitio',
+  'social_bookmarking' => 'Marcadores Sociales',
+  'add_a_site' => 'Agrega un Sitio',
+  'site_successfully_deleted' => 'Sitio ha sido eliminado.',
+  'manage_sites' => 'Manejar Sitios',
+  'share' => 'Compartir',
+  'select_what_type_of_a_site_this_is' => 'Selecciona que tipo de sitio es &#233;ste.',
+  'provide_a_name_for_the_site' => 'Proporciona un nombre para este sitio.',
+  'provide_a_url_for_the_site' => 'Proporciona un URL para este sitio.',
+  'this_site_already_exists' => 'Este sitio ya existe.',
+  'the_site_cannot_be_found' => 'El sitio no puede ser encontrado.',
+  'none_of_the_emails_entered_were_valid' => 'Ninguno de los correos electr&#243;nicos entrados eran v&#225;lidos.',
+  'provide_a_icon_for_this_site' => 'Proporciona un icono para este sitio.',
+  'provide_an_e_mail_address' => 'Proporcione una direcci&#243;n de correo electr&#243;nico.',
+  'email_s' => 'Email(s)',
+  'separate_multiple_emails_with_a_comma' => 'Separe los emails con comas.',
+  'max_emails_limit' => 'Emails m&#225;ximos: {limit}',
+  'subject' => 'Asunto',
+  'message' => 'Mensaje',
+  'send' => 'Enviar',
+  'you_are_unable_to_send_any_more_emails_we_have_a_limit_of_how_many_emails_can_be_sent_each_hour_br_current_limit_limit' => 'Usted no puede enviar m&#225;s mensajes. Tenemos un l&#237;mite de cu&#225;ntos correos electr&#243;nicos se pueden enviar cada hora.<br />
+L&#237;mite actual: {limit}',
+  'social_bookmarks' => 'Marcadores Sociales',
+  'friends' => 'Amigos',
+  'e_mail' => 'E-Mail',
+  'post' => 'Enviar',
+  'need_to_select_some_friends_before_we_try_to_send_the_message' => 'Necesitas seleccionar a algunos amigos antes de intentar enviar el mensaje.',
+  'continue' => 'Continuar',
+  'site_info' => 'Informaci&#243;n del Sitio',
+  'type' => 'Tipo',
+  'select' => 'Seleccionar',
+  'bookmark' => 'Marcadores Sociales',
+  'title' => 'T&#237;tulo',
+  'url' => 'URL',
+  'you_can_pass_a_title_and_url_string_by_adding_the_following_replacements_br_url_url_of_the_item_br_title_title_of_the_item' => 'Puedes pasar un t&#237;tulo y el enlace URL mediante la adici&#243;n de las siguientes sustituciones...<br />
+{URL} = URL del art&#237;culo.
+<br />
+{TITLE} = T&#237;tulo del art&#237;culo.',
+  'icon' => 'Icono',
+  'click_here_to_change_this_icon' => 'Haz clic aqu&#237; para cambiar este icono.',
+  'cancel' => 'Cancelar',
+  'you_can_upload_a_jpg_gif_or_png_file_br_advised_size_is_16x16_pixels' => 'Solo puedes subir archivos JPG, GIF o PNG. <br />
+Aconsejamos tama&#241;o de 16x16 p&#237;xeles',
+  'is_active' => 'Est&#225; Activo',
+  'yes' => 'Si',
+  'no' => 'No',
+  'submit' => 'Enviar',
+  'sites' => 'Sitios',
+  'name' => 'Nombre',
+  'active' => 'Activar',
+  'manage' => 'Manejar',
+  'edit' => 'Editar',
+  'delete' => 'Eliminar',
+  'are_you_sure' => '&#191;Est&#225;s seguro?',
+  'deactivate' => 'Desactivado',
+  'activate' => 'Activado',
+  'please_wait_limit_seconds_before_adding_a_new_shoutout' => 'Por favor, espera {limit} segundos antes de agregar una nueva nota.',
+  'hi_check_this_out_bbcode' => 'Hola,
+
+Disfr&#250;tate &#233;sto...
+
+[link={url}]{url}[/link]',
+  'check_out' => 'Echa un vistazo a:',
+  'setting_share_facebook_like' => '<title>Activar me gusta en Facebook</title><info>Establecer a si para activar el bot&#243;n me gusta de Facebook en los elementos.</info>',
+  'setting_share_twitter_link' => '<title>Activar el bot&#243;n Twitter</title><info>Seleccione esto a "Si" para activar el bot&#243;n de Twitter cuando est&#233;n viendo art&#237;culos.</info>',
+  'setting_share_google_plus_one' => '<title>Google +1</title><info>Seleccione esto a "Si" para activar el bot&#243;n de Google +1 cuando est&#233;n viendo art&#237;culos.</info>',
+  'setting_share_on_facebook' => '<title>Compartir en Facebook</title><info>Permitir que los usuarios compartan contenido que publican en este sitio directamente a Facebook.</info>',
+  'setting_share_on_twitter' => '<title>Compartir en Twitter</title><info>Permitir a los usuarios compartir el contenido que publican en este sitio directamente a Twitter.</info>',
+  'social_sharing' => 'Intercambio social',
+  'before_using_this_feature_you_will_have_to_setup_up_a_connection_with_this_3rd_party_service' => 'Antes de utilizar esta funci&#243;n tendr&#225;s que configurar una conexi&#243;n con esta tercera parte servicio.',
+  'connect_now' => 'Conectar ahora',
+  'on_your_wall' => 'On your wall',
+  'on_a_friend_s_wall' => 'On a friend&#039;s wall',
+); ?>

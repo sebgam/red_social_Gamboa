@@ -1,0 +1,27 @@
+<phrases>
+	<phrase module_id="tag" version_id="2.0.0alpha1" var_name="user_setting_edit_own_tags" added="1214436301">Puede editar sus propias etiquetas?</phrase>
+	<phrase module_id="tag" version_id="2.0.0alpha1" var_name="user_setting_edit_user_tags" added="1214975277"><![CDATA[Puede editar las etiquetas a&#241;adidas por otros usuarios?]]></phrase>
+	<phrase module_id="tag" version_id="2.0.0alpha1" var_name="user_setting_can_add_tags_on_blogs" added="1214975295"><![CDATA[Puede a&#241;adir etiquetas en los blogs?]]></phrase>
+	<phrase module_id="tag" version_id="2.0.0alpha1" var_name="module_tag" added="1219147106">Etiqueta</phrase>
+	<phrase module_id="tag" version_id="2.0.0alpha1" var_name="click_to_edit" added="1212122994">Click para Editar</phrase>
+	<phrase module_id="tag" version_id="2.0.0alpha1" var_name="tags" added="1212123035">Etiquetas</phrase>
+	<phrase module_id="tag" version_id="2.0.0alpha1" var_name="separate_tags_commas" added="1213612331">Separe las etiquetas con comas.</phrase>
+	<phrase module_id="tag" version_id="2.0.0alpha1" var_name="setting_total_tag_display" added="1237049953"><![CDATA[<title>Total Tag Display</title><info>Definir el n&#250;mero de etiquetas a mostrar en una nube de etiquetas.
+
+<b>Aviso:</b> Esta es la configuraci&#243;n predeterminada global, otros m&#243;dulos pueden modificar este ajuste.</info>]]></phrase>
+	<phrase module_id="tag" version_id="2.0.0rc4" var_name="add_tags" added="1255341335">Agregar etiquetas.</phrase>
+	<phrase module_id="tag" version_id="2.0.0rc4" var_name="missing_param_stagtype" added="1255341378"><![CDATA[Falta par&#225;metros: $sTagType]]></phrase>
+	<phrase module_id="tag" version_id="2.0.0rc4" var_name="missing_param_stype" added="1255341401"><![CDATA[Faltan par&#225;metros: sType]]></phrase>
+	<phrase module_id="tag" version_id="2.0.0rc4" var_name="separate_multiple_tags_with_commas" added="1255341461">Separa las etiquetas con comas.</phrase>
+	<phrase module_id="tag" version_id="2.0.0rc4" var_name="last_modified_time_stamp_by_full_name" added="1255341533">Modificada recientemente {time_stamp} por {full_name}</phrase>
+	<phrase module_id="tag" version_id="2.0.0rc8" var_name="tag_cloud" added="1258731513">Nube de la etiqueta</phrase>
+	<phrase module_id="tag" version_id="2.0.0rc8" var_name="no_tags_have_been_found" added="1258731805">No se han encontrado etiquetas.</phrase>
+	<phrase module_id="tag" version_id="2.1.0Beta1" var_name="setting_tag_days_treading" added="1293606550"><![CDATA[<title>Dias una etiqueta puede tendencia</title><info>Definir el n&#250;mero de d&#237;as de una etiqueta puede tendencia.</info>]]></phrase>
+	<phrase module_id="tag" version_id="2.1.0Beta1" var_name="setting_tag_trend_total_display" added="1293606604"><![CDATA[<title>Etiquetas totales para Mostrar</title><info>Definir c&#243;mo se van a mostrar las etiquetas en el bloque de Tendencia de los temas de cada secci&#243;n.</info>]]></phrase>
+	<phrase module_id="tag" version_id="3.0.0beta5" var_name="topics" added="1319188777">Etiquetas</phrase>
+	<phrase module_id="tag" version_id="3.0.0beta5" var_name="separate_multiple_topics_with_commas" added="1319188797">Separar etiquetas con comas.</phrase>
+	<phrase module_id="tag" version_id="3.0.0rc1" var_name="topic" added="1320239182">Tema</phrase>
+	<phrase module_id="tag" version_id="3.0.0rc1" var_name="trending_since_since" added="1320239415">Tema desde {since}</phrase>
+	<phrase module_id="tag" version_id="3.0.1" var_name="trending_topics" added="1327429607">Temas</phrase>
+	<phrase module_id="tag" version_id="3.0.1" var_name="setting_trending_topics_timestamp" added="1327429718"><![CDATA[<title>Temas timestamp </title><info>Este es el timestamp utilizada para la frase "Trending since {time}"</info>]]></phrase>
+</phrases>

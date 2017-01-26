@@ -1,0 +1,8 @@
+<phrases>
+	<phrase module_id="request" version_id="2.0.0alpha1" var_name="module_request" added="1221480181">Peticiones</phrase>
+	<phrase module_id="request" version_id="2.0.0alpha3" var_name="setting_display_request_box_on_empty" added="1239098595"><![CDATA[<title>Mostrar bloque de solicitudes</title><info>Seleccione esto a "Si" si desea mostrar el bloque de las solicitudes (ej. las solicitudes de amigo) en la p&#225;gina de &#237;ndice del sitio incluso cuando un usuario no tiene ninguna solicitud.</info>]]></phrase>
+	<phrase module_id="request" version_id="2.0.0rc4" var_name="requests" added="1255330458">Peticiones</phrase>
+	<phrase module_id="request" version_id="2.0.0rc4" var_name="confirm_requests" added="1255330482">Confirmar Peticiones</phrase>
+	<phrase module_id="request" version_id="2.0.0rc4" var_name="invalid_request_redirect" added="1255330761"><![CDATA[Redirigir la solicitud no es v&#225;lida.]]></phrase>
+	<phrase module_id="request" version_id="2.0.0rc4" var_name="there_are_no_new_requests" added="1255330810">No hay solicitudes nuevas.</phrase>
+</phrases>

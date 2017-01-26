@@ -1,0 +1,776 @@
+<phrases>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_group_cookie" added="1213866358"><![CDATA[<title>Cookies</title><info>Cookies Informaci&#243;n</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_cookie_path" added="1213869795"><![CDATA[<title>Ruta para guardar Cookies</title><info>La ruta a la que se guarda la cookie. Si ejecuta m&#225;s de un sitio en el mismo dominio, ser&#225; necesario establecer esto en los directorios individuales de su sitio. De lo contrario, simplemente dejarlo como  / .
+
+Tenga en cuenta que la ruta siempre debe terminar en una barra de avance; por ejemplo '/community/', '/phpfox/' etc.
+
+<b>Introducir un valor no v&#225;lido puede dejar no se ha podido iniciar sesi&#243;n en el foro.</b></info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_cookie_domain" added="1213869928"><![CDATA[<title>Dominio de las cookies</title><info>Esta opci&#243;n establece el dominio en el que la cookie est&#225; activa. La raz&#243;n m&#225;s com&#250;n para cambiar esta configuraci&#243;n es que tienes dos direcciones URL diferentes a su sitio, es decir, ejemplo.com y community.example.com. Permitir a los usuarios a permanecer conectado al sitio si visitan a trav&#233;s de una url, se establecer&#237;a esta. ejemplo.com (Observe el dominio comienza con un punto. 
+
+Probablemente desea dejar esta opci&#243;n en blanco como entrar en un entorno no v&#225;lido puede dejar no se ha podido iniciar sesi&#243;n en el sitio.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_group_development" added="1213871855"><![CDATA[<title>Desarrollo</title><info>Informaci&#243;n de ejemplo</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_log_missing_images" added="1213872261"><![CDATA[<title>Registro de imagenes perdidas</title><info>Encontrar y registrar cualquier faltantes im&#225;genes en un archivo de registro. Esto podr&#237;a ser utilizado durante el desarrollo de un nuevo m&#243;dulo o complemento.  
+
+Si est&#225; ejecutando un sitio vivo Aseg&#250;rese de que esta opci&#243;n est&#225; deshabilitada.
+
+Nota: La relativa localizaci&#243;n del registro es: /file/cache/missing-images.txt</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_attachment_valid_images" added="1213872474"><![CDATA[<title>Crear Miniaturas</title><info>Definir qu&#233; extensiones de archivo deber&#237;amos crear miniaturas para cuando un usuario carga un archivo adjunto de imagen.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_attachment_max_thumbnail" added="1213872657"><![CDATA[<title>Miniatura Ancho/Alto</title><info>Definir la anchura y la altura de la miniatura que se crear&#225; despu&#233;s un usuario cargue una imagen. Si la imagen cargada es menor, a continuaci&#243;n, la anchura y altura especificada no crear&#225; una miniatura de la imagen.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_attachment_max_medium" added="1213872836"><![CDATA[<title>Miniatura mediana Ancho/Alto</title><info>Definir la anchura y la altura de la miniatura mediana que se crear&#225; despu&#233;s un usuario cargue una imagen. Si la imagen cargada es menor, a continuaci&#243;n, la anchura y altura especificada no crear&#225; una mediana miniatura de la imagen.
+
+Tenga en cuenta que el mediana miniatura se muestra en la p&#225;gina Web en lugar de la imagen original para ahorrar ancho de banda.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_attachment_upload_bars" added="1213872933"><![CDATA[<title>Entradas de subida</title><info>Definir cu&#225;ntas entradas de carga deben mostrarse al usuario para cargar archivos adjuntos de un elemento.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_group_content_formatting" added="1213873063"><![CDATA[<title>Formato 
+del contenido</title><info>Formato Informaci&#243;n</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_wysiwyg" added="1213874080"><![CDATA[<title>WYSIWYG Editor</title><info>Seleccione por defecto editor WYSIWYG.
+
+WYSIWYG (Lo que ve es lo que obtiene)</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_allow_html" added="1213875281"><![CDATA[<title>Permitir HTML</title><info>Seleccione esto a <b>Si</b> Si desea permitir HTML en su sitio. Tenga en cuenta que incluso con esta opci&#243;n habilitada por defecto s&#243;lo permitimos determinadas etiquetas HTML nos sentimos que no perjudicar&#225; a su sitio. Puede agregar m&#225;s etiquetas HTML modificando la configuraci&#243;n de  <b>sAllowedHtmlTags</b> que puede encontrar en este grupo de ajustes.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_allowed_html" added="1213875545"><![CDATA[<title>Allowed HTML Tags</title><info>We provide a set of HTML tags we feel will give your users the ability to format their content without harming your site. 
+
+You are free to add more HTML tags you deem necessary. If you do add more tags note that we have taken steps to prevent injections from JavaScript for example so adding more tags should not cause a security risk, it can however alter the way your site looks.
+
+To add more tags simply add the tag you wish either to the end or front of the provided tags.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_xhtml_valid" added="1213875737"><![CDATA[<title>XHTML V&#225;lido</title><info>Seleccione esto a <b>Si</b> si desea intentar limpiar el contenido de sus usuarios y tratar de hacer el sitio XHTML v&#225;lido.
+
+Tenga en cuenta que al activar esta funci&#243;n utilizar&#225; recursos adicionales a fin de analizar todos los datos que se agregan y quitar o corregir los errores HTML no deseados. Mantener esta funci&#243;n desactivada en sitios grandes ser&#237;a mejor a menos que realmente desea su sitio para ser XHTML v&#225;lido.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_wysiwyg_comments" added="1213876086"><![CDATA[<title>Activar WYSIWYG</title><info>Seleccione esto a <b>Si</b> si usted quiere activar el uso de WYSIWYG editor cuando los usuarios a&#241;aden un comentario de un art&#237;culo u otro perfil de usuarios. 
+
+Nota: Para que este ajuste tenga efecto debe de estar usando WYSIWYG editor que es otro que el <b>default</b> editor.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_comment_page_limit" added="1213876191"><![CDATA[<title>Limite de la pagina</title><info>Definir la cantidad de comentarios se muestran en una p&#225;gina antes de a&#241;adir un n&#250;mero de p&#225;ginas que los usuarios puedan seguir navegando por otras p&#225;ginas para ver el resto de los comentarios.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_keep_active_posts" added="1213876414"><![CDATA[<title>Publicaciones Activas</title><info>Definir cu&#225;nto tiempo debemos mantener las publicaciones activas en cuesti&#243;n de minutos.
+
+Tenga en cuenta que si una publicacion pasa de este l&#237;mite, se mostrar&#225; en el sitio con normalidad, sin embargo, si un puesto est&#225; activo, habr&#225; alguna forma de dejar que el usuario sepa que no han visto el hilo espec&#237;fico o foro. Dependiendo del tema que usted est&#225; usando este es generalmente identificado por las im&#225;genes y dar formato al t&#237;tulo del tema o foro que ser audaz ..</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_use_hot_threads" added="1213876606"><![CDATA[<title>Mostrar temas activos</title><info>Seleccione esto a <b>Si</b> si usted quiere mostrar <b>Temas Activos</b> en su foro. 
+Temas Activos son definidos por el ajuste <setting>iHotThreadPosts</setting> o <setting>iHotThreadViews</setting>. 
+
+Seg&#250;n aquellos ajustes esto considerar&#225; si un tema es popular por cuantas publicaciones o ve un tema tiene y si esto superara los ajustes mencionados antes que ser&#225; considerado un <b>Tema Caliente</b>.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_hot_thread_posts" added="1213876728"><![CDATA[<title>Limitar hilos activos (Publicados)</title><info>Definir cu&#225;ntos hilos debe a&#241;adirse antes de un de hilo puede ser considerado como un <b>Hilo activo</b>.
+
+Tenga en cuenta que si la configuraci&#243;n<setting>bUseHotThreads</setting> se desactiva este ajuste no tendr&#225; ning&#250;n efecto en su sitio.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_hot_thread_views" added="1213876942"><![CDATA[<title>Limitar hilos activos (Visto)</title><info>Definir c&#243;mo Cu&#225;ntos vistas de hilo debe a&#241;adirse antes de un hilo puede ser considerado como un<b>Hilo activo</b>.
+
+Tenga en cuenta que si la configuraci&#243;n <setting>bUseHotThreads</setting> se desactiva este ajuste no tendr&#225; ning&#250;n efecto en su sitio.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_login_module" added="1213877180"><![CDATA[<title>Metodo de inicio de sesion de usuario</title><info>M&#233;todo de inicio de sesi&#243;n utilizado cuando un usuario inicia sesi&#243;n en un sitio.
+
+<b>Cookies</b> almacenar&#225; la informaci&#243;n que necesitamos para mantener un usuario conectado en su fin, mientras que un<b>Session</b> La informaci&#243;n se guarda en el servidor.
+
+Tenga en cuenta que si un usuario se registra en el sitio con el "Recordarme" caja marcada autom&#225;ticamente se utiliza un<b>Cookie</b> para establecer la sesi&#243;n de los usuarios.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_active_session" added="1213877388"><![CDATA[<title>Session activa</title><info>Define el tiempo que un usuario se muestra como activo en el sitio en cuesti&#243;n de minutos.
+
+Si un usuario est&#225; inactivo ya continuaci&#243;n, el valor especificado, se eliminar&#225;n de la tabla de sesiones en l&#237;nea. Cuando se hace esto que ya no parecen estar en l&#237;nea cuando otros miembros de ver su perfil. Si el usuario de repente se vuelve activo despu&#233;s de su sesi&#243;n ha finalizado una nueva sesi&#243;n, se crear&#225; autom&#225;ticamente.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_tag_min_display" added="1213877642"><![CDATA[<title>Minimo Display</title><info>Definir c&#243;mo tantas etiquetas se debe agregar antes de que se puede mostrar al p&#250;blico.
+
+Superior esta opci&#243;n si desea mostrar una nube de etiquetas, con s&#243;lo unas pocas etiquetas.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_tag_max_font_size" added="1213877692"><![CDATA[<title>Tama&#241;o m&#237;nimo de fuente</title><info>Definir el tama&#241;o de letra para las etiquetas m&#225;s a&#241;adidas/usadas &#8203;&#8203;en el sitio.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_tag_min_font_size" added="1213877749"><![CDATA[<title>Tama&#241;o m&#237;nimo de fuente</title><info>Definir el tama&#241;o de letra para las etiquetas menos utilizadas en el sitio.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_tag_cache_tag_cloud" added="1213877937"><![CDATA[<title>Cache</title><info>Define cu&#225;nto tiempo debe almacenar en cach&#233; las nubes de etiquetas que se muestran en las secciones que los utilizan.
+
+Tenga en cuenta que este valor debe ser definido en cuesti&#243;n de minutos.
+
+Es importante que las nubes de etiquetas de cach&#233; como esto elimina una consulta a la base de datos que puede ser bastante extensa memoria.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_top_bloggers_display_limit" added="1213878007"><![CDATA[<title>Top Bloggers Limite</title><info>Define el l&#237;mite de cu&#225;ntos <b>Top Bloggers</b> se puede mostrar al ver la secci&#243;n del blog.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_top_bloggers_min_post" added="1213878115"><![CDATA[<title>Blog Contador de visitas de Top Bloggers</title><info>Antes de que un usuario puede ser considerado como un <b>Top Blogger</b> se debe introducir una cantidad X de blog (s) donde X es el valor de esta configuraci&#243;n.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_cache_top_bloggers" added="1213878273"><![CDATA[<title>Cache Top Bloggers</title><info>Seleccione esto a <b>Si</b> si deberiamos cachear <b>Top Bloggers</b>. Ello siempre una idea buena al escondite que tales cosas como no hay ninguna necesidad de dirigir una pregunta suplementaria a la base de datos para averiguar qu&#233; usuarios son <b>Top Bloggers</b> este requiere contar todos los blogs a&#241;adidos.
+
+Nota: Este ajuste <setting>iCacheTopBloggersLimit</setting> controla cuanto tiempo guarda la cache.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_cache_top_bloggers_limit" added="1213878370"><![CDATA[<title>Top Bloggers Tiempo del Cach&#233;</title><info>Definir cu&#225;nto tiempo debemos mantener la memoria cach&#233; para el <b>Top Bloggers</b>.
+
+Tenga en cuenta que este ajuste no habr&#225; efecto si la configuraci&#243;n<setting>bCacheTopBloggers</setting> esta desactivada.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_display_post_count_in_top_bloggers" added="1213878461"><![CDATA[<title>Mostrar recuento de posts para Top Bloggers</title><info>Seleccione esto a <b>Si</b> si le gustara mostrar el recuento de posts adem&#225;s de los nombres de cada uno de los <b>Top Bloggers</b>.
+
+Note que este rasgo conf&#237;a en el tema que usted usa y si el tema no es el tema por defecto puede que este no pudiera ser mostrado.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_group_archive_handler" added="1214047385"><![CDATA[<title>Archivo de controlador</title><info> Controla la forma en la clase Archivo se encarga,archivos que necesita ser extra&#237;do o creado.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_unzip_path" added="1214047692"><![CDATA[<title>Descomprimir Ruta</title><info>Ruta de acceso completa a donde el binario para <b>descomprimir </b> est&#225; localizado.
+
+Si no est&#225; seguro que usted puede tratar de a&#241;adir lo siguiente:
+[code]
+unzip
+[/code]
+
+If the above does not work you will need to ask your host or run the following command via command line:
+[code]
+whereis unzip
+[/code]</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_lang_pack_helper" added="1214050525"><![CDATA[<title>Paquete de ayuda del idioma</title><info>Si se habilita esta opci&#243;n, se a&#241;ade entre par&#233;ntesis que rodean una frase, que puede ser utilizado para identificar que frases no se han a&#241;adido en el paquete de lenguaje b&#225;sico. Duras frases codificadas no tienen soportes.
+
+Si una frase es dif&#237;cil codificado en el c&#243;digo fuente del sitio no ser&#225; capaz de traducir esa frase espec&#237;fica.
+
+Lo mejor es utilizar esta funci&#243;n durante el desarrollo o la creaci&#243;n de un paquete nuevo idioma.
+
+Ejemplo de c&#243;mo una frase que se ver&#225; una vez se habilita esta opci&#243;n:
+[quote]
+{This is a sample}
+[/quote]</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_group_cron" added="1214137439"><![CDATA[<title>Cron</title><info>Controlar el servicio de programaci&#243;n basado en el tiempo previsto.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_cron" added="1214137712"><![CDATA[<title>Tareas programadas</title><info>Seleccione esto a <b>Si</b> para activar <b>Tareas programadas</b> para activar la ejecuci&#243;n en segundo plano de su sitio
+
+Si usted tiene el acceso al sistema un crontab este m&#233;todo es preferido, pero requerir&#225; el acceso a su servidor. Una vez que un crontab es el sistema usted puede incapacitar este rasgo.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_feed_time_layout" added="1214141052"><![CDATA[<title>Time Layout</title><info>Control how old feeds can be by getting feeds that are <b>X</b> minutos, horas, dias o meses old. <b>X</b> se define por la configuraci&#243;n 
+
+<setting>iDisplayFeedsFrom</setting>.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_display_feeds_from" added="1214141228"><![CDATA[<title>L&#237;mite de Tiempo</title><info>Esta configuraci&#243;n se utiliza en conjunci&#243;n con la configuraci&#243;n<setting>sFeedTimeLayout</setting>.
+
+Aqui debes definir el numero que va a controlar como de viejo puede ser el nuevo feed.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_feed_only_friends" added="1214141288"><![CDATA[<title>Solo amigos</title><info>Seleccione esto a <b>Si</b> si le gustaria que la actividad reciente sea s&#243;lo mostrada al usuario y sus amigos.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_feed_display_limit" added="1214141651"><![CDATA[<title>L&#237;mite de Visualizaci&#243;n</title><info>Limitar c&#250;antas feeds deben ser visualizados en el nuevo feed.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_captcha_code" added="1214232656"><![CDATA[<title>Cadena Captcha</title><info>Los caracteres alfanum&#233;ricos que formar&#225; parte de la rutina de Captcha.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_captcha_limit" added="1214232699"><![CDATA[<title>Limite de Caracteres</title><info>Limite el n&#250;mero de caracteres que se muestran en la imagen CAPTCHA.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_captcha_use_font" added="1214233090"><![CDATA[<title>Usar fuente (TTF)</title><info>Si esta activado y su server soporta PHP function [link=http://se.php.net/imagettftext]imagettftext[/link] la rutina Captcha usar&#225; un TTF (Fuente de Tipo Verdadera) para crear el texto en vez de usar la funci&#243;n de cuerda de proceso de im&#225;genes de falta.
+
+La fuente que se usara sera controlada por el ajuste <setting>sCaptchaFont</setting>:</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_captcha_font" added="1214233276"><![CDATA[<title>True Type Font</title><info>Seleccione que TTF (True Type Font) quiere usar para su Captcha imagen.
+
+Nota. Este ajuste <setting>bCaptchaUseFont</setting> debe estar activado para usar esta opci&#243;n.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_default_lang_id" added="1214236511"><![CDATA[<title>Languaje predeterminado ID</title><info>Controlar el identificador de idioma predeterminado para el sitio. Tenga en cuenta este ajuste se maneja dentro de la secuencia de comandos y en la mayor&#237;a de los casos <b>no</b> debe ser modificado.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_default_theme_name" added="1214236595"><![CDATA[<title>Nombre del tema predeterminado</title><info>Nombre del tema predeterminado</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_default_style_name" added="1214236614"><![CDATA[<title>Nombre de estilo predeterminado</title><info>Nombre de estilo predeterminado</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_default_style_id" added="1214236630"><![CDATA[<title>Estilo predeterminado ID</title><info>Estilo predeterminado ID</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_module_forum" added="1214236808"><![CDATA[<title>URL predeterminado del modulo forum</title><info>Si el nombre del m&#243;dulo de foro es diferente este valor debe ser actualizado.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_group_admin_control_panel" added="1214236854"><![CDATA[<title>Panel de Control Admin </title><info>Administrar la configuraci&#243;n del Admin CP.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_admin_cp" added="1214237032"><![CDATA[<title>Admin CP Localizacion</title><info>Ubicacion del Admin CP. Cambiar esto para asegurar tu Admin CP.
+
+Por defecto la configuraci&#243;n es <b>admincp</b> por lo que la direcci&#243;n final ser&#225;:
+[quote]
+http://www.yoursite.com/admincp/
+[/quote]
+
+Tenga en cuenta el ejemplo anterior es cuando la URL corta est&#225; activada.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_group_general" added="1214237167"><![CDATA[<title>General</title><info>Administrar configuracion general</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_global_update_time" added="1214237553"><![CDATA[<title>Fecha y Hora Global</title><info>Cada m&#243;dulo dispone de elementos que se muestran y utilizan nuestros valores de marca de tiempo para mostrar la fecha de la manera que nos gustar&#237;a.
+
+Si un m&#243;dulo no especificar un valor de marca de tiempo que utilizar&#225; el tiempo de dise&#241;o predeterminado sello que se controla con esta configuraci&#243;n.
+
+Para una mejor comprensi&#243;n acerca de c&#243;mo modificar esta configuraci&#243;n y cu&#225;les son los valores de la cadena representan puede hacer un seguimiento en la fecha en PHP() funcion [link=http://se2.php.net/date]aqui[/link].</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_group_time_stamps" added="1214312574"><![CDATA[<title>Fecha y Horas</title><info>Control global del modulo de fecha y hora.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_group_server_settings" added="1214312832"><![CDATA[<title>Configuraci&#243;n del servidor</title><info>Administrar la configuraci&#243;n del servidor y las opciones de optimizaci&#243;n.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_use_gzip" added="1214313174"><![CDATA[<title>Salida GZIP HTML </title><info>Seleccionando <b>Si</b> permitir&#225; phpFox a la compresa de GZIP la salida de HTML de p&#225;ginas, a la baja de reducir exigencias de amplitud de banda. Este s&#243;lo ser&#225; usado en clientes que lo apoyan, y son HTTP 1.1 d&#243;cil. Habr&#225; una peque&#241;a interpretaci&#243;n arriba.
+
+Esta caracteristica requiere ZLIB library.
+
+Si usted esta usando <b>mod_gzip</b> o <b>mod_deflate</b> en su server, no active esta opci&#243;n</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_gzip_level" added="1214313244"><![CDATA[<title>Nivel de compresi&#243;n GZIP </title><info>Establecer el nivel de compresi&#243;n GZIP, que tendr&#225; lugar en la salida. 0=none; 9=max.
+
+Le recomendamos que utilice un nivel para obtener resultados &#243;ptimos.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_title_delim" added="1214313635"><![CDATA[<title>Delimitador del titulo del sitio</title><info>Este valor se utiliza como delimitador de los t&#237;tulos que se a&#241;aden por separado para cada p&#225;gina en el sitio.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_site_title" added="1214313887"><![CDATA[<title>Nombre del sitio</title><info>Nombre de su sitio. Esto aparecer&#225; en cada p&#225;gina.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_branding" added="1214314014"><![CDATA[<title>Quitar marca de phpFox</title><info>Seleccione esto a <b>Si</b> para eliminar la marca de phpfox.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_ip_check" added="1214314158"><![CDATA[<title>Comprobar la duracion de la sesion IP Octet</title><info>Seleccione la m&#225;scara de subred que refleja el nivel de comprobaci&#243;n que desea ejecutar en contra de las direcciones IP cuando una sesi&#243;n se han recuperado.
+
+Esto es &#250;til si usted tiene un gran n&#250;mero de usuarios que est&#225;n detr&#225;s de los proxies transparentes y tienen una direcci&#243;n IP que puede cambiar al azar entre la solicitud como AOL.
+
+Cuanto m&#225;s se reduce el mayor es el riesgo de seguridad desde el secuestro de sesi&#243;n.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_session_prefix" added="1214314437"><![CDATA[<title>Cookie Prefix</title><info>Prefijo para las cookies y sesiones de PHP est&#225;n fijados por el gui&#243;n.
+
+Tenga en cuenta que todo el mundo se ver&#225; obligado a ingresar de nuevo por razones de seguridad.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_keywords" added="1214314561"><![CDATA[<title>Palabras Meta</title><info>Introduzca las palabras clave meta para todas las p&#225;ginas. Estos son utilizados por los motores de b&#250;squeda para indexar las p&#225;ginas con m&#225;s relevancia.
+
+Tenga en cuenta que ciertos m&#243;dulos o las p&#225;ginas que tienen su propia configuraci&#243;n de palabras clave meta y si los que se establecen van a modificar este ajuste.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_description" added="1214314637"><![CDATA[<title>Meta Descripcion</title><info>Introduzca la descripci&#243;n de la meta para todas las p&#225;ginas. Esto es utilizado por los motores de b&#250;squeda para indexar sus p&#225;ginas m&#225;s relevante.
+
+Tenga en cuenta que ciertos m&#243;dulos o las p&#225;ginas que tienen su propia configuraci&#243;n de palabras clave meta y si los que se establecen van a modificar este ajuste.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_tar_path" added="1214323414"><![CDATA[<title>Tar Path</title><info>Ruta completa donde el binario para tar se encuentra.
+
+Si no est&#225;s seguro puedes tratar de a&#241;adir lo siguiente:
+[code]
+tar
+[/code]
+
+Si lo anterior no funciona, tendr&#225; que preguntar a su anfitri&#243;n o ejecute el comando siguiente a trav&#233;s de l&#237;nea de comandos:
+[code]
+whereis tar
+[/code]</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_csrf_protection_level" added="1214854966"><![CDATA[<title> CSRF nivel de protecci&#243;n </title> <info> Seleccione la falsificaci&#243;n de Cross Site Request (CSRF) nivel de prevenci&#243;n que usted desea en su sitio.
+
+<b> Baja </ b>
+Prevenci&#243;n m&#237;nima de los ataques CSRF.
+
+<b> Media </ b>
+Cada usuario tendr&#225; un identificador &#250;nico token que ser&#225; est&#225;tico, siempre y cuando utilizar el mismo navegador para esa sesi&#243;n.
+
+<b> Alta </ b>
+Cada usuario tiene un ID &#250;nico token que se puede cambiar en cada p&#225;gina que visitan lo que les da una identificaci&#243;n al azar en cada actualizaci&#243;n de la p&#225;gina. Este m&#233;todo ofrece una protecci&#243;n completa contra los ataques CSRF, sin embargo, desde el token es al azar el usuario s&#243;lo puede navegar por su sitio con una ventana de navegador. Si ellos, por ejemplo, utilizar un navegador compatible con las fichas y se utiliza una ficha de segundo y luego se intenta enviar un formulario que puede ser que consiga un ataque CSRF mensaje de error, ya que su raz&#243;n &#250;ltima de la ficha anterior se hab&#237;a abierto. </ Info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_is_personal_site" added="1215181158"><![CDATA[<title>Sitio Personal</title><info>Si se establece en <b>Si</b> el sitio ser&#225; tratado como su sitio web personal y elementos como los blogs s&#243;lo ser&#225; visible desde el espacio p&#250;blico y no de perfiles personales.
+
+S&#243;lo activar esta funci&#243;n si no se planea en tener una comunidad de redes sociales y s&#243;lo plan para a&#241;adir sus art&#237;culos personales.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_module_core" added="1215411477"><![CDATA[<title>Core Module</title><info>Especifique el m&#243;dulo principal. El cambio que esto podr&#237;a causar graves problemas en el sitio.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_build_file_dir" added="1215412887"><![CDATA[<title>Construir Directorios</title><info>Si esta seleccionado en <b>Si</b> y los elementos son a&#241;adidos al directorio <b>file/</b>  se colocar&#225; en carpetas separadas para fines de seguridad y organizaci&#243;n. La carpeta <b>file/</b> Se utiliza para almacenar datos en cach&#233; o elementos cargados por los usuarios. 
+
+Puede definir c&#243;mo ser&#225;n los directorios construido utilizando la configuraci&#243;n de <setting>sBuildFormat</setting>.
+
+Por defecto directorios se construir&#225; utilizando el <b>A&#241;o/Mes</b> formato. Si una imagen es subida el 01 de enero de 2008 se colocar&#237;a en la carpeta:  file/pic/photo/2008/01/
+
+<b>Nota:</b> Si usted tiene PHP [link="http://se.php.net/features.safe-mode"]Safe Mode[/link] habilitada esta funci&#243;n no funciona a menos que pertenece la carpeta <b>file/</b> con el mismo UID (propietario) como la secuencia de comandos.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_build_format" added="1215414328"><![CDATA[<title>Build Format</title><info>Esta configuraci&#243;n controla la forma en la configuraci&#243;n en  <setting>bBuildFileDir</setting> funcciones.
+
+Esta funcion utiliza PHP [link="http://se2.php.net/date"]date()[/link] funcionar&#225; para controlar la creaci&#243;n de directorios dentro de la <b>file/</b> folder.
+
+Por defecto se utiliza <b>Y/m</b>. <b>Y</b> significa una representaci&#243;n num&#233;rica completa de un a&#241;o, 4 d&#237;gitos (Ej. 2008). <b>m</b> es sin&#243;nimo de una representaci&#243;n num&#233;rica de un mes, con ceros a la izquierda (Ej. 01).
+
+Para m&#225;s informaci&#243;n sobre esta opci&#243;n, usted puede dar seguimiento a la funci&#243;n de PHP [link="http://se2.php.net/date"]here[/link].</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_blog_time_stamp" added="1215414980"><![CDATA[<title>Blog</title><info>Controles de fecha y hora para las entradas de blog.
+
+Si se utiliza la configuraci&#243;n predeterminada y la plantilla predeterminada de la marca de tiempo aparecer&#225; debajo de cada t&#237;tulo del blog y ser&#225; similar a:
+[quote]
+Posted June 22, 2008 by Raymond Benc
+[/quote]</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_comment_time_stamp" added="1215415183"><![CDATA[<title>Comentarios</title><info>Controles de marcas de hora para cada comentario que se publicar&#225; en el sitio.
+
+Si utiliza la configuraci&#243;n predeterminada y la plantilla de sello de tiempo aparecer&#225; bajo el nombre de usuario del publicador
+[quote]
+Raymond Benc escribi&#243; 
+[/quote]
+y ser&#225; similar a:
+[quote]
+June 22, 2008 
+[/quote]</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_forum_time_stamp" added="1215415254"><![CDATA[<title>Foro</title><info>M&#225;s informaci&#243;n pr&#243;ximamente...</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_forum_post_time_stamp" added="1215415278"><![CDATA[<title>Publicacion en el foro </title><info>>M&#225;s informaci&#243;n muy...</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_forum_post_today_time_stamp" added="1215415308"><![CDATA[<title>Publicacion en el foro  (Hoy)</title><info>>M&#225;s informaci&#243;n muy...</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_forum_post_yesterday_time_stamp" added="1215415343"><![CDATA[<title>Publicacion en el foro (Ayer)</title><info>M&#225;s informaci&#243;n muy...</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_forum_post_join_date" added="1215415367"><![CDATA[<title>Forum Post User Join</title><info>M&#225;s informaci&#243;n muy...</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_zip_path" added="1215418009"><![CDATA[<title>Zip Path</title><info>Ruta de acceso completa a donde el binario para <b>zip</b> est&#225; localizado.
+
+Si no est&#225; seguro que usted puede tratar de a&#241;adir lo siguiente:
+[code]
+zip
+[/code]
+
+Si lo anterior no funciona, tendr&#225; que preguntar a su anfitri&#243;n o ejecute el comando siguiente a trav&#233;s de l&#237;nea de comandos:
+[code]
+whereis zip
+[/code]</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_cache_phrases" added="1216087500"><![CDATA[<title>Pagina Cache</title><info>Si se establece en <b>Si</b>, frases de los paquetes de idiomas se almacenan en cach&#233; basado en la p&#225;gina que se est&#225; viendo en lugar del m&#233;todo convencional, que almacena todas las frases y los divide para arriba en los m&#243;dulos a los que pertenecen.
+
+El m&#233;todo de m&#243;dulo de memoria cach&#233; es bueno durante su periodo de desarrollo, sin embargo una vez que su sitio est&#233; activo y que no planea realizar cambios en el paquete de idioma que permiten esta opci&#243;n a las frases de memoria cach&#233; en una base por p&#225;gina es una buena idea.
+
+Esto a cambio de ahorrar el consumo total de memoria que las frases se almacenan en cach&#233; en la memoria (dependiendo del m&#233;todo de cach&#233;) y la carga de varios m&#243;dulos en una sola p&#225;gina puede ser una p&#233;rdida, cuando puede que s&#243;lo necesite 20 frases de 3 m&#243;dulos diferentes.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_site_copyright" added="1217035523"><![CDATA[<title>Copyright</title><info>A&#241;adir tus sitios copyright.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_comment_is_threaded" added="1217198416"><![CDATA[<title>Mostrar tema</title><info>Si selecciona en <b>Si</b> comentarios se mostrar&#225;n en un formato de tema permitiendo a los usuarios responder a comentarios espec&#237;ficos en lugar del tema general que comentar.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_group_forms" added="1217804478"><![CDATA[<title>Formularios</title><info>Administrar la configuraci&#243;n de las formas generales que se utilizan en el sitio.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_display_required" added="1217804762"><![CDATA[<title>Mostrar campos requeridos</title><info>Cuando selecciona a <b>Si</b> formas que tienen campos opcionales y 'requeridos' tendr&#225; un asterisco  (dependiendo en que esta seleccionado el ajuste <setting>sRequiredSymbol</setting>).</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_required_symbol" added="1217804932"><![CDATA[<title>Campo obligatorio de Simbolo</title><info>Sobre las formas que tienen los campos que se requieren se a&#241;ade un s&#237;mbolo para distinguir a qu&#233; campos son obligatorios y cu&#225;les no. Cambie este ajuste va a cambiar ese s&#237;mbolo que por defecto es un asterisco.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_blog_display_user_post_count" added="1217808470"><![CDATA[<title>Mostrar recuento de posts por Categorias (Personal)</title><info>Si selecciona esto a <b>Si</b> mostrar&#225; un recuento de post de los usuarios de una categor&#237;a espec&#237;fica. Esto se mostrar&#225; en su perfil, blog y cuando este navegando en sus propios blogs.
+
+
+
+Aviso: Esto agregar&#225; una carga adicional al servidor si esta en <b>Si</b>.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_default_time_zone_offset" added="1218452027"><![CDATA[<title>Zona horaria predeterminada</title><info>Seleccione la zona horaria predeterminada para los clientes y nuevos usuarios.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_login_type" added="1218457359"><![CDATA[<title>Usuario m&#233;todo de entrada</title><info>Seleccione el m&#233;todo que desea que los usuarios utilicen al iniciar sesi&#243;n en el sitio.
+
+<b>user_name</b>
+Debe utilizar su nombre de usuario.
+
+<b>email</b>
+Debe utilizar su email.
+
+<b>both</b>
+Debe utilizar su email o nombre de usuario.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_redirect_after_login" added="1218465807"><![CDATA[<title>URL Redireccion despues de ingresar</title><info>Despu&#233;s de que un usuario ha iniciado la sesi&#243;n y que no han solicitado una p&#225;gina para visitar se puede establecer una URL de redirecci&#243;n por defecto, que le los env&#237;e a esta p&#225;gina en concreto inmediatamente despu&#233;s de iniciar la sesi&#243;n.
+
+Si se agrega un enlace externo, aseg&#250;rese de agregar "http://" (sin comillas) de lo contrario la URL ser&#225; tratado como un enlace interno.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_profile_time_stamps" added="1219668321"><![CDATA[<title>Perfil</title><info>Perfil fecha y hora</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_user_pic_sizes" added="1219836551"><![CDATA[<title>User Pic Sizes</title><info>User Pic Sizes</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_mail_time_stamp" added="1220427478"><![CDATA[<title>Mail</title><info>Mail</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_profile_use_id" added="1221724040"><![CDATA[<title>Perfil de usuario ID Conexi&#243;n</title><info>Seleccione esto a <b>Si</b> Si le gustar&#237;a tener perfiles de usuario conectados a trav&#233;s de su ID#. Seleccione esto a <b>No</b> Si le gustar&#237;a tener perfiles de usuario conectados a trav&#233;s de su nombre de usuario. 
+
+Nota: si se conecta a trav&#233;s de su ID# de usuario  permitir&#225; a los miembros  la capacidad para utilizar caracteres no admitidos que no est&#225;n permitidos si conecta un perfil con su nombre de usuario.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_group_sample_2" added="1221824783"><![CDATA[<title>Sample 2</title><info>Sample 2</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_bsample" added="1221824814"><![CDATA[<title>Esta es una prueba</title><info>Otra prueba...</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_captcha_on_signup" added="1221831949"><![CDATA[<title>Captcha en el Registro</title><info>Captcha en el Registro</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="menu_home" added="1214844661">Inicio</phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="submit" added="1212101943">Enviar</phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="save" added="1212102572">Guardar</phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="delete" added="1212102630">Eliminar</phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="revert_to_default" added="1212102649">Volver al predeterminado</phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="version" added="1212102733">Version {version}</phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="display_from_x_to_x_of_x" added="1212103558"><![CDATA[Desde <span id="js_pager_from">{from}</span> hasta <span id="js_pager_to">{to}</span> de <span id="js_pager_total">{total}</span>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="page_x_of_x" added="1212103641"><![CDATA[P&#225;gina {current} de {total}]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="first" added="1212103722">Primero</phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="previous" added="1212103739">Anterior</phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="next" added="1212103757">Siguiente</phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="last" added="1212103772">Ultimo</phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="edit" added="1212118102">Editar</phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="go" added="1212118345">Ir</phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="are_you_sure" added="1212121584"><![CDATA[&#191;Est&#225; seguro?]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="yes" added="1212122361">Si</phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="no" added="1212122479">No</phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="cancel" added="1212123142">Cancelar</phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="go_advanced" added="1212123181">Avanzado</phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="processing" added="1212123329">Enviado</phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="admin" added="1214836995">No Admin</phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="select" added="1214997333">Seleccionar</phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="per_page" added="1214997439"><![CDATA[{total} por p&#225;gina]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="time" added="1214997726">Fecha</phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="descending" added="1214997737">Descendente</phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="ascending" added="1214997748">Ascendente</phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="searching" added="1215125431">Buscando</phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="reset" added="1215128051">Reajustar</phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="invalid_search_id" added="1215128221"><![CDATA[ID de B&#250;squeda inv&#225;lido]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="search_results_found" added="1215128235">No se encontraron resultados</phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="menu_admincp" added="1217034328">AdminCP</phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="menu_log_out" added="1217034457"><![CDATA[Cerrar Sesi&#243;n]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="copyright" added="1217035991">Copyright</phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="required_fields" added="1217808842">Campos obligatorios</phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="search" added="1217946769">Buscar</phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="bold" added="1218198100">Negrilla</phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="italic" added="1218198441"><![CDATA[It&#225;lico]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="underline" added="1218198452">Subrayar</phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="toggle" added="1218200954">Toggle</phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="user_name" added="1218458075">Nombre Usuario</phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="close" added="1218534881">Cerrar</phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="quote" added="1218724993">Citar</phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="originally_posted" added="1218725011">Publicado originalmente por</phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="code" added="1218725027"><![CDATA[C&#243;digo]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="notice" added="1218793387">Aviso</phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="menu_friends" added="1220960932">Amigos</phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_group_mail" added="1230344425"><![CDATA[<title>Correo</title><info>Configuraci&#243;n del correo...</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_method" added="1230345982"><![CDATA[<title>Metodo enviar e-mail</title><info>Seleccione el m&#233;todo que desea que sus mensajes de correo electr&#243;nico que se envi&#243;, el cual es, ya sea usando el correo por defecto () de PHP o SMTP.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_mailsmtphost" added="1230347643"><![CDATA[<title>Hosting SMTP</title><info>Si SMTP est&#225; activada, configure el host del servidor SMTP.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_mail_smtp_authentication" added="1230347719"><![CDATA[<title>Autenticaci&#243;n SMTP</title><info>Autenticaci&#243;n SMTP</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_mail_smtp_username" added="1230347911"><![CDATA[<title>Nombre de usuario SMTP</title><info>Nombre de usuario SMTP</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_mail_smtp_password" added="1230347969"><![CDATA[<title>Contrase&#241;a SMTP</title><info>Contrase&#241;a SMTP </info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_mail_from_name" added="1230348032"><![CDATA[<title>E-mail Desde Nombre</title><info>E-mail Desde Nombre</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_email_from_email" added="1230348559"><![CDATA[<title>E-mail Desde E-mail</title><info>E-mail Desde E-mail</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_mail_signature" added="1230350155"><![CDATA[<title>E-mail Firma</title><info>E-mail Firma</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_log_site_activity" added="1230487661"><![CDATA[<title>Registrar toda la actividad</title><info>Seleccione esto a "Si" para registrar toda la actividad del sitio, que puede utilizarse posteriormente para crear estad&#237;sticas generales o realizar un seguimiento de una actividad de usuarios espec&#237;ficos.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_cache_js_css" added="1230600110"><![CDATA[<title>Cache JavaScript & CSS</title><info>Seleccione esto a <b>Si</b> para cachear todo el JavaScript y CSS dentro de un archivo para agilizar su sitio.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="about" added="1231338537">Acerca de Nosotros</phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="menu_about" added="1231338606">Nosotros</phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="privacy_policy" added="1231339019"><![CDATA[Pol&#237;ticas de Privacidad]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_cache_plugins" added="1231410765"><![CDATA[<title>Cache Plugins</title><info>Cache Plugins</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="menu_log" added="1218459891"><![CDATA[Iniciar Sesi&#243;n]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_host" added="1232702227"><![CDATA[<title>Hosting FTP</title><info>Hosting FTP</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_username" added="1232702303"><![CDATA[<title>Nombre de usuario FTP</title><info>Nombre de usuario FTP</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_password" added="1232702336"><![CDATA[<title>Contrase&#241;a FTP</title><info>Contrase&#241;a FTP</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_ftp_enabled" added="1232957270"><![CDATA[<title>Activar soporte FTP</title><info>Activar soporte FTP</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="terms_use" added="1232965159"><![CDATA[T&#233;rminos de Uso]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_group_ftp" added="1232702186"><![CDATA[<title>FTP</title><info>Controla tus FTP (File Transport Protocol) m&#225;s detalles.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="user_setting_can_view_update_info" added="1214975478"><![CDATA[Se puede ver en "Actualizar" la informaci&#243;n sobre los puntos?
+
+Nota: Esta informaci&#243;n se muestra el nombre de usuario de la &#250;ltima persona que modific&#243; un art&#237;culo y el momento en que se llev&#243; a cabo.]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="user_setting_can_view_private_items" added="1214976287"><![CDATA[Puede ver los elementos privados publicados en el sitio.
+
+Tales art&#237;culos son creados por un miembro y est&#225;n marcados como privados por lo que s&#243;lo ese miembro puede ver el tema y los miembros que tienen esta opci&#243;n activada.]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="user_setting_can_add_new_setting" added="1214976515"><![CDATA[Se puede agregar la configuraci&#243;n de nuevos productos.
+
+Habilitar esta caracter&#237;stica s&#243;lo si el desarrollo est&#225; en curso y se est&#225;n introduciendo cambios en el producto.]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_group_cache" added="1234519823"><![CDATA[<title>Cache</title><info>Todas las variables relacionadas con cach&#233;</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_crop_seo_url" added="1235137384"><![CDATA[<title>Crop URLs</title><info>Crop URL para SEO</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_group_search_engine_optimization" added="1235377937"><![CDATA[<title>Optimizaci&#243;n del Search Engine</title><info>Optimizaci&#243;n del Search Engine</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_meta_description_limit" added="1235378018"><![CDATA[<title>Limite descripcion Meta</title><info>Definir el n&#250;mero m&#225;ximo de caracteres que pueden ser utilizados en una etiqueta meta descripci&#243;n.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_meta_keyword_limit" added="1235378131"><![CDATA[<title>Limite palabras meta</title><info>Definir el n&#250;mero m&#225;ximo de caracteres que pueden ser utilizados en una etiqueta de palabra clave meta.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_description_time_stamp" added="1235378894"><![CDATA[<title>Meta Description Time Stamp</title><info>Meta Description Time Stamp</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_use_dnscheck" added="1236199706"><![CDATA[<title>Use DNSCheck in email validation</title><info>http://php.net/checkdnsrr
+
+Este valor indica si la secuencia de comandos debe validar las direcciones de correo electr&#243;nico utilizando checkdnsrr.
+
+Esta funci&#243;n puede no estar disponible en algunas instalaciones por defecto de Windows. Sin embargo, incluso si se habilita esta opci&#243;n si la funci&#243;n no existe el sitio no se producir&#225; un error, s&#243;lo se salta esa parte de la validaci&#243;n.
+
+Hay algo de indocumentados (pero t&#233;cnicamente es posible) disminuir el uso de esta funci&#243;n, as&#237; que mientras que a&#241;ade seguridad adicional a su sitio, tambi&#233;n podr&#237;a convertirse en un cuello de botella. Use con cuidado.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_group_debug" added="1237059507"><![CDATA[<title>Depuracion</title><info>Configuracion de la Depuracion</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="setting_admin_debug_mode" added="1237059838"><![CDATA[<title>Debug Level</title><info>Control the debug output at the bottom for the site.
+
+<b>Level Information</b>
+
+<b>Level 0</b> = Debug is disabled.
+
+<b>Level 1</b> = Enables PHP error reporting, page generation times and query count.
+
+<b>Level 2</b> = Includes <i>Level 1</i>, server usage, session and cookie information.
+
+<b>Level 3</b> = Includes <i>Level 1</i>, <i>Level 2</i> and SQL queries.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha3" var_name="setting_replace_url_with_links" added="1239104515"><![CDATA[<title>Reemplazar URL por enlaces</title><info>Seleccione esto a <b>Si</b> Si desea reemplazar autom&#225;ticamente las URL por enlaces.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0alpha3" var_name="setting_shorten_parsed_url_links" added="1239104765"><![CDATA[<title>Shorten Parsed URL Links</title><info>Si la opci&#243;n de analizar las cadenas de URL para los v&#237;nculos est&#225; habilitada, se puede controlar la duraci&#243;n de la cadena de la URL debe ser antes de acortarlo.
+
+<b>Aviso:</b> Selecciona <b>0</b> para no tener limite.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0beta2" var_name="module_report" added="1242580237">Denuncias</phrase>
+	<phrase module_id="core" version_id="2.0.0beta1" var_name="setting_default_music_player" added="1240746034"><![CDATA[<title>Reproductor de m&#250;sica predeterminado</title><info>Reproductor de m&#250;sica predeterminado</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0beta3" var_name="setting_footer_bar_site_name" added="1243328927"><![CDATA[<title>Nombre de la barra de pie del sitio</title><info>El nombre definido aqu&#237; se mostrar&#225; en la barra de pie de los sitios.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0beta3" var_name="setting_enable_footer_bar" added="1243433757"><![CDATA[<title>Activar la barra de pie de p&#225;gina</title><info>Seleccione esto a <b>Si</b> Si desea activar la barra de pie de p&#225;gina del sitio.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0beta3" var_name="menu_dashboard" added="1243619560">Inicio</phrase>
+	<phrase module_id="core" version_id="2.0.0beta4" var_name="setting_group_spam" added="1244645871"><![CDATA[<title>Spam</title><info>Spam</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0beta4" var_name="setting_site_is_offline" added="1245096405"><![CDATA[<title>Sitio desconectado?</title><info>Seleccione esto a <b>Si</b> para poner su sitio como desconectado.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0beta4" var_name="setting_site_offline_message" added="1245096657"><![CDATA[<title>Offline Mensaje</title><info>Mensaje que se mostrar&#225; a los invitados cuando el sitio est&#225; fuera de l&#237;nea.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0beta4" var_name="setting_site_offline_no_template" added="1245096756"><![CDATA[<title>Pagina en blanco</title><info>Seleccione esto a <b>Si</b> Si desea utilizar una plantilla en blanco al mostrar el sitio desconectado.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0beta4" var_name="user_setting_can_view_site_offline" added="1245096916">Puede ver el sitio, incluso cuando se configura en offline?</phrase>
+	<phrase module_id="core" version_id="2.0.0beta4" var_name="setting_group_site_offlineonline" added="1245148890"><![CDATA[<title>Sitio Offline/Online</title><info>Sitio Offline/Online</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0beta4" var_name="setting_group_site_statistics" added="1245148969"><![CDATA[<title>Estad&#237;sticas del Sitio</title><info>Estad&#237;sticas del Sitio</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0beta4" var_name="setting_cache_site_stats" added="1245149101"><![CDATA[<title>Cache estadisticas del sitio</title><info>Seleccione esto a <b>Si</b> Si deben almacenar en cach&#233; las Estadisticas de sitio.
+
+<b>Nota:</b> Es altamente desaconsejable las Estadisticas de sitio en cach&#233; requiere un gran conjunto de consultas a la base de datos a trav&#233;s de numerosas tablas.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0beta4" var_name="setting_site_stat_update_time" added="1245149670"><![CDATA[<title>Actualizaci&#243;n de Estad&#237;sticas de cach&#233; (Minutos)</title><info>Definir en cuesti&#243;n de minutos el tiempo de espera hasta que tenga que volver a almacenar en cach&#233; las estad&#237;sticas del sitio.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0beta4" var_name="setting_display_site_stats" added="1245149863"><![CDATA[<title>Mostrar el estado del sitio</title><info>Seleccione esto a <b>Si</b> para mostrar las estad&#237;sticas del sitio p&#250;blicamente dentro del escritorio de los usuarios.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0beta5" var_name="setting_identify_dst" added="1246304944"><![CDATA[<title>DST</title><info>DST</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0beta5" var_name="user_cancellation_9" added="1247140918"><![CDATA[Yo no encuentro este sitio &#250;til.]]></phrase>
+	<phrase module_id="core" version_id="2.0.0beta5" var_name="user_cancellation_10" added="1247140937">Tengo un problema de privacidad.</phrase>
+	<phrase module_id="core" version_id="2.0.0beta5" var_name="user_cancellation_11" added="1247140968"><![CDATA[No entiendo c&#243;mo usar este sitio.]]></phrase>
+	<phrase module_id="core" version_id="2.0.0beta5" var_name="user_cancellation_12" added="1247141061"><![CDATA[Estoy recibiendo demasiados correo electr&#243;nicos de este sitio.]]></phrase>
+	<phrase module_id="core" version_id="2.0.0beta5" var_name="user_cancellation_13" added="1247141084">Recibo demasiados spam o demasiadas solicitudes de amistad.</phrase>
+	<phrase module_id="core" version_id="2.0.0beta5" var_name="user_cancellation_14" added="1247141103">Estoy aburrido de este sitio.</phrase>
+	<phrase module_id="core" version_id="2.0.0rc1" var_name="phpfox_branding_removal" added="1248788055"><![CDATA[Eliminaci&#243;n de marca]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc1" var_name="setting_item_view_area" added="1248967239"><![CDATA[<title>Localizaci&#243;n del art&#237;culo</title><info>Selecciona <b>publico</b> si le gustan todos los elementos que se mostrar&#225;n dentro de una secci&#243;n p&#250;blica o seleccione <b>perfil</b> tener elementos que aparece en un perfil de usuarios.
+
+Se recomienda esta opci&#243;n, ya que esto recoge enormemente los efectos en los motores de busqueda de la paginas del sitio.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc1" var_name="setting_ftp_dir_path" added="1249534880"><![CDATA[<title>FTP Directory Path</title><info>Proporcione la ruta completa al directorio ra&#237;z de scripts.
+
+Si no est&#225; seguro sobre la ruta de acceso completa, puede hacer clic  <a href="#" onclick="tb_show('FTP Path Search', $.ajaxBox('core.ftpPathSearch', 'height=410&width=500'));">aqu&#237;</a> para obtener ayuda en la b&#250;squeda de la ruta completa correcta.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc1" var_name="admincp_menu_country" added="1249592745">Paises</phrase>
+	<phrase module_id="core" version_id="2.0.0rc1" var_name="admincp_menu_country_manager" added="1249592782">Administrar Paises</phrase>
+	<phrase module_id="core" version_id="2.0.0rc1" var_name="admincp_menu_country_import" added="1249592834">Importar</phrase>
+	<phrase module_id="core" version_id="2.0.0rc1" var_name="admincp_menu_country_add" added="1249592927"><![CDATA[Agregar Pa&#237;s]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc1" var_name="admincp_menu_country_child_add" added="1249592955"><![CDATA[A&#241;adir Estado/Provincia]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc1" var_name="user_setting_user_is_banned" added="1249620562"><![CDATA[Active esta opci&#243;n si el grupo de usuarios tendr&#225;n prohibido entrar al sitio e interactuar con otros miembros.
+
+<b>Aviso:</b> Esta opci&#243;n es s&#243;lo para un grupo de usuarios que se considera que se "proh&#237;ben" los miembros]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc1" var_name="setting_banned_user_group_id" added="1249622743"><![CDATA[<title>Banned User Group ID</title><info>Banned User Group ID</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc1" var_name="setting_group_image_processing" added="1249707453"><![CDATA[<title>Procesamiento de Im&#225;genes</title><info>Procesamiento de Im&#225;genes</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc1" var_name="setting_watermark_option" added="1249707671"><![CDATA[<title>Imagen de marca de agua</title><info>Ciertas &#225;reas de la imagen permiten marcas de agua. Si estas secciones tienen la imagen de marca de agua habilitado esta opci&#243;n debe estar habilitada.
+
+Si selecciona "imagen", esto a&#241;adir&#225; una imagen peque&#241;a marca de agua a cada imagen que se carga. Si selecciona "texto" esto va a a&#241;adir el texto se define en esta secci&#243;n.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc1" var_name="setting_watermark_image" added="1249707937"><![CDATA[<title>Nombre de la imagen de marca de agua</title><info>Nombre de la imagen de marca de agua</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc1" var_name="setting_watermark_opacity" added="1249710065"><![CDATA[<title>Opacidad de la marca de agua</title><info>La opacidad de una imagen puede variar desde 1-100.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc1" var_name="setting_watermark_image_position" added="1249710197"><![CDATA[<title>Posicion marca de agua</title><info>Seleccione una posici&#243;n para colocar la marca de agua.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc1" var_name="setting_image_text_hex" added="1249710513"><![CDATA[<title>Color del Texto marca de agua</title><info>(COLORES HEX Ejemplo: 000000)</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc1" var_name="setting_image_text" added="1249710554"><![CDATA[<title>Texto marca de agua</title><info>Texto marca de agua</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc1" var_name="setting_group_registration" added="1250761161"><![CDATA[<title>Registracion</title><info>Registracion</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc1" var_name="setting_registration_enable_dob" added="1250761283"><![CDATA[<title>Activar datos de nacimiento</title><info>Activar datos de nacimiento</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc1" var_name="setting_registration_enable_gender" added="1250761528"><![CDATA[<title>Habilitar G&#233;nero</title><info>Habilitar G&#233;nero</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc1" var_name="setting_registration_enable_location" added="1250761639"><![CDATA[<title>Habilitar Ubicaci&#243;n</title><info>Habilitar Ubicaci&#243;n</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc1" var_name="setting_registration_enable_timezone" added="1250761716"><![CDATA[<title>Activar Timezone</title><info>Activar Timezone</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc1" var_name="kind_regards_phpfox" added="1250847533">Saludos cordiales,
+Manati.com</phrase>
+	<phrase module_id="core" version_id="2.0.0rc1" var_name="setting_global_admincp_note" added="1250924099"><![CDATA[<title>Notas Globales AdminCP</title><info>Notas Globales AdminCP</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc1" var_name="admincp_menu_online" added="1251100890"><![CDATA[En L&#237;nea]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc1" var_name="admincp_menu_online_members" added="1251100922">Miembros</phrase>
+	<phrase module_id="core" version_id="2.0.0rc1" var_name="admincp_menu_online_guests" added="1251100953">Personas/Bots</phrase>
+	<phrase module_id="core" version_id="2.0.0rc1" var_name="admincp_menu_system_overview" added="1251104897"><![CDATA[Descripci&#243;n general del sistema]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc1" var_name="setting_enable_spam_check" added="1251183206"><![CDATA[<title>Activar Spam Check</title><info>Activar Spam Check</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc1" var_name="setting_akismet_url" added="1251183367"><![CDATA[<title>Akismet URL</title><info>Akismet URL</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc1" var_name="setting_akismet_password" added="1251183407"><![CDATA[<title>Akismet Contrase&#241;a</title><info>Akismet Contrase&#241;a</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc1" var_name="user_setting_is_spam_free" added="1251184321"><![CDATA[Seleccione esto a <b>Si</b> Si este grupo de usuarios nunca debe comprobarse para spam.]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc1" var_name="setting_auto_deny_items" added="1251199652"><![CDATA[<title>SPAM Count</title><info>Definir el n&#250;mero de elementos que un usuario puede intentar Spam antes de que a&#241;adir cualquier cosa no se comprobar&#225; que vamos a considerar que se trata de spam.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc1" var_name="setting_auto_ban_spammer" added="1251200209"><![CDATA[<title>Auto Ban Spammers</title><info>Definir cu&#225;ntas veces un usuario puede hacer spam antes de que se prohiba de forma autom&#225;tica.
+
+<b>Aviso:</b>Ponga esto a "0" (sin comillas) para desactivar esta opci&#243;n.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc1" var_name="setting_warn_on_external_links" added="1251207145"><![CDATA[<title>External Links Warning</title><info>Warn users when they have clicked on a link that will direct them to another site.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc1" var_name="setting_disable_all_external_urls" added="1251275581"><![CDATA[<title>Desactivar todos las URLS externas</title><info>Activar esta funci&#243;n para eliminar todos los enlaces externos del sitio. 
+
+<b>Aviso:</b> Sitios a&#241;adido a la "Lista de URL Blanca" ser&#225; permitido.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc1" var_name="setting_url_spam_white_list" added="1251275716"><![CDATA[<title>URL White List</title><info>Agregue sitios en los que desea permitir los enlaces externos.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc1" var_name="setting_disable_all_external_emails" added="1251276234"><![CDATA[<title>Disable All External Emails</title><info>Activar esta funci&#243;n para eliminar todos los emails externos del sitio.
+
+Aviso: Los sitios agregados a la "lista del email Blanca" ser&#225; permitido.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc1" var_name="setting_email_white_list" added="1251276292"><![CDATA[<title>Email White List</title><info>Agregue sitios en los que desea permitir en email externos.</info>]]></phrase>
+	<phrase module_id="core" version_id="ASD" var_name="setting_phpfox_version" added="1251285789"><![CDATA[<title>phpFox Version</title><info>phpFox Version</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc1" var_name="user_setting_can_view_twitter_updates" added="1251800495">Puede ver actualizaciones phpFox twitter ?</phrase>
+	<phrase module_id="core" version_id="2.0.0rc1" var_name="user_setting_can_view_news_updates" added="1251800546"><![CDATA[Puede ver noticias phpFox & actualizaciones?]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc1" var_name="setting_redirect_guest_on_same_page" added="1251815780"><![CDATA[<title>Redirecci&#243;n misma p&#225;gina despu&#233;s de Iniciar sesion/Registrado</title><info>Active esta opci&#243;n para redirigir los invitados a la misma p&#225;gina que se visita despu&#233;s de que hayan registrado o iniciado sesion.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc1" var_name="setting_meta_description_profile" added="1252056488"><![CDATA[<title>Meta Descripcion del Perfil</title><info>Esta es la descripci&#243;n de la meta prevista en un perfil de los usuarios que se incluye con su informaci&#243;n personal. Se aconseja para que esto no sea demasiado largo, a fin de dejar espacio para la informaci&#243;n personal de los usuarios.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc1" var_name="setting_words_remove_in_keywords" added="1252131710"><![CDATA[<title>Keyword String Removal</title><info>Definir las palabras aqu&#237;, que no debe aparecer en palabras clave meta. Cada palabra debe ser separada por comas.
+
+<b>Aviso:</b> La b&#250;squeda es sensible a may&#250;sculas.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc2" var_name="update" added="1252756715">Actualizar</phrase>
+	<phrase module_id="core" version_id="2.0.0rc2" var_name="total_items" added="1253083301"><![CDATA[Total de Art&#237;culos]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc2" var_name="activity_points" added="1253083311">Puntos de Actividad</phrase>
+	<phrase module_id="core" version_id="2.0.0rc2" var_name="dashboard" added="1253083344">Estado</phrase>
+	<phrase module_id="core" version_id="2.0.0rc2" var_name="membership" added="1253083384">Rango</phrase>
+	<phrase module_id="core" version_id="2.0.0rc2" var_name="profile_views" added="1253083407">Visitas al perfil</phrase>
+	<phrase module_id="core" version_id="2.0.0rc2" var_name="space_used" added="1253083418">Espacio Usado</phrase>
+	<phrase module_id="core" version_id="2.0.0rc2" var_name="member_since" added="1253083428">En MR desde</phrase>
+	<phrase module_id="core" version_id="2.0.0rc2" var_name="what_s_new" added="1253083513"><![CDATA[Lo m&#225;s Reciente]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc2" var_name="site_stats" added="1253083687"><![CDATA[Estad&#237;sticas]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc2" var_name="customize_dashboard" added="1253084413">Personalizar el Panel</phrase>
+	<phrase module_id="core" version_id="2.0.0rc2" var_name="quick_links" added="1253085095">Enlaces</phrase>
+	<phrase module_id="core" version_id="2.0.0rc2" var_name="module_is_not_a_valid_module" added="1253085115"><![CDATA[{module} no es un m&#243;dulo v&#225;lido.]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc2" var_name="state_province" added="1253085649">Estado/Provincia</phrase>
+	<phrase module_id="core" version_id="2.0.0rc2" var_name="what_is_on_your_mind" added="1253085696"><![CDATA[&#191;Qu&#233; hay en tu mente?]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc2" var_name="click_to_change_profile_photo" added="1253085719"><![CDATA[Haz clic aqu&#237; para cambiar la foto del perfil.]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc2" var_name="last_login" added="1253085749">Ultima Visita</phrase>
+	<phrase module_id="core" version_id="2.0.0rc2" var_name="submit_links" added="1253085762">Enlaces de Inicio</phrase>
+	<phrase module_id="core" version_id="2.0.0rc2" var_name="manage_links" added="1253085771">Administrar los enlaces</phrase>
+	<phrase module_id="core" version_id="2.0.0rc2" var_name="logout" added="1253085794"><![CDATA[Cerrar sesi&#243;n]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc2" var_name="click_to_view_your_profile" added="1253085803"><![CDATA[Haz clic aqu&#237; para ver tu perfil.]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc2" var_name="click_to_change_your_profile_photo" added="1253085818"><![CDATA[Haz clic aqu&#237; para cambiar la foto del perfil.]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc2" var_name="click_to_change_your_status" added="1253085836"><![CDATA[Haga clic aqu&#237; para cambiar tu estado.]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc2" var_name="status" added="1253085850">Estado</phrase>
+	<phrase module_id="core" version_id="2.0.0rc2" var_name="link_save_or_cancel" added="1253085874"><![CDATA[<a href="#" onclick="$('#js_user_status_form').ajaxCall('user.updateStatus'); return false;">Guardar</a> o <a href="#" class="js_update_status">Cancelar</a>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc2" var_name="start_search" added="1253085894"><![CDATA[Comenzar la B&#250;squeda...]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc2" var_name="favorites" added="1253085935">Favoritos</phrase>
+	<phrase module_id="core" version_id="2.0.0rc2" var_name="hide_the_footer_bar" added="1253085957"><![CDATA[Ocultar la barra de pie de p&#225;gina]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc2" var_name="show_the_footer_bar" added="1253085989"><![CDATA[Mostrar la barra de pie de p&#225;gina]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc2" var_name="ftp_path" added="1253086005">Acceso FTP</phrase>
+	<phrase module_id="core" version_id="2.0.0rc2" var_name="change_your_time_zone_preference" added="1253086694">Cambiar la preferencia de zona horaria.</phrase>
+	<phrase module_id="core" version_id="2.0.0rc2" var_name="welcome_name" added="1253087071">Bienvenido, {name}!</phrase>
+	<phrase module_id="core" version_id="2.0.0rc2" var_name="share" added="1253108437">Compartir</phrase>
+	<phrase module_id="core" version_id="2.0.0rc2" var_name="setting_enable_getid3_check" added="1253267285"><![CDATA[<title>Utilice getid3 para archivos subidos</title><info>getid3 es una biblioteca de 3 &#170; parte que nos ayuda a verificar el contenido de un archivo de metadatos que se carga en el servidor para comprobar si el archivo que se est&#225; cargando contiene datos que se relaciona con lo que estamos permitiendo que se cargue (por ejemplo, fotos, MP3 , videos, etc ..).</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc2" var_name="setting_extended_global_time_stamp" added="1253522109"><![CDATA[<title>Extended Global Time Stamp</title><info>Extended Global Time Stamp</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc3" var_name="setting_theme_session_prefix" added="1254810114"><![CDATA[<title>Theme Session Prefix</title><info>Theme Session Prefix</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="edit_this_block" added="1255709562">Editar este Bloque</phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="remove_this_block" added="1255709579">Borrar este Bloque</phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="hello" added="1255709619">Hola</phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="hello_name" added="1255709649">Hola {name}</phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="the_site_is_currently_in_offline_mode" added="1255709707"><![CDATA[El sitio se encuentra actualmente en "Modo Desconectado".]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="explore" added="1255709725">Explorar</phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="add_a_video" added="1255710109">Agregar un Video</phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="enter_the_url_of_your_link" added="1255710193">Proporciona la URL de tu enlace</phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="enter_the_url_of_your_image" added="1255710214">Proporciona la URL de tu imagen</phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="add_a_link" added="1255710241">Agregar un Enlace</phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="add_a_photo" added="1255710256">Agregar una Foto</phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="toggle_fullscreen" added="1255710373">Agrandar Pantalla</phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="full_screen_editor" added="1255710422">Editor de Pantalla Completa</phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="january" added="1255712010">Enero</phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="february" added="1255712019">Febrero</phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="march" added="1255712026">Marzo</phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="april" added="1255712033">Abril</phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="may" added="1255712040">Mayo</phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="june" added="1255712047">Junio</phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="july" added="1255712054">Julio</phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="august" added="1255712061">Agosto</phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="september" added="1255712068">Septiembre</phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="october" added="1255712075">Octubre</phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="november" added="1255712082">Noviembre</phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="december" added="1255712089">Diciembre</phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="not_a_valid_file_extension_we_only_accept_support" added="1255712204"><![CDATA[No es una extensi&#243;n de archivo v&#225;lida. S&#243;lo aceptamos: {support}]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="not_a_valid_image_we_only_accept_the_following_file_extensions_support" added="1255712279"><![CDATA[No es una imagen v&#225;lida. Nosotros solo aceptamo las siguientes extensiones de archivos: {support}]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="unable_to_move_the_image" added="1255712307">No se puede mover la imagen.</phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="unable_to_move_the_file" added="1255712330">No se puede mover el archivo.</phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="unable_to_upload_the_image" added="1255712340">No se puede subir la imagen.</phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="upload_failed_server_cannot_handle_files_larger_then_file_size" added="1255712554"><![CDATA[Error de subida. Servidor no puede manejar archivos m&#225;s grande que: {file_size}]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="upload_failed_server_cannot_handle_files_size_larger_then_file_size" added="1255712603"><![CDATA[Error de subida. Servidor no puede manejar archivos ({size}) m&#225;s grande que: {file_size}]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="upload_failed_your_file_size_is_larger_then_our_limit_file_size" added="1255712638"><![CDATA[Error de subida. Tu archivo ({size}) es m&#225;s grande que nuestro l&#237;mite: {file_size}]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="uploaded_file_is_not_valid" added="1255712670"><![CDATA[El archivo subido no es v&#225;lido.]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="unable_to_connect_to_ftp_host" added="1255712693">No se puede conectar al host de FTP.</phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="ftp_password_hash_does_not_match_with_server_hash" added="1255712704"><![CDATA[FTP password hash does not match with server hash
+La contrase&#241;a hash del ftp no coincide con el hash del servidor.]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="unable_to_login_to_ftp_server" added="1255712714">No se puede acceder al servidor FTP.</phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="unable_to_connect_to_ftp_base_directory_make_sure_the_setting_for_ftp_directory_path_has_the_correct_path" added="1255712739"><![CDATA[No se puede conectar a FTP directorio base. Aseg&#250;rese de que el escenario de "la ruta del directorio FTP" tiene el camino correcto.]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="paypal_email" added="1255712780">Email de PayPal</phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="paypal_is_an_electronic_money_service_which_allows_you_to_make_payment_to_anyone_online" added="1255712892"><![CDATA[PayPal es un servicio de dinero electr&#243;nico que le permite hacer el pago a cualquier persona que se encuentre en l&#237;nea. Usted puede elegir pagar con su tarjeta de cr&#233;dito, tarjeta de d&#233;bito, cuenta bancaria, o saldo de PayPal y realizar compras con seguridad sin revelar su n&#250;mero de tarjeta de cr&#233;dito o informaci&#243;n financiera. Todas las tarjetas de cr&#233;dito y de d&#233;bito son aceptadas como Visa, Mastercard, American Express, Switch y Solo (adem&#225;s de muchas m&#225;s) ..]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="the_email_that_represents_your_paypal_account" added="1255712972"><![CDATA[El correo electr&#243;nico que representa a su cuenta PayPal.]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="2checkout_vendor_id_number" added="1255712983">ID del Suplidor en 2Checkout</phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="2checkout_secret_word" added="1255712992">Palabra Secreta de 2Checkout</phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="your_numerical_vendor_id" added="1255713000"><![CDATA[ID num&#233;rico de tu suplidor.]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="the_secret_word_as_set_within_the_look_and_feel_page_of_your_2checkout_account" added="1255713007"><![CDATA[La palabra secreta que figura en la p&#225;gina "Look and Feel" de su cuenta de 2Checkout.]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="unable_to_create_a_watermark_resource" added="1255713076">No se puede crear un recurso de marca de agua.</phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="originally_posted_by" added="1255714201">Publicado originalmente por</phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="search_results_for" added="1255714921">Buscar resultados para</phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="any" added="1255714973">Todos</phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="upgrade_taking_place" added="1255715353"><![CDATA[Actualizaci&#243;n en Proceso]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="content_is_empty" added="1255715616"><![CDATA[El Contenido est&#225; vac&#237;o]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="the_content_of_this_item_is_identical_to_something_you_have_added_before_please_try_again" added="1255715631"><![CDATA[El contenido de este art&#237;culo es id&#233;ntico a lo que agregastes antes. Por favor, int&#233;ntalo de nuevo.]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="try_again_in_1_minute" added="1255715652">Trata de nuevo en 1 minuto.</phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="try_again_in_time_minutes" added="1255715666">Trata de nuevo en {time} minutos.</phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="month" added="1255715765">Mes</phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="day" added="1255715866"><![CDATA[D&#237;a]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="year" added="1255715882"><![CDATA[A&#241;o]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="am" added="1255715940">am</phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="pm" added="1255715976">pm</phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="language_packages" added="1255716241">Idiomas</phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="manage" added="1255716528">Administrar</phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="profile" added="1255716538">Perfil</phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="1_second_ago" added="1255787567">hace un segundo</phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="total_seconds_ago" added="1255787587">hace {total} segundos</phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="1_minute_ago" added="1255787604">hace un minuto</phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="total_minutes_ago" added="1255787618">hace {total} minutos</phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="1_hour_ago" added="1255787633">hace una hora</phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="total_hours_ago" added="1255787645">hace {total} horas</phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="today" added="1255787662">Hoy</phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="yesterday" added="1255787672">Ayer</phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="move_this_block" added="1255935862">Mover este Bloque</phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="online" added="1256030174"><![CDATA[En L&#237;nea]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="none" added="1256032072">(ninguno)</phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="cancel_lowercase" added="1256119676">Cancelar</phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="setting_can_move_on_a_y_and_x_axis" added="1256500257"><![CDATA[<title>Arrastre y suelte Bloques</title><info>Seleccione esto a <b>Si</b> si usted permite a los usuarios mover bloques sobre un Y or X axis dentro de las zonas donde puedan mover bloques (p.ej. Su propio perfil)  De forma predeterminada, s&#243;lo permiten a los usuarios moverse bloques en una  Y axis permitiendo a los usuarios mover bloques en cualquier lugar, les dar&#225; la libertad pero puede causar que el dise&#241;o de su sitio pueda ser destruido.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="block" added="1256542768">Bloque</phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="full_name_is_online" added="1256550931"><![CDATA[{full_name} est&#225; en linea.]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="setting_resize_images" added="1256639414"><![CDATA[<title>Resize Images</title><info>Si usted permite c&#243;digo HTML en el sitio y los usuarios intentan agregar im&#225;genes puede activar esta opci&#243;n para establecer un m&#225;ximo de ancho/altura en ciertas &#225;reas (por ej Comentarios Generales News Feed).
+
+<b>Aviso:</b> Si se activa esto a&#241;adir&#225; una sobrecarga adicional al script.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="you_cannot_write_more_then_limit_characters" added="1256666443"><![CDATA[No puedes escribir m&#225;s de {limit} caracteres!]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc4" var_name="you_have_limit_character_s_left" added="1256666594"><![CDATA[Tienes de l&#237;mite {limit} caracteres.]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc5" var_name="welcome_email_content" added="1256828212">Gracias por unirse a nuestra comunidad!</phrase>
+	<phrase module_id="core" version_id="2.0.0rc5" var_name="welcome_email_subject" added="1256828898">Bienvenido a Facesnights, Red Social Nocturna</phrase>
+	<phrase module_id="core" version_id="2.0.0rc5" var_name="monday" added="1256832175">Lunes</phrase>
+	<phrase module_id="core" version_id="2.0.0rc5" var_name="tuesday" added="1256832914">Martes</phrase>
+	<phrase module_id="core" version_id="2.0.0rc5" var_name="wednesday" added="1256832954"><![CDATA[Mi&#233;rcoles]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc5" var_name="thursday" added="1256832979">Jueves</phrase>
+	<phrase module_id="core" version_id="2.0.0rc5" var_name="friday" added="1256833008">Viernes</phrase>
+	<phrase module_id="core" version_id="2.0.0rc5" var_name="saturday" added="1256833052"><![CDATA[S&#225;bado]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc5" var_name="sunday" added="1256833073">Domingo</phrase>
+	<phrase module_id="core" version_id="2.0.0rc6" var_name="view_less" added="1257261878">Ver menos</phrase>
+	<phrase module_id="core" version_id="2.0.0rc7" var_name="select_a_file_to_upload" added="1257790027">Seleccione el archivo a subir.</phrase>
+	<phrase module_id="core" version_id="2.0.0rc8" var_name="clear" added="1258501182">Eliminar estado</phrase>
+	<phrase module_id="core" version_id="2.0.0rc8" var_name="clear_your_current_status" added="1258501409">Limpie su estado</phrase>
+	<phrase module_id="core" version_id="2.0.0rc8" var_name="not_a_valid_file_extension_we_only_allow_ext" added="1258550380"><![CDATA[No es una extensi&#243;n de archivo v&#225;lido. S&#243;lo permitimos: {ext}]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc8" var_name="opps_something_went_wrong" added="1258552662"><![CDATA[Lo sentimos! Algo sali&#243; mal. No se pudo completar su solicitud. Estamos buscando la soluci&#243;n a este problema. Por favor, actualiza la p&#225;gina y vuelve a intentarlo.]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc8" var_name="fill_in_a_proper_url" added="1259006129">Proporciona un URL apropiado.</phrase>
+	<phrase module_id="core" version_id="2.0.0rc8" var_name="url" added="1259006139">URL</phrase>
+	<phrase module_id="core" version_id="2.0.0rc8" var_name="message" added="1259006152">Mensaje</phrase>
+	<phrase module_id="core" version_id="2.0.0rc8" var_name="image" added="1259006739">Imagen</phrase>
+	<phrase module_id="core" version_id="2.0.0rc8" var_name="provide_a_proper_image_path" added="1259006762">Proporcione una ruta de la imagen adecuada.</phrase>
+	<phrase module_id="core" version_id="2.0.0rc8" var_name="not_a_valid_password" added="1259092483"><![CDATA[No es una contrase&#241;a v&#225;lida.]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc8" var_name="invalid_url" added="1259092495"><![CDATA[URL Inv&#225;lido.]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc8" var_name="provide_a_numerical_value" added="1259092504"><![CDATA[Proporciona un valor num&#233;rico.]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc8" var_name="provide_a_valid_price" added="1259092512"><![CDATA[Proporciona un precio v&#225;lido.]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc8" var_name="provide_a_valid_year_eg_1982" added="1259092519"><![CDATA[Proporciona un a&#241;o v&#225;lido. (ej. 1982)]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc9" var_name="setting_mail_smtp_port" added="1259174724"><![CDATA[<title> Puerto SMTP </title> <info> &#191;Qu&#233; puerto utilizar para enviar correo con SMTP? Por defecto es 25 </info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc10" var_name="setting_conver_time_to_string" added="1259600267"><![CDATA[<title>Time to String</title><info>Time to String</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc10" var_name="setting_global_welcome_time_stamp" added="1259613089"><![CDATA[<title>Fecha y hora de la Bienvenida Global</title><info>Fecha y hora de la Bienvenida Global</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc11" var_name="his" added="1259966039">su</phrase>
+	<phrase module_id="core" version_id="2.0.0rc11" var_name="her" added="1259966050">su</phrase>
+	<phrase module_id="core" version_id="2.0.0rc11" var_name="setting_no_more_ie6" added="1260114410"><![CDATA[<title>Detectar IE6</title><info>Con esta funci&#243;n activada que guiar&#225; a aquellos usando IE6 para actualizar a un navegador compatible.
+
+Esta caracter&#237;stica es alimentado por <a href="http://www.ie6nomore.com/" target="_blank">IE6 No m&#225;s</a>
+
+<b>Note:</b> Los temas que ofrecemos de forma predeterminada requiere Internet Explorer 7 o superior, sin embargo, otros temas podr&#237;an funcionar bien con IE6, ya que se reduce al tema que ha instalado.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc11" var_name="warning" added="1260115626">Aviso!</phrase>
+	<phrase module_id="core" version_id="2.0.0rc11" var_name="you_are_using_an_outdated_browser" added="1260115640"><![CDATA[Usted est&#225; utilizando un navegador obsoleto]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc11" var_name="for_a_better_experience_using_this_site_please_upgrade_to_a_modern_web_browser" added="1260115649">Para una mejor experiencia de uso de este sitio, por favor, actualiza tu navegador.</phrase>
+	<phrase module_id="core" version_id="2.0.0rc11" var_name="get_firefox" added="1260115659">Obtener Firefox</phrase>
+	<phrase module_id="core" version_id="2.0.0rc11" var_name="get_internet_explorer" added="1260115674">Obtener Internet Explorer</phrase>
+	<phrase module_id="core" version_id="2.0.0rc11" var_name="get_safari" added="1260115686">Obtener Safari</phrase>
+	<phrase module_id="core" version_id="2.0.0rc11" var_name="get_google_chrome" added="1260115698">Obtener Google Chrome</phrase>
+	<phrase module_id="core" version_id="2.0.0rc11" var_name="menu_core_new_sample" added="1260125237">Nuevo Ejemplo</phrase>
+	<phrase module_id="core" version_id="2.0.0rc11" var_name="menu_core_sub_menu" added="1260133497">Sub Menu</phrase>
+	<phrase module_id="core" version_id="2.0.0rc11" var_name="setting_resize_embed_video" added="1260137802"><![CDATA[<title>Resize Embedded Videos</title><info>Active esta funci&#243;n para cambiar el tama&#241;o de los v&#237;deos incrustados se adapte a su tema por defecto de los sitios en las zonas donde se ha dise&#241;ado para arreglar videos flash (por ejemplo, el perfil de los usuarios).
+
+Tenga en cuenta que activar esta funci&#243;n ser&#225; una carga extra.
+
+Utilice esta funci&#243;n con precauci&#243;n, ya que es experimental.
+</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc11" var_name="translate" added="1260209538">Traducir</phrase>
+	<phrase module_id="core" version_id="2.0.0rc12" var_name="setting_footer_watch_time_stamp" added="1260824135"><![CDATA[<title>Footer Bar Time Stamp</title><info>Footer Bar Time Stamp</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc12" var_name="setting_categories_to_show_at_first" added="1260886987"><![CDATA[<title>N&#250;mero de categor&#237;as para mostrar en un primer momento</title><info>Este ajuste le indica cu&#225;ntas categor&#237;as se muestran en un primer momento. Si la lista de categor&#237;as es superior a este valor los extras se oculta y una "Ver m&#225;s" opci&#243;n se mostrar&#225; en su lugar, lo que permite al usuario visualizar las categor&#237;as ocultas.
+
+a "View Less" option will be available to provide the full "accordion" effect.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0rc12" var_name="translating_name" added="1260974997">Traduciendo: {name}</phrase>
+	<phrase module_id="core" version_id="2.0.0" var_name="sample_phrase" added="1261078500">Frase de Muestra</phrase>
+	<phrase module_id="core" version_id="2.0.0" var_name="setting_global_site_title" added="1261332596"><![CDATA[<title>Titulo del Sitio</title><info>Esto se muestra en cada p&#225;gina como el t&#237;tulo de su sitio.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.0" var_name="uploading" added="1261570167">Subiendo</phrase>
+	<phrase module_id="core" version_id="2.0.2" var_name="setting_css_edit_id" added="1262718486"><![CDATA[<title>CSS Editar ID#</title><info>CSS Editar ID#</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.2" var_name="setting_footer_bar_tool_tip_time_stamp" added="1263239803"><![CDATA[<title>Footerbar Tooltip Timestamp</title><info>Este es el sello de hora que se muestra cuando se cierne sobre la marca de tiempo peque&#241;o en la barra de pie de p&#225;gina.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.4" var_name="what_s_on_your_mind" added="1267544459"><![CDATA[&#191;Qu&#233; est&#225;s haciendo?]]></phrase>
+	<phrase module_id="core" version_id="2.0.5" var_name="currency" added="1271403468">Moneda</phrase>
+	<phrase module_id="core" version_id="2.0.5" var_name="currency_manager" added="1271403530">Administrar Moneda</phrase>
+	<phrase module_id="core" version_id="2.0.5" var_name="add_currency" added="1271403551"><![CDATA[A&#241;adir Moneda]]></phrase>
+	<phrase module_id="core" version_id="2.0.5" var_name="u_s_dollars" added="1271404571">U.S. Dollars</phrase>
+	<phrase module_id="core" version_id="2.0.5" var_name="euros" added="1271404620">Euros</phrase>
+	<phrase module_id="core" version_id="2.0.5" var_name="pounds_sterling" added="1271404639">Libras Esterlinas</phrase>
+	<phrase module_id="core" version_id="2.0.5" var_name="currencies" added="1271410326">Monedas</phrase>
+	<phrase module_id="core" version_id="2.0.5" var_name="custom_currency_sek" added="1271419828">Corona sueca</phrase>
+	<phrase module_id="core" version_id="2.0.5" var_name="setting_group_currency" added="1272025108"><![CDATA[<title>Moneda</title><info>Moneda</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.5" var_name="setting_exchange_rate_api_key" added="1272025266"><![CDATA[<title>Tipo de Cambio API</title><info>Para obtener los &#250;ltimos tipos de cambio de las monedas que se utilizan hay que conectarse a un sitio web de tercero. Para inscribirse en un pa&#237;s libre clave de API van <a href="http://www.exchangerate-api.com/api-key">aqu&#237;</a>.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.5" var_name="setting_group_cdn_content_delivery_network" added="1272361339"><![CDATA[<title>CDN (Content Delivery Network)</title><info>CDN (Content Delivery Network)</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.5" var_name="setting_amazon_access_key" added="1272361405"><![CDATA[<title>Amazon Clave Acceso</title><info>A&#241;adir tu clave Amazon.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.5" var_name="setting_amazon_secret_key" added="1272361721"><![CDATA[<title>Amazon Clave Secreta</title><info>A&#241;adir tu clave secreta Amazon.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.5" var_name="setting_amazon_bucket" added="1272361799"><![CDATA[<title>Amazon Bucket Nombre</title><info>Este se crear&#225; autom&#225;ticamente por el script. Deje esta configuraci&#243;n a menos que desee crear manualmente un bucket en Amazon.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.5" var_name="setting_amazon_bucket_created" added="1272361978"><![CDATA[<title>Amazon Bucket Creada</title><info>Este valor se actualiza autom&#225;ticamente por el script. S&#243;lo modificar esta configuraci&#243;n para fines de depuraci&#243;n.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.5" var_name="setting_allow_cdn" added="1272362370"><![CDATA[<title>Activar CDN (Beta)</title><info>Seleccione esto a "Si" si usted quiere usar CDN. Note que esta caracteristica est&#225; en "Beta".</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.5" var_name="money_field_only_accepts_numbers_and_point" added="1271338945"><![CDATA[Los campos de dinero s&#243;lo puede tener un n&#250;mero y un punto.
+Ejemplos v&#225;lidos:
+12.43
+15
+0.65]]></phrase>
+	<phrase module_id="core" version_id="2.0.5" var_name="only_one_point_is_allowed" added="1271339014"><![CDATA[En los campos de dinero un solo punto se permite, ejemplos v&#225;lidos:
+23.12
+19.54
+30]]></phrase>
+	<phrase module_id="core" version_id="2.0.5" var_name="money_fields_are_required" added="1271339939"><![CDATA[Si un campo de dinero se establece, los dem&#225;s son obligatorios. Puedes dejar todo vac&#237;o o no.]]></phrase>
+	<phrase module_id="core" version_id="2.0.5" var_name="setting_cdn_cname" added="1273008398"><![CDATA[<title>CDN URL (Opcional)</title><info>Si su proveedor de CDN le permite crear un registro CNAME puede agregar el dominio aqu&#237;. Ejemplo: (http://cdn.yoursite.com/)</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.5dev1" var_name="setting_force_https_secure_pages" added="1274840652"><![CDATA[<title>P&#225;ginas seguras con HTTPS</title><info>Si el servidor tiene soporte para HTTPS se puede activar esta funci&#243;n para asegurar ciertas p&#225;ginas, como las p&#225;ginas de configuraci&#243;n de inicio de sesi&#243;n, de registro y cuenta.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.5dev2" var_name="try_again_in_time_seconds" added="1275106296">Intentalo de nuevo {tiempo} segundos.</phrase>
+	<phrase module_id="core" version_id="2.0.5dev2" var_name="try_again_in_1_second" added="1275106549">Intalo de nuevo en 1 segundo.</phrase>
+	<phrase module_id="core" version_id="2.0.5dev2" var_name="setting_global_genders" added="1275182678"><![CDATA[<title>Generos</title><info>Este ajuste controla los g&#233;neros utilizados en esta comunidad. Para agregar un nuevo g&#233;nero que hay que rellenar con 3 valores separados por una barra vertical "|" (sin comillas). Utilice los g&#233;neros masculino y femenino por defecto que ofrecemos como ejemplos.
+  El primer valor debe ser un n&#250;mero &#250;nico de identificaci&#243;n num&#233;rica. Para hombres y mujeres que utilizan los n&#250;meros 1 y 2. Se aconseja ir hacia arriba desde all&#237;. El campo de segunda debe ser una frase que primero debe agregar utilizando nuestro gestor de idioma. Una vez que se agrega una frase que le da varios ejemplos sobre c&#243;mo utilizar la frase. Nosotros vamos a usar el "texto" m&#233;todo, que es b&#225;sicamente el nombre de la variable de la frase y la forma en que se conectan a esta palabra espec&#237;fica. As&#237;, el 2 &#186; valor tiene que ser una frase que identifica a este g&#233;nero. Para hombres y mujeres que utilizan &#233;l y para ella. El valor de tercero identifica el g&#233;nero y tambi&#233;n debe ser una frase muy parecida a la 2 &#186; valor. Para hombres y mujeres que utilizan hombres y mujeres a llenar este valor.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.5dev2" var_name="all" added="1275184041">todo</phrase>
+	<phrase module_id="core" version_id="2.0.6" var_name="time_separator" added="1284989757"><![CDATA[en&#160;]]></phrase>
+	<phrase module_id="core" version_id="2.0.7" var_name="setting_phpfox_total_users_online_mark" added="1287501316"><![CDATA[<title>Informacion del Total de Usuarios Online</title><info>Informacion del Total de Usuarios Online</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.7" var_name="setting_phpfox_total_users_online_history" added="1287579364"><![CDATA[<title>Informacion de la Historia Total de Usuarios Online</title><info>Informacion de la Historia Total de Usuarios Online</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.7" var_name="your_website_has_surpassed_its_limit_on_how_many_active" added="1287591667"><![CDATA[Tu sitio web super&#243; su l&#237;mite en el n&#250;mero de usuarios activos que puede tener en l&#237;nea a la vez. A continuaci&#243;n encontrar&#225;s un registro de cu&#225;ntos usuarios tienes y una marca de tiempo de cuando ocurri&#243;. Se aconseja para que puedas actualizar tu cuenta y no te encuentres con estas interrupciones en el futuro.]]></phrase>
+	<phrase module_id="core" version_id="2.0.7" var_name="limit_warning" added="1287591678">Limitar Alerta</phrase>
+	<phrase module_id="core" version_id="2.0.7" var_name="online_usage_log" added="1287591694">Registro de uso Online</phrase>
+	<phrase module_id="core" version_id="2.0.7" var_name="timestamp" added="1287591706">Fecha y hora</phrase>
+	<phrase module_id="core" version_id="2.0.7" var_name="users" added="1287591715">Usuarios</phrase>
+	<phrase module_id="core" version_id="2.0.7" var_name="setting_phpfox_is_hosted" added="1287591800"><![CDATA[<title>Hospedado</title><info>Hospedado</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.7" var_name="setting_phpfox_max_users_online" added="1287591837"><![CDATA[<title>M&#225;ximo de Usuarios Online</title><infoM&#225;ximo de Usuarios Online</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.7" var_name="saving" added="1288182996">Guardando...</phrase>
+	<phrase module_id="core" version_id="2.0.7" var_name="loading_text_editor" added="1288281231">Cargando editor de texto</phrase>
+	<phrase module_id="core" version_id="2.0.7" var_name="setting_enabled_edit_area" added="1288349480"><![CDATA[<title>Utiliza la opci&#243;n Editar &#193;rea</title><info>Activar esta opci&#243;n para utilizar <a href="http://www.cdolivet.com/index.php?page=editArea">Editar &#193;rea</a> cuando edite c&#243;digo (HTML, PHP etc...) en el Panel de Admin. Esta caracter&#237;stica transforma una forma convencional en un editor de c&#243;digo.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.7" var_name="setting_group_ip_infodb" added="1289988638"><![CDATA[<title>IP InformacionDB</title><info>Herramientas gratuitas de golocalizacion de IP </info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.7" var_name="setting_ip_infodb_api_key" added="1289988772"><![CDATA[<title>IP InformacionDB clave API </title><info>IP InformacionDB es una herramienta gratuita que nosotros usamos para encontrar informacion util de los usuarios basada en su IP.Ingresa tu clave gratuita API,que se puede obtener <a href="http://ipinfodb.com/register.php">aqu&#237;</a>.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.1.0Beta1" var_name="setting_load_jquery_from_google_cdn" added="1292408370"><![CDATA[<title>Load jQuery desde Google CDN</title><info>Al activar esta opci&#243;n se carga jQuery de JavaScript relacionados con los archivos de los servidores de Google CDN. M&#225;s informaci&#243;n se puede encontrar <a href="http://code.google.com/apis/libraries/devguide.html">aqu&#237;</a>.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.1.0Beta1" var_name="setting_jquery_google_cdn_version" added="1292408517"><![CDATA[<title>jQuery Version en Google CDN</title><info>Definir la versi&#243;n de jQuery que est&#225; disponible en <a href="http://code.google.com/apis/libraries/devguide.html#jquery">Google CDN</a> servers.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.1.0Beta1" var_name="setting_jquery_ui_google_cdn_version" added="1292408601"><![CDATA[<title>jQuery UI Version on Google CDN</title><info>Definir la versi&#243;n de jQuery UI que est&#225; disponible en <a href="http://code.google.com/apis/libraries/devguide.html#jqueryUI">Google CDN</a> servidores.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.1.0Beta1" var_name="setting_friends_only_community" added="1293613541"><![CDATA[<title>S&#243;lo amigos de la Comunidad</title><info>Al activar esta opci&#243;n algunos sectores (ej. blogs, fotos, etc ..), que por defecto solo muestra los elementos de la lista de miembros y su amigos. <b>Note:</b> Para que esto funcione debes habilitar la opci&#243;n <b>Secci&#243;n Punto de privacidad de navegaci&#243;n
+</b></info>]]></phrase>
+	<phrase module_id="core" version_id="2.1.0Beta1" var_name="setting_site_wide_ajax_browsing" added="1294768580"><![CDATA[<title>Sitio amplio de navegaci&#243;n AJAX</title><info>Al activar esta opci&#243;n, los usuarios podr&#225;n navegar por ciertas &#225;reas del sitio usando AJAX. Mediante el uso de AJAX s&#243;lo cargar los datos necesarios para la p&#225;gina espec&#237;fica que se muestra. Esto ahorra ancho de banda y puede mejorar el rendimiento general de sus servidores debido a la reducci&#243;n del n&#250;mero de peticiones a los servidores.</info>]]></phrase>
+	<phrase module_id="core" version_id="3.0.0Beta1" var_name="setting_section_privacy_item_browsing" added="1295254530"><![CDATA[<title>Secci&#243;n Punto de privacidad de navegaci&#243;n</title><info>Al activar esta opci&#243;n permitir&#225; a los usuarios navegar por algunas secciones que permiten la configuraci&#243;n de privacidad. Por defecto, solo mostrar los elementos p&#250;blicos en lo que llamamos secciones (por ej Blogs, Encuestas, etc .. Discos). Con esta opci&#243;n activada vamos a mostrar los elementos que el usuario que est&#225; viendo sobre la base de la configuraci&#243;n de privacidad art&#237;culos. Tenga en cuenta que esta opci&#243;n requiere un servidor con equilibrio de carga y en muchos casos varios servidores SQL de la misma para apoyar este tipo de consulta en una comunidad activa.</info>]]></phrase>
+	<phrase module_id="core" version_id="3.0.0Beta1" var_name="setting_date_field_order" added="1302345875"><![CDATA[<title>Formato de fecha del Calendario</title><info>El formato para analizar y mostar las fechas. 
+MDY = Mes/Dia/A&#241;o
+DMY = Dia/Mes/A&#241;o
+YMD = A&#241;o/Mes/Dia</info>]]></phrase>
+	<phrase module_id="core" version_id="3.0.0Beta1" var_name="setting_use_jquery_datepicker" added="1302348657"><![CDATA[<title>Usar Datepicker</title><info>Seleccione esto a "Si" para usar un selector en todas las &#225;reas que requieran los usuarios para seleccionar una fecha.</info>]]></phrase>
+	<phrase module_id="core" version_id="2.0.8" var_name="name" added="1294829089">Nombre</phrase>
+	<phrase module_id="core" version_id="2.0.8" var_name="in_queue" added="1294829175">En la cola de</phrase>
+	<phrase module_id="core" version_id="2.0.8" var_name="more_queued_than_allowed" added="1296557912"><![CDATA[Por favor, s&#243;lo selecciona {iQueueLimit} archivos]]></phrase>
+	<phrase module_id="core" version_id="2.0.8" var_name="stopped" added="1297081376">Detenido</phrase>
+	<phrase module_id="core" version_id="2.0.8" var_name="manage_activity_points" added="1297418856">Administrar Puntos de Actividad</phrase>
+	<phrase module_id="core" version_id="2.0.8" var_name="multiple_selection" added="1297678709">Multiple Seleccion</phrase>
+	<phrase module_id="core" version_id="2.0.8" var_name="radio" added="1297688811">Radio</phrase>
+	<phrase module_id="core" version_id="2.0.8" var_name="checkbox" added="1297690696"><![CDATA[Casilla de verificaci&#243;n]]></phrase>
+	<phrase module_id="core" version_id="2.1.0beta2" var_name="setting_cdn_amazon_https" added="1301318031"><![CDATA[<title>Activar soporte de HTTPS</title><info>Seleccione esto a "Si" si el usuario est&#225; en una p&#225;gina segura para usar HTTPS con Amazon S3 los temas. Nota que usted tendr&#225; que crear su propio certificado para trabajar con Amazon S3 ya que no proporcionan apoyo a esto por defecto. </info>]]></phrase>
+	<phrase module_id="core" version_id="2.1.0rc1" var_name="upload_problems" added="1301568603"><![CDATA[&#191;Problemas al subir? Prueba el <a href="{link}">cargador b&#225;sico</a> (trabaja sobre los ordenadores y navegadores web m&#225;s antiguos).]]></phrase>
+	<phrase module_id="core" version_id="3.0.0beta1" var_name="user_setting_can_design_dnd" added="1308659242"><![CDATA[&#191;Pueden los miembros de este grupo de usuarios permitir&#225; al dise&#241;ador del sitio para arrastrar y soltar los bloques en todo el sitio? (Estos cambios afectan a todo el sitio y esta caracter&#237;stica est&#225; dirigida a los administradores del sitio)]]></phrase>
+	<phrase module_id="core" version_id="3.0.0Beta1" var_name="menu_core_create_a_list_a441eadc1389cdf0ffe6c4f8babdd66e" added="1310027894">Crear una lista</phrase>
+	<phrase module_id="core" version_id="3.0.0beta1" var_name="setting_twitter_consumer_key" added="1312530940"><![CDATA[<title>Consumer Key</title><info>Escribe tu Twitter consumer key.</info>]]></phrase>
+	<phrase module_id="core" version_id="3.0.0beta1" var_name="setting_twitter_consumer_secret" added="1312530982"><![CDATA[<title>Consumer Secret</title><info>Escribe tu Twitter consumer secret.</info>]]></phrase>
+	<phrase module_id="core" version_id="3.0.0beta3" var_name="setting_allow_html_in_activity_feed" added="1315510132"><![CDATA[<title>Permitir HTML en Actividad Reciente</title><info>.Si se habilita esta opci&#243;n te permitir&#225; HTML en la actividad reciente y los comentarios conectados recientes.</info>]]></phrase>
+	<phrase module_id="core" version_id="3.0.0beta3" var_name="setting_disable_hash_bang_support" added="1316512962"><![CDATA[<title>AJAX Buscador - Desactivar Hash-Bang URL</title><info>Si tu tienes "Sitio Wide AJAX Buscar" nos permiti&#243; prestar apoyo a una funci&#243;n proporcionada con HTML5 que permite el cambio de la ruta de la URL sin tener que recargar la p&#225;gina. Para los navegadores que no tienen soporte para esta funci&#243;n se utiliza un retroceso hash-bang URL. Si no desea permitir el uso de URL hash-bang es activar esta opci&#243;n y para los navegadores que no tienen soporte HTML 5 no ser&#225; capaz de utilizar su funcionalidad de navegaci&#243;n por los sitios AJAX. Actualmente todos los navegadores Internet Explorer no tiene soporte para esta funci&#243;n HTML5 para que por defecto utiliza el m&#233;todo de reserva.</info>]]></phrase>
+	<phrase module_id="core" version_id="3.0.0beta3" var_name="search_dot" added="1316530308">Buscar...</phrase>
+	<phrase module_id="core" version_id="3.0.0beta4" var_name="account_info" added="1316617438"><![CDATA[Informaci&#243;n]]></phrase>
+	<phrase module_id="core" version_id="3.0.0beta4" var_name="edit_profile" added="1316617464">Editar perfil</phrase>
+	<phrase module_id="core" version_id="3.0.0beta5" var_name="add_new_block" added="1319115055"><![CDATA[A&#241;adir nuevo bloque]]></phrase>
+	<phrase module_id="core" version_id="3.0.0beta5" var_name="disable_dnd" added="1319115062">Desactivar DnD</phrase>
+	<phrase module_id="core" version_id="3.0.0beta5" var_name="dnd_mode" added="1319115071">Modo DnD</phrase>
+	<phrase module_id="core" version_id="3.0.0beta5" var_name="back" added="1319115084">Volver</phrase>
+	<phrase module_id="core" version_id="3.0.0beta5" var_name="home" added="1319115090">Inicio</phrase>
+	<phrase module_id="core" version_id="3.0.0beta5" var_name="add" added="1319115104"><![CDATA[A&#241;adir]]></phrase>
+	<phrase module_id="core" version_id="3.0.0beta5" var_name="log_back_in_as_global_full_name" added="1319115155">Vuelva a entrar como {global_full_name}</phrase>
+	<phrase module_id="core" version_id="3.0.0beta5" var_name="edit_page" added="1319115170">Editar Pagina</phrase>
+	<phrase module_id="core" version_id="3.0.0beta5" var_name="login_as_page" added="1319115182"><![CDATA[Entrar como p&#225;gina]]></phrase>
+	<phrase module_id="core" version_id="3.0.0beta5" var_name="enable_dnd_mode" added="1319115195">Activar modo DnD</phrase>
+	<phrase module_id="core" version_id="3.0.0beta5" var_name="disable_dnd_mode" added="1319115201">Desactivar modo DnD</phrase>
+	<phrase module_id="core" version_id="3.0.0beta5" var_name="view_more" added="1319187654">Ver mas</phrase>
+	<phrase module_id="core" version_id="3.0.0beta5" var_name="displaying_of_total" added="1319187677">{displaying} de {total}</phrase>
+	<phrase module_id="core" version_id="3.0.0beta5" var_name="select_all" added="1319187767">Seleccionar todo</phrase>
+	<phrase module_id="core" version_id="3.0.0beta5" var_name="un_select_all" added="1319187776">Deseleccionar todo</phrase>
+	<phrase module_id="core" version_id="3.0.0beta5" var_name="with_selected" added="1319187786">Con lo Seleccionado</phrase>
+	<phrase module_id="core" version_id="3.0.0beta5" var_name="clear_all_selected" added="1319187794">Eliminar lo seleccionado</phrase>
+	<phrase module_id="core" version_id="3.0.0beta5" var_name="all_time" added="1319188240">Siempre</phrase>
+	<phrase module_id="core" version_id="3.0.0beta5" var_name="this_month" added="1319188247">Este mes</phrase>
+	<phrase module_id="core" version_id="3.0.0beta5" var_name="this_week" added="1319188256">Esta semana</phrase>
+	<phrase module_id="core" version_id="3.0.0beta5" var_name="upcoming" added="1319188270"><![CDATA[Pr&#243;ximo]]></phrase>
+	<phrase module_id="core" version_id="3.0.0beta5" var_name="sort" added="1319456633">Ordenar</phrase>
+	<phrase module_id="core" version_id="3.0.0beta5" var_name="show" added="1319456639">Mostrar</phrase>
+	<phrase module_id="core" version_id="3.0.0beta5" var_name="when" added="1319456645">Cuando</phrase>
+	<phrase module_id="core" version_id="3.0.0beta5" var_name="align_left" added="1319463778">Alinear a la izquierda</phrase>
+	<phrase module_id="core" version_id="3.0.0beta5" var_name="align_center" added="1319463786">Alinear al centro</phrase>
+	<phrase module_id="core" version_id="3.0.0beta5" var_name="align_right" added="1319463793">Alinear a la derecha</phrase>
+	<phrase module_id="core" version_id="3.0.0beta5" var_name="bullets" added="1319463800">Balas</phrase>
+	<phrase module_id="core" version_id="3.0.0beta5" var_name="ordered_list" added="1319463807">Lista ordenada</phrase>
+	<phrase module_id="core" version_id="3.0.0rc1" var_name="setting_display_older_ie_error" added="1320238795"><![CDATA[<title>IE8 o superior Check</title><info>Por defecto el script requiere IE8 o superior. Mostraremos a usuarios un aviso si ellos usan una versi&#243;n m&#225;s vieja y un enlace para mejorar tu navegador. Desactiva esto si no quieres mostrar una advertencia</info>]]></phrase>
+	<phrase module_id="core" version_id="3.0.0rc1" var_name="ie8_or_higher_warning" added="1320238851"><![CDATA[Parece que usas una versi&#243;n m&#225;s vieja del Explorador de Internet. Este sitio requiere al Explorador de Internet 8 o m&#225;s alto. Actualica tu navegador <a href="http://www.microsoft.com/ie/" target="_blank">aqui</a> hoy para disfrutar totalmente de todas las maravillas de este sitio.]]></phrase>
+	<phrase module_id="core" version_id="3.0.0rc2" var_name="himself" added="1321362953">el</phrase>
+	<phrase module_id="core" version_id="3.0.0rc2" var_name="herself" added="1321362973">ella</phrase>
+	<phrase module_id="core" version_id="3.0.0" var_name="said" added="1322462984">dijo...</phrase>
+	<phrase module_id="core" version_id="3.0.0" var_name="loading" added="1322465330">Cargando</phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="module_installer" added="1215331034">Instalador Core</phrase>
+	<phrase module_id="core" version_id="2.0.0alpha1" var_name="phpfox_installer" added="1215331083">Instalador</phrase>
+	<phrase module_id="core" version_id="3.0.1" var_name="menu_core_juegos_fad58de7366495db4650cfefac2fcd61" added="1328046424">Juegos</phrase>
+	<phrase module_id="core" version_id="3.0.1" var_name="menu_core_carteles_fad58de7366495db4650cfefac2fcd61" added="1328047454">Carteles</phrase>
+	<phrase module_id="core" version_id="3.0.1" var_name="setting_disable_ie_warning" added="1327406336"><![CDATA[<title>Desactivar IE Warning</title><info>Nos mostrar&#225; una advertencia para aquellos que utilizan Internet Explorer 7 o inferior. Habilitar esta opci&#243;n si no desea visualizar esta advertencia. </info>]]></phrase>
+	<phrase module_id="core" version_id="3.0.1" var_name="menu_core_tv_fad58de7366495db4650cfefac2fcd61" added="1328534605">TV</phrase>
+	<phrase module_id="core" version_id="3.0.1" var_name="menu_core_home_4ee1a589029a67e7f1a00990a1786f46" added="1331318691">Inicio</phrase>
+	<phrase module_id="core" version_id="2.1.0" var_name="menu_core_soporte_251d164643533a527361dbe1a7b9235d" added="1365190774">Soporte</phrase>
+</phrases>

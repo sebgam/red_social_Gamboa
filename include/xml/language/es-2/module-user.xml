@@ -1,0 +1,887 @@
+<phrases>
+	<phrase module_id="user" version_id="2.0.0alpha1" var_name="log" added="1217034494"><![CDATA[Iniciar Sesi&#243;n]]></phrase>
+	<phrase module_id="user" version_id="2.0.0alpha1" var_name="module_user" added="1219147645">Usuario</phrase>
+	<phrase module_id="user" version_id="2.0.0alpha1" var_name="username" added="1214844661">Nombre de Usuario</phrase>
+	<phrase module_id="user" version_id="2.0.0alpha1" var_name="add_user_group_setting" added="1214789475"><![CDATA[A&#241;adir Marco Grupo de Usuarios]]></phrase>
+	<phrase module_id="user" version_id="2.0.0alpha1" var_name="setting_successfully_added" added="1214789508"><![CDATA[Configuracion a&#241;adida correctamente.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0alpha1" var_name="select_varname" added="1214789526"><![CDATA[Seleccione un varname para su configuraci&#243;n de usuario.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0alpha1" var_name="add_info_regarding_setting" added="1214789544"><![CDATA[A&#241;adir informaci&#243;n sobre la configuraci&#243;n de usuario.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0alpha1" var_name="setting_details" added="1214790399"><![CDATA[Detalles de la Configuraci&#243;n]]></phrase>
+	<phrase module_id="user" version_id="2.0.0alpha1" var_name="product" added="1214790410">Producto</phrase>
+	<phrase module_id="user" version_id="2.0.0alpha1" var_name="module" added="1214790423"><![CDATA[M&#243;dulo]]></phrase>
+	<phrase module_id="user" version_id="2.0.0alpha1" var_name="varname" added="1214790434">Varname</phrase>
+	<phrase module_id="user" version_id="2.0.0alpha1" var_name="type" added="1214790445">Tipo</phrase>
+	<phrase module_id="user" version_id="2.0.0alpha1" var_name="user_group_values" added="1214790456">Valores del Grupo de Usuarios</phrase>
+	<phrase module_id="user" version_id="2.0.0alpha1" var_name="language_package_details" added="1214790470">Detalles del paquete de idiomas</phrase>
+	<phrase module_id="user" version_id="2.0.0alpha1" var_name="info" added="1214790493"><![CDATA[Informaci&#243;n]]></phrase>
+	<phrase module_id="user" version_id="2.0.0alpha1" var_name="manage_user_settings" added="1214964403">Manejar Configuraciones del Usuario</phrase>
+	<phrase module_id="user" version_id="2.0.0alpha1" var_name="user_group_updated" added="1214964439">Grupo de usuarios actualizado.</phrase>
+	<phrase module_id="user" version_id="2.0.0alpha1" var_name="invalid_user_group" added="1214966740"><![CDATA[Grupo de usuarios no v&#225;lido.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0alpha1" var_name="setting_successfully_updated" added="1214981663"><![CDATA[Configuraci&#243;n ha sido actualizada.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0alpha1" var_name="manage_user_groups" added="1214986555">Administrar Grupos de Usuarios</phrase>
+	<phrase module_id="user" version_id="2.0.0alpha1" var_name="default_user_groups" added="1214986645">Grupos de usuarios predeterminados</phrase>
+	<phrase module_id="user" version_id="2.0.0alpha1" var_name="title" added="1214986655"><![CDATA[T&#237;tulo]]></phrase>
+	<phrase module_id="user" version_id="2.0.0alpha1" var_name="user" added="1214986664">Usuarios</phrase>
+	<phrase module_id="user" version_id="2.0.0alpha1" var_name="actions" added="1214986673">Acciones</phrase>
+	<phrase module_id="user" version_id="2.0.0alpha1" var_name="select_action" added="1214986688"><![CDATA[Seleccionar Acci&#243;n]]></phrase>
+	<phrase module_id="user" version_id="2.0.0alpha1" var_name="edit" added="1214986699">Editar</phrase>
+	<phrase module_id="user" version_id="2.0.0alpha1" var_name="manage_user_group" added="1214986755">Administrar Grupo de Usuarios</phrase>
+	<phrase module_id="user" version_id="2.0.0alpha1" var_name="user_group_information" added="1214986781"><![CDATA[Informaci&#243;n del Grupo de Usuarios]]></phrase>
+	<phrase module_id="user" version_id="2.0.0alpha1" var_name="title_for_user_group" added="1214986796"><![CDATA[T&#237;tulo para el grupo de usuarios.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0alpha1" var_name="user_group_settings" added="1214986808">Configuraciones del Grupo de Usuarios</phrase>
+	<phrase module_id="user" version_id="2.0.0alpha1" var_name="menu_register" added="1217033146">Registrarse</phrase>
+	<phrase module_id="user" version_id="2.0.0alpha1" var_name="user_name" added="1218458106">Nombre de Usuario</phrase>
+	<phrase module_id="user" version_id="2.0.0alpha1" var_name="email" added="1218458120">Email</phrase>
+	<phrase module_id="user" version_id="2.0.0alpha1" var_name="login" added="1218458136">Usuario</phrase>
+	<phrase module_id="user" version_id="2.0.0alpha1" var_name="password" added="1218458188"><![CDATA[Contrase&#241;a]]></phrase>
+	<phrase module_id="user" version_id="2.0.0alpha1" var_name="remember" added="1218459828">Recordarme</phrase>
+	<phrase module_id="user" version_id="2.0.0alpha1" var_name="login_button" added="1218459855"><![CDATA[Iniciar Sesi&#243;n]]></phrase>
+	<phrase module_id="user" version_id="2.0.0alpha1" var_name="sign" added="1218459940"><![CDATA[Reg&#237;strese]]></phrase>
+	<phrase module_id="user" version_id="2.0.0alpha1" var_name="forgot_password" added="1218459951"><![CDATA[&#191;Olvid&#243; su contrase&#241;a?]]></phrase>
+	<phrase module_id="user" version_id="2.0.0alpha1" var_name="site_name_login" added="1218461107"><![CDATA[{name} Inicio de sesi&#243;n]]></phrase>
+	<phrase module_id="user" version_id="2.0.0alpha1" var_name="sign_for_site_name" added="1218461161"><![CDATA[o <a href="{url}">Reg&#237;strese en {name}</a>]]></phrase>
+	<phrase module_id="user" version_id="2.0.0alpha1" var_name="forgot_your_password" added="1218464832"><![CDATA[&#191;Olvid&#243; su contrase&#241;a?]]></phrase>
+	<phrase module_id="user" version_id="2.0.0alpha1" var_name="provide_your_user_name" added="1218464879">Proporciona tu nombre de usuario.</phrase>
+	<phrase module_id="user" version_id="2.0.0alpha1" var_name="provide_your_email" added="1218464891">Proporcione su email.</phrase>
+	<phrase module_id="user" version_id="2.0.0alpha1" var_name="provide_your_user_name_email" added="1218464903">Proporcione su nombre de usuario o email.</phrase>
+	<phrase module_id="user" version_id="2.0.0alpha1" var_name="provide_your_password" added="1218464912"><![CDATA[Proporciona tu contrase&#241;a.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0alpha1" var_name="login_title" added="1218464970"><![CDATA[Iniciar Sesi&#243;n]]></phrase>
+	<phrase module_id="user" version_id="2.0.0alpha1" var_name="invalid_user_name" added="1218465012"><![CDATA[Nombre de Usuario no v&#225;lido.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0alpha1" var_name="invalid_email" added="1218465021"><![CDATA[Email no v&#225;lido.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0alpha1" var_name="invalid_login_id" added="1218465032"><![CDATA[Usuario o contrase&#241;a no v&#225;lidas.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0alpha1" var_name="invalid_password" added="1218465047"><![CDATA[Contrase&#241;a no v&#225;lida.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0alpha1" var_name="you_need_logged_that" added="1218724550">Necesita estar conectado para hacer eso.</phrase>
+	<phrase module_id="user" version_id="2.0.0alpha1" var_name="sign_and_start_using_site" added="1219836880"><![CDATA[Reg&#237;strese]]></phrase>
+	<phrase module_id="user" version_id="2.0.0alpha1" var_name="menu_browse" added="1231832504">Miembros</phrase>
+	<phrase module_id="user" version_id="2.0.0alpha1" var_name="menu_settings" added="1231837038">Cuenta</phrase>
+	<phrase module_id="user" version_id="2.0.0alpha1" var_name="user_setting_can_add_user_group_setting" added="1214790898"><![CDATA[Puedo a&#241;adir/editar la configuraci&#243;n de los grupos de usuarios?
+
+Nota: Active esta funci&#243;n s&#243;lo si la creaci&#243;n de un plug-in o modificar el paquete.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0alpha2" var_name="menu_who_s_online" added="1237189857"><![CDATA[Qui&#233;n est&#225; en L&#237;nea]]></phrase>
+	<phrase module_id="user" version_id="2.0.0alpha2" var_name="user_setting_can_control_profile_privacy" added="1237552899"><![CDATA[Puede controlar la configuraci&#243;n de privacidad de su propio perfil?]]></phrase>
+	<phrase module_id="user" version_id="2.0.0alpha2" var_name="user_setting_can_control_notification_privacy" added="1237552966"><![CDATA[Puede controlar la configuraci&#243;n de notificaci&#243;n de privacidad?]]></phrase>
+	<phrase module_id="user" version_id="2.0.0alpha2" var_name="user_setting_can_override_user_privacy" added="1237553281">Se puede sustituir el ajuste de privacidad de los usuarios?</phrase>
+	<phrase module_id="user" version_id="2.0.0alpha2" var_name="setting_multi_step_registration_form" added="1237571029"><![CDATA[<title>Multi-step Registration Form</title><info>Multi-step Registration Form</info>]]></phrase>
+	<phrase module_id="user" version_id="2.0.0alpha2" var_name="user_setting_require_profile_image" added="1237573969">Users are required to upload a profile image?</phrase>
+	<phrase module_id="user" version_id="2.0.0alpha2" var_name="setting_registration_steps" added="1237574533"><![CDATA[<title>Registration Steps</title><info>Registration Steps</info>]]></phrase>
+	<phrase module_id="user" version_id="2.0.0alpha3" var_name="menu_edit_profile" added="1238410664">Editar Perfil</phrase>
+	<phrase module_id="user" version_id="2.0.0alpha3" var_name="custom_group_interests" added="1238671589">Intereses</phrase>
+	<phrase module_id="user" version_id="2.0.0alpha3" var_name="custom_group_details" added="1238671708">Detalles</phrase>
+	<phrase module_id="user" version_id="2.0.0beta3" var_name="setting_usernames_to_suggest" added="1244550909"><![CDATA[<title>Nombres de usuario para sugerir</title><info>Cuando los usuarios no pasan la verificaci&#243;n de nombre de usuario al registrarse varios usuarios se sugiere.
+Los valores aqu&#237; son la primera parte de estas propuestas, por la segunda parte es un n&#250;mero aleatorio).
+
+Posibles resultados:
+user234
+member181
+friend921</info>]]></phrase>
+	<phrase module_id="user" version_id="2.0.0beta3" var_name="setting_how_many_usernames_to_suggest" added="1244551391"><![CDATA[<title>Cu&#225;ntos nombres para sugerir</title><info>Cuando los usuarios verificar su nombre de usuario al registrarse se les presenta una lista de nombres de usuario v&#225;lidos que pueden elegir, &#191;Cu&#225;ntos nombres para mostrar en esta lista?</info>]]></phrase>
+	<phrase module_id="user" version_id="2.0.0alpha3" var_name="setting_user_browse_display_results_default" added="1239092643"><![CDATA[<title>Browsing Users Display Results</title><info>Seleccione <b>name_photo</b> si desea que por defecto muestra el nombre del usuario y la &#250;nica foto en la secci&#243;n de exploraci&#243;n. Seleccione <b>name_photo_detail</b> si desea mostrar el nombre de usuarios, fotos y detalles generales de la persona dentro de la secci&#243;n de exploraci&#243;n.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0beta2" var_name="user_setting_can_edit_gender_setting" added="1242643138"><![CDATA[Puede editar su g&#233;nero?]]></phrase>
+	<phrase module_id="user" version_id="2.0.0beta2" var_name="user_setting_custom_name_field" added="1242643942">Campo propio nombre y apellidos</phrase>
+	<phrase module_id="user" version_id="2.0.0beta2" var_name="user_setting_can_edit_dob" added="1242644281">Puede modificar la fecha de nacimiento?</phrase>
+	<phrase module_id="user" version_id="2.0.0beta4" var_name="user_setting_can_edit_users" added="1244545054"><![CDATA[Puede editar una cuenta de usuario?
+
+<b>Aviso:</b> Requiere la capacidad de iniciar sesi&#243;n en el Panel de Admin.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0beta4" var_name="user_setting_can_stay_logged_in" added="1244557119">Puede quedarse registrado en el sitio?</phrase>
+	<phrase module_id="user" version_id="2.0.0beta4" var_name="user_setting_can_change_other_user_picture" added="1244565702"><![CDATA[Puede cambiar las fotos del perfil a&#241;adidos por otros usuarios?]]></phrase>
+	<phrase module_id="user" version_id="2.0.0beta4" var_name="user_setting_can_edit_other_user_privacy" added="1244566805"><![CDATA[Puede editar la configuraci&#243;n de privacidad de otros usuarios?]]></phrase>
+	<phrase module_id="user" version_id="2.0.0beta4" var_name="user_setting_can_change_own_user_name" added="1244571194">Puede cambiar su propio nombre de usuario?</phrase>
+	<phrase module_id="user" version_id="2.0.0beta4" var_name="user_setting_total_times_can_change_user_name" added="1244571909"><![CDATA[Cu&#225;ntas veces puede este grupo de usuarios editar su nombre de usuario?]]></phrase>
+	<phrase module_id="user" version_id="2.0.0beta4" var_name="setting_user_profile_private_age" added="1244573463"><![CDATA[<title>Fuerza de Privacidad Perfil</title><info>Definir qu&#233; edad debe un perfil de usuarios se ven obligados a ser privada, independientemente de su configuraci&#243;n de privacidad de perfil.
+
+Si la edad de usuarios es el mismo o menor que el ajuste s&#243;lo sus amigos podr&#225;n ver su perfil e interactuar con ellos.
+
+<b>Aviso:</b> Selecciona "0" (sin las comillas) para no tener limite.</info>]]></phrase>
+	<phrase module_id="user" version_id="2.0.0beta4" var_name="user_setting_can_block_other_members" added="1244626170">Puede bloquear miembros?</phrase>
+	<phrase module_id="user" version_id="2.0.0beta4" var_name="user_setting_can_be_blocked_by_others" added="1244626313">Puede este grupo de usuarios ser bloqueados por otros usuarios??</phrase>
+	<phrase module_id="user" version_id="2.0.0beta4" var_name="setting_validate_full_name" added="1244645932"><![CDATA[<title>Validar nombre completo</title><info>Seleccione esto a <b>Si</b> Si desea validar el nombre completo de los usuarios </info>]]></phrase>
+	<phrase module_id="user" version_id="2.0.0beta4" var_name="stat_title_1" added="1245140437">Miembros</phrase>
+	<phrase module_id="user" version_id="2.0.0beta5" var_name="user_setting_can_feature" added="1246003244">Pueden los miembros de este grupo de usuarios feature y unfeature miembros?</phrase>
+	<phrase module_id="user" version_id="2.0.0beta5" var_name="setting_randomize_featured_members" added="1246007440"><![CDATA[<title>Random miembros destacados</title><info>Si los miembros destacados aparecen al azar?
+
+Cuando esta funci&#243;n est&#225; desactivada una nueva secci&#243;n se mostrar&#225;n en los miembros Buscar en el Panel de Administraci&#243;n (para la consulta de los miembros destacados) para establecer el orden.</info>]]></phrase>
+	<phrase module_id="user" version_id="2.0.0beta5" var_name="setting_how_many_featured_members" added="1246007756"><![CDATA[<title>Cu&#225;ntos miembros destacados a mostrar</title><info>Este valor dice cu&#225;ntos miembros destacados se mostrar&#225;n al mismo tiempo.</info>]]></phrase>
+	<phrase module_id="user" version_id="2.0.0beta5" var_name="menu_featured_members" added="1246272467">Oficiales</phrase>
+	<phrase module_id="user" version_id="2.0.0beta5" var_name="setting_verify_email_at_signup" added="1246354785"><![CDATA[<title>Verificar email al registrarse</title><info>Cuando un invitado se registre, en caso de verificar su email?
+
+Si se habilita un email ser&#225; enviado con un enlace especial para verificar que es su direcci&#243;n.</info>]]></phrase>
+	<phrase module_id="user" version_id="2.0.0beta5" var_name="setting_verify_email_timeout" added="1246355083"><![CDATA[<title>Verificar tiempo de espera de E-mail</title><info>Is Default
+Este valor indica la cantidad de tiempo (en minutos) a los nuevos miembros tienen con el fin de verificar su email.
+
+Aseg&#250;rese de que su servidor del email est&#225; bien configurado ya que este ajuste se basa en que el usuario pueda hacer clic en el enlace enviado cuando se inscribieron.
+
+Si su sitio web permite cambiar la direcci&#243;n email y necesita que el nuevo sea verificado, as&#237; esta configuraci&#243;n tambi&#233;n se aplica en este caso.
+
+P&#243;ngalo a 0 para desactivar el tiempo de espera.</info>]]></phrase>
+	<phrase module_id="user" version_id="2.0.0beta5" var_name="user_setting_can_change_email" added="1246368069">Si los miembros de este grupo de usuarios se les permite cambiar su email?</phrase>
+	<phrase module_id="user" version_id="2.0.0beta5" var_name="setting_logout_after_change_email_if_verify" added="1246370838"><![CDATA[<title>Salir despu&#233;s de cambiar el correo electr&#243;nico</title><info>Si los usuarios deben verificar su email, cuando cambian su email en caso de que se cerrar&#225; la sesi&#243;n por lo que necesitan para verificar de inmediato?
+
+Si usted ponga no van a poder utilizar el sitio hasta que la sesi&#243;n, despu&#233;s de que se tendr&#225; que verificar su email.</info>]]></phrase>
+	<phrase module_id="user" version_id="2.0.0beta5" var_name="user_setting_can_verify_others_emails" added="1246447720"><![CDATA[Permite a los miembros de este grupo de usuarios para verificar otra direcci&#243;n de correo electr&#243;nico desde el Panel de Admin -> Usuarios -> Examinar usuarios?]]></phrase>
+	<phrase module_id="user" version_id="2.0.0beta5" var_name="user_cancellation_6" added="1246619355"><![CDATA[raz&#243;n 4]]></phrase>
+	<phrase module_id="user" version_id="2.0.0beta5" var_name="user_cancellation_7" added="1246619366"><![CDATA[raz&#243;n 4]]></phrase>
+	<phrase module_id="user" version_id="2.0.0beta5" var_name="user_setting_can_delete_own_account" added="1246874203">Pueden los miembros de este grupo de usuarios borrar su propia cuenta?</phrase>
+	<phrase module_id="user" version_id="2.0.0beta5" var_name="user_setting_can_change_own_full_name" added="1247145812">Pueden los miembros de este grupo de usuarios cambiar su nombre completo?</phrase>
+	<phrase module_id="user" version_id="2.0.0beta5" var_name="user_setting_total_times_can_change_own_full_name" added="1247145932"><![CDATA[Cu&#225;ntas veces los miembros de este grupo de usuarios cambiaran su nombre completo?
+
+Agregar a 0 para un n&#250;mero ilimitado]]></phrase>
+	<phrase module_id="user" version_id="2.0.0beta5" var_name="menu_account_settings" added="1247223348">Cuenta</phrase>
+	<phrase module_id="user" version_id="2.0.0beta5" var_name="menu_privacy_settings" added="1247223384">Privacidad</phrase>
+	<phrase module_id="user" version_id="2.0.0beta5" var_name="menu_edit_profile_picture" added="1247226022">Editar Foto del Perfil</phrase>
+	<phrase module_id="user" version_id="30" var_name="user_setting_can_delete_others_account" added="1247641642">Pueden los miembros de este grupo de usuarios eliminar la cuenta de otras personas?</phrase>
+	<phrase module_id="user" version_id="2.0.0rc1" var_name="user_setting_can_be_invisible" added="1248682127">Puede seleccionar para ser invisible?</phrase>
+	<phrase module_id="user" version_id="2.0.0rc1" var_name="setting_display_user_online_status" added="1248697618"><![CDATA[<title>Mostrar usuarios conectados</title><info>Selecione esto a  <b>Si</b> para mostrar un Estado de conexi&#243;n de los usuarios, que alterar&#225; la imagen de perfil de los usuarios para distinguirlos de otros miembros que est&#225;n desconectados.</info>]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc1" var_name="user_setting_total_upload_space" added="1248951473"><![CDATA[a cantidad total de espacio que un usuario puede utilizar cuando se cargan en el servidor (por ej fotos, videos, canciones, etc ..) en megabytes (mb). Ajuste a "0" para el espacio ilimitado.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc1" var_name="user_setting_force_cropping_tool_for_photos" added="1250774093"><![CDATA[Obligar a los usuarios a utilizar la herramienta de recorte antes de completar la foto de perfil de carga de rutina.
+
+<b>Aviso:</b> Esto se utiliza para asegurarse de que todas las fotos en el sitio est&#225;n bien recortada.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc1" var_name="user_setting_max_upload_size_profile_photo" added="1250849063"><![CDATA[El tama&#241;o m&#225;ximo de archivo para fotos de perfil cargado en kilobits (kb).
+(1000 kb = 1 mb)
+Para un l&#237;mite de tama&#241;o ilimitado a&#241;adir "0" sin las comillas.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc2" var_name="setting_min_length_for_username" added="1253525527"><![CDATA[<title>Longitud minima para nombre de usuario</title><info>Longitud minima para nombre de usuario</info>]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc2" var_name="setting_max_length_for_username" added="1253525598"><![CDATA[<title>Longitud m&#225;xima para nombre de usuario</title><info>Longitud m&#225;xima para nombre de usuario</info>]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="your_password_has_been_sent_to_your_email" added="1255346076"><![CDATA[Su contrase&#241;a ha sido enviada a su correo electr&#243;nico.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="we_found_a_problem_with_your_request_please_try_again" added="1255346107"><![CDATA[Hemos encontrado un problema con su solicitud, por favor, int&#233;ntelo de nuevo.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="you_cannot_rate_your_own_profile" added="1255346129">No puedes calificar tu propio perfil.</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="this_username_is_available" added="1255346146"><![CDATA[Este nombre de usuario est&#225; disponible.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="user_successfully_blocked" added="1255346166">Usuario ha sido bloqueado.</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="user_successfully_unblocked" added="1255346175">Usuario ha sido desbloqueado.</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="unfeature_user" added="1255346187">No Destacar Usuario</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="feature_user" added="1255346203">Destacar Usuario</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="an_error_occured_and_this_operation_was_not_completed" added="1255346213"><![CDATA[Se produjo un error y esta operaci&#243;n no se complet&#243;.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="an_error_occured_and_this_user_could_not_be_verified" added="1255346223">Se produjo un error y este usuario no pudo ser verificado.</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="an_error_occured_and_the_email_could_not_be_sent" added="1255346241">Se produjo un error y el correo no pudo ser enviado.</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="profile_photo_successfully_uploaded" added="1255346279">La imagen de tu perfil se ha subido correctamente.</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="done" added="1255346288"><![CDATA[&#161;Guardado!]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="un_ban_user" added="1255346306">No-Bloquear Usuario</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="ban_user" added="1255346312">Bloquear Usuario</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="unable_to_find_this_member" added="1255346340">No se puede encontrar este miembro.</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="unable_to_block_this_user" added="1255346349">No se puede bloquear a este usuario.</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="view_all" added="1255346369">Ver Todos</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="featured_members" added="1255346377">Oficiales</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="set_browse_criteria" added="1255346405"><![CDATA[Criterios de B&#250;squeda]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="basic" added="1255346411"><![CDATA[B&#225;sico]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="advanced" added="1255346417">Avanzado</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="option_updated_successfully" added="1255346509"><![CDATA[Opci&#243;n ha sido actualizada.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="option_added_successfully" added="1255346516"><![CDATA[Opcion agregada con &#233;xito.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="item_not_found" added="1255346524"><![CDATA[Art&#237;culo no se encuentra.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="add_cancellation_options" added="1255346532"><![CDATA[Agregar Opciones de Cancelaci&#243;n]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="view_feedback_on_cancellations" added="1255346545">Ver comentarios sobre cancelaciones</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="option_deleted_successfully" added="1255346558"><![CDATA[Opci&#243;n ha sido eliminada.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="manage_cancellation_options" added="1255346573"><![CDATA[Manejar Opciones de Cancelaci&#243;n]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="user_groups" added="1255346596">Grupos de Usuarios</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="manage_settings" added="1255346613">Administrar Configuraciones</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="user_group_successfully_added" added="1255346624"><![CDATA[Grupo de Usuarios fue agregado con &#233;xito.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="create_new_user_group" added="1255346647">Crear Nuevo Grupo de Usuarios</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="successfully_deleted_user_group" added="1255346670">Grupo de Usuarios ha sido eliminado.</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="unable_to_find_the_user_group_you_want_to_delete" added="1255346678">No se puede encontrar el grupo de usuarios que desea eliminar.</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="not_allowed_to_delete_this_user_group" added="1255346686"><![CDATA[No est&#225; permitido eliminar este grupo de usuarios.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="delete_user_group" added="1255346693">Eliminar Grupo de Usuarios</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="user_successfully_updated" added="1255346774">Usuario ha sido actualizado.</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="basic_information" added="1255346782"><![CDATA[Informaci&#243;n B&#225;sica]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="display_name" added="1255346790">Mostrar Nombre</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="user_group" added="1255346823">Grupo de Usuarios</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="location" added="1255346829"><![CDATA[Ubicaci&#243;n]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="city" added="1255346835">Ciudad</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="zip_postal_code" added="1255346841"><![CDATA[C&#243;digo Postal]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="gender" added="1255346847"><![CDATA[G&#233;nero]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="date_of_birth" added="1255346856">Nacido el</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="time_zone" added="1255346863">Zona Horaria</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="status" added="1255346869">Estado</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="spam_count" added="1255346876">Contador de SPAM</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="editing_member" added="1255346886"><![CDATA[Edici&#243;n de miembros]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="browse_members" added="1255346893">Explorar Miembros</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="add_new_member" added="1255346903">Agregar Nuevo Miembro</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="password_request_successfully_sent_check_your_email_to_verify_your_request" added="1255346930"><![CDATA[Solicitud de contrase&#241;a ha sido enviada. Revise su correo electr&#243;nico para verificar su solicitud.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="password_request" added="1255346939"><![CDATA[Solicitud de Contrase&#241;a]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="new_password_successfully_sent_check_your_email_to_use_your_new_password" added="1255346980"><![CDATA[Nueva contrase&#241;a ha sido enviada. Revise su correo electr&#243;nico para utilizar su nueva contrase&#241;a.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="password_request_verification" added="1255346988"><![CDATA[Solicitud de verificaci&#243;n de contrase&#241;a]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="members_section_is_closed" added="1255347016"><![CDATA[La Secci&#243;n de Miembros est&#225; cerrada.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="joined" added="1255347023">Unido</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="last_login" added="1255347030">Ultima Visita</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="email_name" added="1255347041"><![CDATA[Email & Nombre]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="name" added="1255347054">Nombre</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="men" added="1255347063">Hombre</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="women" added="1255347069">Mujer</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="both" added="1255347076">Ambos</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="all_members" added="1255347085">Todos los Miembros</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="online" added="1255347097"><![CDATA[En L&#237;nea]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="pending_verification_members" added="1255347106"><![CDATA[En espera de Verificaci&#243;n de Miembros]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="name_and_photo_only" added="1255347114">Nombre y Foto Solamente</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="name_photo_and_users_details" added="1255347122">Nombre, foto y detalles del usuario</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="you_still_need_to_verify_your_email_address" added="1255347174"><![CDATA[Todav&#237;a es necesario verificar su direcci&#243;n de correo electr&#243;nico.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="logout" added="1255347189"><![CDATA[Cerrar Sesi&#243;n]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="lost_password" added="1255347198"><![CDATA[Contrase&#241;a Perdida]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="upload_profile_picture" added="1255347236">Subir Imagen del Perfil</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="edit_profile_picture" added="1255347246">Editar Imagen del Perfil</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="privacy_settings_have_been_disabled_for_your_user_group" added="1255347263"><![CDATA[La configuraci&#243;n de privacidad ha sido deshabilitada para tu grupo de usuarios.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="privacy_settings_successfully_updated" added="1255347271"><![CDATA[La configuraci&#243;n de privacidad ha sido actualizada.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="privacy_settings" added="1255347278">Configuraciones de privacidad</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="successfully_updated_full_name_profile" added="1255347302">El perfil de {full_name} ha sido actualizado.</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="edit_profile" added="1255347324">Editar Perfil</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="cancel_account" added="1255347356">Cancelar Cuenta</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="unable_to_edit_this_account" added="1255347370">No se puede editar esta cuenta.</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="select_current_location" added="1255347378"><![CDATA[Selecciona tu ubicaci&#243;n actual.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="select_your_gender" added="1255347385"><![CDATA[Selecciona tu g&#233;nero.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="select_month_of_birth" added="1255347392">Selecciona el mes de nacimiento.</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="select_day_of_birth" added="1255347399"><![CDATA[Selecciona el d&#237;a de nacimiento.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="select_year_of_birth" added="1255347406"><![CDATA[Selecciona el a&#241;o de nacimiento.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="zip_postal_code_is_invalid" added="1255347414"><![CDATA[C&#243;digo Postal es inv&#225;lido.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="provide_your_full_name" added="1255347423">Proporcionar tu nombre completo.</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="provide_a_user_name" added="1255347430">Proporcionar un nombre de usuario.</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="account_settings_updated" added="1255347439"><![CDATA[Configuraci&#243;n de la cuenta actualizada.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="account_settings_updated_your_new_mail_address_requires_verification_and_an_email_has_been_sent_until_then_your_email_remains_the_same" added="1255347448"><![CDATA[Configuraci&#243;n de la cuenta actualizada. Tu nueva direcci&#243;n de correo requiere ser verificada y un email ha sido enviado. Hasta entonces, el correo electr&#243;nico sigue siendo el mismo.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="email_updated_you_need_to_verify_your_new_email_address_before_logging_in" added="1255347456"><![CDATA[Correo electr&#243;nico actualizado. Debes verificar tu direcci&#243;n de correo electr&#243;nico antes de iniciar la sesi&#243;n.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="account_settings" added="1255347468">Configuraciones de la Cuenta</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="full_name" added="1255347477">Nombre Completo</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="your_email_has_been_verified_please_log_in_with_the_information_you_provided_during_sign_up" added="1255347489"><![CDATA[Tu correo electr&#243;nico ha sido verificado, por favor, accede con la informaci&#243;n que proporcionaste durante tu registro.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="invalid_verification_link" added="1255347519"><![CDATA[Enlace de verificaci&#243;n no v&#225;lido.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="not_able_to_block_yourself" added="1255347588">No te puedes bloquear a ti mismo.</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="you_have_already_blocked_this_user" added="1255347597">Ya has bloqueado este usuario.</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="select_a_product" added="1255347628">Selecciona un producto.</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="select_a_module" added="1255347636"><![CDATA[Selecciona un m&#243;dulo.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="you_need_to_add_a_message_to_show" added="1255347643">Tienes que agregar un mensaje a mostrar.</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="select_if_the_cancellation_option_is_active_or_not" added="1255347651"><![CDATA[Selecciona si la opci&#243;n de cancelaci&#243;n est&#225; activa o no.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="please_enter_your_password" added="1255347663"><![CDATA[Por favor, introduzce tu contrase&#241;a.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="you_are_not_allowed_to_delete_your_own_account" added="1255347672"><![CDATA[No te est&#225; permitido borrar tu propia cuenta.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="your_account_has_been_deleted" added="1255347685">Tu cuenta ha sido eliminada. Gracias por haber confiado en nosotros este tiempo.</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="not_a_valid_request" added="1255347704"><![CDATA[No es una solicitud v&#225;lida.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="provide_a_name_for_the_user_group" added="1255347780">Proporciona un nombre para el grupo de usuarios.</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="select_an_inherit_user_group" added="1255347788">Selecciona un grupo de usuarios heredado.</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="email_verification_on_site_title" added="1255347882"><![CDATA[Verificaci&#243;n del correo electr&#243;nico en {site_title}]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="you_registered_an_account_on_site_title_before" added="1255347957"><![CDATA[Registraste una cuenta en {site_title}, antes de poder utilizar la cuenta, necesitas comprobar que &#233;sta es tu direcci&#243;n de correo electr&#243;nico haciendo clic aqu&#237;:
+<a href="{link}">{link}</a>]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="email_does_not_match_the_one_that_is_currently_in_use" added="1255348015"><![CDATA[Correo electr&#243;nico no coincide con la que est&#225; actualmente en uso.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="you_need_to_verify_your_email_address_before_logging_in" added="1255348029"><![CDATA[Necesitas verificar tu direcci&#243;n de correo electr&#243;nico antes de iniciar sesi&#243;n.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="you_do_not_have_permission_to_modify_this_item" added="1255348044"><![CDATA[No tienes permiso para modificar este art&#237;culo.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="members" added="1255348095">Miembros</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="view_more_members" added="1255348104"><![CDATA[Ver m&#225;s Miembros]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="a_href_link_member_a_joined_joined" added="1255348147"><![CDATA[<a href="{link}">Miembro</a> unido {joined}.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="a_href_link_full_name_a_updated_their_profile_picture" added="1255348200"><![CDATA[<a href="{link}">{full_name}</a> actualiz&#243; la foto del perfil.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="a_href_link_full_name_a_joined_the_community" added="1255348257"><![CDATA[<a href="{link}">{full_name}</a> se uni&#243; a nuestra comunidad.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="users_profile_main_section" added="1255348288"><![CDATA[Perfil del Usuario - Secci&#243;n Principal]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="users_profile_basic_information" added="1255348295"><![CDATA[Perfil del Usuario - Informaci&#243;n B&#225;sica]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="users_profile_side_panel" added="1255348303">Perfil de usuario - Panel lateral</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="users_profile" added="1255348313">Perfil de Usuarios</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="account_info" added="1255348327"><![CDATA[Informaci&#243;n]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="activity" added="1255348333">Actividad</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="users" added="1255348364">Usuarios</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="user_activity" added="1255348378">Actividad del Usuario</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="time_stamp" added="1255348396">Fecha y Hora</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="not_a_valid_email" added="1255348410"><![CDATA[No es un correo electr&#243;nico v&#225;lido.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="password_request_for_site_title" added="1255348422"><![CDATA[Solicitud de contrase&#241;a para {site_title}]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="you_have_requested_for_us_to_send_you_a_new_password_for_site_title" added="1255348468"><![CDATA[Has pedido que te enviemos una nueva contrase&#241;a para {site_title}.
+
+Para confirmar esta solicitud, siga el enlace de abajo:
+<a href="{link}">{link}</a>]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="not_a_valid_password_request" added="1255348509"><![CDATA[No es una solicitud de contrase&#241;a v&#225;lida.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="password_request_id_does_not_match" added="1255348517"><![CDATA[El ID de la solicitud de contrase&#241;a no corresponde.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="new_password_for_site_title" added="1255348541"><![CDATA[Nueva contrase&#241;a para {site_title}]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="you_have_requested_for_us_to_send_you_a_new_password_for_site_title_with_password" added="1255348604"><![CDATA[Has pedido que te enviemos una nueva contrase&#241;a para {site_title}.
+
+Su nueva contrase&#241;a es: {password}
+
+Para iniciar sesi&#243;n, siga el enlace de abajo:
+<a href="{link}">{link}</a>]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="the_field_field_is_required" added="1255348655">El campo `{field}` es requerido.</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="not_a_valid_name" added="1255348671"><![CDATA[No es un nombre v&#225;lido.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="select_a_membership_package" added="1255348680">Selecciona un paquete de rango.</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="please_verify_your_email_for_site_title" added="1255348711"><![CDATA[Por favor, verifique su correo electr&#243;nico para: {site_title}]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="you_registered_an_account_on_site_title_before_being_able_to_use_your_account_you_need_to_verify_that_this_is_your_email_address_by_clicking_here_a_href_link_link_a" added="1255348750"><![CDATA[Registr&#243; una cuenta en {site_title}, antes de poder utilizar la cuenta necesita comprobar que &#233;sta es su direcci&#243;n de correo electr&#243;nico haciendo clic aqu&#237;:
+<a href="{link}">{link}</a>]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="not_a_valid_city" added="1255348792"><![CDATA[No es una ciudad v&#225;lida.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="this_display_name_is_not_allowed_to_be_used" added="1255348815">El nombre en pantalla no se le permite ser utilizado.</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="add_some_text_to_share" added="1255348834"><![CDATA[Agregar alg&#250;n texto para compartir.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="fill_in_a_display_name" added="1255348849">Rellena el campo del nombre.</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="select_a_user_group_for_this_user" added="1255348857">Selecciona un grupo de usuarios para este usuario.</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="select_a_location" added="1255348865"><![CDATA[Selecciona una ubicaci&#243;n.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="select_a_gender" added="1255348872"><![CDATA[Selecciona un g&#233;nero.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="select_a_date_of_birth" added="1255348880">Selecciona una fecha de nacimiento.</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="username_is_required_and_can_only_contain_alphanumeric_characters_and_or_and_must_be_between_5_and_25_characters_long" added="1255348890"><![CDATA[Nombre de usuario es necesario y s&#243;lo puede contener caracteres alfanum&#233;ricos y _ o - y debe tener de 4 a 25 caracteres de longitud.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="provide_a_valid_email" added="1255348903"><![CDATA[Proporcione un email v&#225;lido.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="missing_old_password" added="1255348917"><![CDATA[Falta la antigua contrase&#241;a.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="missing_new_password" added="1255348924"><![CDATA[Falta la nueva contrase&#241;a.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="your_current_password_does_not_match_your_old_password" added="1255348932"><![CDATA[Tu contrase&#241;a actual no coincide con tu antigua contrase&#241;a.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="you_should_not_ban_yourself" added="1255348944">No debes bloquearte a ti mismo.</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="provide_a_valid_password" added="1255348967"><![CDATA[Proporcione una contrase&#241;a v&#225;lida.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="check_our_agreement_in_order_to_join_our_site" added="1255348975">Comprueba nuestro acuerdo para unirte a nuestro sitio.</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="provide_a_valid_user_name" added="1255348982"><![CDATA[Proporciona un nombre de usuario v&#225;lido.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="unable_to_upload_you_have_reached_your_limit_of_current_you_are_currently_using_total" added="1255349057"><![CDATA[No se puede subir. Ha llegado a su l&#237;mite de {current}. En este momento est&#225; usando {total}.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="unable_to_upload_you_have_reached_your_limit_of_limit_with_this_upload_you_will_be_using_total" added="1255349126"><![CDATA[No se puede subir. Ha llegado a su l&#237;mite de {limit}. Con esta subida va a usar {total}.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="unable_to_find_the_user_you_plan_to_edit" added="1255349166">No se puede encontrar el usuario que deseas editar.</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="user_name_is_already_in_use" added="1255349204"><![CDATA[Usuario ya est&#225; en uso.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="this_username_is_not_allowed_to_be_used" added="1255349213"><![CDATA[No est&#225; permitido utilizar este nombre de usuario.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="email_is_invalid_and_cannot_be_used" added="1255349222"><![CDATA[El correo electr&#243;nico es inv&#225;lido y no puede ser utilizado.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="this_email_is_not_allowed_to_be_used" added="1255349229"><![CDATA[No est&#225; permitido utilizar este correo electr&#243;nico.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="loading_custom_fields" added="1255349270">Cargando los campos personalizados</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="continue" added="1255349314">Continuar</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="you_are_about_to_delete" added="1255349645"><![CDATA[Est&#225;s a punto de eliminar...]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="total_activity" added="1255349689">Total de Actividad</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="are_you_completely_sure_you_want_to_delete_this_user" added="1255349704"><![CDATA[&#191;Est&#225;s completamente seguro de que desea eliminar este usuario?]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="no_cancel" added="1255349713">No, Cancelar</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="yes_delete" added="1255349719">Si, Eliminar</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="html_prefix" added="1255349733">Prefijo HTML</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="html_suffix" added="1255349741">Sufijo HTML</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="cancel" added="1255349841">Cancelar</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="you_can_upload_a_jpg_gif_or_png_file" added="1255349851">Solo puedes subir archivos JPG, GIF o PNG.</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="the_advised_width_height_is_20_pixels" added="1255349861">Lo aconsejado es 20 pixels de ancho/alto.</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="yes" added="1255349896">Si</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="no" added="1255349905">No</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="choose_a_username" added="1255349927">Nombre de Usuario</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="your_username_is_used_to_easily_connect_to_your_profile" added="1255349938"><![CDATA[Tu nombre de usuario se utiliza para conectarse f&#225;cilmente a tu perfil.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="check_availability" added="1255349950">Verificar la disponibilidad</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="email_address" added="1255349958"><![CDATA[Correo Electr&#243;nico]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="membership" added="1255350061">Socios</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="select" added="1255350068">Seleccionar</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="free_normal" added="1255350074">(Gratis) Normal</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="membership_upgrades" added="1255350091">Actualizaciones de Socios</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="click_here_to_learn_more_about_our_membership_upgrades" added="1255350114"><![CDATA[Haga clic aqu&#237; para obtener m&#225;s informaci&#243;n sobre nuestras actualizaciones de socios.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="would_you_like_to_unblock_user_info" added="1255350478"><![CDATA[&#191;Te gustar&#237;a desbloquear a {user_info}?]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="yes_unblock_this_user" added="1255350492"><![CDATA[S&#237;, desbloquear este usuario.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="no_do_not_unblock_this_user" added="1255350499">No, no desbloquear este usuario.</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="are_you_sure_you_want_to_block_user_info" added="1255350513"><![CDATA[&#191;Est&#225; seguro que desea bloquear a {user_info}?]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="yes_block_this_user" added="1255350542">Si, bloquear este usuario.</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="no_do_not_block_this_user" added="1255350550">No, no bloquear este usuario.</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="search_by_email_full_name_or_user_name" added="1255350564">Buscar por email, nombre completo o nombre de usuario.</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="loading" added="1255350587">Subiendo</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="sorry_no_users_were_found" added="1255350630">Lo sentimos, no se encontraron los usuarios.</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="use_selected" added="1255350638">Usar seleccionado</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="cancel_uppercase" added="1255350654">Cancelar</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="browse_for" added="1255350679"><![CDATA[B&#250;squeda Por]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="between_ages" added="1255350686">Entre las Edades</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="located_within" added="1255350702">Ubicados en</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="keywords" added="1255350723">Nombre</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="within" added="1255350730">dentro</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="any" added="1255350747">Alguno</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="display_results_by" added="1255350759">Mostrar Resultados por</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="sort_results_by" added="1255350765">Ordenar Resultados por</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="update" added="1255350772">Actualizar</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="reset" added="1255350778">Reajustar</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="view_more" added="1255350805"><![CDATA[Ver m&#225;s]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="old_password" added="1255350815"><![CDATA[Antigua Contrase&#241;a]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="new_password" added="1255350820"><![CDATA[Nueva Contrase&#241;a]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="select_an_image" added="1255350839">Selecciona una Imagen</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="file" added="1255350845">Archivo</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="upload_picture" added="1255350860">Subir Imagen</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="anyone" added="1255350875">Cualquiera</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="network" added="1255350881">Red</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="friends_only" added="1255350888">Solo Amigos</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="no_one" added="1255350894">Nadie</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="go_advanced" added="1255350950">Avanzado</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="username_is_not_available_here_are_other_suggestions_you_may_like" added="1255350959"><![CDATA[Nombre de usuario no est&#225; disponible, aqu&#237; hay otras sugerencias que te pueden gustar.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="click_to_change_your_status" added="1255350982"><![CDATA[Haga clic aqu&#237; para cambiar su estado.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="none" added="1255351003">(ninguno)</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="a_href_onclick_js_user_status_form_ajaxcall_user_updatestatus_return_false_save_a_or_a_href_class_js_update_status_cancel_a" added="1255351064"><![CDATA[<a href="#" onclick="$('#js_user_status_form').ajaxCall('user.updateStatus'); return false;">Guardar</a> o <a href="#" class="js_update_status">Cancelar</a>]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="add_new_option" added="1255351089"><![CDATA[Agregar Nueva Opci&#243;n]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="cancellation_reason" added="1255351098"><![CDATA[Motivos de cancelaci&#243;n]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="is_active" added="1255351109"><![CDATA[Est&#225; Activado]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="submit" added="1255351131">Enviar</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="e_mail" added="1255351154">E-Mail</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="reasons_given" added="1255351167">Dar razones</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="feedback_text" added="1255351173">Texto del seguimiento</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="deleted_on" added="1255351179">Eliminados En</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="delete_feedback" added="1255351194">Eliminar Seguientos</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="no_feedback_to_review" added="1255351204">No hay seguimientos para revisar</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="active" added="1255351222">Activar</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="manage" added="1255351229">Administrar</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="edit_reason" added="1255351236"><![CDATA[Editar Raz&#243;n]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="delete_reason" added="1255351242"><![CDATA[Eliminar Raz&#243;n]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="deactivate" added="1255351250">Desactivar</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="activate" added="1255351255">Activar</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="there_are_no_options_available" added="1255351286">No hay opciones disponibles.</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="click_here_to_add" added="1255351293"><![CDATA[Haz Clic aqu&#237; para agregar.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="user_group_details" added="1255351302">Detalles del Grupo de Usuarios</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="inherit" added="1255351307">Heredar</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="add_user_group" added="1255351316">Agregar Grupo de Usuarios</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="saving" added="1255351336">Guardando</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="module_settings" added="1255351345"><![CDATA[Configuraciones del m&#243;dulo]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="save" added="1255351360">Guardar</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="are_you_sure_you_want_to_delete_the_user_group_title" added="1255351390"><![CDATA[&#191;Est&#225;s seguro de que desea eliminar el grupo de usuarios "{title}"?]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="b_notice_b_this_cannot_be_undone" added="1255351405"><![CDATA[<b>Aviso:</b> Esto no se puede deshacer.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="b_yes_b_i_am_sure_move_any_members_that_belong_to_the_user_group_title_to" added="1255351482"><![CDATA[<b>Si</b>, Estoy seguro. Mueva todos los miembros que pertenecen al grupo de usuarios "{title}" a]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="delete_this_user_group" added="1255351495">Eliminar este Grupo de Usuarios</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="no_thanks_get_me_out_of_here" added="1255351502"><![CDATA[No gracias, prefiero salir de aqu&#237;.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="edit_user_group" added="1255351676">Editar Grupo de Usuarios</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="custom_user_groups" added="1255351684">Grupos de Usuarios Personalizados</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="are_you_sure" added="1255351719"><![CDATA[&#191;Est&#225;s seguro?]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="delete" added="1255351726">Eliminar</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="n_a" added="1255351737">N/A</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="php" added="1255351754">PHP</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="check_the_box_to_confirm_that_you_want_to_edit_this_field" added="1255351792">Marque la casilla para confirmar que desea editar este campo.</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="profile_picture" added="1255351809">Foto del Perfil</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="photo" added="1255351814">Foto</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="change_this_photo" added="1255351877">Cambiar esta Foto</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="profile_privacy" added="1255351942">Perfil de privacidad</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="notification" added="1255351949"><![CDATA[Notificaci&#243;n]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="custom_fields" added="1255351955">Campos Personalizados</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="request_new_password" added="1255351990"><![CDATA[Solicitar una nueva contrase&#241;a]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="member_search" added="1255352000">Buscar Miembros</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="search" added="1255352006">Buscar</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="age_group" added="1255352048">Grupo de Edad</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="show_members" added="1255352055">Mostrar Miembros</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="group" added="1255352125">Grupo</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="last_activity" added="1255352137">Ultima Actividad</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="resend_verification_mail" added="1255352186"><![CDATA[Volver a enviar correo de verificaci&#243;n]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="verify_this_user" added="1255352197">Verificar este usuario</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="delete_user" added="1255352225">Eliminar Usuario</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="verify" added="1255352242">(Verificar)</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="view_all_the_activity_from_this_ip" added="1255352316">Ver toda la actividad de este IP.</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="birthday" added="1255352341">Fecha de Nacimiento</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="age" added="1255352346">Edad</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="view_profile" added="1255352373">Ver Perfil</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="send_message" added="1255352380">Enviar Mensaje</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="add_full_name_as_your_friend" added="1255352392">Agregar a {full_name} como tu Amigo.</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="add_to_friends" added="1255352416"><![CDATA[A&#241;adir como amigo]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="un_feature_this_member" added="1255352431">No Destacar este Miembro.</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="unfeature" added="1255352438">No Destacar</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="feature_this_member" added="1255352446">Destacar este miembro.</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="feature" added="1255352454">Destacar</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="unable_to_find_any_members_with_the_current_browse_criteria" added="1255352506"><![CDATA[No se puede encontrar a los miembros con los actuales criterios de b&#250;squeda.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="reset_browse_criteria" added="1255352511"><![CDATA[Criterios de B&#250;squeda]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="you_have_logged_out" added="1255352791"><![CDATA[Has cerrado la sesi&#243;n.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="skip_this_step" added="1255352808">Omitir este paso</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="thumbnail" added="1255352821">Miniatura</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="profile_picture_cropping_tool" added="1255352829">Herramienta para recortar la Imagen del Perfil</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="avatar" added="1255352835">Avatar</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="the_image_you_uploaded_is_rather_small_so_we_are_unable_to_crop_it_however_you_can_still_save_this_image_if_you_want_to_use_it" added="1255352849"><![CDATA[La imagen que has subido es bastante peque&#241;a por lo que no se puede cortar, sin embargo puede guardar esta imagen si quiere usarla.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="save_avatar" added="1255352862">Guardar Avatar</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="click_and_drag_a_box_on_the_original_image_to_create_your_cropped_image" added="1255352881"><![CDATA[Haz clic y arrastra un cuadro de la imagen "original" para crear tu imagen recortada, que puede ser vista en "Vista Previa". Haga clic una vez que est&#233;s listo "Guardar Avatar" para crear tu Avatar recortada. Los Avatares se utilizan en todo el sitio.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="original" added="1255352892">Original</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="preview" added="1255352898">Vista Previa</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="upload_a_new_profile_picture" added="1255353021">Subir una nueva foto de perfil</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="the_file_size_limit_is_file_size_if_your_upload_does_not_work_try_uploading_a_smaller_picture" added="1255353065"><![CDATA[El l&#237;mite de tama&#241;o de archivo es {file_size}. Si no puede subir su imagen, intenta subir una imagen m&#225;s peque&#241;a.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="invisible_mode" added="1255353140">Modo Invisible</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="invisible_mode_allows_you_to_browse_the_site_without_appearing_on_any_online_lists" added="1255353150"><![CDATA[El modo invisible te permite navegar por el sitio sin que aparezca en cualquier lista "Online".]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="enable_invisible_mode" added="1255353157">Activar modo invisible</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="save_changes" added="1255353176">Guardar Cambios</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="profile" added="1255353183">Perfil</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="display_age_and_date_of_birth" added="1255353205">Mostrar edad y fecha de nacimiento.</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="display_age_and_day_month_of_birth" added="1255353212"><![CDATA[Mostrar la edad, d&#237;a y mes de nacimiento.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="display_only_my_age" added="1255353221"><![CDATA[Mostrar s&#243;lo mi edad.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="display_only_day_month_of_birth" added="1255353228"><![CDATA[Mostrar s&#243;lo d&#237;a y mes de nacimiento.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="hide_my_age_and_date_of_birth" added="1255353239">Ocultar mi edad y fecha de nacimiento.</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="notifications" added="1255353258">Notificaciones</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="blocked_users" added="1255353273">Usuarios bloqueados</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="check_the_boxes_to_unblock_users" added="1255353279">Marque las casillas para desbloquear usuarios.</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="you_have_not_blocked_any_users" added="1255353290"><![CDATA[No has bloqueado ning&#250;n usuario.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="view_your_updated_profile" added="1255353335">Ver mi perfil actualizado.</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="updating_profile" added="1255353348">Actualizando perfil</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="no_custom_fields_have_been_added" added="1255353363">No se han agregado campos personalizados.</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="add_a_new_custom_field" added="1255353370">Agregar un nuevo campo personalizado</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="i_have_read_and_agree_to_the_a_href_id_js_terms_of_use_terms_of_use_a_and_a_href_id_js_privacy_policy_privacy_policy_a" added="1255353746"><![CDATA[Acepto los <a href="#" id="js_terms_of_use">t&#233;rminos de uso</a> y la <a href="#" id="js_privacy_policy">pol&#237;tica de privacidad</a>.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="sign_up" added="1255353757"><![CDATA[Reg&#237;strese]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="terms_of_use" added="1255353807"><![CDATA[T&#233;rminos de Uso]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="privacy_policy" added="1255353814"><![CDATA[Pol&#237;ticas de Privacidad]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="are_you_sure_you_want_to_delete_your_account" added="1255353879"><![CDATA[&#191;Est&#225;s seguro de que quieres eliminar tu cuenta?]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="user_info_will_miss_you" added="1255353902">{user_info} te echaremos de menos.</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="why_are_you_deleting_your_account" added="1255353918"><![CDATA[&#191;Por qu&#233; est&#225;s eliminando tu cuenta?]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="please_tell_us_why" added="1255353928"><![CDATA[&#191;Nos puede dar mas informaci&#243;n?]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="enter_your_password" added="1255353935"><![CDATA[Introduce tu contrase&#241;a]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="are_you_absolutely_sure_this_operation_cannot_be_undone" added="1255353943"><![CDATA[&#191;Est&#225;s absolutamente seguro? Esta operaci&#243;n no se puede deshacer.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="delete_my_account" added="1255353954">Eliminar Mi Cuenta</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="total_user_change_out_of_total_user_name_changes" added="1255354010">{total_user_change} de {total} cambios disponibles.</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="changing_your_email_address_requires_you_to_verify_your_new_email" added="1255354040"><![CDATA[Cambiar su direcci&#243;n de correo electr&#243;nico requiere que verifique su correo electr&#243;nico.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="change_password" added="1255354053"><![CDATA[Cambiar Contrase&#241;a]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="enable_dst_daylight_savings_time_detection" added="1255354117">Permitir detector de DST (Daylight Savings Time).</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="cancel_your_account" added="1255354151"><![CDATA[<b>Eliminar cuenta</b>]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="the_link_that_brought_you_here_is_not_valid_it_may_already_have_expired" added="1255354177"><![CDATA[<p>
+		El enlace que le trajo aqu&#237; no es v&#225;lido, es posible que ya haya caducado. El Email de verificar enlace expirar&#225; en {time} despu&#233;s de ser enviado.
+	</p>
+	<p> Un nuevo enlace de verificaci&#243;n ha sido enviado a su direcci&#243;n de correo electr&#243;nico, por favor verifique su direcci&#243;n a tiempo</p>]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="this_site_is_very_concerned_about_security" added="1255354208"><![CDATA[<p>Este sitio est&#225; muy preocupado por la seguridad y por lo tanto requiere que usted verifique su direcci&#243;n de correo electr&#243;nico.</p>
+		<p> Un correo electr&#243;nico ha sido enviado a usted, que contiene un enlace especial, que verifica si es usted y le permite iniciar la sesi&#243;n libremente. Esta verificaci&#243;n es necesaria s&#243;lo una vez para esta direcci&#243;n de correo electr&#243;nico</p>.
+		<p> Por favor, coteje su correo y verifique su direcci&#243;n de correo electr&#243;nico ahora. </p>]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="primary_language" added="1255508010">Idioma Primario</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="edit_user" added="1255767831">Editar Usuario</phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="setting_on_signup_new_friend" added="1256302937"><![CDATA[<title>Sobre El nuevo amigo de Registro</title><info>Si se selecciona un usuario en el men&#250; desplegable el usuario autom&#225;ticamente se convertir&#225; en amigo de cualquier nuevo miembro que se registre.</info>]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="provide_a_name_that_is_not_representing_an_empty_name" added="1256498562"><![CDATA[Proporcione un nombre que no representa un nombre vac&#237;o.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc4" var_name="email_is_not_valid" added="1256498658"><![CDATA[Email no es v&#225;lido.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc5" var_name="you_have_already_added_this_recently_try_adding_something_else" added="1256831625"><![CDATA[Fuiste agregado recientemente. Trata de a&#241;adir algo m&#225;s]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc5" var_name="setting_check_status_updates" added="1256831739"><![CDATA[<title>Spam comprobaci&#243;n de actualizaciones de estado</title><info>Definir el n&#250;mero de actualizaciones de estado que debe comprobar para ver si el nuevo estado actualizar el usuario est&#225; a&#241;adiendo es similar y si uno es lo guiar&#225; a a&#241;adir otra actualizaci&#243;n de estado.</info>]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc6" var_name="rating" added="1257148296"><![CDATA[Calificaci&#243;n]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc6" var_name="confirm_password" added="1257149713"><![CDATA[Confirmar Contrase&#241;a]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc6" var_name="password_successfully_updated" added="1257149818"><![CDATA[Contrase&#241;a actualizada.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc6" var_name="confirm_your_new_password" added="1257149930"><![CDATA[Confirma tu nueva contrase&#241;a.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc6" var_name="your_confirmed_password_does_not_match_your_new_password" added="1257149968"><![CDATA[La confirmaci&#243;n de contrase&#241;a no coincide con tu nueva contrase&#241;a.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc6" var_name="search_for_members" added="1257171948"><![CDATA[B&#250;squeda de miembros]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc6" var_name="icon" added="1257255484">Icono</phrase>
+	<phrase module_id="user" version_id="2.0.0rc6" var_name="complete_this_step_to_setup_your_personal_profile" added="1257262042">Complete este paso para configurar su perfil personal.</phrase>
+	<phrase module_id="user" version_id="2.0.0rc6" var_name="you_are_required_to_upload_a_profile_image" added="1257262086">Es requerido subir una imagen a su perfil.</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="joined_time_stamp" added="1257931076"><![CDATA[Se uni&#243; {time_stamp}]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="custom_body_type" added="1257960950">Apariencia</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_n_a" added="1257960950">N/A</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_slim_slender" added="1257960950">Delgado/Esbelto</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_average" added="1257960950">Promedio</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_athletic" added="1257960950"><![CDATA[Atl&#233;tico]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_little_extra" added="1257960950"><![CDATA[Unos kilos de m&#225;s]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_more_to_love" added="1257960950">Mucho para amar</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_body_builder" added="1257960950">Fisicultorista</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="custom_dating_status" added="1257960950">Situcion de contacto</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_n_a_2" added="1257960950">N/A</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_pimp" added="1257960950">De Mostrar</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_bachelor" added="1257960950">Soltero(a)</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_confused" added="1257960950">Confundido(a)</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_dating" added="1257960950">Contactos</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_desperate" added="1257960950">Desesperado(a)</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_divorced" added="1257960950">Divorciado(a)</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_dumped" added="1257960950">Abandonado</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_engaged" added="1257960950">Comprometido(a)</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_fooling_around" added="1257960950">Perdiendo el tiempo</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_in_love" added="1257960950">Enamorado(a)</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_hurt" added="1257960950">Desilusionado(a)</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_looking" added="1257960950">Buscando</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_married" added="1257960950">Casado(a)</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_player" added="1257960950">Jugador</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_single" added="1257960950">Soltero(a)</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_unfaithfull" added="1257960950">Infiel</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_single_looking" added="1257960950">Soltero(a), Buscando</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_hopelessly_in_love" added="1257960950">Perdidamente enamorado</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_open_to_suggestions" added="1257960950">Abierto a sugerencias</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_varies" added="1257960950">Varios</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="custom_drink" added="1257960950">Alcohol</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_n_a_3" added="1257960950">N/A</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_yes" added="1257960950">Algunas veces</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_no" added="1257960950">No</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_sometimes" added="1257960950"><![CDATA[S&#237;]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_socially" added="1257960950">Socialmente</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="custom_religion" added="1257960950"><![CDATA[Religi&#243;n]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_n_a_4" added="1257960950">N/A</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_no_answer" added="1257960950">No Contesta</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_agnostic" added="1257960950"><![CDATA[Agn&#243;stico]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_atheist" added="1257960950"><![CDATA[Ate&#237;smo]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_buddhist" added="1257960950">Budista</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_catholic" added="1257960950"><![CDATA[Cat&#243;lica]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_christian_other" added="1257960950">Christiana - Otro</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_hindu" added="1257960950"><![CDATA[Hind&#250;]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_jewish" added="1257960950"><![CDATA[Jud&#237;a]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_mormon" added="1257960950"><![CDATA[Morm&#243;n]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_muslim" added="1257960950"><![CDATA[Musulm&#225;n]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_other" added="1257960950">Otro</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_protestant" added="1257960950">Protestante</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_scientologist" added="1257960950"><![CDATA[Cienci&#243;logo]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_taoist" added="1257960950"><![CDATA[Tao&#237;sta]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="custom_job" added="1257960950">Trabajo</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_n_a_5" added="1257960950">N/A</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_artist" added="1257960950">Artista</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_self_employed" added="1257960950">Cuenta Propia</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_millionare" added="1257960950">Millonario</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_high_school" added="1257960950">Escuela Secundaria</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_college" added="1257960950">Colegio</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_pornstar" added="1257960950">Artista Porno</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_chillen" added="1257960950">Chillen</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_engineer" added="1257960950">Ingeniero</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_laid_off" added="1257960950">Despedido(a)</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_looking_for_work" added="1257960950">Buscando Trabajo</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_military" added="1257960950">Militar</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_model" added="1257960950">Modelo</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_retired" added="1257960950">Retirado(a)</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_senior" added="1257960950">Senior</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_billionare" added="1257960950">Billonario(a)</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_student" added="1257960950">Estudiante</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_unemployed" added="1257960950">Desempleado(a)</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_university" added="1257960950">Universidad</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_working" added="1257960950">Trabajando</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_priest" added="1257960950">Sacerdote</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_programmer" added="1257960950">Programador</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_smurf" added="1257960950">Bajo</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_smurfett" added="1257960950">Bajita</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_vampire" added="1257960950">Vampiro(Vampiresa)</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_vampmond" added="1257960950">Vampmond</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="custom_orientation" added="1257960950"><![CDATA[Orientaci&#243;n]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_n_a_6" added="1257960950">N/A</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_bi_2" added="1257960950">Bisexual</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_gay" added="1257960950">Gay</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_straight" added="1257960950">Heterosexual</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_not_sure" added="1257960950">No estoy seguro(a)</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_no_answer_2" added="1257960950">No Contesta</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="custom_smoke" added="1257960950">Fuma</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_n_a_7" added="1257960950">N/A</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_yes_2" added="1257960950">Si</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_no_5" added="1257960950">No</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_sometimes_2" added="1257960950">Algunas veces</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="cf_option_socially_2" added="1257960950">Socialmente</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="custom_turn_on_s" added="1257960950">LO QUE ME GUSTA</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="custom_hobbies" added="1257960950">HOBBIES</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="custom_movies" added="1257960950"><![CDATA[Pel&#237;culas]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="custom_music" added="1257960950"><![CDATA[M&#250;sica]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="custom_books" added="1257960950">LIBROS</phrase>
+	<phrase module_id="user" version_id="2.0.0rc7" var_name="custom_turn_off_s" added="1257960950">LO QUE DISGUSTA</phrase>
+	<phrase module_id="user" version_id="2.0.0alpha3" var_name="custom_interests" added="1238671614">Intereses</phrase>
+	<phrase module_id="user" version_id="2.0.0alpha3" var_name="custom_smoker" added="1238671738">Fumador</phrase>
+	<phrase module_id="user" version_id="2.0.0alpha3" var_name="custom_drinker" added="1238749684">Bebedor</phrase>
+	<phrase module_id="user" version_id="2.0.0rc8" var_name="user_id" added="1258553081">ID del Usuario</phrase>
+	<phrase module_id="user" version_id="2.0.0rc8" var_name="provide_a_valid_email_address" added="1258742333"><![CDATA[Proporcione una direcci&#243;n de email v&#225;lida.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc8" var_name="new_members" added="1258756750">Nuevos Miembros</phrase>
+	<phrase module_id="user" version_id="2.0.0rc8" var_name="new_comments" added="1258756762">Nuevos Comentarios</phrase>
+	<phrase module_id="user" version_id="2.0.0rc8" var_name="updating" added="1258899641"><![CDATA[Actualizaci&#243;n]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc8" var_name="total_full_name_change_out_of_allowed" added="1258984271">{total_full_name_change} de 
+{allowed}</phrase>
+	<phrase module_id="user" version_id="2.0.0rc10" var_name="setting_redirect_after_signup" added="1259688625"><![CDATA[<title>Redireccionar despu&#233;s de un registro</title><info>Redireccionar despu&#233;s de un registro</info>]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc10" var_name="setting_suggest_usernames_on_registration" added="1259610406"><![CDATA[<title>Sugerencia de nombre de usuario en el registro</title><info>Cuando se activa el hu&#233;sped se le mostrar&#225; una lista de nombres de usuario v&#225;lidos si el que est&#225; intentando no est&#225; disponible.
+
+Esta opci&#243;n activa o desactiva "para sugerir nombres de usuario"</info>]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc11" var_name="enable_dst_daylight_savings_time" added="1259938658"><![CDATA[Permitir DST (Horario de Verano "Horario de verano")]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc11" var_name="setting_date_of_birth_start" added="1259943344"><![CDATA[<title>Fecha de Nacimiento (Start)</title><info>Fecha de Nacimiento (Start)</info>]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc11" var_name="setting_date_of_birth_end" added="1259943587"><![CDATA[<title>Date of Birth (Fin)</title><info>Date of Birth (Fin)</info>]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc11" var_name="your_user_name" added="1259960987">tu-nombre-de-usuario</phrase>
+	<phrase module_id="user" version_id="2.0.0rc11" var_name="forum_signature" added="1260027584">Firma del Foro</phrase>
+	<phrase module_id="user" version_id="2.0.0rc11" var_name="space_total_out_of_unlimited" added="1260197948"><![CDATA[{space_total} de "ilimitado"]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc11" var_name="space_total_out_of_total" added="1260198034">{space_total} de {total} Mb</phrase>
+	<phrase module_id="user" version_id="2.0.0rc11" var_name="sorry_no_members_found" added="1260198777">Lo sentimos, no se encontraron miembros.</phrase>
+	<phrase module_id="user" version_id="2.0.0rc11" var_name="user_setting_can_search_user_gender" added="1260199675">Puedes buscar en funcion del genero usando el filtro de busqueda?</phrase>
+	<phrase module_id="user" version_id="2.0.0rc11" var_name="user_setting_can_search_user_age" added="1260199727"><![CDATA[Puedes buscar usuarios en funci&#243;n de su edad, usando el filtro de busqueda?]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc11" var_name="register_for_an_account" added="1260232205"><![CDATA[Reg&#237;strese para una cuenta]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc11" var_name="user_setting_can_browse_users_in_public" added="1260276391"><![CDATA[Puedes buscar los usuarios que utilizan la secci&#243;n del buscador p&#250;blico?]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc11" var_name="title_featured_members" added="1260209155">Oficiales</phrase>
+	<phrase module_id="user" version_id="2.0.0rc11" var_name="title_who_s_online" added="1260209680"><![CDATA[Qui&#233;n Est&#225; En l&#237;nea]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc12" var_name="a_href_user_link_full_name_a_liked_that_they_joined_the_community" added="1260446167"><![CDATA[a <a href="{user_link}">{full_name}</a> le gusta esto.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc12" var_name="a_href_user_link_full_name_a_liked_that_a_href_view_user_link_view_full_name_a_a_href_link_joined_a_the_community" added="1260446507"><![CDATA[a <a href="{user_link}">{full_name}</a> le gusta el registro de <a href="{view_user_link}">{view_full_name}</a>.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc12" var_name="a_href_user_link_full_name_a_liked_that_you_joined_the_community" added="1260460353"><![CDATA[a <a href="{user_link}">{full_name}</a> le gusta tu registro en la comunidad.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc12" var_name="a_href_user_link_full_name_a_likes_your_a_href_link_status_a" added="1260475316"><![CDATA[a <a href="{user_link}">{full_name}</a> le gusta tu <a href="{link}">estado</a>.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc12" var_name="a_href_user_link_full_name_a_likes_their_own_a_href_link_status_a" added="1260476016"><![CDATA[a <a href="{user_link}">{full_name}</a> le gusta su propio <a href="{link}">estado</a>.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc12" var_name="a_href_user_link_full_name_a_likes_a_href_view_user_link_view_full_name_a_s_a_href_link_status_a" added="1260476034"><![CDATA[a <a href="{user_link}">{full_name}</a> le gusta <a href="{link}">el estado</a> de <a href="{view_user_link}">{view_full_name}</a>.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc12" var_name="a_href_user_link_full_name_a_likes_your_profile_a_href_link_photo_a" added="1260479272"><![CDATA[a <a href="{user_link}">{full_name}</a> le gusta la <a href="{link}"><a href="{link}">foto</a> de tu perfil.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc12" var_name="a_href_user_link_full_name_a_likes_their_own_profile_a_href_link_photo_a" added="1260479341"><![CDATA[a <a href="{user_link}">{full_name}</a> le gusta  <a href="{link}">su propia foto</a> de perfil.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc12" var_name="a_href_user_link_full_name_a_likes_a_href_view_user_link_view_full_name_a_s_profile_a_href_link_photo_a" added="1260479374"><![CDATA[a <a href="{user_link}">{full_name}</a> le gusta <a href="{link}">la foto</a> del perfil de <a href="{view_user_link}">{view_full_name}</a> .]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc12" var_name="a_href_user_link_full_name_a_likes_their_own_a_href_link_comment_a" added="1260483339"><![CDATA[a <a href="{user_link}">{full_name}</a> le gusta su propio <a href="{link}">comentario</a>.]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc12" var_name="no_featured_members" added="1260813540">No hay miembros destacados.</phrase>
+	<phrase module_id="user" version_id="2.0.0rc12" var_name="there_are_no_members_online" added="1260813553">No hay miembros en linea.</phrase>
+	<phrase module_id="user" version_id="2.0.0rc12" var_name="setting_user_browse_default_result" added="1260819672"><![CDATA[<title>Browsing Users Default Order</title><info>Seleccionar <b>full_name</ b> a los miembros del orden sobre la base de su nombre completo en orden ascendente. Seleccionar <b>last_login</b> para ordenar los miembros en funci&#243;n de su &#250;ltima actividad, donde la &#250;ltima persona a ser activo en el sitio es en primer lugar.</info>]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc12" var_name="user_setting_can_edit_user_group_membership" added="1260825005"><![CDATA[Puede modificar el estado de un "grupo de usuarios"?]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc12" var_name="setting_remove_users_hidden_age" added="1260827335"><![CDATA[<title>User Age Privacy on Browse Section</title><info>Activar esta opci&#243;n para eliminar los usuarios que han ocultado su edad en la secci&#243;n de exploraci&#243;n.</info>]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc12" var_name="setting_on_register_privacy_setting" added="1260914895"><![CDATA[Con este ajuste se puede controlar la configuraci&#243;n de privacidad predeterminada para un usuario cuando se registran. Esto controlar la forma en que otros vean su perfil.
+
+Cualquier persona = poder ver su perfil.
+
+network = Only members of the site can view their profile.
+
+friends_only = Only their friends can view their profile.
+
+no_one = Nobody can view their profile.</info>]]></phrase>
+	<phrase module_id="user" version_id="2.0.0rc12" var_name="browse_filter_submit" added="1260981597">Enviar</phrase>
+	<phrase module_id="user" version_id="2.0.0rc12" var_name="menu_user_todos_los_usuarios" added="1261232565">Todos los Miembros</phrase>
+	<phrase module_id="user" version_id="2.0.0" var_name="total_score_out_of_5" added="1261177339">{total_score} de 5</phrase>
+	<phrase module_id="user" version_id="2.0.0" var_name="setting_min_count_for_top_rating" added="1261177451"><![CDATA[<title>Puntuaciones Minimas para Usuarios "Mas Valorados"</title><info>Definir cuantas veces un miembro deve ser votado antes de que entre en la secci&#243;n "Mas Valorados"</info>]]></phrase>
+	<phrase module_id="user" version_id="2.0.0" var_name="top_rated_members" added="1261178262"><![CDATA[Miembros m&#225;s votados]]></phrase>
+	<phrase module_id="user" version_id="2.0.0" var_name="no_top_members_found" added="1261178695">No se encontraron top miembros.</phrase>
+	<phrase module_id="user" version_id="2.0.0" var_name="all" added="1261179636">Todo</phrase>
+	<phrase module_id="user" version_id="2.0.0" var_name="male" added="1261179642">Hombre</phrase>
+	<phrase module_id="user" version_id="2.0.0" var_name="female" added="1261179649">Mujer</phrase>
+	<phrase module_id="user" version_id="2.0.2" var_name="update_user_photos" added="1262110390">Actualizar Fotos de Usuarios</phrase>
+	<phrase module_id="user" version_id="2.0.2" var_name="total_score_out_of_10" added="1263212593">{total_score} de 10</phrase>
+	<phrase module_id="user" version_id="2.0.2" var_name="user_setting_can_view_if_a_user_is_invisible" added="1263216036"><![CDATA[Los usuarios pueden ver una "Ultima Conexion" fecha y hora en su perfil, incluso si el usuario est&#225; conectado como invisible?]]></phrase>
+	<phrase module_id="user" version_id="2.0.4" var_name="total_activity_points" added="1266500173">Puntos Totales de Actividad</phrase>
+	<phrase module_id="user" version_id="2.0.4" var_name="activity_points" added="1266500821">Puntos de Actividad</phrase>
+	<phrase module_id="user" version_id="2.0.5" var_name="setting_approve_users" added="1269284711"><![CDATA[<title>Aprobar Usuarios</title><info>Active esta opci&#243;n si quiere aprobar antes de que los usuarios pueden iniciar sesi&#243;n en el sitio.</info>]]></phrase>
+	<phrase module_id="user" version_id="2.0.5" var_name="your_account_is_pending_approval" added="1269285880">Tu cuenta esta pendiente de aprobacion.</phrase>
+	<phrase module_id="user" version_id="2.0.5" var_name="pending_approval" added="1269286717">Pendiente de aprobacion</phrase>
+	<phrase module_id="user" version_id="2.0.5" var_name="deny_user" added="1269286833">Denegar usuario</phrase>
+	<phrase module_id="user" version_id="2.0.5" var_name="approve_user" added="1269286895">Aprobar usuario</phrase>
+	<phrase module_id="user" version_id="2.0.5" var_name="user_successfully_approved" added="1269350848">Usuario aprobado correctamente.</phrase>
+	<phrase module_id="user" version_id="2.0.5" var_name="not_approved" added="1269350868">No aprobado</phrase>
+	<phrase module_id="user" version_id="2.0.5" var_name="user_successfully_denied" added="1269350886">Usuario denegado correctamente.</phrase>
+	<phrase module_id="user" version_id="2.0.5" var_name="account_approved" added="1269351018">Cuenta aprobada</phrase>
+	<phrase module_id="user" version_id="2.0.5" var_name="your_account_has_been_approved_on_site_title" added="1269351079"><![CDATA[Tu cuenta ha sido aprobada en {site_title}.
+
+<a href="{link}">{link}</a>]]></phrase>
+	<phrase module_id="user" version_id="2.0.5" var_name="users_pending_approval" added="1269352177"><![CDATA[Usuarios pendientes de aprobaci&#243;n]]></phrase>
+	<phrase module_id="user" version_id="2.0.5" var_name="user_setting_can_edit_currency" added="1271666567">Permitir a los usuarios editar su moneda sitio predeterminado?</phrase>
+	<phrase module_id="user" version_id="2.0.5" var_name="preferred_currency" added="1271673716">Moneda preferida</phrase>
+	<phrase module_id="user" version_id="2.0.5" var_name="show_prices_and_make_purchases_in_this_currency" added="1271673733">Mostrar precios y realizar compras en esa moneda.</phrase>
+	<phrase module_id="user" version_id="2.0.5" var_name="payment_methods" added="1272279403"><![CDATA[M&#233;todos de pago]]></phrase>
+	<phrase module_id="user" version_id="2.0.5" var_name="setting_display_or_full_name" added="1272872994"><![CDATA[<title>Visualizaci&#243;n o Nombre Completo</title><info>Cuando un usuario se registra en el sitio se puede introducir su nombre completo o nombre para mostrar. Este ajuste controla lo que deber&#237;a ingresar.</info>]]></phrase>
+	<phrase module_id="user" version_id="2.0.5" var_name="pending_email_verification" added="1273224031"><![CDATA[Pendientes de Verificaci&#243;n de Email]]></phrase>
+	<phrase module_id="user" version_id="2.0.5dev1" var_name="setting_disable_username_on_sign_up" added="1274282432"><![CDATA[<title>Desactivar Nombre de usuario del Registro</title><info>Si esta opci&#243;n est&#225; activada se desactivar&#225; el "Nombre de usuario" campo en el formulario de inscripci&#243;n. El nombre de usuario se utiliza para crear una direcci&#243;n URL de la vanidad de los usuarios(eg. http://www.site.com/username).Si esta opci&#243;n est&#225; deshabilitada, usaremos su n&#250;mero de identificaci&#243;n &#250;nico para crear la URL de su vanidad. A continuaci&#243;n, puedes activar un entorno de grupo de usuario que puede permitir a los usuarios editar su nombre de usuario en un momento posterior.</info>]]></phrase>
+	<phrase module_id="user" version_id="2.0.5dev1" var_name="email_verification" added="1274636277"><![CDATA[Verificaci&#243;n de Email]]></phrase>
+	<phrase module_id="user" version_id="2.0.5dev1" var_name="mail_sent" added="1274637971">Mail enviado</phrase>
+	<phrase module_id="user" version_id="2.0.5dev1" var_name="verification_email_sent" added="1274637981"><![CDATA[Verificaci&#243;n de Email enviada.]]></phrase>
+	<phrase module_id="user" version_id="2.0.5dev1" var_name="resend_verification_email" added="1274637994"><![CDATA[Reenviar Verificaci&#243;n de correo electr&#243;nico]]></phrase>
+	<phrase module_id="user" version_id="2.0.5dev2" var_name="promotions" added="1275109970">Promociones</phrase>
+	<phrase module_id="user" version_id="2.0.5dev2" var_name="manage_promotions" added="1275110028">Administrar Promociones</phrase>
+	<phrase module_id="user" version_id="2.0.5dev2" var_name="add_promotion" added="1275110053"><![CDATA[A&#241;adir Promoci&#243;n]]></phrase>
+	<phrase module_id="user" version_id="2.0.5dev2" var_name="upgraded_user_group" added="1275112001">Grupo de usuario actualizado</phrase>
+	<phrase module_id="user" version_id="2.0.5dev2" var_name="total_days_registered" added="1275112016">Dias Totales Registrados</phrase>
+	<phrase module_id="user" version_id="2.0.5dev2" var_name="no_promotions_found" added="1275112046">Promociones no encontradas.</phrase>
+	<phrase module_id="user" version_id="2.0.5dev2" var_name="promotion_successfully_deleted" added="1275112057">Promotion borrada correctamente.</phrase>
+	<phrase module_id="user" version_id="2.0.5dev2" var_name="promotion_successfully_update" added="1275112080">Promotion actualizada correctamente.</phrase>
+	<phrase module_id="user" version_id="2.0.5dev2" var_name="promotion_successfully_added" added="1275112090"><![CDATA[Promotion a&#241;adida correctamente.]]></phrase>
+	<phrase module_id="user" version_id="2.0.5dev2" var_name="editing_promotion" added="1275112127"><![CDATA[Editar Promoci&#243;n]]></phrase>
+	<phrase module_id="user" version_id="2.0.5dev2" var_name="promotion_details" added="1275112153">Detalles de la Promocion</phrase>
+	<phrase module_id="user" version_id="2.0.5dev2" var_name="days_registered" added="1275112186"><![CDATA[D&#237;as registrados]]></phrase>
+	<phrase module_id="user" version_id="2.0.5dev2" var_name="move_user_to_user_group" added="1275112194">Mover usuario al Grupo de Usuarios</phrase>
+	<phrase module_id="user" version_id="2.0.5dev2" var_name="setting_check_promotion_system" added="1275113089"><![CDATA[<title>Comprueba si existen promociones</title><info>Si se habilita esta opci&#243;n, permitir&#225; que el sistema de promoci&#243;n y se ejecutar&#225; una verificaci&#243;n de los usuarios cuando inician sesi&#243;n en el sitio.</info>]]></phrase>
+	<phrase module_id="user" version_id="2.0.5dev2" var_name="congratulations_you_have_been_promoted_to_the_following_user_group_title" added="1275114389"><![CDATA[&#161;Felicitaciones! Has sido ascendido al siguiente gurpo de usuarios: {title}]]></phrase>
+	<phrase module_id="user" version_id="2.0.5dev2" var_name="before_you_can_use_this_feature_you_need_to_enable_the_option" added="1275114542"><![CDATA[Antes de poder utilizar esta funci&#243;n es necesario habilitar la opci&#243;n "Buscar Promociones", que se puede encontrar <a href="{link}">aqu&#237;</a>.]]></phrase>
+	<phrase module_id="user" version_id="2.0.5dev2" var_name="user_s_successfully_deleted" added="1275116475">Usuario(s) borrado correctamente.</phrase>
+	<phrase module_id="user" version_id="2.0.5dev2" var_name="delete_selected" added="1275116518">Borrar Seleccionada</phrase>
+	<phrase module_id="user" version_id="2.0.5dev2" var_name="user_s_successfully_banned" added="1275116738">Usuario(s) baneado correctamente.</phrase>
+	<phrase module_id="user" version_id="2.0.5dev2" var_name="user_s_successfully_un_banned" added="1275116766">Usuario(s) desbaneado correctamente.</phrase>
+	<phrase module_id="user" version_id="2.0.5dev2" var_name="ban_selected" added="1275116858">Banear Seleccionada</phrase>
+	<phrase module_id="user" version_id="2.0.5dev2" var_name="un_ban_selected" added="1275116870">Desbanear Seleccionada</phrase>
+	<phrase module_id="user" version_id="2.0.5dev2" var_name="ban" added="1275179147">Banear</phrase>
+	<phrase module_id="user" version_id="2.0.5dev2" var_name="un_ban" added="1275179159">Desbanear</phrase>
+	<phrase module_id="user" version_id="2.0.5dev2" var_name="with_selected" added="1275179181">Con Seleccionada</phrase>
+	<phrase module_id="user" version_id="2.0.5dev2" var_name="delete_user_full_name" added="1275179424">Borrar usuario {full_name}</phrase>
+	<phrase module_id="user" version_id="2.0.5dev2" var_name="email_verification_s_sent" added="1275179908"><![CDATA[Verificaci&#243;n de Email enviada.]]></phrase>
+	<phrase module_id="user" version_id="2.0.5dev2" var_name="user_s_verified" added="1275180138">Usuario(s) verificado.</phrase>
+	<phrase module_id="user" version_id="2.0.5dev2" var_name="approve" added="1275180410">Aprobar</phrase>
+	<phrase module_id="user" version_id="2.0.5dev2" var_name="user_s_successfully_approved" added="1275180491">Usuario(s) aprobado correctamente.</phrase>
+	<phrase module_id="user" version_id="2.0.5dev2" var_name="ip_address" added="1275182314">Direccion IP</phrase>
+	<phrase module_id="user" version_id="2.0.5dev2" var_name="user_link_full_name_commented_on_your_status" added="1275306747"><![CDATA[<a href="{user_link}">{full_name}</a> coment&#243; en una de tus <a href="{link}">actividades</a>.]]></phrase>
+	<phrase module_id="user" version_id="2.0.7" var_name="setting_allow_user_registration" added="1288616671"><![CDATA[<title>Permitir Registro de Usuario</title><info>Active esta opci&#243;n para permitir el registro p&#250;blico.</info>]]></phrase>
+	<phrase module_id="user" version_id="2.0.7" var_name="user_setting_can_manage_user_group_settings" added="1289825772"><![CDATA[Puedes administrar la configuraci&#243;n de grupos de usuarios?]]></phrase>
+	<phrase module_id="user" version_id="2.0.7" var_name="user_setting_can_edit_user_group" added="1289825844">Puede editar grupo de usuarios?</phrase>
+	<phrase module_id="user" version_id="2.0.7" var_name="user_setting_can_delete_user_group" added="1289826018">Puedes borrar grupo de usuarios?</phrase>
+	<phrase module_id="user" version_id="2.0.7" var_name="you_are_unable_to_delete_a_site_administrator" added="1289827215">Usted no puede borrar a un administrador del sitio.</phrase>
+	<phrase module_id="user" version_id="2.0.7" var_name="you_are_unable_to_ban_a_site_administrator" added="1289827731">Usted no puede banear a un administrador del sitio.</phrase>
+	<phrase module_id="user" version_id="2.0.7" var_name="you_are_unable_to_edit_a_site_administrators_account" added="1289828060">No puedes editar una cuenta de administradores del sitio.</phrase>
+	<phrase module_id="user" version_id="2.1.0Beta1" var_name="setting_enable_user_tooltip" added="1292335520"><![CDATA[<title>User AJAX Tooltip</title><info>Active esta opci&#243;n para cargar un AJAX emergente cuando se cierne sobre los nombres de algunos miembros, entre ellos la imagen de perfil de los usuarios, as&#237; como informaci&#243;n sobre ellos.</info>]]></phrase>
+	<phrase module_id="user" version_id="3.0.0Beta1" var_name="menu_user_logout_4ee1a589029a67e7f1a00990a1786f46" added="1295699471">Salir</phrase>
+	<phrase module_id="user" version_id="2.0.8" var_name="inactive_member_email_subject" added="1296833975">Hace mucho que no te vemos</phrase>
+	<phrase module_id="user" version_id="2.0.8" var_name="inactive_member_email_body" added="1297074929"><![CDATA[<p>Hola {user_name},<br />
+
+hace mucho que no le vemos por <a href="{site_url}">{site_name}</a> <br /><br />
+
+Porque no vienes a hacer una visita a tus amigos, hay un mont&#243;n de cosas nuevas por ver y  ponerse al dia</p>]]></phrase>
+	<phrase module_id="user" version_id="2.0.8" var_name="there_are_a_total_of_icount_inactive_members" added="1297086852">Hay un total de {iCount} miembros inactivos</phrase>
+	<phrase module_id="user" version_id="2.0.8" var_name="enter_a_number_of_days" added="1297087186"><![CDATA[Introduce el n&#250;mero de d&#237;as]]></phrase>
+	<phrase module_id="user" version_id="2.0.8" var_name="enter_a_number_to_size_each_batch" added="1297087223"><![CDATA[Introduce un n&#250;mero para el tama&#241;o de cada partida]]></phrase>
+	<phrase module_id="user" version_id="2.0.8" var_name="not_enough_users_to_mail" added="1297087333">No suficientes usuarios para email</phrase>
+	<phrase module_id="user" version_id="2.0.8" var_name="user_setting_can_member_snoop" added="1297692328"><![CDATA[Pueden los miembros de este grupo de usuarios iniciar una sesi&#243;n como otro usuario sin introducir una contrase&#241;a?]]></phrase>
+	<phrase module_id="user" version_id="2.0.8" var_name="log_in_as_this_user" added="1297697254">Ingresar con este usuario</phrase>
+	<phrase module_id="user" version_id="2.0.8" var_name="member_snoop" added="1297697278">Miembro Snoop</phrase>
+	<phrase module_id="user" version_id="2.0.8" var_name="member_snoop_text" added="1297697535"><![CDATA[Est&#225;s a punto de iniciar sesi&#243;n con este usuario<a href="{user_link}" target="_blank">{user_name}</a> ({full_name}). Esto tiene el mismo efecto que si usted se registr&#243; con la contrase&#241;a de este usuario. Cuando en este modo, todas sus acciones se considerar&#225;n ejecutadas por{full_name}. <br /> Para volver a su usuario administrador tendr&#225; que cerrar la sesi&#243;n y vuelva a entrar.]]></phrase>
+	<phrase module_id="user" version_id="2.0.8" var_name="abort_log_in_as_this_user" added="1297697736"><![CDATA[Abortar inicio de sesi&#243;n con este usuario]]></phrase>
+	<phrase module_id="user" version_id="2.0.8" var_name="deny_mail_subject" added="1298464722">Tu registro en {site_name} ha sido denegado</phrase>
+	<phrase module_id="user" version_id="2.0.8" var_name="deny_mail_message" added="1298464944"><![CDATA[En este momento, su perfil no cumple los requisitos m&#237;nimos de nuestro sitio. Si cree que esto es un error, no dude en contactar con nosotros en {site_email}]]></phrase>
+	<phrase module_id="user" version_id="2.0.8" var_name="you_are_about_to_deny_user" added="1298470496"><![CDATA[Est&#225;s a punto de denegar al usuario <a href="{link}">{user_name}</a> desde el sitio.
+Si desea enviar un correo electr&#243;nico a este usuario puede hacerlo aqu&#237;]]></phrase>
+	<phrase module_id="user" version_id="2.0.8" var_name="deny_and_send_email" added="1298471061">Denegar y enviar email</phrase>
+	<phrase module_id="user" version_id="2.0.8" var_name="deny_without_email" added="1298471080">Denegar sin email</phrase>
+	<phrase module_id="user" version_id="2.0.8" var_name="setting_brute_force_attempts_count" added="1299680854"><![CDATA[<title>Prevenci&#243;n de fuerza bruta: Attempts Count</title><info>Cuantos intentos multiples se permiten dentro del plazo? 
+
+Esta configuraci&#243;n se utiliza junto con "Prevenci&#243;n de fuerza bruta: Tiempo limite" para proteger mejor a su sitio desde la fuerza bruta los intentos de inicio de sesi&#243;n. 
+
+Se define un tiempo en minutos y cu&#225;ntos intentos fallidos se permiten dentro de ese per&#237;odo de tiempo, si un usuario no puede iniciar sesi&#243;n en dicho plazo de tiempo, la falta de esto, muchos intenta la cuenta est&#225; bloqueada por un tiempo determinado, este tiempo de bloqueo se define por el tiempo de enfriamiento y durante este tiempo, incluso si el registro correcto en se entr&#243;, el acceso ser&#225; denegado.</info>]]></phrase>
+	<phrase module_id="user" version_id="2.0.8" var_name="setting_brute_force_time_check" added="1299681159"><![CDATA[<title>Prevenci&#243;n de fuerza bruta: Tiempo Limite</title><info>Cuantos minutos debe esperar para comprobar el script?
+P&#243;ngalo a 0 si no desea ejecutar esta comprobaci&#243;n
+
+Esta configuraci&#243;n se utiliza junto con "Prevenci&#243;n de fuerza bruta: Attempts Count" para proteger mejor a su sitio desde la fuerza bruta los intentos de inicio de sesi&#243;n.</info>]]></phrase>
+	<phrase module_id="user" version_id="2.0.8" var_name="setting_brute_force_cool_down" added="1299682133"><![CDATA[<title>Prevenci&#243;n de fuerza bruta: Cool Down</title><info>Cuando una cuenta ha sido bloqueada debido a una comprobaci&#243;n de de fuerza bruta, &#191;cu&#225;ntos minutos debe esperar el usuario antes de abrir la cuenta?</info>]]></phrase>
+	<phrase module_id="user" version_id="2.0.8" var_name="brute_force_account_locked" added="1299683217"><![CDATA[Intento de fuerza bruta registrada. Su cuenta ha sido bloqueada por {iCoolDown} minutos. Si has olvidado tu contrase&#241;a, por favor utiliza el <a href="{sForgotLink}">la herramienta de perdida de contrase&#241;a</a>.
+Puedes intentar volver a iniciar sesi&#243;n en {iUnlockTimeOut} minutos.]]></phrase>
+	<phrase module_id="user" version_id="2.1.0beta1" var_name="that_user_does_not_exist" added="1300099212">Ese usuario no existe</phrase>
+	<phrase module_id="user" version_id="2.1.0beta1" var_name="email_is_in_use_and_user_can_login" added="1300891508"><![CDATA[Ya existe una cuenta asignada con el correo electr&#243;nico "{email}". Si este es tu email porfavor inicia sesi&#243;n <a href="{link}">aqui</a>.]]></phrase>
+	<phrase module_id="user" version_id="2.1.0rc1" var_name="setting_force_user_to_upload_on_sign_up" added="1301564621"><![CDATA[<title>Forzar a los Usuarios a 
+Subir una imagen de perfil</title><info>Activar esta opci&#243;n para forzar a los usuarios cargar una imagen de perfil antes de que puedan registrarse..</info>]]></phrase>
+	<phrase module_id="user" version_id="2.1.0rc1" var_name="profile_image" added="1301564651">Imagen de Perfil</phrase>
+	<phrase module_id="user" version_id="3.0.0beta1" var_name="custom_relationship_status" added="1302872875"><![CDATA[Situaci&#243;n sentimental]]></phrase>
+	<phrase module_id="user" version_id="3.0.0beta1" var_name="cf_option_in_a_relationship" added="1302872875"><![CDATA[est&#225; en una relaci&#243;n]]></phrase>
+	<phrase module_id="user" version_id="3.0.0beta1" var_name="cf_option_its_complicated" added="1302872875">Es complicado</phrase>
+	<phrase module_id="user" version_id="3.0.0beta1" var_name="cf_option_in_an_open_relationship" added="1302872875"><![CDATA[est&#225; en una relaci&#243;n abierta]]></phrase>
+	<phrase module_id="user" version_id="3.0.0beta1" var_name="cf_option_widowed" added="1302872875">Viudo</phrase>
+	<phrase module_id="user" version_id="3.0.0beta1" var_name="cf_option_separated" added="1302872875">Separado</phrase>
+	<phrase module_id="user" version_id="3.0.0beta1" var_name="setting_hide_main_menu" added="1306142141"><![CDATA[<title>Ocultar Men&#250; Principal</title><info>Active esta opci&#243;n para ocultar el men&#250; principal, si un usuario no se registra en el sitio.</info>]]></phrase>
+	<phrase module_id="user" version_id="3.0.0beta1" var_name="setting_invite_only_community" added="1306476862"><![CDATA[<title>Solo Invitar</title><info>Active est&#225; funcion si you cominidad si tu comunidad es una "solo invitar" comunidad.</info>]]></phrase>
+	<phrase module_id="user" version_id="3.0.0beta3" var_name="setting_new_user_terms_confirmation" added="1315851732"><![CDATA[<title>Terminoss & Confirmacion Privada</title><info>Active esta opci&#243;n si los usuarios deben confirmar que ellos entienden y que he le&#237;do sobre los t&#233;rminos de los sitios y las pol&#237;ticas de privacidad.</info>]]></phrase>
+	<phrase module_id="user" version_id="3.0.0beta4" var_name="menu_user_account_settings_73c8da87d666df89aabd61620c81c24c" added="1317128919">Configuracion de cuenta</phrase>
+	<phrase module_id="user" version_id="3.0.0beta4" var_name="menu_user_privacy_settings_73c8da87d666df89aabd61620c81c24c" added="1317128967">Configuracion de privacidad</phrase>
+	<phrase module_id="user" version_id="3.0.0beta4" var_name="setting_enable_relationship_status" added="1317129649"><![CDATA[<title>Habilitar las relaciones</title><info>Si desea que los usuarios tengan la capacidad para establecer su estado de la relaci&#243;n en su comunidad, habilitar esta caracter&#237;stica.</info>]]></phrase>
+	<phrase module_id="user" version_id="3.0.0beta5" var_name="1_mutual_friend" added="1319122856">1 amigo mutuo</phrase>
+	<phrase module_id="user" version_id="3.0.0beta5" var_name="total_mutual_friends" added="1319122869">{total} amigos mutuos</phrase>
+	<phrase module_id="user" version_id="3.0.0beta5" var_name="add_friend" added="1319122883"><![CDATA[A&#241;adir amigo]]></phrase>
+	<phrase module_id="user" version_id="3.0.0beta5" var_name="advanced_filters" added="1319122982">Filtros avanzados</phrase>
+	<phrase module_id="user" version_id="3.0.0beta5" var_name="close_advanced_filters" added="1319122993">Cerrar filtros avanzados</phrase>
+	<phrase module_id="user" version_id="3.0.0beta5" var_name="1_member" added="1319187425">1 usuario.</phrase>
+	<phrase module_id="user" version_id="3.0.0beta5" var_name="total_members" added="1319187451">{total} usuarios.</phrase>
+	<phrase module_id="user" version_id="3.0.0beta5" var_name="1_person_likes_this" added="1319187466">a 1 persona le gusta esto.</phrase>
+	<phrase module_id="user" version_id="3.0.0beta5" var_name="total_people_like_this" added="1319187480">{total} personas les gusta esto.</phrase>
+	<phrase module_id="user" version_id="3.0.0beta5" var_name="age_years_old" added="1319187501"><![CDATA[{age} a&#241;os]]></phrase>
+	<phrase module_id="user" version_id="3.0.0beta5" var_name="mutual_friends_total" added="1319187520">Amigos mutuos ({total})</phrase>
+	<phrase module_id="user" version_id="3.0.0beta5" var_name="add_as_friend" added="1319187556"><![CDATA[A&#241;adir a amigos]]></phrase>
+	<phrase module_id="user" version_id="3.0.0beta5" var_name="say_happy_birthday" added="1319187573"><![CDATA[Diga Feliz Cumplea&#241;os]]></phrase>
+	<phrase module_id="user" version_id="3.0.0beta5" var_name="customize_how_other_users_interact_with_your_profile" added="1319465869"><![CDATA[Personalizar la forma en que los otros usuarios interact&#250;an con tu perfil.]]></phrase>
+	<phrase module_id="user" version_id="3.0.0beta5" var_name="show_my_full_birthday_in_my_profile" added="1319466000"><![CDATA[Mostrar mi cumplea&#241;os completo en mi perfil.]]></phrase>
+	<phrase module_id="user" version_id="3.0.0beta5" var_name="show_only_month_amp_day_in_my_profile" added="1319466009">Mostrar solo mes y dia en mi perfil.</phrase>
+	<phrase module_id="user" version_id="3.0.0beta5" var_name="don_t_show_my_birthday_in_my_profile" added="1319466023"><![CDATA[No mostrar mi cumplea&#241;os en mi perfil.]]></phrase>
+	<phrase module_id="user" version_id="3.0.0beta5" var_name="customize_your_default_settings_for_when_sharing_new_items_on_the_site" added="1319466044"><![CDATA[Personalica tu configuraci&#243;n predeterminada para cuando compartas nuevos elementos en el sitio. Ten en cuenta que esto s&#243;lo cambia la configuraci&#243;n predeterminada para futuros elementos y no cambian los elementos que ya se han compartido. Para cambiar la configuraci&#243;n de privacidad sobre esos elementos  se pueden personalizar  editando el elemento en s&#237;.]]></phrase>
+	<phrase module_id="user" version_id="3.0.0beta5" var_name="items" added="1319466075">Elementos</phrase>
+	<phrase module_id="user" version_id="3.0.0beta5" var_name="view_your_profile" added="1319466105">Ver tu perfil</phrase>
+	<phrase module_id="user" version_id="3.0.0beta5" var_name="send_you_a_message" added="1319466218">Enviarle un mensaje</phrase>
+	<phrase module_id="user" version_id="3.0.0beta5" var_name="display_rss_subscribers_count" added="1319466235">Mostrar recuento de suscriptores RSS</phrase>
+	<phrase module_id="user" version_id="3.0.0beta5" var_name="subscribe_to_your_rss_feed" added="1319466242">Suscribirse a tu RSS feed</phrase>
+	<phrase module_id="user" version_id="3.0.0beta5" var_name="view_who_recently_viewed_your_profile" added="1319466253">Ver quien ha visto recientemente tu perfil</phrase>
+	<phrase module_id="user" version_id="3.0.0beta5" var_name="view_your_friends" added="1319466263">Ver tus amigos</phrase>
+	<phrase module_id="user" version_id="3.0.0beta5" var_name="share_on_your_wall" added="1319466274">Compartir en tu muro</phrase>
+	<phrase module_id="user" version_id="3.0.0beta5" var_name="view_your_wall" added="1319466288">Ver tu muro</phrase>
+	<phrase module_id="user" version_id="3.0.0beta5" var_name="rate_your_profile" added="1319466306">Valorar tu perfil</phrase>
+	<phrase module_id="user" version_id="3.0.0beta5" var_name="view_photos_within_your_profile" added="1319466316">Ver fotos en tu perfil</phrase>
+	<phrase module_id="user" version_id="3.0.0beta5" var_name="view_your_profile_lowercase" added="1319466339">Ver tu perfil</phrase>
+	<phrase module_id="user" version_id="3.0.0beta5" var_name="view_your_basic_information" added="1319466348"><![CDATA[Ver tu informaci&#243;n b&#225;sica]]></phrase>
+	<phrase module_id="user" version_id="3.0.0beta5" var_name="view_your_profile_information" added="1319466355">Ver tu informacion del perfil</phrase>
+	<phrase module_id="user" version_id="3.0.0beta5" var_name="view_your_location" added="1319466365"><![CDATA[Ver tu ubicaci&#243;n]]></phrase>
+	<phrase module_id="user" version_id="3.0.0beta5" var_name="community" added="1319466425">Comunidad</phrase>
+	<phrase module_id="user" version_id="3.0.0beta5" var_name="blogs" added="1319466527">Blogs</phrase>
+	<phrase module_id="user" version_id="3.0.0beta5" var_name="polls" added="1319466537">Encuestas</phrase>
+	<phrase module_id="user" version_id="3.0.0beta5" var_name="photos" added="1319466559">Fotos</phrase>
+	<phrase module_id="user" version_id="3.0.0beta5" var_name="songs" added="1319466570">Canciones</phrase>
+	<phrase module_id="user" version_id="3.0.0beta5" var_name="quizzes" added="1319466580">Cuestionarios</phrase>
+	<phrase module_id="user" version_id="3.0.0beta5" var_name="full_name_liked_your_status_update_content" added="1319468529">a {full_name} le gusta una de tus actualizaciones de estado.</phrase>
+	<phrase module_id="user" version_id="3.0.0beta5" var_name="full_name_liked_your_status_update_message" added="1319468654"><![CDATA[{full_name} le gusta tu actualizaci&#243;n de estado "<a href="{link}">{content}</a>"
+
+Para verlo sige el siguiente enlace:
+
+<a href="{link}">{link}</a>]]></phrase>
+	<phrase module_id="user" version_id="3.0.0beta5" var_name="full_name_liked_a_comment_you_posted_on_row_full_name_s_wall" added="1319468762">a {full_name} le gusta un comentario que publicaste en el muro de {row_full_name}</phrase>
+	<phrase module_id="user" version_id="3.0.0beta5" var_name="full_name_liked_your_comment_message" added="1319529906"><![CDATA[{full_name} le gusta tu comentario "<a href="{link}">{content}</a>" publicado en {row_full_name}'s muro.
+
+Para verlo sige el siguiente enlace:
+
+<a href="{link}">{link}</a>]]></phrase>
+	<phrase module_id="user" version_id="3.0.0beta5" var_name="full_name_liked_one_of_your_comments" added="1319529963">a {full_name} le gusta uno de tus comentarios</phrase>
+	<phrase module_id="user" version_id="3.0.0beta5" var_name="full_name_liked_your_comment_message_mini" added="1319530048"><![CDATA[{full_name} le gusta tu comentario "<a href="{link}">{content}</a>" que ha publicado.
+
+Para verlo sige el siguiente enlace:
+
+<a href="{link}">{link}</a>]]></phrase>
+	<phrase module_id="user" version_id="3.0.0rc1" var_name="it_s_free_and_always_will_be" added="1320060012"><![CDATA[Es gratis (y lo seguir&#225; siendo).]]></phrase>
+	<phrase module_id="user" version_id="3.0.0rc1" var_name="ssitetitle_is_an_invite_only_community_enter_your_email_below_if_you_have_received_an_invitation" added="1320060060"><![CDATA[{sSiteTitle} es una comunidad por invitaci&#243;n solamente. Introduce tu direcci&#243;n de correo electr&#243;nico a continuaci&#243;n si has recibido una invitaci&#243;n.]]></phrase>
+	<phrase module_id="user" version_id="3.0.0rc1" var_name="ssitename_helps_you_connect_and_share_with_the_people_in_your_life" added="1320060210">{sSiteName} Acercando Mundos.</phrase>
+	<phrase module_id="user" version_id="3.0.0rc1" var_name="i_am" added="1320060287">Yo Soy</phrase>
+	<phrase module_id="user" version_id="3.0.0rc1" var_name="ssitetitle_helps_you_connect_and_share_with_the_people_in_your_life" added="1320060853">{sSiteTitle} Acercando Mundos.</phrase>
+	<phrase module_id="user" version_id="3.0.0rc1" var_name="join_ssitetitle_to_connect_with_friends_share_photos_and_create_your_own_profile" added="1320060918"><![CDATA[&#218;nete a {sSiteTitle} para conectar con tus amigos, compartir fotos y crear tu propio perfil.]]></phrase>
+	<phrase module_id="user" version_id="3.0.0rc1" var_name="or_sign_up_with" added="1320060934"><![CDATA[o reg&#237;stretate con]]></phrase>
+	<phrase module_id="user" version_id="3.0.0rc1" var_name="keep_me_logged_in" added="1320061093"><![CDATA[No cerrar sesi&#243;n]]></phrase>
+	<phrase module_id="user" version_id="3.0.0rc1" var_name="login_singular" added="1320061124">Entrar</phrase>
+	<phrase module_id="user" version_id="3.0.0rc1" var_name="or_login_with" added="1320061134">O entrar con</phrase>
+	<phrase module_id="user" version_id="3.0.0rc1" var_name="sign_up_for_ssitetitle" added="1320061195"><![CDATA[Reg&#237;strate en {sSiteTitle}]]></phrase>
+	<phrase module_id="user" version_id="3.0.0rc2" var_name="profile_photo_successfully_updated" added="1321363890">Foto de perfil actualizada correctamente.</phrase>
+	<phrase module_id="user" version_id="3.0.0rc2" var_name="search_friends_by_their_name" added="1321365393">Buscar amigos por su nombre...</phrase>
+	<phrase module_id="user" version_id="3.0.0rc2" var_name="login_ajax" added="1321437272">Entrar</phrase>
+	<phrase module_id="user" version_id="3.0.0" var_name="full_name_commented_on_your_status_update" added="1322466364"><![CDATA[{full_name} coment&#243; en tu actualizaci&#243;n de estado.]]></phrase>
+	<phrase module_id="user" version_id="3.0.0" var_name="get_information_about_a_user_based_on_the_user_id_you_pass_if_you_do_not_pass_the_user_id_we_will_return_information_about_the_user_that_is_currently_logged_in" added="1322730371"><![CDATA[Consige la informaci&#243;n sobre un usuario basado en el usuario ID# tu pasas. Si no pasas el #{USER_ID} devolveremos la informaci&#243;n sobre el usuario que es entrado al sistema actualmente.]]></phrase>
+	<phrase module_id="user" version_id="3.0.0" var_name="user_name_liked_gender_own_status_update_title" added="1322730467"><![CDATA[a {user_name} le gusta su actualizaci&#243;n de estado "{title}"]]></phrase>
+	<phrase module_id="user" version_id="3.0.0" var_name="user_name_liked_your_status_update_title" added="1322730568"><![CDATA[a {user_name} le gusta tu actualizaci&#243;n de estado  "{title}"]]></phrase>
+	<phrase module_id="user" version_id="3.0.0" var_name="user_name_liked_span_class_drop_data_user_full_name_s_span_status_update_title" added="1322730676"><![CDATA[a {user_name} le gusta la actualizaci&#243;n de estado de <span class="drop_data_user">{full_name}</span> "{title}"]]></phrase>
+	<phrase module_id="user" version_id="3.0.0" var_name="full_name_commented_on_your_status_update_title_to_see_the_comment_thread_follow_the_link_below_a_href_link_link_a" added="1322732634"><![CDATA[{full_name} ha comentado en tu actualizaci&#243;n de estado "{title}".
+Para ver el comentario, sige el siguiente enlace:
+<a href="{link}">{link}</a>]]></phrase>
+	<phrase module_id="user" version_id="3.0.0" var_name="full_name_commented_on_one_of_gender_status_updates" added="1322732711">{full_name} ha comentado en una de {gender} actualizaciones de estado.</phrase>
+	<phrase module_id="user" version_id="3.0.0" var_name="full_name_commented_on_one_of_other_full_name_s_status_updates" added="1322732816"><![CDATA[{full_name} ha comentado en una actualizaci&#243;n del estado de {other_full_name}.]]></phrase>
+	<phrase module_id="user" version_id="3.0.0" var_name="full_name_commented_on_gender_status_update_a_href_link_title_a_to_see_the_comment_thread_follow_the_link_below_a_href_link_link_a" added="1322732978"><![CDATA[{full_name} ha comentado en {gender} actualizaci&#243;n de estado "<a href="{link}">{title}</a>".
+Para ver el comentario, sige el siguiente enlace:
+<a href="{link}">{link}</a>]]></phrase>
+	<phrase module_id="user" version_id="3.0.0" var_name="full_name_commented_on_other_full_name_s_status_update_a_href_link_title_a_to_see_the_comment_thread_follow_the_link_below_a_href_link_link_a" added="1322733117"><![CDATA[{full_name} ha comentado en {other_full_name}'s actualizaci&#243;n de estado "<a href="{link}">{title}</a>".
+Para ver el comentario, sige el siguiente enlace:
+<a href="{link}">{link}</a>]]></phrase>
+	<phrase module_id="user" version_id="3.0.0" var_name="unable_to_post_a_comment_on_this_item_due_to_privacy_settings" added="1322733155"><![CDATA[No se puede escribir un comentario sobre este tema debido a la configuraci&#243;n de privacidad.]]></phrase>
+	<phrase module_id="user" version_id="3.0.0" var_name="span_class_drop_data_user_full_name_span_commented_on_gender_status_update_title" added="1322733247"><![CDATA[<span class="drop_data_user">{full_name}</span> ha comentado en {gender} actualizaci&#243;n de estado "{title}"]]></phrase>
+	<phrase module_id="user" version_id="3.0.0" var_name="span_class_drop_data_user_full_name_span_commented_on_your_status_update_title" added="1322733434"><![CDATA[<span class="drop_data_user">{full_name}</span> ha comentado en tu actualizaci&#243;n de estado "{title}"]]></phrase>
+	<phrase module_id="user" version_id="3.0.0" var_name="span_class_drop_data_user_full_name_span_commented_on_span_class_drop_data_user_other_full_name_s_span_status_update_title" added="1322733562"><![CDATA[<span class="drop_data_user">{full_name}</span> ha comentado en el estado de <span class="drop_data_user">{other_full_name}</span> "{title}"]]></phrase>
+	<phrase module_id="user" version_id="3.0.0" var_name="pending_confirmation" added="1323087876"><![CDATA[Pendiente de Confirmaci&#243;n]]></phrase>
+	<phrase module_id="user" version_id="3.0.0" var_name="setting_user_dob_month_day_year" added="1323244991"><![CDATA[<title>Usuario D.O.B (Month, Day & Year)</title><info>Controlar c&#243;mo muestra la fecha de usuarios de nacimiento para la configuraci&#243;n de privacidad "Mostrar mi cumplea&#241;os completo en mi perfil ".</info>]]></phrase>
+	<phrase module_id="user" version_id="3.0.0" var_name="setting_user_dob_month_day" added="1323245329"><![CDATA[<title>Usuario D.O.B (Month & Day)</title><info>Controlar c&#243;mo muestra la fecha de nacimiento para la configuraci&#243;n de privacidad "Mostrar solo mes y dia en mi perfil.".</info>]]></phrase>
+	<phrase module_id="user" version_id="3.0.0" var_name="user_registration_has_been_disabled" added="1323687223"><![CDATA[Registro de usuarios est&#225; desactivado]]></phrase>
+	<phrase module_id="user" version_id="3.4.0" var_name="user_ayudante" added="1355937720">Ayudante</phrase>
+	<phrase module_id="user" version_id="3.4.0" var_name="user_oficial" added="1355937840">Hacer oficial</phrase>
+</phrases>

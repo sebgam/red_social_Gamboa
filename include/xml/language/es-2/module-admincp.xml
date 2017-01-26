@@ -1,0 +1,666 @@
+<phrases>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="module_admincp" added="1219147675">Admincp</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="logged_in_as" added="1212102851">Registrado como {full_name}</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="view_site" added="1212102898">Ver el sitio</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="logout" added="1212102912">Salir</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="admin_cp" added="1212102946">Admin CP</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="dashboard" added="1212104757">Escritorio</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="setting_add_group" added="1213992518"><![CDATA[Seleccione el grupo a su nueva configuraci&#243;n pertenece.
+
+Independientemente del grupo al que pertenece se puede acceder a todo el mundo.
+Los ajustes se dividen en 3 grupos, que son <b>Configuracion Global</b>, <b>Configuracion del modulo</b> o <b>Configuracion del producto</b>.
+
+<b>Coonfiguracion Global</b> son valores que no forman parte de cualquier m&#243;dulo espec&#237;fico o producto de otro tercio por lo que cae en una variable global.
+
+<b>Configuracion del modulo</b> son valores que pertenecen al m&#243;dulo espec&#237;fico que se utiliza in El ajuste todav&#237;a se puede acceder a trav&#233;s de otros m&#243;dulos, sin embargo, estos ajustes est&#225;n destinados a ser utilizados s&#243;lo en el m&#243;dulo espec&#237;fico que fue creado.
+
+<b>Configuraciones de producto</b> son valores que pertenecen a los productos de 3 &#170; parte.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="setting_details" added="1213992880"><![CDATA[Configuraci&#243;n de detalles]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="group" added="1213992894">Grupos</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="global_settings" added="1213992913"><![CDATA[Configuraci&#243;n Global]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="module_settings" added="1213992929"><![CDATA[Configuraci&#243;n de m&#243;dulo]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="product_settings" added="1213992943">Configuracion del producto</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="variable" added="1213992960">Variable</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="type" added="1213992972">Tipo</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="string" added="1213992984">Cadena</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="boolean" added="1213992994">Boolean</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="integer" added="1213993005">Integer</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="array" added="1213993015">Matriz</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="defined_drop_down" added="1213993026">Definir Drop-Down</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="value" added="1213993039">Valor</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="language_package_details" added="1213993059">Detalles del paquete de idiomas</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="title" added="1213993072"><![CDATA[T&#237;tulo]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="info" added="1213993093"><![CDATA[Informaci&#243;n]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="submit" added="1213993106">Enviar</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="true" added="1213993147">Si</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="false" added="1213993164">No</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="setting_array_example" added="1213993190"><![CDATA[Ejemplo: array("val1", "val2", "val3");]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="setting_drop_down_example" added="1213993229"><![CDATA[Separe el drop downs con comas. El primero drop down ser&#225; el valor predeterminado drop down. (Example: drop1, drop2, drop3)]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="setting_add_var" added="1213994889"><![CDATA[The <b>Variable</b> de su nuevo escenario es c&#243;mo va a identificar y llamar a este entorno espec&#237;fico y devolver el valor dado.
+
+Si creas una <b>Variable</b> con <b>foo</b> que puede ser utilizado m&#225;s adelante en el script PHP como:
+[php]
+echo App::getParam('foo');
+[/php]
+El c&#243;digo anterior imprimir&#225; el valor de foo.
+
+Tenga en cuenta que si se a&#241;ade espacio o caracteres no alfanum&#233;ricos (apoyo s&#243;lo) a su <b>Variable</b> autom&#225;ticamente pasar&#225; a llamarse para ajustarse a las normas, lo que vamos a sustituir todos los caracteres no compatibles o espacios con un gui&#243;n bajo.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="admincp_help" added="1213995090">AdminCP Ayuda</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="setting_add_type" added="1213996094"><![CDATA[Los ajustes se pueden almacenar como una Cadena, Boolean, Integer, Matriz o Definir el valor Drop-Down.
+
+<b><u>Cadena</u></b>
+Almacene los valores de cadena que pueden contener caracteres alfanum&#233;ricos o texto largo.
+
+<b><u>Boolean</u></b>
+Almacenar un valor VERDADERO o FALSO.
+
+<b><u>Integer</u></b>
+Almacenar un valor num&#233;rico.
+
+<b><u>Matriz</u></b>
+Almacene los valores dentro de una matriz.
+
+<b><u>Definir Drop-Down</u></b>
+Almacenar los valores dentro de una matriz, sin embargo, a diferencia del m&#233;todo de la matriz de almacenamiento que s&#243;lo puede devolver un valor que se utiliza cuando se llama el par&#225;metro]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="setting_add_value" added="1213996483"><![CDATA[Los ajustes pueden ser almacenados como String, Boolean, Integer, Array o al Definido Drop-Down valor.
+
+<b><u>String</u></b>
+Los valores String podr&#237;an contener car&#225;cteres alfanum&#233;ricos o texto largo.
+
+<b><u>Boolean</u></b>
+Almacene un valor VERDADERO O FALSO. Simplemente seleccione VERDADERO si el valor para el ajuste que usted a&#241;ade deber&#237;a ser VERDADERO por defecto.
+
+<b><u>Integer</u></b>
+Almacene un valor numerico.
+
+<b><u>Array</u></b>
+La tienda valora dentro de array. La adici&#243;n de arry es similar a como las Series a&#241;aden en PHP. 
+
+Ejemplo:
+[php]
+array("val1", "val2", "val3");
+[/php]
+
+<b><u>Defined Drop-Down</u></b>
+Store values within an Array, however unlike the Array storage method you can only return one value which will be used when calling the parameter.
+
+When adding a drop-down separate drop downs with commas. The first drop down will be the default drop down. 
+
+Example: 
+[quote]
+drop1, drop2, drop3
+[/quote]]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="setting_add_title" added="1213996632"><![CDATA[Cada establecimiento debe tener una frase a&#241;adida al paquete de idioma predeterminado para identificar lo que se est&#225; editando, cuando llegue el momento de editar esta configuraci&#243;n en el futuro.
+
+Mantenga el t&#237;tulo de metas a corto y al grano, como tambi&#233;n se le a&#241;ade una frase m&#225;s bien informativa despu&#233;s de lo cual se utiliza para explicar c&#243;mo reacciona un entorno en el sitio.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="setting_add_info" added="1213996745"><![CDATA[Agregar la informaci&#243;n tanto como t&#250; pueda acerca de la nueva configuraci&#243;n que est&#225; agregando como otros pueden necesitar modificar este valor en el futuro.
+
+Las instrucciones sobre c&#243;mo afecta la configuraci&#243;n del sitio, por ejemplo, cuando est&#225; activada o desactivada es muy &#250;til.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="add_variable_name" added="1213997343"><![CDATA[A&#241;adir un nombre de variable que identifica a su nueva configuraci&#243;n]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="setting_must_have_value" added="1213997421"><![CDATA[Su configuraci&#243;n debe tener un valor]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="add_title_for_setting" added="1213997453"><![CDATA[Agregar un t&#237;tulo para la configruaci&#243;n]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="add_information_regarding_setting" added="1213997500"><![CDATA[Agregue un poco de informaci&#243;n sobre la configuraci&#243;n]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="already_in_use" added="1213997527"><![CDATA[Ya est&#225; en uso]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="added" added="1213997544"><![CDATA[A&#241;adido]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="add_setting" added="1213997573"><![CDATA[A&#241;adir configuracion]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="updated" added="1213998211">Actualizado!</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="manage_settings" added="1213998227">Administrar configuracion</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="quick_jump" added="1213998537"><![CDATA[Acceso r&#225;pido]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="remove" added="1213998602">Borrar</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="add_a_new_value" added="1213998867"><![CDATA[A&#241;adir nuevo valor...]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="add" added="1213998909">Agregar</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="setting_group_avaliable_settings" added="1213998954"><![CDATA[Este grupo no tiene ning&#250;n ajuste de configuraci&#243;n disponibles.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="add_a_title_for_the_group" added="1214047004"><![CDATA[Agregar un t&#237;tulo al grupo]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="add_information_regarding_group" added="1214047044"><![CDATA[A&#241;adir informaci&#243;n con respecto al grupo]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="group_information" added="1214047080"><![CDATA[Grupo de Informaci&#243;n]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="product" added="1214047136">Producto</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="name" added="1214047154">Nombre</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="add_setting_group" added="1214047478"><![CDATA[A&#241;adir grupo de ajuste]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="export" added="1214048708">Exportar</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="not_valid_array" added="1214050827">Not a valid array</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="value_must_be_numeric" added="1214050852"><![CDATA[El valor debe ser num&#233;rico]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="import" added="1214060258">Importar</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="download" added="1214060328">Descargar</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="upload" added="1214060337">Subir</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="select_file" added="1214060347">Seleccionar Archivo</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="valid_file_extensions" added="1214060404"><![CDATA[Extensiones de archivo v&#225;lidas]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="import_export_settings" added="1214060450">Importar/exportar configuraciones</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="product_does_not_have_any_settings" added="1214060583"><![CDATA[El producto no tiene ninguna configuraci&#243;n.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="unable_load_cached_config_file" added="1214060887"><![CDATA[No se puede cargar el archivo de configuraci&#243;n almacenado en cach&#233;. Por favor, aseg&#250;rese de que est&#225; cargando el archivo correcto.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="setting_imported" added="1214060918"><![CDATA[{total} configuraci&#243;n (s) importadas. Base de datos Ahora corresponde a la fecha.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="nothing_new_import" added="1214060951"><![CDATA[Nada nuevo para importar. Su base de datos est&#225; actualizada.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="invalid_file_extension" added="1214060974"><![CDATA[Extensi&#243;n de archivo no v&#225;lido.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="module_folder_already_exists" added="1214230661"><![CDATA[No se puede utilizar este nombre de m&#243;dulo. La carpeta del m&#243;dulo ya existe.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="select_name_for_your_module" added="1214230680"><![CDATA[Seleccione un nombre para el m&#243;dulo.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="provide_information_regarding_module" added="1214230700"><![CDATA[Proporcionar alguna informaci&#243;n sobre el m&#243;dulo]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="module_name_already_used" added="1214230730">El nombre del modulo esta siendo usado. Selecciona otro nombre.</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="create_module" added="1214230746">Crear Modulo</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="module_successfully_created" added="1214230798">Modulo creado correctamente. Crear la siguiente estructura de archivo en tu modulo</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="module_details" added="1214230813">Detalles del modulo</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="add_menu" added="1214230844"><![CDATA[A&#241;adir al menu]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="yes" added="1214230853">Yes</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="no" added="1214230945">No</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="menu" added="1214230956">Menu</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="phrase" added="1214230977">Frase</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="link" added="1214231004">Enlace</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="add_more" added="1214231280"><![CDATA[Agregar m&#225;s]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="unable_import_settings" added="1214232088"><![CDATA[No se puede importar la configuraci&#243;n. Ning&#250;n producto se ha especificado en el archivo XML.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="untouchables" added="1214317575">Intocables</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="phpfox_hidden_settings" added="1214317835"><![CDATA[configuraci&#243;n phpFox oculta.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="or" added="1214324454">o</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="file_unsupported" added="1214326996"><![CDATA[El servidor no soporta la extensi&#243;n del archivo que est&#225; cargando.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="download_file_format" added="1214327614">Descargar Formato de archivo</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="cached_cleared" added="1214785672">Cached borrado.</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="clear_cache" added="1214785703">Borrar Cache</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="user_setting_can_clear_site_cache" added="1214788895"><![CDATA[Puede borrar la cach&#233; de los sitios.
+
+Al permitir a un usuario a borrar la cach&#233; de los sitios que ser&#225;n capaces de eliminar ya sea de datos SQL o plantillas HTML.
+
+Tenga en cuenta que una vez que la p&#225;gina se actualiza estos elementos se re-cach&#233;, sin embargo, quiz&#225; sea mejor que s&#243;lo permiten a los administradores o desarrolladores tienen acceso a esta funci&#243;n.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="data_size" added="1214790713"><![CDATA[Tama&#241;o de datos]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="cached" added="1214790722"><![CDATA[En cach&#233;]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="clear_selected" added="1214790764">Borrar seleccionado</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="clear_all" added="1214790772">Borrar todo</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="cache_source" added="1214790801">Fuente del cache</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="add_new_menu" added="1214845204"><![CDATA[A&#241;adir Nuevo Menu]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="menu_successfully_added" added="1214845273"><![CDATA[Menu a&#241;adido correctamente.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="menu_details" added="1214851754"><![CDATA[Detalles del men&#250;]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="module" added="1214851821">Modulo</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="connection" added="1214851848"><![CDATA[Conexi&#243;n]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="menus" added="1214851856">Menus</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="modules" added="1214851863">Modulos</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="url" added="1214851874">URL</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="user_group_access" added="1214851921">Grupo de acceso de usuario</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="allow_access" added="1214851932">Permitir el acceso</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="menu_add_product" added="1214853997"><![CDATA[Producto de este men&#250; le pertenece.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="core_module" added="1214957846"><![CDATA[Es un m&#243;dulo b&#225;sico]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="sub_menu" added="1214960766">Sub Menu</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="cms" added="1214963139">CMS</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="user_group_manager" added="1214963173">Administrador de Grupo de usuarios</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="add_user_group_setting" added="1214963493"><![CDATA[A&#241;adir Configuraci&#243;n Grupo de Usuarios]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="manage_user_settings" added="1214963811"><![CDATA[Administrar la configuraci&#243;n de usuario]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="users" added="1214963853">Usuarios</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="extensions" added="1214963862">Extensiones</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="create_new_module" added="1214963912">Crear nuevo modulo</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="language" added="1214963926">Idioma</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="manage_language_packs" added="1214963938">Administrar paquetes de idioma</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="phrase_manager" added="1214963958">Administrador de frases</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="add_phrase" added="1214963974"><![CDATA[A&#241;adir Frase]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="language_import_export" added="1214963992">Importar/Exportar</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="settings" added="1214964004"><![CDATA[Configuraci&#243;n]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="manage_setting_groups" added="1214964025">Administrar grupos de ajustes</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="add_new_setting" added="1214964037">Agregar Grupo de ajuste</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="add_new_setting_group" added="1214964045"><![CDATA[A&#241;adir nuevo grupo de ajuste]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="maintenance" added="1214964072">Mantenimiento</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="tools" added="1214964140">Herramientas</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="update" added="1214964195">Actualizar</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="manage_user_groups" added="1214966536">Administrar grupos de usuarios</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="user_setting_has_admin_access" added="1214976110"><![CDATA[Ha mejorado el acceso general al Panel de control de administraci&#243;n.
+
+Lo mejor es permitir que en Administradores y Personal de seguridad.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="install_dir_exists" added="1215780338"><![CDATA[Instalar el directorio "instalar/" existe. Por favor, elimine este directorio por razones de seguridad.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="user_setting_can_add_new_block" added="1216066116"><![CDATA[Puede a&#241;adir/modificar los bloques que se a&#241;ade desde el Panel de Admin?]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="blocks" added="1216069451">Bloques</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="add_new_block" added="1216069481"><![CDATA[A&#241;adir nuevo Bloque]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="developer" added="1216070830">Desarrollador</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="log_query" added="1216070861">Registro Query</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="block_successfully_added" added="1216070957"><![CDATA[Block a&#241;adido correctamente.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="select_product" added="1216071011">Seleccionar un producto.</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="select_controller" added="1216071026">Seleccionar un controlador.</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="select_component" added="1216071042">Seleccionar un componente.</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="select_block_placement" added="1216071063"><![CDATA[Seleccione la colocaci&#243;n de bloques.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="specify_block_active" added="1216071082"><![CDATA[Especifique si el bloque est&#225; activo o no.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="user_setting_can_view_product_options" added="1216071352"><![CDATA[Puedes ver el producto drop downs en el adminCP?
+
+Dentro de ciertos sectores de la AdminCP hay &#225;reas donde una entrada en la base de datos requiere un  ID#. Si se desactiva esta funci&#243;n los usuarios no podr&#225;n ver el nombre de los productos y entrar&#225; autom&#225;ticamente en el ID# por defecto.
+
+S&#243;lo activar esta funci&#243;n cuando se crea un m&#243;dulo de los plug-in o del tercero.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="block_details" added="1216072142">Detalles del de bloque</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="controller" added="1216089356">Controlador</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="component" added="1216090253">Componente</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="placement" added="1216091622">Colocacion</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="active" added="1216091671">Activo</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="view_sample_layout" added="1216091824"><![CDATA[Ver Ejemplo de dise&#241;o]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="sample_layout" added="1216091833"><![CDATA[Ejemplo de dise&#241;o]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="block" added="1216091850">Bloquear {x}</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="select" added="1216091882">Seleccionar</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="manage_menus" added="1217026597">Administrar Menus</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="menu_successfully_deleted" added="1217189351"><![CDATA[Menu a&#241;adido correctamente.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="order" added="1217189374">Pedido</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="location" added="1217189417"><![CDATA[Ubicaci&#243;n]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="actions" added="1217189540">Acciones</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="edit" added="1217189636">Editar</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="delete" added="1217189646">Eliminar</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="menu_successfully_updated" added="1217189724"><![CDATA[Men&#250; actualizado correctamente.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="menu_manager" added="1217189774"><![CDATA[Men&#250; Administrador]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="manage_blocks" added="1217190522">Administrar Bloques</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="successfully_deleted" added="1217193508">Se ha borrado correctamente.</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="successfully_updated" added="1217197677">Se ha actualizado correctamente.</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="block_manager" added="1217198066">Administrar Bloque</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="pages" added="1217201690">Paginas</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="add_new_page" added="1217201717"><![CDATA[A&#241;adir nueva pagina]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="page_menu_successfully_added" added="1217278396"><![CDATA[Pagina y menu a&#241;adido.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="manage_pages" added="1217293918">Administrar paginas</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="add_component" added="1217802855"><![CDATA[A&#241;adir componente]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="component_successfully_added" added="1217808626"><![CDATA[Componente a&#241;adido correctamente!]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="component_details" added="1217808713">Detalles de componentes</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="url_connection" added="1217808781">Conexion URL</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="block_actual" added="1217808814">Bloque</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="specify_component" added="1217808943">Especifica un componente.</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="select_component_active" added="1217808955"><![CDATA[Seleccione si el componente est&#225; activo.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="select_component_type" added="1217808964">Seleccione un tipo de componente.</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="menu_order_successfully_updated" added="1217939317">Menu fin actualizado correctamente.</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="manage_modules" added="1219067475">Administrar Modulos</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="core_modules" added="1219225433">Modulos Core</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="module_s_updated" added="1219225575">Modulo(s) actualizado.</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="overwrite_default_data" added="1219225665">Sobrescribir datos predeterminados</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="user_setting_can_manage_modules" added="1219225982"><![CDATA[Puede administrar los m&#243;dulos de productos?
+
+Nota: Esto incluye la actualizaci&#243;n del estado, edici&#243;n o eliminaci&#243;n de m&#243;dulos.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="user_setting_can_add_new_modules" added="1219226029"><![CDATA[Puede a&#241;adir nuevos m&#243;dulos de productos?]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="module_successfully_deleted" added="1219228565"><![CDATA[M&#243;dulo de borrado correctamente.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="admin_menu_manage_categories" added="1219330154"><![CDATA[Administrar Categor&#237;as]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="admin_menu_add_category" added="1219330307"><![CDATA[Agregar Nueva Categor&#237;a]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="not_allowed_for_guests" added="1219654948"><![CDATA[No todas las opciones funcionan con este grupo espec&#237;fico de usuarios, ya que est&#225; marcado como "invitado" del grupo y muchas caracter&#237;sticas encontradas en el sitio requiere que el usuario sea miembro.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="admin_menu_add_article" added="1223227838"><![CDATA[Agregar Art&#237;culo]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="user_setting_bcaneditarticles" added="1223385298"><![CDATA[Puede editar los art&#237;culos?]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="admin_menu_import_export" added="1223390093">Importar Exportar</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="products" added="1230854108">Producto</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="manage_products" added="1230854160">Administrar Productos</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="create_new_product" added="1230854171">Crear Nuevo Producto</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="import_export" added="1230855085">Importar Productos</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="theme" added="1231033391">Tema</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="manage_themes" added="1231033425">Administrar Temas</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="plugin" added="1231748137">Plugin</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="manage_plugins" added="1231748173">Administrar Plugins</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="create_new_plugin" added="1231750982">Crear nuevo plugin</phrase>
+	<phrase module_id="admincp" version_id="2.0.0alpha1" var_name="new_sample_test_phrase" added="1235553235">Tienes {total} comentarios.</phrase>
+	<phrase module_id="admincp" version_id="2.0.0beta1" var_name="create_user_group" added="1240572399">Crear Grupo de Usuarios</phrase>
+	<phrase module_id="admincp" version_id="2.0.0beta4" var_name="browse_members" added="1244542842">Buscar Usuarios</phrase>
+	<phrase module_id="admincp" version_id="2.0.0beta4" var_name="country_management" added="1244642320"><![CDATA[Administraci&#243;n del Pais]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0beta4" var_name="payment_gateways_menu" added="1244909510"><![CDATA[V&#237;as de Pago]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0beta4" var_name="system_settings_menu" added="1244909711"><![CDATA[Configuraci&#243;n del sistema]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0beta4" var_name="menu_site_stats" added="1245138476"><![CDATA[Estad&#237;sticas del Sitio]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0beta4" var_name="menu_manage_stats" added="1245138629"><![CDATA[Administrar Estad&#237;sticas]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0beta4" var_name="menu_create_new_stat" added="1245138672"><![CDATA[A&#241;adir nueva estad&#237;stica]]></phrase>
+	<phrase module_id="admincp" version_id="1.0" var_name="user_cancellation_options" added="1215331034"><![CDATA[Cancelaci&#243;n del usuario]]></phrase>
+	<phrase module_id="admincp" version_id="1.0" var_name="user_cancellation_options_add" added="1215331034">Agregar Opciones</phrase>
+	<phrase module_id="admincp" version_id="1.0" var_name="user_cancellation_options_manage" added="1215331034">Administrar Opciones</phrase>
+	<phrase module_id="admincp" version_id="1.0" var_name="user_cancellations_feedback" added="1215331034">Ver Comentarios</phrase>
+	<phrase module_id="admincp" version_id="30" var_name="mail_messages" added="1247588853">Mensajes</phrase>
+	<phrase module_id="admincp" version_id="30" var_name="view_messages" added="1247588922">Ver mensajes privados</phrase>
+	<phrase module_id="admincp" version_id="30" var_name="menu_tools_emoticon_add" added="1247743917"><![CDATA[A&#241;adir Emoticono]]></phrase>
+	<phrase module_id="admincp" version_id="30" var_name="menu_tools_emoticon_package_add" added="1247831553"><![CDATA[A&#241;adir Paquete]]></phrase>
+	<phrase module_id="admincp" version_id="30" var_name="menu_tools_emoticon_package" added="1248091043">Administrar Paquetes</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc1" var_name="setting_cache_time_stamp" added="1248617319"><![CDATA[<title>Cache Fecha y Hora</title><info>Cache Fecha y Hora</info>]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc1" var_name="menu_cache_manager" added="1248617362">Administrador de  cache</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="cache_system_unlocked" added="1252757444"><![CDATA[Sistema de cach&#233; desbloqueado.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="timestamp" added="1252757507">Fecha y Hora</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="cache_name" added="1252757518">Nombre del cache</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="module_successfully_updated" added="1252757604">Modulo actualizado correctamente.</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="module_successfully_created_redirect" added="1252757646">Modulo creado correctamente.</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="select_what_type_of_a_hook_this_is" added="1252757683">Selecciona que tipo es este hook.</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="hook_successfully_added" added="1252757694"><![CDATA[Hook a&#241;adido correctamente.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="add_hook" added="1252757705"><![CDATA[A&#241;adir Hook]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="provide_a_title_for_your_plugin" added="1252757723">Proporciona un titulo para tu plugin.</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="select_a_hook" added="1252757733">Seleccionar un  hook.</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="provide_php_code_for_your_plugin" added="1252757744">Proporciona un codigo PHP para tu plugin.</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="plugin_successfully_updated" added="1252757756">Plugin actualizado correctamente.</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="plugin_successfully_added" added="1252757766"><![CDATA[Plugin a&#241;adido correctamente.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="create_plugin" added="1252757776">Crear Plugin</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="plugin_s_updated" added="1252757793">Plugin(s) actualizado.</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="plugin_successfully_deleted" added="1252757806">Plugin borrado correctamente.</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="add_a_product_id" added="1252757839"><![CDATA[A&#241;adir un producto ID.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="add_a_product_title" added="1252757861"><![CDATA[Agregar T&#237;tulo del Producto.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="product_dependency_updated" added="1252757875">Dependencia de productos actualizada</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="product_install_uninstall_updated" added="1252757892">Producto actualizado instalar/desinstalar.</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="product_successfully_updated" added="1252757902">Producto actualizado correctamente.</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="product_successfully_created" added="1252757912">Producto creado correctamente.</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="editing_product" added="1252757935">Editando Producto</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="product_successfully_installed" added="1252757983">Producto instalado correctamente.</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="import_products" added="1252767035">Importar Productos</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="product_s_updated" added="1252767068">Producto(s) actualizado.</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="product_successfully_deleted" added="1252767078">Producto borrado correctamente.</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="your_search_did_not_return_any_results" added="1252767458"><![CDATA[Tu b&#250;squeda no trajo ning&#250;n resultado.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="stat_successfully_updated" added="1252767479">Estadisticas actualizadas correctamente.</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="stat_successfully_added" added="1252767488"><![CDATA[Estadisticas a&#241;adidas correctamente.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="add_new_stat" added="1252767499"><![CDATA[A&#241;adir nuevas estadicticas]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="manage_stats" added="1252767512">Administrar estadisticas</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="stat_successfully_deleted" added="1252767526"><![CDATA[Estad&#237;sticas eliminadas correctamente.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="successfully_logged_out" added="1252767587">Salio correctamente</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="module_id_can_only_contain_the_following_characters" added="1252767742"><![CDATA[Modulo ID s&#243;lo puede contener los siguientes caracteres: a-z, A-Z, 0-9.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="hook_already_exists" added="1252767835">Hook ya existe.</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="product_name_is_not_valid" added="1252767852"><![CDATA[Nombre del producto no es v&#225;lido.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="not_a_valid_product_to_import" added="1252767877"><![CDATA[No es un producto v&#225;lido para importar.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="not_a_valid_xml_file" added="1252767894"><![CDATA[No es un archivo XML v&#225;lido.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="product_already_exists" added="1252767905">El Producto ya existe.</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="product_requires_php_version" added="1252768039">El producto requiere la version PHP {dependency_start}.</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="product_requires_php_version_up_until" added="1252768178">El producto requiere la version PHP{dependency_start} hasta {dependency_end}.</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="product_requires_phpfox_version" added="1252768235">El producto requiere la version phpFox {dependency_start}.</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="product_requires_phpfox_version_up_until" added="1252768322">El producto requiere la version phpFox {dependency_start} hasta {dependency_end}.</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="product_requires_check_id_version_dependency_start" added="1252768418">El producto requiere {check_id} version {dependency_start}.</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="product_requires_check_id_version_dependency_start_up_until_dependency_end" added="1252768480">El producto requiere {check_id} version {dependency_start} hasta {dependency_end}.</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="main_configuration_file_file_path_is_writable" added="1252768745"><![CDATA[Archivo de configuraci&#243;n principal({file_path}) se puede escribir.  Este es un riesgo para la seguridad y esta carpeta no deben tener ning&#250;n permiso de "escritura".]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="main_file_folder_is_writable_file_path" added="1252768815"><![CDATA[Carpeta de archivos principal se puede escribir ({file_path}). Este es un riesgo para la seguridad y esta carpeta no deben tener ning&#250;n permiso de "escritura".]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="none_site_wide" added="1252768924">Ninguno (Sitio Wide)</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="can_drag_drop" added="1252768952">Puedes Drag/Drop</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="site_wide" added="1252769097">Sitio Wide</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="block_block_number" added="1252769121">Bloque {block_number}</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="cache_system_is_locked" added="1252908150"><![CDATA[Sistema de memoria cach&#233; est&#225; bloqueado.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="the_cache_system_is_locked_during_an_operation_that_requires_all_cache_files_to_be_kept_in_place" added="1252908171"><![CDATA[El sistema de cache se bloquea durante una operaci&#243;n que requiere que todos los archivos de cach&#233; que se le mantenga en su lugar. Si desea desbloquear el sistema de clic <a href="{link}" onclick="return confirm('estas seguro?');">aqui</a>.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="cache_stats" added="1252908186">Estadisticas del Cache</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="total_files" added="1252908194">Total Archivos</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="cache_size" added="1252908203"><![CDATA[Tama&#241;o de la cach&#233;]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="last_cached_file" added="1252908212"><![CDATA[Archivo cach&#233; pasado]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="search_filter" added="1252908222"><![CDATA[Criterios de B&#250;squeda]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="search" added="1252908230">Buscar</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="display" added="1252908239">Mostrar</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="sort" added="1252908248">Ordenar por</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="files" added="1252908257">Archivos</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="no_cache_date_found" added="1252908269"><![CDATA[No hay fecha de cach&#233; encontrado.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="or_select_a_page" added="1252908368"><![CDATA[o seleccione una p&#225;gina]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="module_id" added="1252908459">Modulo ID</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="hook_details" added="1252908498">Detalles Hook</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="call" added="1252908530">Llamar</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="save" added="1252908547">Guardar</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="plugin_details" added="1252908572">Detalles del Plugin</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="hook" added="1252908589">Hook</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="php_code" added="1252908620">Codigo PHP</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="create_a_new_plugin" added="1252908670">Crear un nuevo Plugin</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="product_details" added="1252908687">Detalles del Producto</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="product_id" added="1252908695">Producto ID</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="description" added="1252908714">Descripcion</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="version" added="1252908721">Version</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="product_url" added="1252908730">Producto URL</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="version_check_url" added="1252908739">Version URL prueba</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="existing_product_dependencies" added="1252908781">Existen dependencias de los productos</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="dependencies" added="1252908788">Dependencias</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="dependency_type" added="1252908797">Tipo de dependencia</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="compatibility_starts" added="1252908805">Compatibilidad Iniciada</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="incompatible_with" added="1252908813">Incompatible con</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="add_new_product_dependency" added="1252908833"><![CDATA[A&#241;adir la dependencia de Nuevos Productos]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="php" added="1252908848">PHP</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="phpfox_version" added="1252908856">phpFox Version</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="compatibility_starts_with_version" added="1252908880"><![CDATA[Inicia compatibilidad con la versi&#243;n]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="compatibility_end_with_version" added="1252908889"><![CDATA[Compatibilidad con la versi&#243;n final]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="install_uninstall" added="1252908916">Instalar/Desinstalar</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="existing_install_uninstall_code" added="1252908924">Exite codigo Instalar/Desinstalar</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="install_code" added="1252908939">Instalar Codigo</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="uninstall_code" added="1252908949">Desinstalar Codigo</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="add_new_install_uninstall_code" added="1252908966"><![CDATA[A&#241;adir nuevo codigo Instalar/Desinstalar]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="install" added="1252908980">Instalar</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="uninstall" added="1252908988">Desinstalar</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="overwrite" added="1252909024">Overwrite</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="ftp_support_must_be_enabled_in_order_to_import_products" added="1252909057">El soporte de FTP debe estar activado para poder importar productos</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="click_a_href_url_link_admincp_setting_edit_group_id_ftp_here_a_to_enable_ftp_support" added="1252909066"><![CDATA[Click <a href="{link}">aqu&#237;</a> para habilitar el soporte de FTP.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="create_a_new_product" added="1252909083">Crear un nuevo Producto</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="import_a_product" added="1252909091">Importar un Producto</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="no_products_have_been_added" added="1252909101"><![CDATA[No se han a&#241;adido productos.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="image" added="1252909340">Imagen</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="your_current_watermark_image" added="1252909349">Tu imagen de marca de agua corriente</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="b_notice_b_advised_image_is_a_transparent_png_with_a_max_width_height_of_52_pixels" added="1252909363"><![CDATA[<b>Aviso:</b> Aconsej&#243; la imagen est&#225; un PNG transparente con un ancho/altura m&#225;ximo de 52 p&#237;xeles]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="you_can_upload_a_jpg_gif_or_png_file" added="1252909373">Puedes subir archivos JPG, GIF o PNG.</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="stat_details" added="1252909438"><![CDATA[Detalles de las Estad&#237;sticas]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="stats" added="1252909528"><![CDATA[Estad&#237;sticas]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="are_you_sure" added="1252909580"><![CDATA[&#191;Est&#225;s seguro?]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="activate" added="1252909600">Activado</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="deactivate" added="1252909608">Deactivado</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="admincp_login" added="1252909626">Acceder AdminCP</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="email" added="1252909632">Email</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="password" added="1252909640"><![CDATA[Contrase&#241;a]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="back_to_site" added="1252909648">Volver al sitio</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="login" added="1252909655"><![CDATA[Iniciar Sesi&#243;n]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="active_admins" added="1253083283">Activos Admins</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="latest_admin_logins" added="1253083475"><![CDATA[&#218;ltimos Inicios de sesi&#243;n Admin]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="view_more" added="1253083486"><![CDATA[Ver m&#225;s]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="phpfox_news_and_updates" added="1253083534"><![CDATA[phpFox Noticias & Actualizaciones]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="admincp_notes" added="1253083547">Notas AdminCP</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="quick_links" added="1253083563">Enlaces</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="members" added="1253083582">Miembros</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="guests" added="1253083590">Personas</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="online" added="1253083603">Online</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="pending_approval" added="1253083614">Pendiente de aprobacion</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="reported_items_users" added="1253083633"><![CDATA[Art&#237;culos/Usuarios Denunciados]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="spam" added="1253083646">Spam</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="site_statistics" added="1253083662"><![CDATA[Estad&#237;sticas del Sitio]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="phpfox_tweets" added="1253083701">phpFox Tweets</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="not_a_valid_country" added="1253083732"><![CDATA[No es un pa&#237;s v&#225;lido.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="state_province_successfully_updated" added="1253083745">Estado/Provincia actualizada correctamente.</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="state_province_successfully_added" added="1253083757"><![CDATA[Estado/Provincia a&#241;adida correctamente.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="country_manager" added="1253083768"><![CDATA[Gerente de Pa&#237;s]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="adding_state_province" added="1253083780"><![CDATA[A&#241;adiendo Estado/Provincia]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="editing_state_province" added="1253083798">Editando Estado/Provincia</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="state_province_successfully_deleted" added="1253083824">Estado/Provincia borrada correctamente.</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="states_provinces" added="1253083849">Estados/Provincias</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="country_successfully_updated" added="1253083871"><![CDATA[Pa&#237;s actualizado correctamente.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="country_successfully_added" added="1253083883"><![CDATA[Pa&#237;s a&#241;adido correctamente.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="add_a_country" added="1253083894"><![CDATA[A&#241;adir pa&#237;s]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="editing_country" added="1253083903"><![CDATA[Editando Pa&#237;s]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="text_import_successfully_completed" added="1253083984"><![CDATA[Texto de importaci&#243;n completado con &#233;xito. &#233;xito: {completed} - Fallo: {failed}.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="import_successfully_completed" added="1253084014">Importacion completada correctamente.</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="import_countries_states_provinces" added="1253084025"><![CDATA[Importar Paises, Estados & Provincias]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="country_successfully_deleted" added="1253084063"><![CDATA[Pa&#237;s se ha eliminado correctamente.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="phpfox_branding_removal_successfully_installed" added="1253084098"><![CDATA[phpFox eliminaci&#243;n de la marca ha instalada correctamente.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="phpfox_branding_removal" added="1253084108"><![CDATA[phpFox eliminaci&#243;n de Marcas]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="login_time_stamp" added="1253084135">Fecha y Hora del ingreso</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="ip_address" added="1253084146">Direccion IP</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="online_guests" added="1253084165">invitados conectados</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="admincp_logins" added="1253084211"><![CDATA[Inicios de sesi&#243;n AdminCP]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="last_activity" added="1253084264"><![CDATA[&#218;ltima Actividad]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="guests_bots" added="1253084308">Personas/Bots</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="php_info" added="1253084322">Informacion PHP</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="system" added="1253084334">Sistema</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="system_overview" added="1253084347"><![CDATA[Descripci&#243;n general del sistema]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="customize_dashboard" added="1253084382">Personalizar escritorio</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="not_a_valid_login_log" added="1253084504"><![CDATA[No es un registro de inicio de sesi&#243;n v&#225;lido]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="not_a_valid_account" added="1253084517">No es una cuenta valida.</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="email_failure" added="1253084527"><![CDATA[Email fall&#243;.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="password_failure" added="1253084538"><![CDATA[Fallo de contrase&#241;a.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="success" added="1253084548"><![CDATA[&#233;xito]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="provide_a_category_name" added="1253084625">Proporcione un nombre de categoria.</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="provide_a_name" added="1253084710">Proporcione un nombre.</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="select_a_country" added="1253084725"><![CDATA[Seleccione un pa&#237;s.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="the_state_province_name_already_exists" added="1253084747"><![CDATA[El estado/provincia "{name}" ya existe.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="all_fields_are_required" added="1253084816">Todos los campos son obligatorios.</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="iso_can_only_contain_2_characters" added="1253084826"><![CDATA[ISO s&#243;lo puede contener 2 caracteres.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="the_iso_is_already_in_use" added="1253084836"><![CDATA[Est&#225; ISO esta siendo utilizada.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="not_a_valid_country_package" added="1253084876"><![CDATA[No es un paquete de pa&#237;s v&#225;lido.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="select_a_product" added="1253084897">Selecciona un producto.</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="select_a_module" added="1253084914">Selecciona un modulo.</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="at_least_one_title_for_the_stat_is_required" added="1253084926"><![CDATA[Por lo menos un t&#237;tulo para la estad&#237;stica es necesario.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="link_for_the_stat_is_required" added="1253084936"><![CDATA[Enlace para la estad&#237;stica es necesario.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="image_for_the_stat_is_required" added="1253084946"><![CDATA[Imagen para la estad&#237;stica es necesario.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="php_code_for_the_stat_is_required" added="1253084958"><![CDATA[Codigo PHP de la estad&#237;stica es necesario.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="select_if_the_stat_is_active_or_not" added="1253084971"><![CDATA[Seleccione si la estad&#237;stica est&#225; activo o no.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="not_a_valid_request" added="1253084994"><![CDATA[No es un petici&#243;n v&#225;lida.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="the_stat_you_are_looking_for_cannot_be_found" added="1253085007"><![CDATA[La estad&#237;stica que est&#225;s buscando no se encuentra.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="unable_to_find_the_stat_you_want_to_edit" added="1253085033"><![CDATA[No se puede encontrar la estad&#237;stica que desea editar.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="php_version" added="1253085208">PHP Version</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="php_sapi" added="1253085217">PHP Sapi</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="php_safe_mode" added="1253085231">PHP safe_mode</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="php_open_basedir" added="1253085243">PHP open_basedir</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="php_disabled_functions" added="1253085253">Funciones Desactivados PHP</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="php_loaded_extensions" added="1253085262">Extensiones cargadas PHP</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="operating_system" added="1253085278">Sistema operativo</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="server_time_stamp" added="1253085310">Fecha y hora del servidor</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="gzip" added="1253085352">GZIP</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="sql_driver_version" added="1253085368"><![CDATA[Versi&#243;n del controlador SQL]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="sql_slave_enabled" added="1253085377">SQL Esclavo activado</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="sql_total_slaves" added="1253085387">Total Esclavos SQL</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="sql_slave_server" added="1253085399">Servidor Esclavo SQL</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="memory_limit" added="1253085408"><![CDATA[L&#237;mite de memoria]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="load_balancing_enabled" added="1253085422">Equilibrio de carga habilitado</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="none" added="1253085465">Ninguno</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="enabled" added="1253085477">Activado</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="disabled" added="1253085488">Desactivado</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="n_a" added="1253085499">N/A</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="total_server_memory" added="1253085571">Memoria total del servidor</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="available_server_memory" added="1253085584">Memoria del Servidor disponible</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="current_server_load" added="1253085598">Carga del servidor actual</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="your_ftp_path_is_empty_and_does_not_need_to_have_any_value" added="1253086015"><![CDATA[La ruta de acceso FTP est&#225; "vac&#237;o" y no necesita tener ning&#250;n valor.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="ftp_details" added="1253086025">Detalles del FTP</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="ftp_host" added="1253086033">Hosting FTP</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="ftp_username" added="1253086042">Nombre de usuario FTP</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="ftp_password" added="1253086052"><![CDATA[Contrase&#241;a FTP]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="admincp_login_log" added="1253086100"><![CDATA[AdminCP Acceder Iniciar sesi&#243;n]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="view_attempt" added="1253086110">Ver Intento</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="cancel" added="1253086155">Cancelar</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="posted_on_time_stamp_by_creator" added="1253086263">Publicado el {time_stamp} por {creator}.</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="find_users" added="1253086389">Encontrar usuarios</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="go" added="1253086398">Ir</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="manage_user_group_settings" added="1253086409"><![CDATA[Administrar la configuraci&#243;n de grupos de usuarios]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="edit_user_groups" added="1253086443">Editar grupos de usuarios</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="edit_system_settings" added="1253086453"><![CDATA[Editar la configuraci&#243;n del sistema]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="send_newsletter" added="1253086462"><![CDATA[Enviar Bolet&#237;n de noticias]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="write_an_announcement" added="1253086471">Escribir un anuncio</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="posted_on_time_stamp" added="1253086501">Publicado el {time_stamp}.</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="log_details" added="1253086570">Detalles de entrada</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="attempt" added="1253086578"><![CDATA[Ocasi&#243;n]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="user" added="1253086587">Usuario</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="time_stamp" added="1253086595">Fecha y hora</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="referrer" added="1253086623">Referente</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="user_agent" added="1253086633">agente de usuario</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="security_token" added="1253086642">Token de seguridad</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="close" added="1253086659">Cerrar</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="state_province_details" added="1253087117">Detalles del Estado/Provincia</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="country" added="1253087125"><![CDATA[Pa&#237;s]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="manage" added="1253087292">Administrar</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="country_details" added="1253087344"><![CDATA[Informaci&#243;n del Pa&#237;s]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="iso" added="1253087352">ISO</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="import_country_package" added="1253087386"><![CDATA[Importar paquete Pa&#237;s]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="file" added="1253087395">Archivo</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="import_text_file" added="1253087438">Importar archivo de texto</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="you_can_upload_a_text_file_with_a_list" added="1253087470"><![CDATA[Puedes subir un archivo de texto con una lista de estados o provincias que desee importar y cada estado / provincia debe estar en una l&#237;nea nueva.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="countries" added="1253087487"><![CDATA[Pa&#237;ses]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="add_state_province" added="1253087540"><![CDATA[A&#241;adir Estado/Provincia]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="manage_states_provinces" added="1253087549">Administrar Estados/Provincias</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="login_with_your_phpfox_client_details" added="1253087588"><![CDATA[Ingresar con tus datos de cliente phpFox con el fin de instalar el <i>eliminaci&#243;n de la marca</i>.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="phpfox_client_login_details" added="1253087596">phpFox Detalles del Acceso Clientes</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="client_email" added="1253087604">Email del cliente</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="client_password" added="1253087612"><![CDATA[Contrase&#241;a del cliente]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="admins" added="1253087631">Administrador</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="banned" added="1253087720">Prohibidos</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="unban" added="1253087737"><![CDATA[eliminar la prohibici&#243;n]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="ban" added="1253087744"><![CDATA[prohibici&#243;n]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="no_guests_online" added="1253087754"><![CDATA[No hay invitados en l&#237;nea.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="server_overview" added="1253087766"><![CDATA[Descripci&#243;n del servidor]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="you_are_about_to_leave_our_site_to_visit" added="1253087796"><![CDATA[Usted est&#225; a punto de salir de nuestro sitio a visitar: <a href="{link}">{link}</a>]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="click_here_to_continue" added="1253087813"><![CDATA[Haz clic aqu&#237; para Continuar.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="note_we_are_in_no_way_affiliated" added="1253087832"><![CDATA[<strong>Aviso:</strong> No estamos afiliados de ninguna manera a "{link}".]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="controllers" added="1253104993">Controladores</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="php_block_file" added="1253105020">Bloque archivo PHP</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="html_code" added="1253105036">Codigo HTML</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="not_a_valid_ip_address" added="1253522964"><![CDATA[No es una direcci&#243;n IP v&#225;lida.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="ip_information" added="1253522974">IP</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="host_address" added="1253522984"><![CDATA[Direcci&#243;n del host]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="view_all_the_activity_from_this_ip" added="1253523295">Ver toda la actividad de esta IP.</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc2" var_name="search_ip_address" added="1253523525"><![CDATA[Buscar por direcci&#243;n IP]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc3" var_name="admincp_menu_reparser" added="1253959468">Reparser</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc4" var_name="edit_this_block" added="1255709840">Editar este Bloque</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc4" var_name="remove_this_block" added="1255709849">Remover este Bloque</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc4" var_name="remove_duplicates" added="1255856692">Borrar duplicados</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc4" var_name="parsing_completed" added="1255860451">Analisis completado.</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc4" var_name="text_reparser" added="1255861071">Texto Reparser</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc4" var_name="reparser" added="1255861077">Reparser</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc4" var_name="parsing_page_current_total_please_hold" added="1255861123"><![CDATA[An&#225;lisis de la p&#225;gina {current}/{total}. Por favor espere...]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc4" var_name="text_data" added="1255861153">Datos de texto</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc4" var_name="records" added="1255861159">Registros</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc4" var_name="there_is_no_data_to_parse" added="1255861167">No hay datos para analizar.</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc4" var_name="successfully_removed_duplicate_entries" added="1255863746">Entradas duplicadas eliminadas correctamente</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc4" var_name="user_group_settings" added="1255863782"><![CDATA[Configuraci&#243;n del Grupo de Usuario]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc4" var_name="check" added="1255863866">Revisar</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc4" var_name="custom_field" added="1256490984">Campo Personalizado</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc6" var_name="admincp_name_not_allowed" added="1256889425">Nombre AdminCP no permitido</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc6" var_name="large_string" added="1256891252">Cadena larga</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc7" var_name="enable_utf_encoding" added="1257799322"><![CDATA[Habilitar codificaci&#243;n UTF]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc8" var_name="sql" added="1258744172">SQL</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc8" var_name="sql_maintenance" added="1258744239">Mantenimiento</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc8" var_name="table_s_successfully_optimized" added="1258745778">Tabla(s) optimizada correctamente.</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc8" var_name="table_s_successfully_repaired" added="1258745790">Tabla(s) reparada correctamente.</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc8" var_name="sql_maintenance_title" added="1258745827">Mantenimiento SQL</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc8" var_name="database_size" added="1258746004"><![CDATA[Tama&#241;o de la base de datos]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc8" var_name="overhead" added="1258746010">Superior</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc8" var_name="total_tables" added="1258746230">Total Tablas</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc8" var_name="sql_tables" added="1258746241">Tablas SQL</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc8" var_name="table" added="1258746253">Tabla</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc8" var_name="size" added="1258746266"><![CDATA[Tama&#241;o]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc8" var_name="optimize_table_s" added="1258746303">Optimizar Tabla(s)</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc8" var_name="repair_table_s" added="1258746310">Reparar tabla(s)</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc8" var_name="sql_backup" added="1258746653">Copia de seguridad</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc8" var_name="sql_backup_successfully_created_and_can_be_downloaded_here_path" added="1258754213"><![CDATA[Copia de seguridad de SQL se ha creado correctamente y se puede descargar aqu&#237;: {path}]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc8" var_name="the_path_you_provided_is_not_a_valid_directory" added="1258754263"><![CDATA[La ruta de acceso que has proporcionado no es un directorio v&#225;lido.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc8" var_name="backup" added="1258754347">Copia de seguridad</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc8" var_name="sql_backup_header" added="1258754406">Copia de seguridad SQL</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc8" var_name="path" added="1258754414">Ruta de acceso</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc8" var_name="provide_the_full_path_to_where_we_should_save_the_sql_backup" added="1258754422">Proporcionar la ruta completa donde se debe guardar la copia de seguridad de SQL.</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc8" var_name="your_operating_system_does_not_support_the_method_of_backup_we_provide" added="1258754523"><![CDATA[Su sistema operativo no es compatible con el m&#233;todo de copia de seguridad que brindamos. Le recomendamos ponerse en contacto con su anfitri&#243;n y hacer el mejor m&#233;todo para realizar copias de seguridad de su base de datos como la mayor&#237;a de las empresas de hosting ofrecen estas opciones desde un panel de control de hosting (por ejemplo, cPanel, Plesk, etc ..).]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc8" var_name="today_s_site_stats" added="1258756073">Estadisticas actuales del sitio</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc8" var_name="counters" added="1258900597">Contadores</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc8" var_name="update_of_counter_successfully_completed" added="1258979452">Actualizacion del contador completada correctamente.</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc8" var_name="update_counters" added="1258979493">Actualizar Contadores</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc8" var_name="updating_counters_processing_page_current_out_of_page" added="1258979529"><![CDATA[Actualizaci&#243;n de los contadores. Procesamiento de la p&#225;gina {current} de {page}.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc10" var_name="unable_to_find_xml_file_to_import_for_this_product" added="1259331413">No se puede encontrar el archivo XML que desea importar para este producto.</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc10" var_name="the_module_name_is_required" added="1259331430"><![CDATA[Este modulo "{name}" es requerido.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc10" var_name="product_successfully_upgraded" added="1259334325">Producto actualizado correctamente.</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc10" var_name="upgrade" added="1259334365">Actualizar</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc10" var_name="upgrade_upgrade_version" added="1259334389">Actualizar ({upgrade_version})</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc10" var_name="not_a_valid_product_to_upgrade" added="1259334492"><![CDATA[No es un producto v&#225;lido para actualizar. No existe en la base de datos.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc10" var_name="latest" added="1259347180">Ultimos</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc11" var_name="module_successfully_installed" added="1260124073">Modulo instalado correctamente.</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc11" var_name="install_this_module" added="1260124108">Instalar este modulo</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc11" var_name="menu_block" added="1260127011">Bloque del Menu</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc11" var_name="parent_menu" added="1260127285">Menu padres</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc11" var_name="manage_children_total_children" added="1260133275"><![CDATA[Administrar ni&#241;os ({total_children})]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc11" var_name="editing" added="1260205884">Editar</phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc11" var_name="country_child_entries_successfully_deleted" added="1260232705"><![CDATA[Entradas del pa&#237;s del ni&#241;o se ha eliminado correctamente.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.0rc11" var_name="show_price" added="1260234779">Mostar precio</phrase>
+	<phrase module_id="admincp" version_id="2.0.0" var_name="manage_components" added="1261233363">Administrar componentes</phrase>
+	<phrase module_id="admincp" version_id="2.0.0" var_name="component_successfully_updated" added="1261237677">Componente actualizado correctamente.</phrase>
+	<phrase module_id="admincp" version_id="2.0.0" var_name="editing_component" added="1261237699">Editando componente</phrase>
+	<phrase module_id="admincp" version_id="2.0.0" var_name="component_successfully_deleted" added="1261238215">Componente borrado correctamente.</phrase>
+	<phrase module_id="admincp" version_id="2.0.0" var_name="components" added="1261238355">Componentes</phrase>
+	<phrase module_id="admincp" version_id="2.0.2" var_name="checking_the_following_modules_for_missing_settings" added="1263387520"><![CDATA[Comprobar los siguientes m&#243;dulos para la configuraciones que faltan]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.2" var_name="missing_settings_successfully_imported" added="1263387546">Configuraciones que faltan importadas correctamente.</phrase>
+	<phrase module_id="admincp" version_id="2.0.2" var_name="missing_settings" added="1263387556">Configuraciones que faltan</phrase>
+	<phrase module_id="admincp" version_id="2.0.2" var_name="find_missing_settings" added="1263387601">Buscar configuraciones que faltan</phrase>
+	<phrase module_id="admincp" version_id="2.0.5" var_name="provide_a_3_character_currency_id" added="1271666124">Proporcionar una moneda de 3 caracteres ID.</phrase>
+	<phrase module_id="admincp" version_id="2.0.5" var_name="provide_a_symbol" added="1271666133">Proporcionar un simbolo.</phrase>
+	<phrase module_id="admincp" version_id="2.0.5" var_name="provide_a_phrase_for_your_currency" added="1271666142">Proporcionar una frase a su moneda.</phrase>
+	<phrase module_id="admincp" version_id="2.0.5" var_name="select_if_this_currency_is_active_or_not" added="1271666153">Seleccione si esta moneda esta activa o no.</phrase>
+	<phrase module_id="admincp" version_id="2.0.5" var_name="this_currency_is_already_in_use" added="1271666169"><![CDATA[Esta moneda ya est&#225; en uso.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.5" var_name="currency_successfully_deleted" added="1271666187">Moneda borrada correctamente.</phrase>
+	<phrase module_id="admincp" version_id="2.0.5" var_name="id" added="1271666197">ID</phrase>
+	<phrase module_id="admincp" version_id="2.0.5" var_name="symbol" added="1271666204">Simbolo</phrase>
+	<phrase module_id="admincp" version_id="2.0.5" var_name="currency" added="1271666211">Moneda</phrase>
+	<phrase module_id="admincp" version_id="2.0.5" var_name="default" added="1271666217">Predeterminado</phrase>
+	<phrase module_id="admincp" version_id="2.0.5" var_name="set_as_default" added="1271666247">Establecer como predeterminado</phrase>
+	<phrase module_id="admincp" version_id="2.0.5" var_name="currency_successfully_updated" added="1271666288">Moneda actualizada correctamente.</phrase>
+	<phrase module_id="admincp" version_id="2.0.5" var_name="currency_successfully_added" added="1271666297"><![CDATA[Moneda a&#241;adida correctamente.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.5" var_name="add_currency" added="1271666307"><![CDATA[A&#241;adir Moneda]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.5" var_name="currency_details" added="1271666317">Detalles de Moneda</phrase>
+	<phrase module_id="admincp" version_id="2.0.5" var_name="currency_id" added="1271666324">Moneda ID</phrase>
+	<phrase module_id="admincp" version_id="2.0.5" var_name="is_active" added="1271666344">Esta Activo</phrase>
+	<phrase module_id="admincp" version_id="2.0.5" var_name="foxporter" added="1273067717">Foxporter</phrase>
+	<phrase module_id="admincp" version_id="2.0.5" var_name="action" added="1273067760"><![CDATA[Acci&#243;n]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.5" var_name="importing_data" added="1273067770">Importando datos</phrase>
+	<phrase module_id="admincp" version_id="2.0.5" var_name="refresh" added="1273067778">Actualizar</phrase>
+	<phrase module_id="admincp" version_id="2.0.5" var_name="continue_to_the_next_step" added="1273067788">Continuar con el siguiente paso ...</phrase>
+	<phrase module_id="admincp" version_id="2.0.5" var_name="start_importing" added="1273067800"><![CDATA[Comenzar la importaci&#243;n]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.5" var_name="not_a_valid_country_package_must_be_an_xml_file" added="1273136397"><![CDATA[No es un paquete de pa&#237;s v&#225;lido. Debe ser un archivo XML.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.5" var_name="alter_title_fields" added="1275386165"><![CDATA[Alterar Campos de T&#237;tulo]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.5" var_name="database_tables_updated" added="1275386206">Tablas de la base de datos actualizada.</phrase>
+	<phrase module_id="admincp" version_id="2.0.5" var_name="b_notice_b_this_routine_is_highly_experimental" added="1275386223"><![CDATA[<b>Noticia:</b> Esta rutina es altamente experimental.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.5" var_name="all_items_on_the_site_store_certain_information_in_the_database" added="1275386310"><![CDATA[Todos los art&#237;culos en el sitio para almacenar informaci&#243;n determinada en la base de datos. Parte de esta informaci&#243;n son los t&#237;tulos de los art&#237;culos. Por defecto estos campos que almacenan el t&#237;tulo de los art&#237;culos tienen un l&#237;mite de 255 caracteres, lo que, con caracteres alfanum&#233;ricos es mucho. Sin embargo, si utiliza caracteres no latinos que esto podr&#237;a no ser suficiente y los t&#237;tulos se trunc&#243;. Esta raz&#243;n de esto es que convertir los caracteres no latinos antes de que se a&#241;aden a la base de datos para que cuando se generan a todo el mundo puede ver estos personajes Independientemente de lo del juego de caracteres que tienen. Uso de la herramienta que se encuentra en esta p&#225;gina usted puede ampliar estos campos para almacenar un m&#225;ximo de 65.535 caracteres.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.5" var_name="update_database_tables" added="1275386334">Actualizar las tablas de la bases de datos</phrase>
+	<phrase module_id="admincp" version_id="2.0.7" var_name="you_have_logged_out_of_the_site" added="1288205070"><![CDATA[Has finalizado la sesi&#243;n del sitio. Redirigir a la p&#225;gina de inicio de sesi&#243;n ...]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.7" var_name="missing_api_key" added="1289989043">Falta clave de API</phrase>
+	<phrase module_id="admincp" version_id="2.0.7" var_name="enter_your_api_key" added="1289989168"><![CDATA[Ingresa tu clave API <a href="{link}">aqu&#237;</a> para informaci&#243;n adicional IP.]]></phrase>
+	<phrase module_id="admincp" version_id="2.0.7" var_name="city" added="1289989619">Ciudad</phrase>
+	<phrase module_id="admincp" version_id="2.0.7" var_name="zip_postal_code" added="1289989718">ZIP / Codigo Postal</phrase>
+	<phrase module_id="admincp" version_id="2.0.7" var_name="latitude" added="1289989746">Latitud</phrase>
+	<phrase module_id="admincp" version_id="2.0.7" var_name="longitude" added="1289989773">Longitud</phrase>
+	<phrase module_id="admincp" version_id="2.0.8" var_name="inactive_member_reminder" added="1296740123">Recordatorio miembro inactivo</phrase>
+	<phrase module_id="admincp" version_id="2.1.0rc1" var_name="inactive_members" added="1301568738">Miembros inactivos</phrase>
+	<phrase module_id="admincp" version_id="3.0.0beta5" var_name="update_privacy_for_v3_upgrade" added="1319536489"><![CDATA[Actualizaci&#243;n de privacidad para v3 actualizaci&#243;n <b> (S&#243;lo ejecute esto si acaba de actualizar a v3 y hacer s&#243;lo una vez.)</b>]]></phrase>
+	<phrase module_id="admincp" version_id="3.0.0beta5" var_name="import_groups_from_v2_to_v3_pages" added="1319536506"><![CDATA[Importar grupos de v2 a v3 Paginas<b> (S&#243;lo ejecuta esto si acabas de actualizar a v3 y hazlo s&#243;lo una vez.)</b>]]></phrase>
+</phrases>

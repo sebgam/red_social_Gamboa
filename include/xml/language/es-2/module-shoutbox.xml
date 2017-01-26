@@ -1,0 +1,27 @@
+<phrases>
+	<phrase module_id="shoutbox" version_id="2.0.0alpha1" var_name="module_shoutbox" added="1232969781">Mensajes</phrase>
+	<phrase module_id="shoutbox" version_id="2.0.0alpha1" var_name="setting_shoutbox_is_live" added="1233911435"><![CDATA[<title>Chat en vivo</title><info>Seleccione esto a <b>Si</b> Si desea su chat en vivo. Si est&#225; seleccionado en <b>Si</b> el chat actualizar&#225; autom&#225;ticamente sin necesidad de que sus miembros actualicen la p&#225;gina manualmente
+
+<b>Nota:</b> No todos los servidores pueden usar tal funci&#243;n lo utilice con precauci&#243;n.</info>]]></phrase>
+	<phrase module_id="shoutbox" version_id="2.0.0alpha1" var_name="setting_shoutbox_flood_limit" added="1233912129"><![CDATA[<title>Shoutbox Flood Limit (Seconds)</title><info>Definir el l&#237;mite de las inundaciones en cuesti&#243;n de segundos</info>]]></phrase>
+	<phrase module_id="shoutbox" version_id="2.0.0alpha1" var_name="setting_shoutbox_refresh" added="1233913715"><![CDATA[<title>Refrescar Chat (Segundos)</title><info>Definir en segundos cuando el chat debe actualizar y recibir de nuevo.
+
+<b>Nota:</b> El ajuste <setting>shoutbox_flood_limit</setting> debe de estar en <b>Si</b> para que esto funcione.</info>]]></phrase>
+	<phrase module_id="shoutbox" version_id="2.0.0alpha1" var_name="setting_shoutbox_display_limit" added="1233913988"><![CDATA[<title>Display Limit</title><info>Seleccione la forma en que muchos shoutouts debemos mostrar en el shoutbox.</info>]]></phrase>
+	<phrase module_id="shoutbox" version_id="2.0.0alpha1" var_name="setting_shoutbox_time_stamp" added="1233914427"><![CDATA[<title>Fecha y Hora/title><info>Controlar las marcas de tiempo se muestran en cada uno de los shoutouts.</info>]]></phrase>
+	<phrase module_id="shoutbox" version_id="2.0.0alpha1" var_name="user_setting_can_view_shoutbox" added="1233914536">Puede ver el shoutbox?</phrase>
+	<phrase module_id="shoutbox" version_id="2.0.0alpha1" var_name="user_setting_can_add_shoutout" added="1233916307">Puede enviar un Shoutout?</phrase>
+	<phrase module_id="shoutbox" version_id="2.0.0alpha1" var_name="setting_shoutbox_wordwrap" added="1233916620"><![CDATA[<title>Wordwrap</title><info>Definici&#243;n de un ajuste de l&#237;nea de texto. El n&#250;mero entero definido se usa para envolver frases largas para que no se estire el shoutbox.
+
+<b>Aviso:</b> El shoutbox con un tema predeterminado salidas shoutouts dentro de un DIV de HTML que permite largas frases dentro del DIV sin estirar todo el sitio.</info>]]></phrase>
+	<phrase module_id="shoutbox" version_id="2.0.0alpha1" var_name="setting_shoutbox_total" added="1233922563"><![CDATA[<title>Shoutouts para guardar</title><info>Seleccione la cantidad de shoutouts que debemos salvar. Una vez que un Shoutout ha pasado este l&#237;mite se elimina de nuestra historia para mantener el shoutbox de trabajo lo m&#225;s r&#225;pido posible.</info>]]></phrase>
+	<phrase module_id="shoutbox" version_id="2.0.0rc4" var_name="please_wait_limit_seconds_before_adding_a_new_shoutout" added="1255336884">Por favor, espera {limit} segundos antes de agregar una nueva nota.</phrase>
+	<phrase module_id="shoutbox" version_id="2.0.0rc4" var_name="only_members_of_this_group_can_leave_a_message" added="1255336919"><![CDATA[S&#243;lo los miembros de este grupo pueden dejar un mensaje.]]></phrase>
+	<phrase module_id="shoutbox" version_id="2.0.0rc4" var_name="shoutbox" added="1255337003">Mensajes</phrase>
+	<phrase module_id="shoutbox" version_id="2.0.0rc4" var_name="view_shoutbox" added="1255337022">Ver mensajes</phrase>
+	<phrase module_id="shoutbox" version_id="2.0.0rc4" var_name="adding_your_shoutout" added="1255337063">Agregando tu mensaje</phrase>
+	<phrase module_id="shoutbox" version_id="2.0.0rc4" var_name="user_setting_can_delete_all_shoutbox_messages" added="1255864855">Puede borrar todos los mensajes?</phrase>
+	<phrase module_id="shoutbox" version_id="2.0.0rc4" var_name="delete_this_shoutout" added="1255865184">Eliminar este mensaje.</phrase>
+	<phrase module_id="shoutbox" version_id="2.0.0rc4" var_name="are_you_sure" added="1255865416"><![CDATA[&#191;Est&#225;s seguro?]]></phrase>
+	<phrase module_id="shoutbox" version_id="2.0.0rc8" var_name="enter_a_shoutout" added="1258389086">Proporciona un texto.</phrase>
+</phrases>
