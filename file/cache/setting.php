@@ -25,14 +25,14 @@
   array (
     'type_id' => 'string',
     'var_name' => 'title_delim',
-    'value_actual' => '&raquo;',
+    'value_actual' => '&#187;',
     'module_name' => 'core',
   ),
   4 => 
   array (
     'type_id' => 'string',
     'var_name' => 'site_title',
-    'value_actual' => 'SiteName',
+    'value_actual' => 'Gamboa',
     'module_name' => 'core',
   ),
   5 => 
@@ -60,14 +60,14 @@
   array (
     'type_id' => 'large_string',
     'var_name' => 'keywords',
-    'value_actual' => 'social networking',
+    'value_actual' => 'Programación social',
     'module_name' => 'core',
   ),
   9 => 
   array (
     'type_id' => 'large_string',
     'var_name' => 'description',
-    'value_actual' => 'Some information about your site...',
+    'value_actual' => 'Sitio donde se encuentran los Programadores',
     'module_name' => 'core',
   ),
   10 => 
@@ -211,7 +211,7 @@
   array (
     'type_id' => 'string',
     'var_name' => 'site_copyright',
-    'value_actual' => 'SiteName &copy;',
+    'value_actual' => 'Gamboa ©',
     'module_name' => 'core',
   ),
   25 => 
@@ -597,7 +597,7 @@ Site Name',
   array (
     'type_id' => 'large_string',
     'var_name' => 'meta_description_profile',
-    'value_actual' => 'Site Name gives people the power to share and makes the world more open and connected.',
+    'value_actual' => 'En este sitio las personas pueden compartir y resolver dudas con los mejores programadores del mundo',
     'module_name' => 'core',
   ),
   80 => 
@@ -681,7 +681,7 @@ Site Name',
   array (
     'type_id' => 'string',
     'var_name' => 'global_site_title',
-    'value_actual' => 'Social Networking Community',
+    'value_actual' => 'Gamboa más cerca del conocimiento',
     'module_name' => 'core',
   ),
   92 => 
@@ -1082,7 +1082,7 @@ Site Name',
   array (
     'type_id' => 'string',
     'var_name' => 'theme_session_prefix',
-    'value_actual' => '486256453',
+    'value_actual' => '588b6e79a113f',
     'module_name' => 'core',
   ),
   147 => 

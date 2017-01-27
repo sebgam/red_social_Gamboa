@@ -12,18 +12,6 @@
     'module_is_active' => '1',
     'mobile_icon' => NULL,
   ),
-  47 => 
-  array (
-    'menu_id' => '47',
-    'parent_id' => '0',
-    'm_connection' => 'main',
-    'var_name' => 'menu_core_friends',
-    'disallow_access' => NULL,
-    'module' => 'friend',
-    'url' => 'friend',
-    'module_is_active' => '1',
-    'mobile_icon' => NULL,
-  ),
   22 => 
   array (
     'menu_id' => '22',
@@ -36,27 +24,15 @@
     'module_is_active' => '1',
     'mobile_icon' => NULL,
   ),
-  62 => 
+  47 => 
   array (
-    'menu_id' => '62',
+    'menu_id' => '47',
     'parent_id' => '0',
     'm_connection' => 'main',
-    'var_name' => 'menu_pages_pages_fad58de7366495db4650cfefac2fcd61',
+    'var_name' => 'menu_core_friends',
     'disallow_access' => NULL,
-    'module' => 'pages',
-    'url' => 'pages',
-    'module_is_active' => '1',
-    'mobile_icon' => NULL,
-  ),
-  35 => 
-  array (
-    'menu_id' => '35',
-    'parent_id' => '0',
-    'm_connection' => 'main',
-    'var_name' => 'menu_blogs',
-    'disallow_access' => NULL,
-    'module' => 'blog',
-    'url' => 'blog',
+    'module' => 'friend',
+    'url' => 'friend',
     'module_is_active' => '1',
     'mobile_icon' => NULL,
   ),
@@ -84,18 +60,6 @@
     'module_is_active' => '1',
     'mobile_icon' => NULL,
   ),
-  69 => 
-  array (
-    'menu_id' => '69',
-    'parent_id' => '0',
-    'm_connection' => 'main',
-    'var_name' => 'menu_poll',
-    'disallow_access' => NULL,
-    'module' => 'poll',
-    'url' => 'poll',
-    'module_is_active' => '1',
-    'mobile_icon' => NULL,
-  ),
   79 => 
   array (
     'menu_id' => '79',
@@ -108,18 +72,6 @@
     'module_is_active' => '1',
     'mobile_icon' => NULL,
   ),
-  73 => 
-  array (
-    'menu_id' => '73',
-    'parent_id' => '0',
-    'm_connection' => 'main',
-    'var_name' => 'menu_quiz',
-    'disallow_access' => NULL,
-    'module' => 'quiz',
-    'url' => 'quiz',
-    'module_is_active' => '1',
-    'mobile_icon' => NULL,
-  ),
   40 => 
   array (
     'menu_id' => '40',
@@ -129,42 +81,6 @@
     'disallow_access' => NULL,
     'module' => 'event',
     'url' => 'event',
-    'module_is_active' => '1',
-    'mobile_icon' => NULL,
-  ),
-  59 => 
-  array (
-    'menu_id' => '59',
-    'parent_id' => '0',
-    'm_connection' => 'main',
-    'var_name' => 'menu_music',
-    'disallow_access' => NULL,
-    'module' => 'music',
-    'url' => 'music',
-    'module_is_active' => '1',
-    'mobile_icon' => NULL,
-  ),
-  55 => 
-  array (
-    'menu_id' => '55',
-    'parent_id' => '0',
-    'm_connection' => 'main',
-    'var_name' => 'menu_marketplace',
-    'disallow_access' => NULL,
-    'module' => 'marketplace',
-    'url' => 'marketplace',
-    'module_is_active' => '1',
-    'mobile_icon' => NULL,
-  ),
-  1 => 
-  array (
-    'menu_id' => '1',
-    'parent_id' => '0',
-    'm_connection' => 'main',
-    'var_name' => 'menu_apps_apps_fad58de7366495db4650cfefac2fcd61',
-    'disallow_access' => NULL,
-    'module' => 'apps',
-    'url' => 'apps',
     'module_is_active' => '1',
     'mobile_icon' => NULL,
   ),

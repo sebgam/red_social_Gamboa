@@ -1,5 +1,5 @@
 <?php defined('PHPFOX') or exit('NO DICE!'); ?>
-<?php /* Cached: January 26, 2017, 9:36 pm */ ?>
+<?php /* Cached: January 27, 2017, 4:17 pm */ ?>
 <?php 
 /**
  * [PHPFOX_HEADER]
@@ -82,7 +82,7 @@
 <?php echo $this->_aVars['sActivityFeedHeader']; ?>
 </div>
 <?php endif;  endif;  if (isset ( $this->_aVars['bForceFormOnly'] ) && $this->_aVars['bForceFormOnly']): ?>
-	<?php /* Cached: January 26, 2017, 9:36 pm */  
+	<?php /* Cached: January 27, 2017, 4:17 pm */  
 /**
  * [PHPFOX_HEADER]
  * 
@@ -227,7 +227,7 @@
 						
 						
 <?php if ($this->_aVars['bLoadCheckIn']): ?>
-							<?php /* Cached: January 26, 2017, 9:36 pm */  
+							<?php /* Cached: January 27, 2017, 4:17 pm */  
 /**
  * [PHPFOX_HEADER]
  * 
@@ -281,7 +281,7 @@
 <?php if ($this->_aVars['bLoadCheckIn']): ?>
 						<div id="activity_feed_share_this_one">
 							<ul>
-								<?php /* Cached: January 26, 2017, 9:36 pm */  
+								<?php /* Cached: January 27, 2017, 4:17 pm */  
 /**
  * [PHPFOX_HEADER]
  * 
@@ -2115,7 +2115,7 @@ if (isset($this->_aVars['aForms'])
 <?php else: ?>
 <?php if (! Phpfox ::getService('profile')->timeline()): ?>
 			<div id="js_main_feed_holder">
-				<?php /* Cached: January 26, 2017, 9:36 pm */  
+				<?php /* Cached: January 27, 2017, 4:17 pm */  
 /**
  * [PHPFOX_HEADER]
  * 
@@ -2260,7 +2260,7 @@ if (isset($this->_aVars['aForms'])
 						
 						
 <?php if ($this->_aVars['bLoadCheckIn']): ?>
-							<?php /* Cached: January 26, 2017, 9:36 pm */  
+							<?php /* Cached: January 27, 2017, 4:17 pm */  
 /**
  * [PHPFOX_HEADER]
  * 
@@ -2314,7 +2314,7 @@ if (isset($this->_aVars['aForms'])
 <?php if ($this->_aVars['bLoadCheckIn']): ?>
 						<div id="activity_feed_share_this_one">
 							<ul>
-								<?php /* Cached: January 26, 2017, 9:36 pm */  
+								<?php /* Cached: January 27, 2017, 4:17 pm */  
 /**
  * [PHPFOX_HEADER]
  * 
@@ -4183,7 +4183,7 @@ if (isset($this->_aVars['aForms'])
 								<div class="timeline_arrow_left">0</div>
 								<div class="timeline_float_left">0</div>			
 								<div class="timeline_holder">
-									<?php /* Cached: January 26, 2017, 9:36 pm */  
+									<?php /* Cached: January 27, 2017, 4:17 pm */  
 /**
  * [PHPFOX_HEADER]
  * 
@@ -4328,7 +4328,7 @@ if (isset($this->_aVars['aForms'])
 						
 						
 <?php if ($this->_aVars['bLoadCheckIn']): ?>
-							<?php /* Cached: January 26, 2017, 9:36 pm */  
+							<?php /* Cached: January 27, 2017, 4:17 pm */  
 /**
  * [PHPFOX_HEADER]
  * 
@@ -4382,7 +4382,7 @@ if (isset($this->_aVars['aForms'])
 <?php if ($this->_aVars['bLoadCheckIn']): ?>
 						<div id="activity_feed_share_this_one">
 							<ul>
-								<?php /* Cached: January 26, 2017, 9:36 pm */  
+								<?php /* Cached: January 27, 2017, 4:17 pm */  
 /**
  * [PHPFOX_HEADER]
  * 
@@ -6217,7 +6217,7 @@ if (isset($this->_aVars['aForms'])
 					<div class="timeline_feed_row">
 						<div class="timeline_arrow_left"><?php echo $this->_aVars['aFeed']['feed_id']; ?></div>
 						<div class="timeline_float_left"><?php echo Phpfox::getLib('date')->convertTime($this->_aVars['aFeed']['time_stamp']); ?></div>
-						<?php /* Cached: January 26, 2017, 9:36 pm */  
+						<?php /* Cached: January 27, 2017, 4:17 pm */  
 /**
  * [PHPFOX_HEADER]
  * 
@@ -6266,7 +6266,7 @@ if (isset($this->_aVars['aForms'])
 		
 		<div class="clear"></div>
 				
-	<?php /* Cached: January 26, 2017, 9:36 pm */  
+	<?php /* Cached: January 27, 2017, 4:17 pm */  
 /**
  * [PHPFOX_HEADER]
  * 
@@ -6294,7 +6294,7 @@ if (isset($this->_aVars['aForms'])
 					<img src="<?php echo $this->_aVars['aFeed']['feed_icon']; ?>" alt="" class="v_middle" /> <?php echo $this->_aVars['aFeed']['feed_mini_content']; ?> 
 				</div>
 				<div class="activity_feed_content_status_right">
-<?php /* Cached: January 26, 2017, 9:36 pm */ ?>
+<?php /* Cached: January 27, 2017, 4:17 pm */ ?>
 <?php if (PHPFOX_IS_AJAX && Phpfox ::getLib('request')->get('theater') == 'true'): ?>
 
 			
@@ -6461,7 +6461,7 @@ if (isset($this->_aVars['aForms'])
 <?php if (isset ( $this->_aVars['aFeed']['feed_view_comment'] )): ?>
 <?php Phpfox::getBlock('feed.comment', array()); ?>
 <?php else: ?>
-<?php /* Cached: January 26, 2017, 9:36 pm */  if (isset ( $this->_aVars['bIsViewingComments'] ) && $this->_aVars['bIsViewingComments']): ?>
+<?php /* Cached: January 27, 2017, 4:17 pm */  if (isset ( $this->_aVars['bIsViewingComments'] ) && $this->_aVars['bIsViewingComments']): ?>
 <div id="comment-view"><a name="#comment-view"></a></div>
 <div class="message js_feed_comment_border">
 <?php echo Phpfox::getPhrase('comment.viewing_a_single_comment'); ?> <a href="<?php echo $this->_aVars['aFeed']['feed_link']; ?>"><?php echo Phpfox::getPhrase('comment.view_all_comments'); ?></a>
@@ -6479,7 +6479,7 @@ if (isset($this->_aVars['aForms'])
 <?php (($sPlugin = Phpfox_Plugin::get('core.template_block_comment_border_new')) ? eval($sPlugin) : false); ?>
 <?php if (! isset ( $this->_aVars['aFeed']['feed_mini'] )): ?>
 			<div class="comment_mini_link_like">
-<?php /* Cached: January 26, 2017, 9:36 pm */ ?>
+<?php /* Cached: January 27, 2017, 4:17 pm */ ?>
 <?php if (PHPFOX_IS_AJAX && Phpfox ::getLib('request')->get('theater') == 'true'): ?>
 
 			
@@ -6579,7 +6579,7 @@ if (isset($this->_aVars['aForms'])
 				    <div id="js_like_body_<?php echo $this->_aVars['aFeed']['feed_id']; ?>">
 
 <?php if (isset ( $this->_aVars['aFeed']['marks'] ) || ( isset ( $this->_aVars['aFeed']['likes'] ) && is_array ( $this->_aVars['aFeed']['likes'] ) )): ?>
-<?php /* Cached: January 26, 2017, 9:36 pm */  if (Phpfox ::getParam('like.show_user_photos')): ?>
+<?php /* Cached: January 27, 2017, 4:17 pm */  if (Phpfox ::getParam('like.show_user_photos')): ?>
 <div class="activity_like_holder comment_mini" style="position:relative;">
 	<a href="#" class="like_count_link js_hover_title" onclick="return $Core.box('like.browse', 400, 'type_id=<?php echo $this->_aVars['aFeed']['like_type_id']; ?>&amp;item_id=<?php echo $this->_aVars['aFeed']['item_id']; ?>');"><?php echo number_format($this->_aVars['aFeed']['feed_total_like']); ?><span class="js_hover_info"><?php if (defined ( 'PHPFOX_IS_THEATER_MODE' )):  echo Phpfox::getPhrase('like.likes');  else:  echo Phpfox::getPhrase('like.people_who_like_this');  endif; ?></span></a>
 	<div class="like_count_link_holder"><?php if (count((array)$this->_aVars['aFeed']['likes'])):  $this->_aPhpfoxVars['iteration']['likes'] = 0;  foreach ((array) $this->_aVars['aFeed']['likes'] as $this->_aVars['aLikeRow']):  $this->_aPhpfoxVars['iteration']['likes']++;  echo Phpfox::getLib('phpfox.image.helper')->display(array('user' => $this->_aVars['aLikeRow'],'suffix' => '_50_square','max_width' => 32,'max_height' => 32,'class' => 'js_hover_title v_middle')); ?>&nbsp;<?php endforeach; endif; ?></div>
@@ -6628,7 +6628,7 @@ if (isset($this->_aVars['aForms'])
 <?php Phpfox::getLib('parse.output')->setImageParser(array('width' => 200,'height' => 200)); ?>
 <?php if (count((array)$this->_aVars['aFeed']['comments'])):  $this->_aPhpfoxVars['iteration']['comments'] = 0;  foreach ((array) $this->_aVars['aFeed']['comments'] as $this->_aVars['aComment']):  $this->_aPhpfoxVars['iteration']['comments']++; ?>
 
-				<?php /* Cached: January 26, 2017, 9:36 pm */  
+				<?php /* Cached: January 27, 2017, 4:17 pm */  
 /**
  * [PHPFOX_HEADER]
  * 
@@ -6816,7 +6816,7 @@ if (isset($this->_aVars['aForms'])
 					<div class="timeline_feed_row">
 						<div class="timeline_arrow_right"><?php echo $this->_aVars['aFeed']['feed_id']; ?></div>
 						<div class="timeline_float_right"><?php echo Phpfox::getLib('date')->convertTime($this->_aVars['aFeed']['time_stamp']); ?></div>
-						<?php /* Cached: January 26, 2017, 9:36 pm */  
+						<?php /* Cached: January 27, 2017, 4:17 pm */  
 /**
  * [PHPFOX_HEADER]
  * 
@@ -6865,7 +6865,7 @@ if (isset($this->_aVars['aForms'])
 		
 		<div class="clear"></div>
 				
-	<?php /* Cached: January 26, 2017, 9:36 pm */  
+	<?php /* Cached: January 27, 2017, 4:17 pm */  
 /**
  * [PHPFOX_HEADER]
  * 
@@ -6893,7 +6893,7 @@ if (isset($this->_aVars['aForms'])
 					<img src="<?php echo $this->_aVars['aFeed']['feed_icon']; ?>" alt="" class="v_middle" /> <?php echo $this->_aVars['aFeed']['feed_mini_content']; ?> 
 				</div>
 				<div class="activity_feed_content_status_right">
-<?php /* Cached: January 26, 2017, 9:36 pm */ ?>
+<?php /* Cached: January 27, 2017, 4:17 pm */ ?>
 <?php if (PHPFOX_IS_AJAX && Phpfox ::getLib('request')->get('theater') == 'true'): ?>
 
 			
@@ -7060,7 +7060,7 @@ if (isset($this->_aVars['aForms'])
 <?php if (isset ( $this->_aVars['aFeed']['feed_view_comment'] )): ?>
 <?php Phpfox::getBlock('feed.comment', array()); ?>
 <?php else: ?>
-<?php /* Cached: January 26, 2017, 9:36 pm */  if (isset ( $this->_aVars['bIsViewingComments'] ) && $this->_aVars['bIsViewingComments']): ?>
+<?php /* Cached: January 27, 2017, 4:17 pm */  if (isset ( $this->_aVars['bIsViewingComments'] ) && $this->_aVars['bIsViewingComments']): ?>
 <div id="comment-view"><a name="#comment-view"></a></div>
 <div class="message js_feed_comment_border">
 <?php echo Phpfox::getPhrase('comment.viewing_a_single_comment'); ?> <a href="<?php echo $this->_aVars['aFeed']['feed_link']; ?>"><?php echo Phpfox::getPhrase('comment.view_all_comments'); ?></a>
@@ -7078,7 +7078,7 @@ if (isset($this->_aVars['aForms'])
 <?php (($sPlugin = Phpfox_Plugin::get('core.template_block_comment_border_new')) ? eval($sPlugin) : false); ?>
 <?php if (! isset ( $this->_aVars['aFeed']['feed_mini'] )): ?>
 			<div class="comment_mini_link_like">
-<?php /* Cached: January 26, 2017, 9:36 pm */ ?>
+<?php /* Cached: January 27, 2017, 4:17 pm */ ?>
 <?php if (PHPFOX_IS_AJAX && Phpfox ::getLib('request')->get('theater') == 'true'): ?>
 
 			
@@ -7178,7 +7178,7 @@ if (isset($this->_aVars['aForms'])
 				    <div id="js_like_body_<?php echo $this->_aVars['aFeed']['feed_id']; ?>">
 
 <?php if (isset ( $this->_aVars['aFeed']['marks'] ) || ( isset ( $this->_aVars['aFeed']['likes'] ) && is_array ( $this->_aVars['aFeed']['likes'] ) )): ?>
-<?php /* Cached: January 26, 2017, 9:36 pm */  if (Phpfox ::getParam('like.show_user_photos')): ?>
+<?php /* Cached: January 27, 2017, 4:17 pm */  if (Phpfox ::getParam('like.show_user_photos')): ?>
 <div class="activity_like_holder comment_mini" style="position:relative;">
 	<a href="#" class="like_count_link js_hover_title" onclick="return $Core.box('like.browse', 400, 'type_id=<?php echo $this->_aVars['aFeed']['like_type_id']; ?>&amp;item_id=<?php echo $this->_aVars['aFeed']['item_id']; ?>');"><?php echo number_format($this->_aVars['aFeed']['feed_total_like']); ?><span class="js_hover_info"><?php if (defined ( 'PHPFOX_IS_THEATER_MODE' )):  echo Phpfox::getPhrase('like.likes');  else:  echo Phpfox::getPhrase('like.people_who_like_this');  endif; ?></span></a>
 	<div class="like_count_link_holder"><?php if (count((array)$this->_aVars['aFeed']['likes'])):  $this->_aPhpfoxVars['iteration']['likes'] = 0;  foreach ((array) $this->_aVars['aFeed']['likes'] as $this->_aVars['aLikeRow']):  $this->_aPhpfoxVars['iteration']['likes']++;  echo Phpfox::getLib('phpfox.image.helper')->display(array('user' => $this->_aVars['aLikeRow'],'suffix' => '_50_square','max_width' => 32,'max_height' => 32,'class' => 'js_hover_title v_middle')); ?>&nbsp;<?php endforeach; endif; ?></div>
@@ -7227,7 +7227,7 @@ if (isset($this->_aVars['aForms'])
 <?php Phpfox::getLib('parse.output')->setImageParser(array('width' => 200,'height' => 200)); ?>
 <?php if (count((array)$this->_aVars['aFeed']['comments'])):  $this->_aPhpfoxVars['iteration']['comments'] = 0;  foreach ((array) $this->_aVars['aFeed']['comments'] as $this->_aVars['aComment']):  $this->_aPhpfoxVars['iteration']['comments']++; ?>
 
-				<?php /* Cached: January 26, 2017, 9:36 pm */  
+				<?php /* Cached: January 27, 2017, 4:17 pm */  
 /**
  * [PHPFOX_HEADER]
  * 
@@ -7431,7 +7431,7 @@ if (isset($this->_aVars['aForms'])
 <?php endif; ?>
 	
 			<div class="js_feed_view_more_entry_holder">
-				<?php /* Cached: January 26, 2017, 9:36 pm */  
+				<?php /* Cached: January 27, 2017, 4:17 pm */  
 /**
  * [PHPFOX_HEADER]
  * 
@@ -7467,7 +7467,7 @@ if (isset($this->_aVars['aForms'])
 <?php endif; ?>
 	</div><!-- // .activity_feed_image -->
 	
-	<?php /* Cached: January 26, 2017, 9:36 pm */  
+	<?php /* Cached: January 27, 2017, 4:17 pm */  
 /**
  * [PHPFOX_HEADER]
  * 
@@ -7495,7 +7495,7 @@ if (isset($this->_aVars['aForms'])
 					<img src="<?php echo $this->_aVars['aFeed']['feed_icon']; ?>" alt="" class="v_middle" /> <?php echo $this->_aVars['aFeed']['feed_mini_content']; ?> 
 				</div>
 				<div class="activity_feed_content_status_right">
-<?php /* Cached: January 26, 2017, 9:36 pm */ ?>
+<?php /* Cached: January 27, 2017, 4:17 pm */ ?>
 <?php if (PHPFOX_IS_AJAX && Phpfox ::getLib('request')->get('theater') == 'true'): ?>
 
 			
@@ -7662,7 +7662,7 @@ if (isset($this->_aVars['aForms'])
 <?php if (isset ( $this->_aVars['aFeed']['feed_view_comment'] )): ?>
 <?php Phpfox::getBlock('feed.comment', array()); ?>
 <?php else: ?>
-<?php /* Cached: January 26, 2017, 9:36 pm */  if (isset ( $this->_aVars['bIsViewingComments'] ) && $this->_aVars['bIsViewingComments']): ?>
+<?php /* Cached: January 27, 2017, 4:17 pm */  if (isset ( $this->_aVars['bIsViewingComments'] ) && $this->_aVars['bIsViewingComments']): ?>
 <div id="comment-view"><a name="#comment-view"></a></div>
 <div class="message js_feed_comment_border">
 <?php echo Phpfox::getPhrase('comment.viewing_a_single_comment'); ?> <a href="<?php echo $this->_aVars['aFeed']['feed_link']; ?>"><?php echo Phpfox::getPhrase('comment.view_all_comments'); ?></a>
@@ -7680,7 +7680,7 @@ if (isset($this->_aVars['aForms'])
 <?php (($sPlugin = Phpfox_Plugin::get('core.template_block_comment_border_new')) ? eval($sPlugin) : false); ?>
 <?php if (! isset ( $this->_aVars['aFeed']['feed_mini'] )): ?>
 			<div class="comment_mini_link_like">
-<?php /* Cached: January 26, 2017, 9:36 pm */ ?>
+<?php /* Cached: January 27, 2017, 4:17 pm */ ?>
 <?php if (PHPFOX_IS_AJAX && Phpfox ::getLib('request')->get('theater') == 'true'): ?>
 
 			
@@ -7780,7 +7780,7 @@ if (isset($this->_aVars['aForms'])
 				    <div id="js_like_body_<?php echo $this->_aVars['aFeed']['feed_id']; ?>">
 
 <?php if (isset ( $this->_aVars['aFeed']['marks'] ) || ( isset ( $this->_aVars['aFeed']['likes'] ) && is_array ( $this->_aVars['aFeed']['likes'] ) )): ?>
-<?php /* Cached: January 26, 2017, 9:36 pm */  if (Phpfox ::getParam('like.show_user_photos')): ?>
+<?php /* Cached: January 27, 2017, 4:17 pm */  if (Phpfox ::getParam('like.show_user_photos')): ?>
 <div class="activity_like_holder comment_mini" style="position:relative;">
 	<a href="#" class="like_count_link js_hover_title" onclick="return $Core.box('like.browse', 400, 'type_id=<?php echo $this->_aVars['aFeed']['like_type_id']; ?>&amp;item_id=<?php echo $this->_aVars['aFeed']['item_id']; ?>');"><?php echo number_format($this->_aVars['aFeed']['feed_total_like']); ?><span class="js_hover_info"><?php if (defined ( 'PHPFOX_IS_THEATER_MODE' )):  echo Phpfox::getPhrase('like.likes');  else:  echo Phpfox::getPhrase('like.people_who_like_this');  endif; ?></span></a>
 	<div class="like_count_link_holder"><?php if (count((array)$this->_aVars['aFeed']['likes'])):  $this->_aPhpfoxVars['iteration']['likes'] = 0;  foreach ((array) $this->_aVars['aFeed']['likes'] as $this->_aVars['aLikeRow']):  $this->_aPhpfoxVars['iteration']['likes']++;  echo Phpfox::getLib('phpfox.image.helper')->display(array('user' => $this->_aVars['aLikeRow'],'suffix' => '_50_square','max_width' => 32,'max_height' => 32,'class' => 'js_hover_title v_middle')); ?>&nbsp;<?php endforeach; endif; ?></div>
@@ -7829,7 +7829,7 @@ if (isset($this->_aVars['aForms'])
 <?php Phpfox::getLib('parse.output')->setImageParser(array('width' => 200,'height' => 200)); ?>
 <?php if (count((array)$this->_aVars['aFeed']['comments'])):  $this->_aPhpfoxVars['iteration']['comments'] = 0;  foreach ((array) $this->_aVars['aFeed']['comments'] as $this->_aVars['aComment']):  $this->_aPhpfoxVars['iteration']['comments']++; ?>
 
-				<?php /* Cached: January 26, 2017, 9:36 pm */  
+				<?php /* Cached: January 27, 2017, 4:17 pm */  
 /**
  * [PHPFOX_HEADER]
  * 
@@ -8004,7 +8004,7 @@ if (isset($this->_aVars['aForms'])
 <?php if (count((array)$this->_aVars['aFeed']['more_feed_rows'])):  foreach ((array) $this->_aVars['aFeed']['more_feed_rows'] as $this->_aVars['aFeed']): ?>
 <?php if ($this->_aVars['bChildFeed'] = true):  endif; ?>
 						<div class="js_feed_view_more_entry" style="display:none;">
-							<?php /* Cached: January 26, 2017, 9:36 pm */  
+							<?php /* Cached: January 27, 2017, 4:17 pm */  
 /**
  * [PHPFOX_HEADER]
  * 
@@ -8040,7 +8040,7 @@ if (isset($this->_aVars['aForms'])
 <?php endif; ?>
 	</div><!-- // .activity_feed_image -->
 	
-	<?php /* Cached: January 26, 2017, 9:36 pm */  
+	<?php /* Cached: January 27, 2017, 4:17 pm */  
 /**
  * [PHPFOX_HEADER]
  * 
@@ -8068,7 +8068,7 @@ if (isset($this->_aVars['aForms'])
 					<img src="<?php echo $this->_aVars['aFeed']['feed_icon']; ?>" alt="" class="v_middle" /> <?php echo $this->_aVars['aFeed']['feed_mini_content']; ?> 
 				</div>
 				<div class="activity_feed_content_status_right">
-<?php /* Cached: January 26, 2017, 9:36 pm */ ?>
+<?php /* Cached: January 27, 2017, 4:17 pm */ ?>
 <?php if (PHPFOX_IS_AJAX && Phpfox ::getLib('request')->get('theater') == 'true'): ?>
 
 			
@@ -8235,7 +8235,7 @@ if (isset($this->_aVars['aForms'])
 <?php if (isset ( $this->_aVars['aFeed']['feed_view_comment'] )): ?>
 <?php Phpfox::getBlock('feed.comment', array()); ?>
 <?php else: ?>
-<?php /* Cached: January 26, 2017, 9:36 pm */  if (isset ( $this->_aVars['bIsViewingComments'] ) && $this->_aVars['bIsViewingComments']): ?>
+<?php /* Cached: January 27, 2017, 4:17 pm */  if (isset ( $this->_aVars['bIsViewingComments'] ) && $this->_aVars['bIsViewingComments']): ?>
 <div id="comment-view"><a name="#comment-view"></a></div>
 <div class="message js_feed_comment_border">
 <?php echo Phpfox::getPhrase('comment.viewing_a_single_comment'); ?> <a href="<?php echo $this->_aVars['aFeed']['feed_link']; ?>"><?php echo Phpfox::getPhrase('comment.view_all_comments'); ?></a>
@@ -8253,7 +8253,7 @@ if (isset($this->_aVars['aForms'])
 <?php (($sPlugin = Phpfox_Plugin::get('core.template_block_comment_border_new')) ? eval($sPlugin) : false); ?>
 <?php if (! isset ( $this->_aVars['aFeed']['feed_mini'] )): ?>
 			<div class="comment_mini_link_like">
-<?php /* Cached: January 26, 2017, 9:36 pm */ ?>
+<?php /* Cached: January 27, 2017, 4:17 pm */ ?>
 <?php if (PHPFOX_IS_AJAX && Phpfox ::getLib('request')->get('theater') == 'true'): ?>
 
 			
@@ -8353,7 +8353,7 @@ if (isset($this->_aVars['aForms'])
 				    <div id="js_like_body_<?php echo $this->_aVars['aFeed']['feed_id']; ?>">
 
 <?php if (isset ( $this->_aVars['aFeed']['marks'] ) || ( isset ( $this->_aVars['aFeed']['likes'] ) && is_array ( $this->_aVars['aFeed']['likes'] ) )): ?>
-<?php /* Cached: January 26, 2017, 9:36 pm */  if (Phpfox ::getParam('like.show_user_photos')): ?>
+<?php /* Cached: January 27, 2017, 4:17 pm */  if (Phpfox ::getParam('like.show_user_photos')): ?>
 <div class="activity_like_holder comment_mini" style="position:relative;">
 	<a href="#" class="like_count_link js_hover_title" onclick="return $Core.box('like.browse', 400, 'type_id=<?php echo $this->_aVars['aFeed']['like_type_id']; ?>&amp;item_id=<?php echo $this->_aVars['aFeed']['item_id']; ?>');"><?php echo number_format($this->_aVars['aFeed']['feed_total_like']); ?><span class="js_hover_info"><?php if (defined ( 'PHPFOX_IS_THEATER_MODE' )):  echo Phpfox::getPhrase('like.likes');  else:  echo Phpfox::getPhrase('like.people_who_like_this');  endif; ?></span></a>
 	<div class="like_count_link_holder"><?php if (count((array)$this->_aVars['aFeed']['likes'])):  $this->_aPhpfoxVars['iteration']['likes'] = 0;  foreach ((array) $this->_aVars['aFeed']['likes'] as $this->_aVars['aLikeRow']):  $this->_aPhpfoxVars['iteration']['likes']++;  echo Phpfox::getLib('phpfox.image.helper')->display(array('user' => $this->_aVars['aLikeRow'],'suffix' => '_50_square','max_width' => 32,'max_height' => 32,'class' => 'js_hover_title v_middle')); ?>&nbsp;<?php endforeach; endif; ?></div>
@@ -8402,7 +8402,7 @@ if (isset($this->_aVars['aForms'])
 <?php Phpfox::getLib('parse.output')->setImageParser(array('width' => 200,'height' => 200)); ?>
 <?php if (count((array)$this->_aVars['aFeed']['comments'])):  $this->_aPhpfoxVars['iteration']['comments'] = 0;  foreach ((array) $this->_aVars['aFeed']['comments'] as $this->_aVars['aComment']):  $this->_aPhpfoxVars['iteration']['comments']++; ?>
 
-				<?php /* Cached: January 26, 2017, 9:36 pm */  
+				<?php /* Cached: January 27, 2017, 4:17 pm */  
 /**
  * [PHPFOX_HEADER]
  * 
