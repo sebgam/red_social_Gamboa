@@ -1,0 +1,26 @@
+<?php defined('PHPFOX') or exit('NO DICE!'); ?>
+<?php $aContent = array (
+  'page_id' => '4',
+  'user_id' => '0',
+  'module_id' => 'mobile',
+  'product_id' => 'phpfox',
+  'is_active' => '1',
+  'is_phrase' => '1',
+  'parse_php' => '1',
+  'has_bookmark' => '0',
+  'add_view' => '0',
+  'full_size' => '1',
+  'title' => 'mobile.mobile',
+  'title_url' => 'mobile-info',
+  'disallow_access' => NULL,
+  'added' => '1267628853',
+  'total_view' => '0',
+  'total_attachment' => '0',
+  'total_tag' => '0',
+  'keyword' => NULL,
+  'description' => NULL,
+  'text' => '{phrase var=\'mobile.to_view_our_mobile_site_visit\'} <a href="{url link=\'mobile\'}" class="no_ajax_link">{url link=\'mobile\'}</a>',
+  'text_parsed' => '<?php /* Cached: November 14, 2011, 2:23 pm */ ?>
+<?php echo Phpfox::getPhrase(\'mobile.to_view_our_mobile_site_visit\'); ?> <a href="<?php echo Phpfox::getLib(\'phpfox.url\')->makeUrl(\'mobile\'); ?>" class="no_ajax_link"><?php echo Phpfox::getLib(\'phpfox.url\')->makeUrl(\'mobile\'); ?></a>',
+  'has_viewed' => NULL,
+); ?>
